@@ -1,7 +1,7 @@
 ---
 import { getPath } from '../utils/url';
 import LanguageSelector from './LanguageSelector.astro';
-
+import SearchModal from './SearchModal.astro';
 const navItems = [
   { key: 'latestNews', name: 'Latest News', href: '/' },
   { key: 'trendingRepos', name: 'Trending Repos', href: '#trending-repos' },
@@ -37,9 +37,11 @@ const todayStr = new Intl.DateTimeFormat('en-US', {
       </div>
 
       <div class="flex items-center space-x-3">
+        <!-- Search Modal Trigger -->
+        <SearchModal />
+
         <!-- Language Selector -->
         <LanguageSelector />
-
         <!-- White Mode / Dark Mode Switcher -->
         <button
           id="theme-toggle"

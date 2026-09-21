@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emirfs.github.io/ai-news-hub/sitemap-index.xml

@@ -1,0 +1,143 @@
+---
+import { getCollection } from 'astro:content';
+import { getPath } from '../utils/url';
+
+const allNews = await getCollection('news');
+const searchIndex = allNews.map((item) => ({
+  id: item.id.replace(/\.md$/, ''),
+  title: item.data.title,
+  description: item.data.description,
+  category: item.data.category,
+  date: new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(item.data.pubDate),
+  url: getPath(`/news/${item.id.replace(/\.md$/, '')}/`),
+}));
+---
+
+<!-- Search Trigger Button (for inclusion in header or nav) -->
+<button
+  id="search-trigger-btn"
+  type="button"
+  class="inline-flex items-center gap-2 font-mono text-xs px-2.5 py-1 rounded border border-[var(--border-strong)] bg-[var(--bg-surface)] text-[var(--text-muted)] hover:border-[var(--accent-editorial)] hover:text-[var(--text-headline)] transition-colors cursor-pointer shadow-xs"
+  title="Search news dispatches (Ctrl+K)"
+>
+  <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+  </svg>
+  <span class="hidden sm:inline">Search Wire...</span>
+  <kbd class="hidden md:inline-block px-1.5 py-0.2 rounded bg-[var(--bg-card)] border border-[var(--border-subtle)] text-[10px]">Ctrl K</kbd>
+</button>
+
+<!-- Search Modal Backdrop -->
+<div
+  id="search-modal"
+  class="hidden fixed inset-0 z-50 bg-black/60 backdrop-blur-xs flex items-start justify-center pt-16 sm:pt-24 px-4"
+  role="dialog"
+  aria-modal="true"
+>
+  <div class="w-full max-w-xl rounded-xl bg-[var(--bg-surface)] border border-[var(--border-strong)] shadow-2xl overflow-hidden animate-in fade-in zoom-in-95 duration-100">
+    <!-- Search Input Bar -->
+    <div class="p-4 border-b border-[var(--border-subtle)] flex items-center gap-3">
+      <svg class="w-4 h-4 text-[var(--accent-editorial)] shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+      </svg>
+      <input
+        id="search-input"
+        type="text"
+        placeholder="Search Claude, DeepSeek, OpenAI, models, robotics..."
+        class="w-full bg-transparent text-[var(--text-headline)] placeholder-[var(--text-muted)] text-sm font-sans focus:outline-none"
+        autocomplete="off"
+      />
+      <button id="search-close-btn" class="text-[var(--text-muted)] hover:text-[var(--text-headline)] font-mono text-xs px-1.5 py-0.5 rounded cursor-pointer">
+        ESC
+      </button>
+    </div>
+
+    <!-- Search Results Container -->
+    <div id="search-results" class="max-h-96 overflow-y-auto divide-y divide-[var(--border-subtle)] p-2">
+      <div id="search-empty-state" class="py-8 text-center text-xs font-mono text-[var(--text-muted)]">
+        Type to search across all AI dispatches...
+      </div>
+    </div>
+  </div>
+</div>
+
+<script define:vars={{ searchIndex }}>
+  const triggerBtn = document.getElementById('search-trigger-btn');
+  const modal = document.getElementById('search-modal');
+  const closeBtn = document.getElementById('search-close-btn');
+  const input = document.getElementById('search-input');
+  const resultsContainer = document.getElementById('search-results');
+
+  function openSearch() {
+    if (modal) {
+      modal.classList.remove('hidden');
+      if (input) {
+        input.value = '';
+        input.focus();
+        renderResults('');
+      }
+    }
+  }
+
+  function closeSearch() {
+    if (modal) modal.classList.add('hidden');
+  }
+
+  function renderResults(query) {
+    if (!resultsContainer) return;
+    const q = query.trim().toLowerCase();
+
+    if (!q) {
+      resultsContainer.innerHTML = '<div class="py-8 text-center text-xs font-mono text-[var(--text-muted)]">Type to search across all AI dispatches...</div>';
+      return;
+    }
+
+    const matches = searchIndex.filter(item =>
+      item.title.toLowerCase().includes(q) ||
+      item.description.toLowerCase().includes(q) ||
+      item.category.toLowerCase().includes(q)
+    );
+
+    if (matches.length === 0) {
+      resultsContainer.innerHTML = `<div class="py-8 text-center text-xs font-mono text-[var(--text-muted)]">No dispatches found matching "${query}".</div>`;
+      return;
+    }
+
+    resultsContainer.innerHTML = matches.map(item => `
+      <a href="${item.url}" class="p-3 block rounded hover:bg-[var(--bg-card)] transition-colors group">
+        <div class="flex items-center gap-2 text-[10px] font-mono text-[var(--text-muted)] mb-1">
+          <span class="px-1.5 py-0.2 rounded border border-[var(--border-strong)] bg-[var(--badge-bg)] text-[var(--badge-text)] uppercase font-semibold">${item.category}</span>
+          <span>•</span>
+          <span>${item.date}</span>
+        </div>
+        <h4 class="text-sm font-bold text-[var(--text-headline)] group-hover:text-[var(--accent-editorial)] font-newspaper leading-snug">
+          ${item.title}
+        </h4>
+      </a>
+    `).join('');
+  }
+
+  if (triggerBtn) triggerBtn.addEventListener('click', openSearch);
+  if (closeBtn) closeBtn.addEventListener('click', closeSearch);
+
+  if (modal) {
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) closeSearch();
+    });
+  }
+
+  if (input) {
+    input.addEventListener('input', (e) => renderResults(e.target.value));
+  }
+
+  // Keyboard shortcut: Ctrl+K / Cmd+K and ESC
+  window.addEventListener('keydown', (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+      e.preventDefault();
+      openSearch();
+    }
+    if (e.key === 'Escape') {
+      closeSearch();
+    }
+  });
+</script>
