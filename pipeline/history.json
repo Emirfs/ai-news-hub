@@ -1,28 +1,31 @@
 {
   "seen_urls": [
-    "https://github.com/juggler-ai/juggler",
-    "https://github.com/plandex-ai/plandex",
-    "https://news.ycombinator.com/item?id=49624603",
-    "https://twitter.com/deepseek_ai/status/2097930608790167907",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "https://news.ycombinator.com/item?id=41590682",
-    "https://openai.com/index/astra-for-law/",
-    "https://deepmind.google/science/weathernext/",
-    "https://twigg.ai",
-    "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "https://www.hacktron.ai/blog/hacking-openai",
-    "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "https://news.ycombinator.com/item?id=48473166",
     "https://arxiv.org/abs/2609.00001",
+    "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
     "https://api-docs.deepseek.com/guides/vision/",
-    "https://huggingface.co/blog/robotics-breakthrough",
-    "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+    "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "https://twitter.com/deepseek_ai/status/2097930608790167907",
     "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "https://api-docs.deepseek.com/news/news260813/",
-    "https://code.claude.com/docs/en/changelog",
     "https://www.effort.news/irregular",
+    "https://openai.com/index/astra-for-law/",
+    "https://www.hacktron.ai/blog/hacking-openai",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "https://news.ycombinator.com/item?id=48473166",
+    "https://api-docs.deepseek.com/news/news260813/",
+    "https://news.ycombinator.com/item?id=41590682",
+    "https://huggingface.co/blog/robotics-breakthrough",
+    "https://github.com/juggler-ai/juggler",
+    "https://news.ycombinator.com/item?id=49624603",
+    "https://deepmind.google/science/weathernext/",
     "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+    "https://code.claude.com/docs/en/changelog",
+    "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+    "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+    "https://twigg.ai",
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+    "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "https://github.com/plandex-ai/plandex"
   ],
   "published_articles": [
     {
@@ -144,6 +147,21 @@
       "slug": "2026-09-21-deepseek-peakoff-peak-pricing-update",
       "date": "2026-09-21",
       "title": "DeepSeek peak/off-peak pricing update"
+    },
+    {
+      "slug": "2026-09-21-hugging-face-trending-release-qwenqwen38-27b-image-text-to-text",
+      "date": "2026-09-21",
+      "title": "Hugging Face Trending Release: Qwen/Qwen3.8-27B (image-text-to-text)"
+    },
+    {
+      "slug": "2026-09-21-hugging-face-trending-release-deepseek-aideepseek-v41-flash-image-text-to-text",
+      "date": "2026-09-21",
+      "title": "Hugging Face Trending Release: deepseek-ai/DeepSeek-V4.1-Flash (image-text-to-text)"
+    },
+    {
+      "slug": "2026-09-21-hugging-face-trending-release-prism-mlternary-bonsai-2-27b-gguf-text-generation",
+      "date": "2026-09-21",
+      "title": "Hugging Face Trending Release: prism-ml/Ternary-Bonsai-2-27B-gguf (text-generation)"
     }
   ]
 }

@@ -2,8 +2,8 @@
   {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 264281,
-    "forks": 39506,
+    "stars": 264288,
+    "forks": 39507,
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code...",
     "language": "JavaScript",
     "tag": "Autonomous Agents",
@@ -12,8 +12,8 @@
   {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 247622,
-    "forks": 52097,
+    "stars": 247626,
+    "forks": 52099,
     "description": "The agent that grows with you",
     "language": "Python",
     "tag": "Autonomous Agents",
@@ -22,8 +22,8 @@
   {
     "name": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 231903,
-    "forks": 27811,
+    "stars": 231907,
+    "forks": 27812,
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
@@ -32,7 +32,7 @@
   {
     "name": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 209015,
+    "stars": 209018,
     "forks": 27530,
     "description": "The open source coding agent.",
     "language": "TypeScript",
@@ -62,7 +62,7 @@
   {
     "name": "firecrawl/firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 182748,
+    "stars": 182750,
     "forks": 9873,
     "description": "The web data API to search, scrape, and interact at scale. 🔥",
     "language": "TypeScript",

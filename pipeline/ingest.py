@@ -248,8 +248,28 @@ def collect_candidate_news(max_items: int = 5) -> list[dict]:
             if not verify_live_url(url):
                 print(f"Skipping unreachable/dead source URL: {url}")
                 continue
-
             candidates.append(it)
+
+    # Ingest from Hugging Face (trending models & daily papers)
+    try:
+        from pipeline.huggingface_crawler import get_all_huggingface_candidates
+        hf_items = get_all_huggingface_candidates(max_items=6)
+        for it in hf_items:
+            if it["url"] not in seen_urls and verify_live_url(it["url"]):
+                candidates.append(it)
+    except Exception as e:
+        print(f"HF Ingest note: {e}")
+
+    # Ingest from Twitter/X AI researcher feeds
+    try:
+        from pipeline.twitter_crawler import fetch_researcher_tweets
+        tweet_items = fetch_researcher_tweets(limit_per_target=2)
+        for it in tweet_items:
+            if it["url"] not in seen_urls and verify_live_url(it["url"]):
+                candidates.append(it)
+    except Exception as e:
+        print(f"Twitter Ingest note: {e}")
+
     unique_candidates = []
     seen_batch = set()
     for item in candidates:

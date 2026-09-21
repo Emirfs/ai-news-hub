@@ -1,15 +1,5 @@
 [
   {
-    "name": "juspay/xyne-spaces",
-    "url": "https://github.com/juspay/xyne-spaces",
-    "stars": 325,
-    "forks": 170,
-    "description": "The AI Org-OS — a collaborative platform for humans and agents. Explore: https://spaces.xyne.ai",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-21"
-  },
-  {
     "name": "VinRobotics/vla.cpp",
     "url": "https://github.com/VinRobotics/vla.cpp",
     "stars": 197,
@@ -27,6 +17,16 @@
     "description": "Cheapest Money-Saving Self-hosted AI agent workspace with tool calling, MCP, multi-model routing, sandboxed execution, multi-agent workflows...",
     "language": "JavaScript",
     "tag": "Indie Tool",
+    "pushed_at": "2026-09-21"
+  },
+  {
+    "name": "CatCatUncle/openworkbuddy",
+    "url": "https://github.com/CatCatUncle/openworkbuddy",
+    "stars": 172,
+    "forks": 42,
+    "description": "openworkbuddy — local-first AI office agent: turn requests into real files. Self-hosted, BYOK, MCP, Codex/Claude Code, executable short-dram...",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-21"
   },
   {
@@ -60,6 +60,16 @@
     "pushed_at": "2026-09-21"
   },
   {
+    "name": "orziz/odai",
+    "url": "https://github.com/orziz/odai",
+    "stars": 115,
+    "forks": 17,
+    "description": "AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified de...",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-21"
+  },
+  {
     "name": "kroshu/kuka_robot_descriptions",
     "url": "https://github.com/kroshu/kuka_robot_descriptions",
     "stars": 113,
@@ -67,16 +77,6 @@
     "description": "Repository containing models of KUKA robots",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-09-21"
-  },
-  {
-    "name": "gmickel/gno",
-    "url": "https://github.com/gmickel/gno",
-    "stars": 113,
-    "forks": 12,
-    "description": "Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP support for AI clien...",
-    "language": "TypeScript",
-    "tag": "Local AI",
     "pushed_at": "2026-09-21"
   }
 ]
