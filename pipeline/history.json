@@ -1,9 +1,11 @@
 {
   "seen_urls": [
+    "https://github.com/plandex-ai/plandex",
     "https://huggingface.co/blog/robotics-breakthrough",
     "https://arxiv.org/abs/2609.00001",
-    "https://github.com/plandex-ai/plandex",
-    "https://github.com/juggler-ai/juggler"
+    "https://github.com/juggler-ai/juggler",
+    "https://news.ycombinator.com/item?id=41590682",
+    "https://twigg.ai"
   ],
   "published_articles": [
     {
@@ -30,6 +32,16 @@
       "slug": "2026-09-21-juggler-an-open-source-gui-coding-agent",
       "date": "2026-09-21",
       "title": "Juggler – an open-source GUI coding agent, by the creator of JUCE"
+    },
+    {
+      "slug": "2026-09-21-sourcetable-ai-spreadsheet-and-data-platform",
+      "date": "2026-09-21",
+      "title": "Sourcetable – AI Spreadsheet and Data Platform"
+    },
+    {
+      "slug": "2026-09-21-git-for-llms-a-context-management",
+      "date": "2026-09-21",
+      "title": "Git for LLMs – A context management interface"
     }
   ]
 }
