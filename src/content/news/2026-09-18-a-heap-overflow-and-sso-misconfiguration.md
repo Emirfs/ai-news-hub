@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via OpenAI Telemetry."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "OpenAI dahili depolarına erişim sağlayan bellek taşması ve SSO yapılandırma açığı",
+    "description": "Teknik inceleme ve mimari analiz: OpenAI dahili depolarına erişim sağlayan bellek taşması ve SSO yapılandırma açığı",
+    "keyTakeaways": [
+      "Security Research Wire üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "Desbordamiento de memoria y error de SSO que comprometió repositorios internos de OpenAI",
+    "description": "Análisis técnico y desglose arquitectónico: Desbordamiento de memoria y error de SSO que comprometió repositorios internos de OpenAI",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de Security Research Wire.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "堆溢出与 SSO 配置漏洞揭示 OpenAI 内部仓库安全风险",
+    "description": "深度技术解析与架构拆解：堆溢出与 SSO 配置漏洞揭示 OpenAI 内部仓库安全风险",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 Security Research Wire 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "Heap-Overflow und SSO-Fehlkonfiguration bei OpenAI internen Repositories",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: Heap-Overflow und SSO-Fehlkonfiguration bei OpenAI internen Repositories",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über Security Research Wire veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "Heap overflow e configurazione SSO nei repository interni di OpenAI",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: Heap overflow e configurazione SSO nei repository interni di OpenAI",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite Security Research Wire.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance

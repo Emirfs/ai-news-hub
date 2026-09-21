@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via Google Gemini Telemetry."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "AlphaGenome Atlas: Google DeepMind'dan İnsan DNA'sının Yüksek Çözünürlüklü Haritası",
+    "description": "Teknik inceleme ve mimari analiz: AlphaGenome Atlas: Google DeepMind'dan İnsan DNA'sının Yüksek Çözünürlüklü Haritası",
+    "keyTakeaways": [
+      "Google DeepMind Science üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "AlphaGenome Atlas: Mapa de Alta Resolución del ADN Humano por DeepMind",
+    "description": "Análisis técnico y desglose arquitectónico: AlphaGenome Atlas: Mapa de Alta Resolución del ADN Humano por DeepMind",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de Google DeepMind Science.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "AlphaGenome Atlas：DeepMind 打造高分辨率人类基因组图谱",
+    "description": "深度技术解析与架构拆解：AlphaGenome Atlas：DeepMind 打造高分辨率人类基因组图谱",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 Google DeepMind Science 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "AlphaGenome Atlas: Hochauflösende Kartierung der menschlichen DNA von DeepMind",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: AlphaGenome Atlas: Hochauflösende Kartierung der menschlichen DNA von DeepMind",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über Google DeepMind Science veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "AlphaGenome Atlas: Mappa ad Alta Risoluzione del DNA Umano di DeepMind",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: AlphaGenome Atlas: Mappa ad Alta Risoluzione del DNA Umano di DeepMind",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite Google DeepMind Science.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance

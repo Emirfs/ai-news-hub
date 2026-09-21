@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via Google Gemini Telemetry."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "Gemini 3.8 Canlı Etkileşim ve Genişletilmiş Düşünme Mimarisi",
+    "description": "Teknik inceleme ve mimari analiz: Gemini 3.8 Canlı Etkileşim ve Genişletilmiş Düşünme Mimarisi",
+    "keyTakeaways": [
+      "Google AI Blog üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "Gemini 3.8 Live y Razonamiento Extendido en Tiempo Real",
+    "description": "Análisis técnico y desglose arquitectónico: Gemini 3.8 Live y Razonamiento Extendido en Tiempo Real",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de Google AI Blog.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "Gemini 3.8 Live 实时多模态与深度思维扩展模型评测",
+    "description": "深度技术解析与架构拆解：Gemini 3.8 Live 实时多模态与深度思维扩展模型评测",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 Google AI Blog 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "Gemini 3.8 Live und erweitertes logisches Denken in Echtzeit",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: Gemini 3.8 Live und erweitertes logisches Denken in Echtzeit",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über Google AI Blog veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "Gemini 3.8 Live e Ragionamento Esteso in Tempo Reale",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: Gemini 3.8 Live e Ragionamento Esteso in Tempo Reale",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite Google AI Blog.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance

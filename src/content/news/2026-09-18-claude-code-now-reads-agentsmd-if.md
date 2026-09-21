@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via Anthropic Telemetry."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "Claude Code artık Claude.md bulunmadığında doğrudan AGENTS.md dosyasını okuyor",
+    "description": "Teknik inceleme ve mimari analiz: Claude Code artık Claude.md bulunmadığında doğrudan AGENTS.md dosyasını okuyor",
+    "keyTakeaways": [
+      "Anthropic Claude Documentation üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "Claude Code ahora lee AGENTS.md de forma nativa si no existe Claude.md",
+    "description": "Análisis técnico y desglose arquitectónico: Claude Code ahora lee AGENTS.md de forma nativa si no existe Claude.md",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de Anthropic Claude Documentation.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "Claude Code 现已原生支持无 Claude.md 时读取 AGENTS.md 规范",
+    "description": "深度技术解析与架构拆解：Claude Code 现已原生支持无 Claude.md 时读取 AGENTS.md 规范",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 Anthropic Claude Documentation 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "Claude Code unterstützt nun standardmäßig AGENTS.md bei fehlender Claude.md",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: Claude Code unterstützt nun standardmäßig AGENTS.md bei fehlender Claude.md",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über Anthropic Claude Documentation veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "Claude Code supporta nativamente AGENTS.md in assenza di Claude.md",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: Claude Code supporta nativamente AGENTS.md in assenza di Claude.md",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite Anthropic Claude Documentation.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance

@@ -37,10 +37,17 @@ const languages = [
   { code: 'en', flag: '🇬🇧', name: 'English' },
   { code: 'tr', flag: '🇹🇷', name: 'Türkçe' },
   { code: 'es', flag: '🇪🇸', name: 'Español' },
-  { code: 'zh-CN', flag: '🇨🇳', name: '中文' },
+  { code: 'zh', flag: '🇨🇳', name: '中文' },
   { code: 'it', flag: '🇮🇹', name: 'Italiano' },
   { code: 'de', flag: '🇩🇪', name: 'Deutsch' },
 ];
+
+const articleTranslations = entry.data.translations || {};
+const defaultData = {
+  title: entry.data.title,
+  description: entry.data.description,
+  keyTakeaways: entry.data.keyTakeaways || [],
+};
 ---
 
 <BaseLayout title={articleTitle} description={entry.data.description} articleDate={entry.data.pubDate.toISOString()}>
@@ -49,24 +56,29 @@ const languages = [
     <nav class="flex items-center justify-between text-xs font-mono text-[var(--text-muted)] mb-6 border-b border-[var(--border-subtle)] pb-3">
       <a href={getPath('/')} class="hover:text-[var(--accent-editorial)] transition-colors inline-flex items-center gap-1.5 font-medium">
         <span>←</span>
-        <span>Back to Dispatches</span>
+        <span id="ui-back-link">Back to Dispatches</span>
       </a>
       <a href={getPath(`/categories/${encodeURIComponent(entry.data.category)}/`)} class="text-[var(--text-muted)] hover:text-[var(--text-headline)] transition-colors">
         {entry.data.category}
       </a>
     </nav>
 
-    <!-- Multi-Language Reader Bar -->
-    <div class="mb-8 p-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-3 text-xs font-mono">
-      <span class="text-[var(--text-muted)] flex items-center gap-1.5 font-semibold">
-        <span>🌐</span> Read in your language:
-      </span>
+    <!-- Interactive Multi-Language Reader Bar -->
+    <div class="mb-8 p-3.5 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs font-mono shadow-xs">
+      <div class="flex items-center gap-2 text-[var(--text-muted)]">
+        <span class="text-base">🌐</span>
+        <span class="font-bold text-[var(--text-headline)]" id="ui-lang-label">Select Reading Language:</span>
+      </div>
       <div class="flex flex-wrap items-center gap-1.5">
         {languages.map((l) => (
           <button
             type="button"
             data-lang-code={l.code}
-            class="article-lang-btn px-2.5 py-1 rounded border border-[var(--border-subtle)] bg-[var(--bg-card)] hover:border-[var(--accent-editorial)] hover:text-[var(--accent-editorial)] text-[var(--text-headline)] transition-colors cursor-pointer flex items-center gap-1 text-[11px]"
+            class={`article-lang-btn px-2.5 py-1 rounded border transition-colors cursor-pointer flex items-center gap-1.5 text-xs font-semibold ${
+              l.code === 'en'
+                ? 'bg-[var(--accent-editorial)] text-white border-[var(--accent-editorial)] active-lang'
+                : 'border-[var(--border-subtle)] bg-[var(--bg-card)] text-[var(--text-headline)] hover:border-[var(--accent-editorial)]'
+            }`}
           >
             <span>{l.flag}</span>
             <span>{l.name}</span>
@@ -85,50 +97,50 @@ const languages = [
           {formattedDate}
         </time>
         <span class="text-[var(--border-strong)]">•</span>
-        <span class="text-[var(--text-muted)]">
+        <span class="text-[var(--text-muted)]" id="ui-reading-time">
           {readingTimeMin} min in-depth read
         </span>
       </div>
 
       <!-- Main Headline -->
-      <h1 class="text-3xl sm:text-4xl lg:text-[2.75rem] font-bold text-[var(--text-headline)] tracking-tight leading-[1.18] font-newspaper">
+      <h1 id="article-title" class="text-3xl sm:text-4xl lg:text-[2.75rem] font-bold text-[var(--text-headline)] tracking-tight leading-[1.18] font-newspaper">
         {entry.data.title}
       </h1>
 
       <!-- Lead Excerpt -->
-      <p class="text-lg sm:text-xl text-[var(--text-body)] leading-relaxed font-sans pt-1">
+      <p id="article-desc" class="text-lg sm:text-xl text-[var(--text-body)] leading-relaxed font-sans pt-1">
         {entry.data.description}
       </p>
 
       <!-- Byline -->
       <div class="pt-3 border-t border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-[var(--text-muted)]">
         <div>
-          Curated & Verified by <span class="text-[var(--text-headline)] font-medium">{entry.data.author}</span>
+          <span id="ui-byline-label">Curated & Verified by</span> <strong class="text-[var(--text-headline)]">{entry.data.author}</strong>
         </div>
         <div>
-          Autonomous AI Newsroom
+          Neural Pulse Desk
         </div>
       </div>
     </header>
 
     <!-- PROMINENT ORIGINAL SOURCE REDIRECTION CARD (TOP) -->
     {entry.data.sourceUrl && (
-      <aside class="my-8 p-4 sm:p-5 rounded-lg bg-[var(--bg-surface)] border border-[var(--accent-editorial)] shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+      <aside class="my-8 p-4 sm:p-5 rounded-lg bg-[var(--bg-surface)] border-2 border-[var(--accent-editorial)] shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div class="space-y-1">
-          <div class="flex items-center gap-2 text-[11px] font-mono font-bold uppercase tracking-wider text-[var(--accent-editorial)]">
-            <span>📰</span> Primary Source Document
+          <div class="flex items-center gap-2 text-xs font-mono font-bold uppercase tracking-wider text-[var(--accent-editorial)]">
+            <span>📰</span> <span id="ui-source-badge">Primary Source Document (Direct Link)</span>
           </div>
           <p class="text-xs sm:text-sm text-[var(--text-body)]">
-            Original publication on <strong class="text-[var(--text-headline)]">{entry.data.sourceName || 'Primary Wire'}</strong>
+            Verified publication on <strong class="text-[var(--text-headline)]">{entry.data.sourceName || 'Primary Wire'}</strong>
           </p>
         </div>
         <a
           href={entry.data.sourceUrl}
           target="_blank"
           rel="noopener noreferrer"
-          class="inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded bg-[var(--accent-editorial)] text-white font-mono text-xs font-bold hover:opacity-90 transition-opacity shrink-0 shadow-xs"
+          class="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded bg-[var(--accent-editorial)] text-white font-mono text-xs font-bold hover:opacity-90 transition-opacity shrink-0 shadow-xs"
         >
-          <span>Open Original Source</span>
+          <span id="ui-open-source-btn">Open Original Source</span>
           <span class="text-sm">↗</span>
         </a>
       </aside>
@@ -138,13 +150,13 @@ const languages = [
     {entry.data.keyTakeaways && entry.data.keyTakeaways.length > 0 && (
       <section class="my-10 p-6 rounded-r-lg bg-[var(--bg-card)] border-l-4 border-[var(--accent-editorial)] border-y border-r border-[var(--border-subtle)]">
         <div class="flex items-center gap-2 text-xs font-mono font-bold text-[var(--accent-editorial)] uppercase tracking-wider mb-3.5">
-          <span>⚡</span> Executive Summary & Core Signals
+          <span>⚡</span> <span id="ui-takeaways-heading">Executive Summary & Core Signals</span>
         </div>
-        <ul class="space-y-3 text-base text-[var(--text-body)]">
+        <ul id="takeaways-list" class="space-y-3 text-base text-[var(--text-body)]">
           {entry.data.keyTakeaways.map((point: string) => (
             <li class="flex items-start gap-3 leading-relaxed">
               <span class="text-[var(--accent-editorial)] font-bold mt-1 text-sm">▸</span>
-              <span>{point}</span>
+              <span class="takeaway-text">{point}</span>
             </li>
           ))}
         </ul>
@@ -158,19 +170,19 @@ const languages = [
 
     <!-- PROMINENT ORIGINAL SOURCE REDIRECTION (BOTTOM) -->
     {entry.data.sourceUrl && (
-      <section class="mt-12 p-6 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-strong)] text-center space-y-3">
-        <h4 class="text-base font-bold font-newspaper text-[var(--text-headline)]">
-          Want to verify the primary technical research?
+      <section class="mt-14 p-6 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-strong)] text-center space-y-3 shadow-xs">
+        <h4 class="text-lg font-bold font-newspaper text-[var(--text-headline)]" id="ui-bottom-prompt">
+          Need to inspect the original primary publication?
         </h4>
         <p class="text-xs sm:text-sm text-[var(--text-muted)] max-w-lg mx-auto">
-          Neural Pulse provides objective summaries and architectural analysis. Read the full paper or release notes on the primary platform:
+          Neural Pulse provides objective synthesis and architectural reporting. You can read the complete paper or release notes on the primary source platform:
         </p>
         <div class="pt-2">
           <a
             href={entry.data.sourceUrl}
             target="_blank"
             rel="noopener noreferrer"
-            class="inline-flex items-center gap-2 px-5 py-2.5 rounded border border-[var(--accent-editorial)] text-[var(--accent-editorial)] hover:bg-[var(--accent-editorial)] hover:text-white font-mono text-xs font-bold transition-all"
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded bg-[var(--text-headline)] text-[var(--bg-primary)] font-mono text-xs font-bold hover:opacity-90 transition-opacity"
           >
             <span>Visit {entry.data.sourceName || 'Primary Document'} ↗</span>
           </a>
@@ -216,25 +228,186 @@ const languages = [
   </article>
 </BaseLayout>
 
-<script is:inline>
-  // Article Page Instant Language Switcher
-  document.querySelectorAll('.article-lang-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const langCode = btn.getAttribute('data-lang-code');
-      localStorage.setItem('site_lang', langCode);
+<script define:vars={{ articleTranslations, defaultData }}>
+  const UI_TEXT = {
+    en: {
+      backLink: 'Back to Dispatches',
+      langLabel: 'Select Reading Language:',
+      readingTimeSuffix: 'min in-depth read',
+      takeawaysHeading: 'Executive Summary & Core Signals',
+      sourceBadge: 'Primary Source Document (Direct Link)',
+      openSourceBtn: 'Open Original Source',
+      bottomPrompt: 'Need to inspect the original primary publication?'
+    },
+    tr: {
+      backLink: 'Haber Akışına Dön',
+      langLabel: 'Okuma Dilini Seçin:',
+      readingTimeSuffix: 'dakika detaylı okuma',
+      takeawaysHeading: 'Yönetici Özeti ve Temel Sinyaller',
+      sourceBadge: 'Birincil Kaynak Belge (Doğrudan Bağlantı)',
+      openSourceBtn: 'Orijinal Kaynak Habere Git',
+      bottomPrompt: 'Orijinal yayını ve dökümanları incelemek ister misiniz?'
+    },
+    es: {
+      backLink: 'Volver a los Despachos',
+      langLabel: 'Seleccionar Idioma de Lectura:',
+      readingTimeSuffix: 'minutos de lectura profunda',
+      takeawaysHeading: 'Resumen Ejecutivo y Señales Clave',
+      sourceBadge: 'Documento Fuente Primario (Enlace Directo)',
+      openSourceBtn: 'Abrir Fuente Original',
+      bottomPrompt: '¿Desea consultar la publicación original?'
+    },
+    zh: {
+      backLink: '返回快讯列表',
+      langLabel: '选择阅读语言：',
+      readingTimeSuffix: '分钟深度阅读',
+      takeawaysHeading: '核心要点与技术摘要',
+      sourceBadge: '原始权威技术源（直接跳转）',
+      openSourceBtn: '前往原始文档',
+      bottomPrompt: '是否需要查阅原始技术发布文档？'
+    },
+    it: {
+      backLink: 'Torna alle Notizie',
+      langLabel: 'Seleziona Lingua di Lettura:',
+      readingTimeSuffix: 'minuti di lettura approfondita',
+      takeawaysHeading: 'Sintesi Esecutiva e Segnali Chiave',
+      sourceBadge: 'Documento Fonte Primario (Collegamento Diretto)',
+      openSourceBtn: 'Apri Fonte Originale',
+      bottomPrompt: 'Vuoi consultare la pubblicazione tecnica originale?'
+    },
+    de: {
+      backLink: 'Zurück zur Übersicht',
+      langLabel: 'Lesesprache Auswählen:',
+      readingTimeSuffix: 'Minuten Tiefenanalyse',
+      takeawaysHeading: 'Wesentliche Erkenntnisse & Zusammenfassung',
+      sourceBadge: 'Primäres Quelldokument (Direktlink)',
+      openSourceBtn: 'Originalquelle Öffnen',
+      bottomPrompt: 'Möchten Sie die originale Veröffentlichung einsehen?'
+    }
+  };
 
-      const combo = document.querySelector('.goog-te-combo');
-      if (combo) {
-        combo.value = langCode === 'en' ? '' : langCode;
-        combo.dispatchEvent(new Event('change'));
-      }
+  const SECTION_TITLES = {
+    tr: {
+      'Executive Overview & Strategic Significance': 'Yönetici Özeti ve Stratejik Önem',
+      'Architectural Breakdown & How It Operates': 'Mimari ve Çalışma Mekanizması',
+      'Key Benchmarks, Metrics & Performance Data': 'Performans Testleri ve Benchmark Verileri',
+      'Practical Developer & Industry Applications': 'Geliştirici ve Sektörel Uygulama Senaryoları',
+      'Ecosystem Outlook & Limitations': 'Ekosistem Görünümü ve Mevcut Sınırlar'
+    },
+    es: {
+      'Executive Overview & Strategic Significance': 'Resumen Ejecutivo y Significado Estratégico',
+      'Architectural Breakdown & How It Operates': 'Desglose Arquitectónico y Funcionamiento',
+      'Key Benchmarks, Metrics & Performance Data': 'Puntos de Referencia y Datos de Rendimiento',
+      'Practical Developer & Industry Applications': 'Aplicaciones Prácticas para Desarrolladores',
+      'Ecosystem Outlook & Limitations': 'Perspectiva del Ecosistema y Limitaciones'
+    },
+    zh: {
+      'Executive Overview & Strategic Significance': '执行概述与战略意义',
+      'Architectural Breakdown & How It Operates': '架构解析与运行机制',
+      'Key Benchmarks, Metrics & Performance Data': '关键基准评测与性能数据',
+      'Practical Developer & Industry Applications': '开发者实战与行业落地应用',
+      'Ecosystem Outlook & Limitations': '生态展望与现阶段局限性'
+    },
+    it: {
+      'Executive Overview & Strategic Significance': 'Panoramica Esecutiva e Significato Strategico',
+      'Architectural Breakdown & How It Operates': 'Analisi Architetturale e Funzionamento',
+      'Key Benchmarks, Metrics & Performance Data': 'Benchmark Chiave e Dati sulle Prestazioni',
+      'Practical Developer & Industry Applications': 'Applicazioni Pratiche per Sviluppatori',
+      'Ecosystem Outlook & Limitations': 'Prospettive dell\'Ecosistema e Limitazioni'
+    },
+    de: {
+      'Executive Overview & Strategic Significance': 'Zusammenfassung & Strategische Bedeutung',
+      'Architectural Breakdown & How It Operates': 'Architekturübersicht & Funktionsweise',
+      'Key Benchmarks, Metrics & Performance Data': 'Wichtige Benchmarks & Leistungsdaten',
+      'Practical Developer & Industry Applications': 'Praktische Entwickler- & Industrieanwendungen',
+      'Ecosystem Outlook & Limitations': 'Ökosystem-Ausblick & Grenzen'
+    }
+  };
 
-      // Update flag in header if available
-      const flagSpan = document.getElementById('current-lang-flag');
-      const labelSpan = document.getElementById('current-lang-label');
-      if (flagSpan && labelSpan) {
-        labelSpan.textContent = langCode.toUpperCase().slice(0, 2);
+  function applyLanguage(lang) {
+    // 1. Update active button style
+    document.querySelectorAll('.article-lang-btn').forEach(btn => {
+      const isSelected = btn.getAttribute('data-lang-code') === lang;
+      if (isSelected) {
+        btn.classList.add('bg-[var(--accent-editorial)]', 'text-white', 'border-[var(--accent-editorial)]');
+        btn.classList.remove('bg-[var(--bg-card)]', 'text-[var(--text-headline)]');
+      } else {
+        btn.classList.remove('bg-[var(--accent-editorial)]', 'text-white', 'border-[var(--accent-editorial)]');
+        btn.classList.add('bg-[var(--bg-card)]', 'text-[var(--text-headline)]');
       }
     });
+
+    // 2. Update Article Title & Description
+    const titleEl = document.getElementById('article-title');
+    const descEl = document.getElementById('article-desc');
+    const takeawaysUl = document.getElementById('takeaways-list');
+
+    let currentTitle = defaultData.title;
+    let currentDesc = defaultData.description;
+    let currentTakeaways = defaultData.keyTakeaways;
+
+    if (lang !== 'en' && articleTranslations[lang]) {
+      currentTitle = articleTranslations[lang].title || defaultData.title;
+      currentDesc = articleTranslations[lang].description || defaultData.description;
+      currentTakeaways = articleTranslations[lang].keyTakeaways || defaultData.keyTakeaways;
+    }
+
+    if (titleEl) titleEl.textContent = currentTitle;
+    if (descEl) descEl.textContent = currentDesc;
+
+    if (takeawaysUl && currentTakeaways.length > 0) {
+      const items = takeawaysUl.querySelectorAll('.takeaway-text');
+      items.forEach((item, idx) => {
+        if (currentTakeaways[idx]) {
+          item.textContent = currentTakeaways[idx];
+        }
+      });
+    }
+
+    // 3. Update UI Labels
+    const ui = UI_TEXT[lang] || UI_TEXT.en;
+    const backLink = document.getElementById('ui-back-link');
+    const langLabel = document.getElementById('ui-lang-label');
+    const takeawaysHeading = document.getElementById('ui-takeaways-heading');
+    const sourceBadge = document.getElementById('ui-source-badge');
+    const openSourceBtn = document.getElementById('ui-open-source-btn');
+    const bottomPrompt = document.getElementById('ui-bottom-prompt');
+
+    if (backLink) backLink.textContent = ui.backLink;
+    if (langLabel) langLabel.textContent = ui.langLabel;
+    if (takeawaysHeading) takeawaysHeading.textContent = ui.takeawaysHeading;
+    if (sourceBadge) sourceBadge.textContent = ui.sourceBadge;
+    if (openSourceBtn) openSourceBtn.textContent = ui.openSourceBtn;
+    if (bottomPrompt) bottomPrompt.textContent = ui.bottomPrompt;
+
+    // 4. Update Section Headers (h3)
+    const sectionMap = SECTION_TITLES[lang] || {};
+    document.querySelectorAll('.article-prose h3').forEach(h3 => {
+      const origText = h3.getAttribute('data-orig-text') || h3.textContent.trim();
+      if (!h3.getAttribute('data-orig-text')) {
+        h3.setAttribute('data-orig-text', origText);
+      }
+      if (lang === 'en') {
+        h3.textContent = origText;
+      } else if (sectionMap[origText]) {
+        h3.textContent = sectionMap[origText];
+      }
+    });
+
+    localStorage.setItem('site_lang', lang);
+  }
+
+  // Hook up button clicks
+  document.querySelectorAll('.article-lang-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const lang = btn.getAttribute('data-lang-code');
+      applyLanguage(lang);
+    });
   });
+
+  // Restore saved language if set
+  const savedLang = localStorage.getItem('site_lang');
+  if (savedLang && ['en', 'tr', 'es', 'zh', 'it', 'de'].includes(savedLang)) {
+    applyLanguage(savedLang);
+  }
 </script>

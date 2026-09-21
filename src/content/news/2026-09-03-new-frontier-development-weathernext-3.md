@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via Google Gemini Telemetry."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "WeatherNext 3: Google DeepMind'dan Yeni Nesil Küresel Hava Tahmini Modeli",
+    "description": "Teknik inceleme ve mimari analiz: WeatherNext 3: Google DeepMind'dan Yeni Nesil Küresel Hava Tahmini Modeli",
+    "keyTakeaways": [
+      "Google DeepMind Science üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "WeatherNext 3: Modelo de Predicción Meteorológica Global por DeepMind",
+    "description": "Análisis técnico y desglose arquitectónico: WeatherNext 3: Modelo de Predicción Meteorológica Global por DeepMind",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de Google DeepMind Science.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "WeatherNext 3：DeepMind 新一代全球高分辨率气象预报大模型",
+    "description": "深度技术解析与架构拆解：WeatherNext 3：DeepMind 新一代全球高分辨率气象预报大模型",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 Google DeepMind Science 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "WeatherNext 3: Globales Wettervorhersagemodell von Google DeepMind",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: WeatherNext 3: Globales Wettervorhersagemodell von Google DeepMind",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über Google DeepMind Science veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "WeatherNext 3: Modello Globale di Previsioni Meteorologiche di DeepMind",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: WeatherNext 3: Modello Globale di Previsioni Meteorologiche di DeepMind",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite Google DeepMind Science.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance

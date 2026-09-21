@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via OpenAI Telemetry."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "Kodlar Gösteriyor: Apple Siri Yapay Zekası Claude ve ChatGPT ile Değiştirilebilir",
+    "description": "Teknik inceleme ve mimari analiz: Kodlar Gösteriyor: Apple Siri Yapay Zekası Claude ve ChatGPT ile Değiştirilebilir",
+    "keyTakeaways": [
+      "MacRumors Tech Wire üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "El Código Revela que Siri de Apple Puede Sustituirse por Claude o ChatGPT",
+    "description": "Análisis técnico y desglose arquitectónico: El Código Revela que Siri de Apple Puede Sustituirse por Claude o ChatGPT",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de MacRumors Tech Wire.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "系统代码揭示：苹果 Siri 后台支持自由替换为 Claude 或 ChatGPT",
+    "description": "深度技术解析与架构拆解：系统代码揭示：苹果 Siri 后台支持自由替换为 Claude 或 ChatGPT",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 MacRumors Tech Wire 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "Systemcode zeigt: Apple Siri kann durch Claude oder ChatGPT ersetzt werden",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: Systemcode zeigt: Apple Siri kann durch Claude oder ChatGPT ersetzt werden",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über MacRumors Tech Wire veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "Il Codice Mostra che Siri di Apple Può Essere Sostituito con Claude o ChatGPT",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: Il Codice Mostra che Siri di Apple Può Essere Sostituito con Claude o ChatGPT",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite MacRumors Tech Wire.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance

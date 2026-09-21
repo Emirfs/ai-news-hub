@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via Hacker News AI Top."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "Sourcetable – Yapay Zeka Spreadsheet and Data Platform",
+    "description": "Teknik inceleme ve mimari analiz: Sourcetable – Yapay Zeka Spreadsheet and Data Platform",
+    "keyTakeaways": [
+      "Hacker News Wire üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "Sourcetable – Inteligencia Artificial Spreadsheet and Data Platform",
+    "description": "Análisis técnico y desglose arquitectónico: Sourcetable – Inteligencia Artificial Spreadsheet and Data Platform",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de Hacker News Wire.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "Sourcetable – 人工智能 Spreadsheet and Data Platform",
+    "description": "深度技术解析与架构拆解：Sourcetable – 人工智能 Spreadsheet and Data Platform",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 Hacker News Wire 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "Sourcetable – Künstliche Intelligenz Spreadsheet and Data Platform",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: Sourcetable – Künstliche Intelligenz Spreadsheet and Data Platform",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über Hacker News Wire veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "Sourcetable – Intelligenza Artificiale Spreadsheet and Data Platform",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: Sourcetable – Intelligenza Artificiale Spreadsheet and Data Platform",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite Hacker News Wire.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance

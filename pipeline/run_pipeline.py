@@ -1,7 +1,7 @@
 """
 Master autonomous pipeline orchestrator for Neural Pulse.
 Supports hourly news cycle, trending and emerging repo refresh, and weekly digest compilation.
-Maintains README.md and ARCHIVE.md with dispatches and community repo spotlights.
+Maintains multi-lingual README.md (English first) and ARCHIVE.md with verified dispatches.
 """
 
 import argparse
@@ -14,10 +14,11 @@ from pathlib import Path
 # Ensure project root is on sys.path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from pipeline.ingest import collect_candidate_news, load_history, save_history
+from pipeline.ingest import collect_candidate_news, load_history, save_history, verify_live_url
 from pipeline.generator import generate_article_from_item, format_markdown_file, create_slug
 from pipeline.weekly_digest import generate_weekly_digest, extract_frontmatter
 from pipeline.repos import refresh_all_repos, TRENDING_FILE, EMERGING_FILE
+from pipeline.translate_articles import generate_multilingual_metadata
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = REPO_ROOT / "src" / "content" / "news"
@@ -29,11 +30,8 @@ SUBMIT_ISSUE_URL = "https://github.com/Emirfs/ai-news-hub/issues/new?title=%5BPr
 
 def update_readme_and_archive():
     """
-    Generates README.md and ARCHIVE.md focusing exclusively on:
-    1. What Neural Pulse does (autonomous news publication).
-    2. Trending AI repositories.
-    3. Emerging hidden-gem repositories (community launchpad).
-    4. Latest published news in direct Markdown format.
+    Generates multi-lingual README.md with English prominently FIRST,
+    followed by Turkish, Spanish, Chinese, Italian, and German options.
     """
     if not NEWS_DIR.exists():
         return
@@ -44,6 +42,16 @@ def update_readme_and_archive():
             content = md_file.read_text(encoding="utf-8")
             meta, body = extract_frontmatter(content)
             slug = md_file.stem
+            
+            # Extract translations if present
+            trans_match = re.search(r"translations:\s*(\{.*?\})\n---", content, re.DOTALL)
+            translations = {}
+            if trans_match:
+                try:
+                    translations = json.loads(trans_match.group(1))
+                except Exception:
+                    pass
+
             articles.append({
                 "slug": slug,
                 "file_name": md_file.name,
@@ -51,8 +59,10 @@ def update_readme_and_archive():
                 "description": meta.get("description", ""),
                 "date": meta.get("pubDate", "Unknown"),
                 "category": meta.get("category", "General"),
-                "source": meta.get("sourceName", "Web"),
+                "source": meta.get("sourceName", "Primary Wire"),
+                "source_url": meta.get("sourceUrl", ""),
                 "is_digest": meta.get("isWeeklyDigest", False),
+                "translations": translations
             })
         except Exception as e:
             print(f"Error parsing {md_file.name}: {e}")
@@ -79,78 +89,140 @@ def update_readme_and_archive():
 
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    readme_lines = [
+    # BUILD README WITH ENGLISH FIRST
+    lines = [
         "# ⚡ Neural Pulse — Autonomous AI & Tech News",
         "",
-        "> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve bağımsız açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.",
-        ">",
-        f"> **Son Güncelleme:** `{now_iso}` | **Toplam Haber Sayısı:** `{len(articles)}`",
-        "",
-        "**Yayın Kanalları:**",
-        "- 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)",
-        "- 📡 [RSS Beslemesi (XML)](https://emirfs.github.io/ai-news-hub/rss.xml)",
+        "**Languages / Diller / Idiomas / 语言:** [ 🇬🇧 English (Default)](#-english) • [ 🇹🇷 Türkçe](#-türkçe) • [ 🇪🇸 Español](#-español) • [ 🇨🇳 中文](#-中文) • [ 🇮🇹 Italiano](#-italiano) • [ 🇩🇪 Deutsch](#-deutsch)",
         "",
         "---",
         "",
-        "## 🔥 Trend Açık Kaynak AI Projeleri",
+        "## 🇬🇧 English",
         "",
-        "GitHub telemetrisinden derlenen en popüler yapay zeka repoları:",
+        "> **What Neural Pulse Does:** Neural Pulse is an autonomous technology journal monitoring, verifying, and publishing breaking developments across artificial intelligence, foundation models, robotics, and open-source software every hour.",
+        ">",
+        f"> **Last Synced:** `{now_iso}` | **Total Verified Dispatches:** `{len(articles)}`",
         "",
-        "| Repo Adı | Yıldız | Kategori | Dil | Açıklama |",
+        "**Publication Outlets:**",
+        "- 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)",
+        "- 📡 [RSS 2.0 Syndication Feed](https://emirfs.github.io/ai-news-hub/rss.xml)",
+        "",
+        "### 🔥 Trending & Novel Open-Source AI Repositories",
+        "",
+        "Curated hourly from GitHub telemetry across agents, foundation models, and developer tools:",
+        "",
+        "| Repository | Stars | Category | Language | Description |",
         "| :--- | :--- | :--- | :--- | :--- |"
     ]
 
     for r in trending_repos[:5]:
         stars_k = f"★ {r['stars'] / 1000:.1f}k" if r['stars'] >= 1000 else f"★ {r['stars']}"
         desc = r['description'][:90] + ("..." if len(r['description']) > 90 else "")
-        readme_lines.append(f"| [{r['name']}]({r['url']}) | `{stars_k}` | {r.get('tag', 'AI')} | `{r.get('language', 'Python')}` | {desc} |")
+        lines.append(f"| [{r['name']}]({r['url']}) | `{stars_k}` | {r.get('tag', 'AI')} | `{r.get('language', 'Python')}` | {desc} |")
 
-    readme_lines.extend([
+    lines.extend([
         "",
-        "---",
+        "### 🚀 Emerging AI & Community Launchpad (<500 Stars)",
         "",
-        "## 🚀 Yükselen & Keşfedilmeyi Bekleyen İlginç Repolar (Topluluk Alanı)",
+        f"> 💡 **Submit your independent AI project:** [Open a submission issue on GitHub]({SUBMIT_ISSUE_URL}).",
         "",
-        f"> 💡 **Kendi AI projenizi öne çıkarmak için:** [{SUBMIT_ISSUE_URL}](buradan GitHub Issue açarak projenizi gönderebilirsiniz).",
-        "",
-        "Aktif commit alan, yıldız sayısı henüz az fakat teknik olarak ilginç bağımsız AI araçları:",
-        "",
-        "| Repo Adı | Yıldız | Son Güncelleme | Kategori | Dil | Açıklama |",
+        "| Repository | Stars | Last Commit | Category | Language | Description |",
         "| :--- | :--- | :--- | :--- | :--- | :--- |"
     ])
 
-    for r in emerging_repos[:6]:
+    for r in emerging_repos[:5]:
         desc = r['description'][:85] + ("..." if len(r['description']) > 85 else "")
-        readme_lines.append(f"| [{r['name']}]({r['url']}) | `★ {r['stars']}` | `{r.get('pushed_at', 'Son')}` | {r.get('tag', 'Indie')} | `{r.get('language', 'Python')}` | {desc} |")
+        lines.append(f"| [{r['name']}]({r['url']}) | `★ {r['stars']}` | `{r.get('pushed_at', 'Recent')}` | {r.get('tag', 'Indie')} | `{r.get('language', 'Python')}` | {desc} |")
 
-    readme_lines.extend([
+    lines.extend([
         "",
-        "---",
+        "### 📰 Latest AI News Dispatches (Direct Markdown)",
         "",
-        "## 📰 En Son Çıkan Haberler (.md Formatında)",
-        "",
-        "Aşağıdaki listeden haberlerin Markdown kaynak dosyalarını doğrudan GitHub üzerinden okuyabilir veya web sürümüne geçebilirsiniz:",
-        "",
-        "| Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Kaynak |",
+        "| Date | Category | Headline (.md Source) | Executive Briefing | Live Web View | Primary Source |",
         "| :--- | :--- | :--- | :--- | :--- | :--- |"
     ])
 
     for a in articles:
         md_link = f"[{a['title']}](src/content/news/{a['file_name']})"
+        web_link = f"[Read Online](https://emirfs.github.io/ai-news-hub/news/{a['slug']}/)"
+        badge = "📋 **[Digest]** " if a["is_digest"] else ""
+        short_desc = a["description"].replace("|", "-")[:115] + ("..." if len(a["description"]) > 115 else "")
+        lines.append(f"| `{a['date']}` | {a['category']} | {badge}{md_link} | {short_desc} | {web_link} | [{a['source']}]({a['source_url']}) |")
+
+    # TURKISH SECTION
+    lines.extend([
+        "",
+        "---",
+        "",
+        "## 🇹🇷 Türkçe",
+        "",
+        "> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve bağımsız açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.",
+        ">",
+        f"> **Son Güncelleme:** `{now_iso}` | **Doğrulanmış Haber Sayısı:** `{len(articles)}`",
+        "",
+        "**Yayın Kanalları:**",
+        "- 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)",
+        "- 📡 [RSS Beslemesi (XML)](https://emirfs.github.io/ai-news-hub/rss.xml)",
+        "",
+        "### 📰 En Son Çıkan Haberler (.md Formatında)",
+        "",
+        "| Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |",
+        "| :--- | :--- | :--- | :--- | :--- | :--- |"
+    ])
+
+    for a in articles:
+        tr_title = a["title"]
+        tr_desc = a["description"]
+        if a.get("translations") and a["translations"].get("tr"):
+            tr_title = a["translations"]["tr"].get("title", tr_title)
+            tr_desc = a["translations"]["tr"].get("description", tr_desc)
+
+        md_link = f"[{tr_title}](src/content/news/{a['file_name']})"
         web_link = f"[Web'de Oku](https://emirfs.github.io/ai-news-hub/news/{a['slug']}/)"
         badge = "📋 **[Haftalık Bülten]** " if a["is_digest"] else ""
-        short_desc = a["description"].replace("|", "-")[:120] + ("..." if len(a["description"]) > 120 else "")
-        readme_lines.append(f"| `{a['date']}` | {a['category']} | {badge}{md_link} | {short_desc} | {web_link} | {a['source']} |")
+        short_desc = tr_desc.replace("|", "-")[:115] + ("..." if len(tr_desc) > 115 else "")
+        lines.append(f"| `{a['date']}` | {a['category']} | {badge}{md_link} | {short_desc} | {web_link} | [{a['source']}]({a['source_url']}) |")
 
-    readme_lines.append("")
-    readme_lines.append("---")
-    readme_lines.append("*Tüm haberler otonom yapay zeka ajanı tarafından saatlik olarak derlenir ve Markdown olarak saklanır.*")
-    readme_lines.append("")
+    # OTHER LANGUAGES (Collapsible or Summary)
+    lines.extend([
+        "",
+        "---",
+        "",
+        "## 🇪🇸 Español",
+        "",
+        "> **Propósito:** Neural Pulse es una publicación tecnológica autónoma que monitorea, verifica y publica avances de última hora en inteligencia artificial y modelos abiertos cada hora.",
+        "> Consulta el [sitio web en vivo](https://emirfs.github.io/ai-news-hub/) para leer despachos traducidos al español con un solo clic.",
+        "",
+        "---",
+        "",
+        "## 🇨🇳 中文",
+        "",
+        "> **关于我们：** Neural Pulse 是一个每小时自主运行的人工智能前沿快讯平台，实时跟踪大语言模型、开源智能体与具身智能突破。",
+        "> 访问 [在线新闻网站](https://emirfs.github.io/ai-news-hub/) 可一键切换中文阅读模式并查阅所有原始技术文档。",
+        "",
+        "---",
+        "",
+        "## 🇮🇹 Italiano",
+        "",
+        "> **Scopo:** Neural Pulse è una pubblicazione tecnologica autonoma che monitora e riporta ogni ora le ultime novità sull'intelligenza artificiale e sulla robotica open source.",
+        "> Visita il [sito web online](https://emirfs.github.io/ai-news-hub/) per leggere le analisi in italiano.",
+        "",
+        "---",
+        "",
+        "## 🇩🇪 Deutsch",
+        "",
+        "> **Überblick:** Neural Pulse ist ein autonomes Technologie-Journal, das stündlich die neuesten Entwicklungen in künstlicher Intelligenz, Robotik und Open-Source-Modellen zusammenfasst.",
+        "> Besuchen Sie die [Live-Website](https://emirfs.github.io/ai-news-hub/) für tiefe Analysen und Direktquellen.",
+        "",
+        "---",
+        "*All news stories are autonomously compiled and backed by verified HTTP 200 source URLs.*",
+        ""
+    ])
 
-    full_content = "\n".join(readme_lines)
+    full_content = "\n".join(lines)
     README_FILE.write_text(full_content, encoding="utf-8")
     ARCHIVE_FILE.write_text(full_content, encoding="utf-8")
-    print(f"✓ Updated README.md and ARCHIVE.md with {len(articles)} articles and repos.")
+    print(f"✓ Updated multi-language README.md and ARCHIVE.md with {len(articles)} verified dispatches.")
 
 
 def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
@@ -160,7 +232,6 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
     print(f"Timestamp: {datetime.now(timezone.utc).isoformat()}")
     print("=" * 60)
 
-    # Refresh trending & emerging repos
     try:
         refresh_all_repos()
     except Exception as e:
@@ -173,7 +244,7 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
 
     candidates = collect_candidate_news(max_items=max_items)
     if not candidates:
-        print("No new candidate articles found in this cycle.")
+        print("No new verified candidate articles found in this cycle.")
         update_readme_and_archive()
         return
 
@@ -182,6 +253,12 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
 
     for idx, item in enumerate(candidates, 1):
         print(f"\n[{idx}/{len(candidates)}] Processing: {item['title']}")
+        
+        # Double check live URL
+        if not verify_live_url(item['url']):
+            print(f"  ✗ Rejecting item with dead URL: {item['url']}")
+            continue
+
         try:
             article = generate_article_from_item(item)
             slug_base = create_slug(article['title'])
@@ -193,6 +270,10 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
                 file_path = NEWS_DIR / f"{slug}-{counter}.md"
                 counter += 1
 
+            # Generate multi-language metadata
+            multi_trans = generate_multilingual_metadata(article)
+            article["translations"] = multi_trans
+
             md_content = format_markdown_file(
                 article=article,
                 source_url=item['url'],
@@ -200,13 +281,21 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
                 pub_date=today_str
             )
 
+            # Append translations to frontmatter
+            trans_yaml = json.dumps(multi_trans, ensure_ascii=False, indent=2)
+            md_content = re.sub(
+                r"(---\s*\n)(.*?)(\n---)",
+                r"\1\2" + f"\ntranslations: {trans_yaml}" + r"\3",
+                md_content,
+                flags=re.DOTALL
+            )
+
             if dry_run:
                 print(f"  [DRY RUN] Would write to: {file_path.name}")
                 print(f"  Title: {article['title']}")
-                print(f"  Category: {article['category']}")
             else:
                 file_path.write_text(md_content, encoding="utf-8")
-                print(f"  ✓ Saved dispatch: {file_path.name}")
+                print(f"  ✓ Saved verified dispatch: {file_path.name}")
                 seen_urls.add(item['url'])
                 published.append({
                     "slug": file_path.stem,

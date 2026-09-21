@@ -14,6 +14,14 @@ const news = defineCollection({
     sourceName: z.string().optional().or(z.literal('')),
     isWeeklyDigest: z.boolean().default(false),
     keyTakeaways: z.array(z.string()).default([]),
+    translations: z.record(
+      z.string(),
+      z.object({
+        title: z.string(),
+        description: z.string(),
+        keyTakeaways: z.array(z.string()).default([]),
+      })
+    ).optional(),
   }),
 });
 

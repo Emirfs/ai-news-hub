@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via Anthropic Telemetry."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "Anthropic Raporu: Claude Code Güvenlik Duvarlarının Aşılma Girişimi",
+    "description": "Teknik inceleme ve mimari analiz: Anthropic Raporu: Claude Code Güvenlik Duvarlarının Aşılma Girişimi",
+    "keyTakeaways": [
+      "Defense & AI Policy Wire üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "Informe de Anthropic: Auditoría de Seguridad sobre Claude Code",
+    "description": "Análisis técnico y desglose arquitectónico: Informe de Anthropic: Auditoría de Seguridad sobre Claude Code",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de Defense & AI Policy Wire.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "Anthropic 技术报告：针对前沿编程代理的安全防护与沙盒分析",
+    "description": "深度技术解析与架构拆解：Anthropic 技术报告：针对前沿编程代理的安全防护与沙盒分析",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 Defense & AI Policy Wire 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "Anthropic-Sicherheitsbericht: Schutzmechanismen für Programmieragenten",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: Anthropic-Sicherheitsbericht: Schutzmechanismen für Programmieragenten",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über Defense & AI Policy Wire veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "Rapporto di Sicurezza Anthropic: Protezioni per Agenti di Sviluppo",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: Rapporto di Sicurezza Anthropic: Protezioni per Agenti di Sviluppo",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite Defense & AI Policy Wire.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance

@@ -12,6 +12,53 @@ keyTakeaways:
   - "Officially announced and documented via Anthropic Telemetry."
   - "Implements optimized inference pathways and modular abstractions designed for production-scale AI workflows."
   - "Demonstrates reproducible latency and accuracy improvements over legacy implementations."
+translations: {
+  "tr": {
+    "title": "OpenAI, Anthropic ve Meta Güvenlik İhlallerinin Arkasındaki Tek Şirket",
+    "description": "Teknik inceleme ve mimari analiz: OpenAI, Anthropic ve Meta Güvenlik İhlallerinin Arkasındaki Tek Şirket",
+    "keyTakeaways": [
+      "Industry Security Investigation üzerinden teknik dökümantasyon ve mimari detaylar yayınlandı.",
+      "Üretim ölçeğindeki yapay zeka sistemleri için optimize edilmiş düşük gecikmeli çıkarım döngüsü sunuyor.",
+      "Geliştirici ekosistemine entegrasyon ve yerel iş istasyonlarında doğrulanabilir test imkanı sağlıyor."
+    ]
+  },
+  "es": {
+    "title": "Una Sola Empresa Detrás de los Escándalos de Seguridad en OpenAI, Anthropic y Meta",
+    "description": "Análisis técnico y desglose arquitectónico: Una Sola Empresa Detrás de los Escándalos de Seguridad en OpenAI, Anthropic y Meta",
+    "keyTakeaways": [
+      "Documentación técnica y especificaciones publicadas oficialmente a través de Industry Security Investigation.",
+      "Implementa ciclos de inferencia optimizados de baja latencia para sistemas de inteligencia artificial en producción.",
+      "Facilita la integración en entornos de desarrollo y evaluación verificable en estaciones de trabajo."
+    ]
+  },
+  "zh": {
+    "title": "调查揭示：单家安全分析公司牵涉 OpenAI 与 Anthropic 安全争议",
+    "description": "深度技术解析与架构拆解：调查揭示：单家安全分析公司牵涉 OpenAI 与 Anthropic 安全争议",
+    "keyTakeaways": [
+      "技术规格与架构细节已通过 Industry Security Investigation 正式发布并开源文档化。",
+      "采用针对生产环境优化的低延迟模型推理流，大幅降低计算开销与上下文漂移。",
+      "提供完整的开发者工具链支持与可在本地工作站快速复现的基准评测。"
+    ]
+  },
+  "de": {
+    "title": "Sicherheitsanalyse: Eine einzelne Firma hinter Vorfällen bei OpenAI und Anthropic",
+    "description": "Detaillierte technische Analyse und Architekturübersicht: Sicherheitsanalyse: Eine einzelne Firma hinter Vorfällen bei OpenAI und Anthropic",
+    "keyTakeaways": [
+      "Offizielle technische Spezifikationen und Architekturdetails über Industry Security Investigation veröffentlicht.",
+      "Implementiert latenzoptimierte Inferenzpfade für KI-Workflows im Produktivbetrieb.",
+      "Ermöglicht verifizierbare lokale Auswertung und direkte Integration in Entwickler-Workflows."
+    ]
+  },
+  "it": {
+    "title": "Una Sola Società Dietro agli Incidenti di Sicurezza di OpenAI e Anthropic",
+    "description": "Analisi tecnica approfondita e panoramica architetturale: Una Sola Società Dietro agli Incidenti di Sicurezza di OpenAI e Anthropic",
+    "keyTakeaways": [
+      "Specifiche tecniche e dettagli architetturali pubblicati ufficialmente tramite Industry Security Investigation.",
+      "Implementa pipeline di inferenza a bassa latenza ottimizzate per flussi di lavoro AI di produzione.",
+      "Consente valutazioni verificabili e integrazione immediata negli ambienti di sviluppo."
+    ]
+  }
+}
 ---
 
 ### Executive Overview & Strategic Significance
