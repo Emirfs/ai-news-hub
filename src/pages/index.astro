@@ -20,7 +20,7 @@ const regularArticles = sortedNews.filter((item) => !item.data.isWeeklyDigest);
 
 const leadStory = regularArticles[0];
 const trendingArticles = regularArticles.slice(1, 6);
-const wireArticles = regularArticles.slice(1);
+const wireArticles = sortedNews;
 
 const categories = Array.from(new Set(allNews.map((item) => item.data.category)));
 
