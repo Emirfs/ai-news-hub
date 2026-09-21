@@ -43,6 +43,21 @@ def extract_frontmatter(content: str) -> tuple[dict, str]:
     if cat_match:
         data["category"] = cat_match.group(1).strip('"\'')
 
+    source_match = re.search(r'sourceName:\s*["\']?(.*?)["\']?$', yaml_block, re.MULTILINE)
+    if source_match:
+        data["sourceName"] = source_match.group(1).strip('"\'')
+
+    digest_match = re.search(r'isWeeklyDigest:\s*(true|false)', yaml_block, re.IGNORECASE)
+    if digest_match:
+        data["isWeeklyDigest"] = digest_match.group(1).lower() == "true"
+
+    # Unescape unicode if needed
+    if "title" in data:
+        try:
+            data["title"] = data["title"].encode("utf-8").decode("unicode_escape")
+        except Exception:
+            pass
+
     return data, body
 
 

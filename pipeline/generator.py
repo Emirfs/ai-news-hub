@@ -183,11 +183,11 @@ Developers and engineering teams can evaluate the full implementation and benchm
 
 def format_markdown_file(article: dict, source_url: str, source_name: str, pub_date: str) -> str:
     """Format article into Astro Markdown with typed frontmatter."""
-    escaped_title = json.dumps(article['title'])
-    escaped_desc = json.dumps(article['description'])
-    escaped_category = json.dumps(article['category'])
-    tags_yaml = json.dumps(article.get('tags', []))
-    takeaways_yaml = "\n".join([f"  - {json.dumps(point)}" for point in article.get('keyTakeaways', [])])
+    escaped_title = json.dumps(article['title'], ensure_ascii=False)
+    escaped_desc = json.dumps(article['description'], ensure_ascii=False)
+    escaped_category = json.dumps(article['category'], ensure_ascii=False)
+    tags_yaml = json.dumps(article.get('tags', []), ensure_ascii=False)
+    takeaways_yaml = "\n".join([f"  - {json.dumps(point, ensure_ascii=False)}" for point in article.get('keyTakeaways', [])])
 
     return f"""---
 title: {escaped_title}
