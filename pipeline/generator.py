@@ -18,6 +18,7 @@ DEFAULT_MODELS = [
     "gemini-2.0-flash-exp",
     "gemini-1.5-pro",
 ]
+GEMINI_MODEL = DEFAULT_MODELS[0]
 
 ALLOWED_CATEGORIES = [
     "LLMs & Foundation Models",

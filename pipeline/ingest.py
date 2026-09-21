@@ -98,10 +98,7 @@ def save_history(history: dict):
 
 
 def is_relevant(title: str, summary: str) -> bool:
-    if any(pattern.search(title) is not None for pattern in COMPILED_PATTERNS):
-        return True
-    summary_matches = sum(1 for pattern in COMPILED_PATTERNS if pattern.search(summary) is not None)
-    return summary_matches >= 2
+    return any(pattern.search(title) is not None for pattern in COMPILED_PATTERNS)
 
 
 def fetch_feed_data(feed: dict) -> list[dict]:
