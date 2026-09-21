@@ -1,7 +1,7 @@
 """
 Master autonomous pipeline orchestrator for Neural Pulse.
-Supports hourly news cycle, trending and emerging repo refresh, and weekly digest compilation.
-Maintains multi-lingual README.md (English first) and ARCHIVE.md with verified dispatches.
+Supports hourly news cycle, trending and emerging repo refresh,
+multi-lingual README generation, and automated Discord/Telegram broadcasting.
 """
 
 import argparse
@@ -19,6 +19,8 @@ from pipeline.generator import generate_article_from_item, format_markdown_file,
 from pipeline.weekly_digest import generate_weekly_digest, extract_frontmatter
 from pipeline.repos import refresh_all_repos, TRENDING_FILE, EMERGING_FILE
 from pipeline.translate_articles import generate_multilingual_metadata
+from pipeline.translate_full_articles import generate_full_translated_body
+from pipeline.broadcast import broadcast_to_discord, broadcast_to_telegram, SITE_URL
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = REPO_ROOT / "src" / "content" / "news"
@@ -43,7 +45,6 @@ def update_readme_and_archive():
             meta, body = extract_frontmatter(content)
             slug = md_file.stem
             
-            # Extract translations if present
             trans_match = re.search(r"translations:\s*(\{.*?\})\n---", content, re.DOTALL)
             translations = {}
             if trans_match:
@@ -67,10 +68,8 @@ def update_readme_and_archive():
         except Exception as e:
             print(f"Error parsing {md_file.name}: {e}")
 
-    # Sort descending by date, then title
     articles.sort(key=lambda a: (str(a["date"]), a["title"]), reverse=True)
 
-    # Load trending and emerging repos
     trending_repos = []
     if TRENDING_FILE.exists():
         try:
@@ -89,7 +88,6 @@ def update_readme_and_archive():
 
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    # BUILD README WITH ENGLISH FIRST
     lines = [
         "# ⚡ Neural Pulse — Autonomous AI & Tech News",
         "",
@@ -183,7 +181,6 @@ def update_readme_and_archive():
         short_desc = tr_desc.replace("|", "-")[:115] + ("..." if len(tr_desc) > 115 else "")
         lines.append(f"| `{a['date']}` | {a['category']} | {badge}{md_link} | {short_desc} | {web_link} | [{a['source']}]({a['source_url']}) |")
 
-    # OTHER LANGUAGES (Collapsible or Summary)
     lines.extend([
         "",
         "---",
@@ -226,7 +223,7 @@ def update_readme_and_archive():
 
 
 def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
-    """Run hourly news discovery, LLM curation, repo refresh, and markdown generation."""
+    """Run hourly news discovery, LLM curation, repo refresh, broadcasting, and markdown generation."""
     print("=" * 60)
     print("Starting Neural Pulse Autonomous News Cycle")
     print(f"Timestamp: {datetime.now(timezone.utc).isoformat()}")
@@ -254,7 +251,6 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
     for idx, item in enumerate(candidates, 1):
         print(f"\n[{idx}/{len(candidates)}] Processing: {item['title']}")
         
-        # Double check live URL
         if not verify_live_url(item['url']):
             print(f"  ✗ Rejecting item with dead URL: {item['url']}")
             continue
@@ -272,11 +268,11 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
 
             # Generate multi-language metadata and full-body translations
             multi_trans = generate_multilingual_metadata(article)
-            from pipeline.translate_full_articles import generate_full_translated_body
             for lang in ["tr", "es", "zh", "de", "it"]:
                 if lang in multi_trans:
                     multi_trans[lang]["body_html"] = generate_full_translated_body(article["title"], item["source_name"], lang)
             article["translations"] = multi_trans
+
             md_content = format_markdown_file(
                 article=article,
                 source_url=item['url'],
@@ -306,6 +302,11 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
                     "title": article['title']
                 })
                 generated_count += 1
+
+                # Broadcast to external channels if configured
+                article_public_url = f"{SITE_URL}/news/{file_path.stem}/"
+                broadcast_to_discord(article, article_public_url)
+                broadcast_to_telegram(article, article_public_url)
 
         except Exception as e:
             print(f"  ✗ Error generating article for '{item['title']}': {e}")
