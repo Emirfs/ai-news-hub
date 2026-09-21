@@ -17,7 +17,7 @@ const {
   articleDate,
 } = Astro.props;
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site || 'https://example.github.io');
+const canonicalURL = new URL(Astro.url.pathname, Astro.site || 'https://emirfs.github.io/ai-news-hub/');
 ---
 
 <!doctype html>
@@ -25,7 +25,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site || 'https://example.
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%2306b6d4'><path d='M13 10V3L4 14h7v7l9-11h-7z'/></svg>" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23f59e0b'><path d='M13 10V3L4 14h7v7l9-11h-7z'/></svg>" />
     <meta name="generator" content={Astro.generator} />
 
     <!-- SEO Meta Tags -->
@@ -49,7 +49,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site || 'https://example.
     <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content={image} />
   </head>
-  <body class="bg-[#0a0e17] text-slate-100 flex flex-col min-h-screen selection:bg-cyan-500/30 selection:text-cyan-200">
+  <body class="bg-[#0a0a0b] text-[#e4e4e7] flex flex-col min-h-screen selection:bg-neutral-800 selection:text-white">
     <Header />
     <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-8 py-8">
       <slot />

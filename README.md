@@ -1,137 +1,28 @@
-# ⚡ Neural Pulse — Autonomous AI & Frontier Tech Chronicle
+# ⚡ Neural Pulse — Autonomous AI & Tech News
 
-An autonomous, agent-operated technology newsroom and publication hosted on **GitHub Pages**, powered by **Google Gemini Flash (2.0)**, **Python**, and **Astro**.
+> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
+>
+> **Son Güncelleme:** `2026-09-21 06:48 UTC` | **Toplam Haber Sayısı:** `7`
 
----
-
-## 🌐 Overview
-
-**Neural Pulse** monitors, filters, synthesizes, and publishes daily artificial intelligence breakthroughs and weekly intelligence briefings without human intervention.
-
-- **Zero-Cost Serverless Stack**: Runs entirely on free GitHub Actions compute, Google Gemini Flash API tier, and GitHub Pages.
-- **High-Signal Data Ingestion**: Scrapes arXiv (cs.AI & cs.LG), Hugging Face Daily Papers, Hacker News AI stream, and frontier lab blogs.
-- **AI Editorial Engine**: Google Gemini Flash extracts key technical takeaways, verifies context, and crafts structured Markdown articles.
-- **Lightning Fast Static Delivery**: Built with Astro and Tailwind CSS for instant load times, SEO optimization, and native RSS 2.0 syndication.
+**Yayın Kanalları:**
+- 🌐 [Canlı Web Sitesi (GitHub Pages)](https://emirfs.github.io/ai-news-hub/)
+- 📡 [RSS Beslemesi (XML)](https://emirfs.github.io/ai-news-hub/rss.xml)
 
 ---
 
-## 🏗️ Architecture
+## 📰 En Son Çıkan Haberler (.md Formatında)
 
-```
-   [ arXiv cs.AI / cs.LG ]     [ Hugging Face ]     [ Hacker News AI ]
-             │                         │                    │
-             └─────────────────────────┼────────────────────┘
-                                       │
-                                       ▼
-                       [ pipeline/ingest.py ]
-                          • URL normalization
-                          • Deduplication via history.json
-                          • Relevance pattern matching
-                                       │
-                                       ▼
-                      [ pipeline/generator.py ]
-                          • Gemini 2.0 Flash REST API
-                          • Structured JSON schema
-                          • Key technical takeaways
-                                       │
-                                       ▼
-                        [ src/content/news/*.md ]
-                          • Typed frontmatter schema
-                          • Clean markdown sections
-                                       │
-                                       ▼
-                 [ GitHub Actions Workflow Pipeline ]
-      Daily News (06:00 UTC) ───► Commit & Push ───► Deploy to GitHub Pages
-      Weekly Digest (Sun 18:00) ──► Commit & Push ───► Deploy to GitHub Pages
-```
+Aşağıdaki listeden haberlerin Markdown kaynak dosyalarını doğrudan GitHub üzerinden okuyabilir veya web sürümüne geçebilirsiniz:
+
+| Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Kaynak |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-21` | Weekly Digest | 📋 **[Haftalık Bülten]** [Weekly AI Intelligence Briefing: Frontier Reasoning Models, Open Robotics, and Compute Efficiency](src/content/news/2026-09-21-weekly-ai-briefing-w38.md) | A comprehensive synthesis of the week's defining breakthroughs across AI research, hardware scaling, and open-source eco... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-weekly-ai-briefing-w38/) | Neural Pulse Editorial |
+| `2026-09-21` | LLMs & Foundation Models | [Sourcetable – AI Spreadsheet and Data Platform](src/content/news/2026-09-21-sourcetable-ai-spreadsheet-and-data-platform.md) | New advancement released via Hacker News AI Top, providing enhanced capabilities in artificial intelligence tooling and ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-sourcetable-ai-spreadsheet-and-data-platform/) | Hacker News AI Top |
+| `2026-09-21` | LLMs & Foundation Models | [Plandex – an AI coding engine for complex tasks](src/content/news/2026-09-21-plandex-an-ai-coding-engine-for.md) | New advancement released via Hacker News AI Top, providing enhanced capabilities in artificial intelligence tooling and ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-plandex-an-ai-coding-engine-for/) | Hacker News AI Top |
+| `2026-09-21` | Robotics & Hardware | [Open-Source Robotic Foundation Models Enable Zero-Shot Tool Manipulation](src/content/news/2026-09-21-open-source-robotic-foundation-models.md) | A collaborative consortium of robotic laboratories releases an open-weight foundation model trained on 100,000 real-worl... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-open-source-robotic-foundation-models/) | Hugging Face Daily |
+| `2026-09-21` | LLMs & Foundation Models | [Juggler – an open-source GUI coding agent, by the creator of JUCE](src/content/news/2026-09-21-juggler-an-open-source-gui-coding-agent.md) | New advancement released via Hacker News AI Top, providing enhanced capabilities in artificial intelligence tooling and ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-juggler-an-open-source-gui-coding-agent/) | Hacker News AI Top |
+| `2026-09-21` | LLMs & Foundation Models | [Git for LLMs – A context management interface](src/content/news/2026-09-21-git-for-llms-a-context-management.md) | New advancement released via Hacker News AI Top, providing enhanced capabilities in artificial intelligence tooling and ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-git-for-llms-a-context-management/) | Hacker News AI Top |
+| `2026-09-20` | LLMs & Foundation Models | [Next-Generation Multimodal Architectures Achieve Breakthrough in Native Reasoning](src/content/news/2026-09-20-next-gen-multimodal-architectures.md) | Frontier research teams demonstrate unified cognitive models processing vision, speech, and structured logic in a single... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-20-next-gen-multimodal-architectures/) | ArXiv cs.AI |
 
 ---
-
-## 🚀 Quick Setup & GitHub Deployment
-
-### 1. Push to your GitHub Repository
-
-```bash
-cd ai-news-hub
-git add .
-git commit -m "feat: initial autonomous ai newsroom"
-git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
-git branch -M main
-git push -u origin main
-```
-
-### 2. Configure GitHub Secret (`GEMINI_API_KEY`)
-
-1. Get a free API key from [Google AI Studio](https://aistudio.google.com/).
-2. In your GitHub repository, navigate to **Settings** → **Secrets and variables** → **Actions**.
-3. Click **New repository secret**.
-4. Name: `GEMINI_API_KEY`
-5. Secret: Paste your Gemini API key.
-
-### 3. Enable GitHub Pages
-
-1. In your GitHub repository, go to **Settings** → **Pages**.
-2. Under **Build and deployment** → **Source**, select **GitHub Actions**.
-3. That's it! Every commit and scheduled workflow will automatically publish to `https://<YOUR_USERNAME>.github.io/<YOUR_REPO_NAME>/`.
-
----
-
-## ⏰ Autonomous Schedules
-
-| Workflow | Schedule | Trigger | Action |
-|---|---|---|---|
-| **AI Daily News Curator** | Every day at `06:00 UTC` | Cron + Manual `workflow_dispatch` | Collects top 3 AI stories, generates articles, commits to `main` |
-| **AI Weekly Digest** | Every Sunday at `18:00 UTC` | Cron + Manual `workflow_dispatch` | Synthesizes recent dispatches into an executive weekly briefing |
-| **Deploy to GitHub Pages** | On every push / workflow completion | Automated | Builds Astro static site and publishes to GitHub Pages |
-
----
-
-## 💻 Local Development
-
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Run local development server
-npm run dev
-
-# 3. Test the news crawler locally (dry run)
-python pipeline/run_pipeline.py --mode daily --count 2 --dry-run
-
-# 4. Generate real articles locally (with or without GEMINI_API_KEY)
-# If GEMINI_API_KEY is not set, a structured fallback is generated for offline testing
-python pipeline/run_pipeline.py --mode daily --count 1
-
-# 5. Generate weekly digest
-python pipeline/run_pipeline.py --mode weekly
-
-# 6. Build static production site
-npm run build
-```
-
----
-
-## 📁 Project Structure
-
-```
-ai-news-hub/
-├── .github/workflows/
-│   ├── ai-daily-curator.yml    # Daily cron workflow (06:00 UTC)
-│   ├── ai-weekly-digest.yml    # Weekly digest cron workflow (Sundays 18:00 UTC)
-│   └── deploy-pages.yml        # GitHub Pages build & deploy workflow
-├── pipeline/
-│   ├── ingest.py               # Multi-source RSS & Algolia crawler + deduplication
-│   ├── generator.py            # Gemini Flash REST client + markdown builder
-│   ├── weekly_digest.py        # Weekly briefing synthesizer
-│   ├── run_pipeline.py         # Unified CLI orchestrator
-│   └── history.json            # Persistent deduplication database
-├── src/
-│   ├── components/             # NewsCard, LeadStory, Header, Footer
-│   ├── content/news/           # Markdown articles with typed frontmatter
-│   ├── layouts/                # BaseLayout with SEO tags
-│   ├── pages/                  # Home, /news/[...slug], /digests, /categories, /about, /rss.xml
-│   ├── styles/global.css       # Tailwind v4 custom editorial styles
-│   └── content.config.ts       # Astro Content Collection schema
-├── astro.config.mjs            # Astro configuration
-└── package.json
-```
+*Tüm haberler otonom yapay zeka ajanı tarafından saatlik olarak derlenir ve Markdown olarak saklanır.*

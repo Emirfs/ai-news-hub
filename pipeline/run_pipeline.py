@@ -1,7 +1,7 @@
 """
 Master autonomous pipeline orchestrator for Neural Pulse.
-Supports daily/hourly news cycle and weekly digest compilation.
-Automatically updates root ARCHIVE.md for direct GitHub reading.
+Supports hourly news cycle and weekly digest compilation.
+Maintains README.md and ARCHIVE.md with the latest dispatches.
 """
 
 import argparse
@@ -19,11 +19,16 @@ from pipeline.weekly_digest import generate_weekly_digest, extract_frontmatter
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = REPO_ROOT / "src" / "content" / "news"
+README_FILE = REPO_ROOT / "README.md"
 ARCHIVE_FILE = REPO_ROOT / "ARCHIVE.md"
 
 
-def update_archive_markdown():
-    """Generates a root ARCHIVE.md table linking to both .md files and live site."""
+def update_readme_and_archive():
+    """
+    Generates README.md and ARCHIVE.md focusing exclusively on:
+    1. What Neural Pulse does (autonomous news publication).
+    2. Latest published news in direct Markdown format.
+    """
     if not NEWS_DIR.exists():
         return
 
@@ -37,54 +42,62 @@ def update_archive_markdown():
                 "slug": slug,
                 "file_name": md_file.name,
                 "title": meta.get("title", slug),
+                "description": meta.get("description", ""),
                 "date": meta.get("pubDate", "Unknown"),
                 "category": meta.get("category", "General"),
                 "source": meta.get("sourceName", "Web"),
                 "is_digest": meta.get("isWeeklyDigest", False),
             })
         except Exception as e:
-            print(f"Error parsing {md_file.name} for archive: {e}")
+            print(f"Error parsing {md_file.name}: {e}")
 
     # Sort descending by date, then title
     articles.sort(key=lambda a: (str(a["date"]), a["title"]), reverse=True)
 
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    lines = [
-        "# 📰 Neural Pulse — AI Dispatches Archive",
+    # Clean README focusing solely on purpose and latest news in Markdown
+    readme_lines = [
+        "# ⚡ Neural Pulse — Autonomous AI & Tech News",
         "",
-        "> Autonomous archive of frontier artificial intelligence dispatches and weekly briefings.",
-        f"> **Last Synced:** `{now_iso}` | **Total Dispatches:** `{len(articles)}`",
+        "> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.",
+        ">",
+        f"> **Son Güncelleme:** `{now_iso}` | **Toplam Haber Sayısı:** `{len(articles)}`",
         "",
-        "**Online Readers:**",
-        "- 🌐 [Live Web Publication (GitHub Pages)](https://emirfs.github.io/ai-news-hub/)",
-        "- 📡 [RSS 2.0 Feed](https://emirfs.github.io/ai-news-hub/rss.xml)",
+        "**Yayın Kanalları:**",
+        "- 🌐 [Canlı Web Sitesi (GitHub Pages)](https://emirfs.github.io/ai-news-hub/)",
+        "- 📡 [RSS Beslemesi (XML)](https://emirfs.github.io/ai-news-hub/rss.xml)",
         "",
         "---",
         "",
-        "## 📚 Dispatches Directory (Direct Markdown & Web Links)",
+        "## 📰 En Son Çıkan Haberler (.md Formatında)",
         "",
-        "| Date | Category | Title & Markdown Source | Live Web View | Primary Source |",
-        "| :--- | :--- | :--- | :--- | :--- |"
+        "Aşağıdaki listeden haberlerin Markdown kaynak dosyalarını doğrudan GitHub üzerinden okuyabilir veya web sürümüne geçebilirsiniz:",
+        "",
+        "| Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Kaynak |",
+        "| :--- | :--- | :--- | :--- | :--- | :--- |"
     ]
 
     for a in articles:
         md_link = f"[{a['title']}](src/content/news/{a['file_name']})"
-        web_link = f"[Read Online](https://emirfs.github.io/ai-news-hub/news/{a['slug']}/)"
-        badge = "📋 **[Digest]** " if a["is_digest"] else ""
-        lines.append(f"| `{a['date']}` | {a['category']} | {badge}{md_link} | {web_link} | {a['source']} |")
+        web_link = f"[Web'de Oku](https://emirfs.github.io/ai-news-hub/news/{a['slug']}/)"
+        badge = "📋 **[Haftalık Bülten]** " if a["is_digest"] else ""
+        short_desc = a["description"].replace("|", "-")[:120] + ("..." if len(a["description"]) > 120 else "")
+        readme_lines.append(f"| `{a['date']}` | {a['category']} | {badge}{md_link} | {short_desc} | {web_link} | {a['source']} |")
 
-    lines.append("")
-    lines.append("---")
-    lines.append("*All articles are autonomously curated and preserved in Markdown format.*")
-    lines.append("")
+    readme_lines.append("")
+    readme_lines.append("---")
+    readme_lines.append("*Tüm haberler otonom yapay zeka ajanı tarafından saatlik olarak derlenir ve Markdown olarak saklanır.*")
+    readme_lines.append("")
 
-    ARCHIVE_FILE.write_text("\n".join(lines), encoding="utf-8")
-    print(f"✓ Updated root {ARCHIVE_FILE.name} with {len(articles)} entries.")
+    full_content = "\n".join(readme_lines)
+    README_FILE.write_text(full_content, encoding="utf-8")
+    ARCHIVE_FILE.write_text(full_content, encoding="utf-8")
+    print(f"✓ Updated README.md and ARCHIVE.md with {len(articles)} entries.")
 
 
 def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
-    """Run hourly/daily news discovery, LLM curation, and markdown generation."""
+    """Run hourly news discovery, LLM curation, and markdown generation."""
     print("=" * 60)
     print("Starting Neural Pulse Autonomous News Cycle")
     print(f"Timestamp: {datetime.now(timezone.utc).isoformat()}")
@@ -98,7 +111,7 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
     candidates = collect_candidate_news(max_items=max_items)
     if not candidates:
         print("No new candidate articles found in this cycle.")
-        update_archive_markdown()
+        update_readme_and_archive()
         return
 
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -148,8 +161,8 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
             history["published_articles"] = published
             save_history(history)
             print(f"\n✓ Successfully published {generated_count} new dispatches and updated history.json.")
-        # Always keep ARCHIVE.md fresh
-        update_archive_markdown()
+        # Always update README and ARCHIVE
+        update_readme_and_archive()
 
 
 def main():
@@ -164,9 +177,9 @@ def main():
         run_daily_pipeline(max_items=args.count, dry_run=args.dry_run)
     elif args.mode == "weekly":
         generate_weekly_digest()
-        update_archive_markdown()
+        update_readme_and_archive()
     elif args.mode == "archive":
-        update_archive_markdown()
+        update_readme_and_archive()
 
 
 if __name__ == "__main__":

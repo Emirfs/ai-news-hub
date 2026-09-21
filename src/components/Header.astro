@@ -3,7 +3,7 @@ const navItems = [
   { name: 'Latest News', href: '/' },
   { name: 'Weekly Digests', href: '/digests' },
   { name: 'Categories', href: '/categories' },
-  { name: 'About AI Newsroom', href: '/about' },
+  { name: 'About Newsroom', href: '/about' },
 ];
 
 const todayStr = new Intl.DateTimeFormat('en-US', {
@@ -15,23 +15,23 @@ const todayStr = new Intl.DateTimeFormat('en-US', {
 }).format(new Date());
 ---
 
-<header class="border-b border-[#1e293b] bg-[#0a0e17]/90 backdrop-blur sticky top-0 z-50">
-  <!-- Top Ticker Bar -->
-  <div class="border-b border-[#1e293b]/60 bg-[#070a10] text-xs py-1.5 px-4 sm:px-8">
-    <div class="max-w-7xl mx-auto flex items-center justify-between text-slate-400">
+<header class="border-b border-neutral-800 bg-[#0c0c0e] sticky top-0 z-50">
+  <!-- Top Newspaper Bar -->
+  <div class="border-b border-neutral-800/80 bg-[#080809] text-xs py-2 px-4 sm:px-8">
+    <div class="max-w-7xl mx-auto flex items-center justify-between text-neutral-400">
       <div class="flex items-center space-x-3">
-        <span class="inline-flex items-center gap-1.5 text-emerald-400 font-mono font-medium">
+        <span class="inline-flex items-center gap-1.5 text-emerald-400 font-mono font-medium text-[11px] tracking-wider uppercase">
           <span class="relative flex h-2 w-2">
             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
             <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
           </span>
-          AI AGENT LIVE
+          Live Hourly Dispatch
         </span>
-        <span class="hidden sm:inline text-slate-600">|</span>
-        <span class="hidden sm:inline font-mono">{todayStr} (UTC)</span>
+        <span class="hidden sm:inline text-neutral-600">|</span>
+        <span class="hidden sm:inline font-mono text-neutral-400">{todayStr} (UTC)</span>
       </div>
       <div class="flex items-center space-x-4">
-        <a href="/rss.xml" class="hover:text-cyan-400 transition-colors flex items-center gap-1 font-mono">
+        <a href="/rss.xml" class="hover:text-amber-400 transition-colors flex items-center gap-1.5 font-mono text-xs text-neutral-300">
           <svg class="w-3.5 h-3.5 text-amber-500" fill="currentColor" viewBox="0 0 24 24">
             <path d="M6.18 15.64a2.18 2.18 0 1 1-2.18 2.18 2.18 2.18 0 0 1 2.18-2.18zm0-6.1a8.28 8.28 0 0 1 8.28 8.28h-2.92a5.36 5.36 0 0 0-5.36-5.36zm0-6.1A14.38 14.38 0 0 1 20.56 17.82h-2.92a11.46 11.46 0 0 0-11.46-11.46z"/>
           </svg>
@@ -41,28 +41,26 @@ const todayStr = new Intl.DateTimeFormat('en-US', {
     </div>
   </div>
 
-  <!-- Main Navigation Bar -->
-  <div class="max-w-7xl mx-auto px-4 sm:px-8 py-4 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+  <!-- Newspaper Masthead Bar -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-8 py-5 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
     <div class="flex items-center justify-between">
-      <a href="/" class="group flex items-center gap-3">
-        <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-cyan-500 via-blue-600 to-indigo-600 flex items-center justify-center shadow-lg shadow-cyan-500/20 group-hover:scale-105 transition-transform">
-          <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-          </svg>
+      <a href="/" class="group flex items-center gap-3.5">
+        <div class="w-10 h-10 rounded bg-neutral-900 border border-neutral-700 flex items-center justify-center text-amber-400 font-bold font-serif text-xl shadow-inner group-hover:border-neutral-500 transition-colors">
+          ⚡
         </div>
         <div>
-          <span class="text-2xl font-black tracking-wider text-white uppercase font-mono">NEURAL<span class="text-cyan-400">PULSE</span></span>
-          <p class="text-[11px] text-slate-400 tracking-wider font-mono">AUTONOMOUS AI & TECH CHRONICLE</p>
+          <span class="text-2xl sm:text-3xl font-black tracking-widest text-white uppercase font-newspaper">NEURAL <span class="text-neutral-300">PULSE</span></span>
+          <p class="text-[10px] text-neutral-400 tracking-widest font-mono uppercase">Autonomous AI & Frontier Tech Journal</p>
         </div>
       </a>
     </div>
 
     <!-- Navigation links -->
-    <nav class="flex flex-wrap items-center gap-1 sm:gap-2">
+    <nav class="flex flex-wrap items-center gap-1.5 sm:gap-2">
       {navItems.map((item) => (
         <a
           href={item.href}
-          class="px-3.5 py-1.5 rounded-md text-sm font-medium text-slate-300 hover:text-white hover:bg-slate-800/80 transition-all"
+          class="px-3.5 py-1.5 rounded text-sm font-medium text-neutral-300 hover:text-white hover:bg-neutral-800 transition-colors"
         >
           {item.name}
         </a>

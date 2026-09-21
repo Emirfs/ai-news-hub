@@ -21,25 +21,21 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
 ---
 
 <BaseLayout>
-  <!-- Newsroom Status & Ticker -->
-  <section class="mb-8 p-4 rounded-xl bg-[#0e1626] border border-slate-800 flex flex-wrap items-center justify-between gap-4 text-xs font-mono">
+  <!-- Newsroom Status Bar -->
+  <section class="mb-8 p-3.5 rounded bg-[#121214] border border-neutral-800 flex flex-wrap items-center justify-between gap-4 text-xs font-mono">
     <div class="flex items-center gap-6">
       <div class="flex items-center gap-2">
-        <span class="w-2 h-2 rounded-full bg-cyan-400"></span>
-        <span class="text-slate-400">Pipeline Status:</span>
-        <span class="text-emerald-400 font-semibold">Autonomous Active</span>
+        <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
+        <span class="text-neutral-400">Newsroom Status:</span>
+        <span class="text-neutral-200 font-semibold">Autonomous Active (Hourly)</span>
       </div>
       <div class="hidden sm:flex items-center gap-2">
-        <span class="text-slate-400">Intelligence Engine:</span>
-        <span class="text-slate-200">Gemini Flash (2.0)</span>
-      </div>
-      <div class="hidden md:flex items-center gap-2">
-        <span class="text-slate-400">Cadence:</span>
-        <span class="text-slate-200">Daily Updates + Weekly Digests</span>
+        <span class="text-neutral-400">Model Engine:</span>
+        <span class="text-neutral-200">Gemini Flash</span>
       </div>
     </div>
-    <div class="text-slate-400">
-      Total Dispatches: <strong class="text-cyan-400">{allNews.length}</strong>
+    <div class="text-neutral-400">
+      Total Indexed Dispatches: <strong class="text-white">{allNews.length}</strong>
     </div>
   </section>
 
@@ -58,11 +54,11 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
 
   <!-- Weekly Digest Spotlight (if any digest exists) -->
   {digests.length > 0 && (
-    <section class="mb-12 p-6 rounded-xl bg-gradient-to-r from-amber-950/20 via-[#131b2e] to-[#0e1626] border border-amber-500/30">
+    <section class="mb-12 p-6 rounded-lg bg-[#141416] border border-amber-500/30">
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4">
         <div class="flex items-center gap-2 font-mono text-sm font-bold text-amber-400 uppercase tracking-wider">
-          <span class="text-lg">📋</span>
-          Latest Executive AI Briefing
+          <span>📋</span>
+          Latest Executive Briefing
         </div>
         <a href="/digests" class="text-xs font-mono text-amber-400 hover:text-amber-300 flex items-center gap-1 font-semibold">
           View All Weekly Briefings →
@@ -72,15 +68,15 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
         {digests.slice(0, 2).map((digest) => (
           <a
             href={`/news/${digest.id.replace(/\.md$/, '')}`}
-            class="p-4 rounded-lg bg-[#090d16]/80 border border-amber-500/20 hover:border-amber-400/50 hover:bg-[#0c1424] transition-all block group"
+            class="p-4 rounded bg-[#0c0c0e] border border-neutral-800 hover:border-amber-500/40 transition-colors block group"
           >
             <div class="text-xs font-mono text-amber-400 mb-1">
               {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(digest.data.pubDate)}
             </div>
-            <h4 class="text-base font-bold text-white group-hover:text-amber-300 transition-colors line-clamp-2">
+            <h4 class="text-base font-bold text-white group-hover:text-amber-300 transition-colors line-clamp-2 font-newspaper">
               {digest.data.title}
             </h4>
-            <p class="text-xs text-slate-300 line-clamp-2 mt-2">
+            <p class="text-xs text-neutral-400 line-clamp-2 mt-2">
               {digest.data.description}
             </p>
           </a>
@@ -90,18 +86,18 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
   )}
 
   <!-- Category Filter Pill Bar -->
-  <section class="mb-8 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none">
-    <span class="text-xs font-mono uppercase text-slate-400 font-semibold mr-1 shrink-0">Filter:</span>
+  <section class="mb-8 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none border-b border-neutral-800 pb-4">
+    <span class="text-xs font-mono uppercase text-neutral-400 font-semibold mr-1 shrink-0">Filter Topic:</span>
     <a
       href="/"
-      class="px-3 py-1 rounded-full text-xs font-mono font-medium bg-cyan-500 text-slate-950 hover:bg-cyan-400 transition-colors shrink-0"
+      class="px-3 py-1 rounded text-xs font-mono font-medium bg-white text-black transition-colors shrink-0"
     >
-      All Feed
+      All Dispatches
     </a>
     {categories.map((cat) => (
       <a
         href={`/categories/${encodeURIComponent(cat)}`}
-        class="px-3 py-1 rounded-full text-xs font-mono font-medium bg-slate-800/80 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700/60 transition-colors shrink-0"
+        class="px-3 py-1 rounded text-xs font-mono font-medium bg-neutral-800/80 hover:bg-neutral-700 text-neutral-300 hover:text-white border border-neutral-700/60 transition-colors shrink-0"
       >
         {cat}
       </a>
@@ -110,11 +106,11 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
 
   <!-- News Grid -->
   <section>
-    <div class="flex items-center justify-between mb-6 pb-2 border-b border-slate-800">
-      <h2 class="text-xl font-bold font-mono text-white tracking-wide uppercase flex items-center gap-2">
-        <span class="text-cyan-400">⚡</span> Frontier Dispatches
+    <div class="flex items-center justify-between mb-6 pb-2 border-b border-neutral-800">
+      <h2 class="text-xl font-bold font-newspaper text-white tracking-wide uppercase flex items-center gap-2">
+        <span class="text-amber-400">⚡</span> Frontier Dispatches
       </h2>
-      <span class="text-xs font-mono text-slate-400">
+      <span class="text-xs font-mono text-neutral-400">
         Showing {gridArticles.length + (leadStory ? 1 : 0)} Reports
       </span>
     </div>
