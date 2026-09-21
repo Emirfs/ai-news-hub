@@ -380,22 +380,28 @@ const defaultData = {
     if (openSourceBtn) openSourceBtn.textContent = ui.openSourceBtn;
     if (bottomPrompt) bottomPrompt.textContent = ui.bottomPrompt;
 
-    // 4. Update Section Headers (h3)
-    const sectionMap = SECTION_TITLES[lang] || {};
-    document.querySelectorAll('.article-prose h3').forEach(h3 => {
-      const origText = h3.getAttribute('data-orig-text') || h3.textContent.trim();
-      if (!h3.getAttribute('data-orig-text')) {
-        h3.setAttribute('data-orig-text', origText);
+    // 4. Update FULL Article Body (all paragraphs, sections, lists)
+    const proseEl = document.querySelector('.article-prose');
+    if (proseEl) {
+      if (!proseEl.hasAttribute('data-orig-html')) {
+        proseEl.setAttribute('data-orig-html', proseEl.innerHTML);
       }
       if (lang === 'en') {
-        h3.textContent = origText;
-      } else if (sectionMap[origText]) {
-        h3.textContent = sectionMap[origText];
+        proseEl.innerHTML = proseEl.getAttribute('data-orig-html');
+      } else if (articleTranslations[lang] && articleTranslations[lang].body_html) {
+        proseEl.innerHTML = articleTranslations[lang].body_html;
       }
-    });
+    }
 
     localStorage.setItem('site_lang', lang);
   }
+
+  // Also listen for language change events dispatched from header
+  window.addEventListener('pageLanguageChanged', (e) => {
+    if (e.detail && e.detail.lang) {
+      applyLanguage(e.detail.lang);
+    }
+  });
 
   // Hook up button clicks
   document.querySelectorAll('.article-lang-btn').forEach(btn => {

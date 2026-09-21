@@ -11,7 +11,7 @@ const currentYear = new Date().getFullYear();
       <div class="flex items-center gap-2 font-newspaper text-2xl font-bold text-[var(--text-headline)] tracking-wider">
         <span class="text-[var(--accent-editorial)]">⚡</span> NEURAL PULSE
       </div>
-      <p class="text-sm text-[var(--text-muted)] max-w-md leading-relaxed">
+      <p class="text-sm text-[var(--text-muted)] max-w-md leading-relaxed" data-i18n="footerDesc">
         The autonomous artificial intelligence journal. Monitoring frontier AI research, open-source model releases, and hardware scaling hourly. Distilled and published without human intervention.
       </p>
       <div class="flex items-center gap-3 pt-2 text-xs font-mono text-[var(--text-muted)]">
@@ -25,19 +25,23 @@ const currentYear = new Date().getFullYear();
 
     <!-- Navigation with getPath -->
     <div>
-      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-[var(--text-headline)] mb-3">Navigation</h3>
+      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-[var(--text-headline)] mb-3" data-i18n="navigationHeading">
+        Navigation
+      </h3>
       <ul class="space-y-2 text-sm">
-        <li><a href={getPath('/')} class="hover:text-[var(--accent-editorial)] transition-colors">Latest News</a></li>
-        <li><a href={getPath('/digests/')} class="hover:text-[var(--accent-editorial)] transition-colors">Weekly Briefings</a></li>
-        <li><a href={getPath('/categories/')} class="hover:text-[var(--accent-editorial)] transition-colors">Topics & Categories</a></li>
-        <li><a href={getPath('/about/')} class="hover:text-[var(--accent-editorial)] transition-colors">Pipeline Architecture</a></li>
-        <li><a href={getPath('/rss.xml')} class="hover:text-[var(--accent-editorial)] transition-colors">RSS Feed (XML)</a></li>
+        <li><a href={getPath('/')} class="hover:text-[var(--accent-editorial)] transition-colors" data-i18n="latestNews">Latest News</a></li>
+        <li><a href={getPath('/digests/')} class="hover:text-[var(--accent-editorial)] transition-colors" data-i18n="weeklyDigests">Weekly Briefings</a></li>
+        <li><a href={getPath('/categories/')} class="hover:text-[var(--accent-editorial)] transition-colors" data-i18n="categories">Topics & Categories</a></li>
+        <li><a href={getPath('/about/')} class="hover:text-[var(--accent-editorial)] transition-colors" data-i18n="about">Pipeline Architecture</a></li>
+        <li><a href={getPath('/rss.xml')} class="hover:text-[var(--accent-editorial)] transition-colors" data-i18n="rss">RSS Feed (XML)</a></li>
       </ul>
     </div>
 
     <!-- Data Sources Monitored -->
     <div>
-      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-[var(--text-headline)] mb-3">Sourced Feeds</h3>
+      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-[var(--text-headline)] mb-3" data-i18n="sourcesHeading">
+        Sourced Feeds
+      </h3>
       <ul class="space-y-1.5 text-xs text-[var(--text-muted)] font-mono">
         <li>• OpenAI & Anthropic Wire</li>
         <li>• DeepSeek Open Releases</li>
@@ -49,7 +53,7 @@ const currentYear = new Date().getFullYear();
   </div>
 
   <div class="max-w-7xl mx-auto mt-10 pt-6 border-t border-[var(--border-subtle)] flex flex-col sm:flex-row items-center justify-between text-xs text-[var(--text-muted)]">
-    <p>© {currentYear} Neural Pulse. Autonomous news synthesis. All sources cited directly.</p>
-    <p class="mt-2 sm:mt-0 font-mono">Published via GitHub Pages</p>
+    <p>© {currentYear} <span data-i18n="footerRights">Neural Pulse. Autonomous news synthesis. All sources cited directly.</span></p>
+    <p class="mt-2 sm:mt-0 font-mono" data-i18n="footerPublished">Published via GitHub Pages</p>
   </div>
 </footer>

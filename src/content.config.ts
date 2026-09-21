@@ -20,6 +20,7 @@ const news = defineCollection({
         title: z.string(),
         description: z.string(),
         keyTakeaways: z.array(z.string()).default([]),
+        body_html: z.string().optional(),
       })
     ).optional(),
   }),

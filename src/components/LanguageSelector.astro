@@ -3,7 +3,7 @@ const languages = [
   { code: 'en', name: 'English', flag: '🇬🇧' },
   { code: 'tr', name: 'Türkçe', flag: '🇹🇷' },
   { code: 'es', name: 'Español', flag: '🇪🇸' },
-  { code: 'zh-CN', name: '中文', flag: '🇨🇳' },
+  { code: 'zh', name: '中文', flag: '🇨🇳' },
   { code: 'it', name: 'Italiano', flag: '🇮🇹' },
   { code: 'de', name: 'Deutsch', flag: '🇩🇪' },
 ];
@@ -47,33 +47,9 @@ const languages = [
   </div>
 </div>
 
-<!-- Hidden Google Translate Element Anchor -->
-<div id="google_translate_element" class="hidden"></div>
-
 <script is:inline>
-  // Google Translate Integration for EN, TR, ES, ZH, IT, DE
-  function googleTranslateElementInit() {
-    new google.translate.TranslateElement({
-      pageLanguage: 'en',
-      includedLanguages: 'en,tr,es,zh-CN,it,de',
-      autoDisplay: false,
-      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-    }, 'google_translate_element');
-  }
-
-  // Load Google Translate script asynchronously
-  if (!document.getElementById('google-translate-script')) {
-    const s = document.createElement('script');
-    s.id = 'google-translate-script';
-    s.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-    document.head.appendChild(s);
-  }
-
-  // Toggle Dropdown
   const langBtn = document.getElementById('lang-menu-button');
   const langDropdown = document.getElementById('lang-dropdown');
-  const flagSpan = document.getElementById('current-lang-flag');
-  const labelSpan = document.getElementById('current-lang-label');
 
   if (langBtn && langDropdown) {
     langBtn.addEventListener('click', (e) => {
@@ -88,38 +64,13 @@ const languages = [
     document.querySelectorAll('.lang-option').forEach(btn => {
       btn.addEventListener('click', (e) => {
         const langCode = btn.getAttribute('data-lang');
-        const flag = btn.getAttribute('data-flag');
-        const name = btn.getAttribute('data-name');
-
-        if (flagSpan) flagSpan.textContent = flag;
-        if (labelSpan) labelSpan.textContent = langCode.toUpperCase().slice(0, 2);
-
-        localStorage.setItem('site_lang', langCode);
-
-        // Trigger Google Translate select
-        const combo = document.querySelector('.goog-te-combo');
-        if (combo) {
-          combo.value = langCode === 'en' ? '' : langCode;
-          combo.dispatchEvent(new Event('change'));
+        if (window.setSiteLanguage) {
+          window.setSiteLanguage(langCode);
+        } else {
+          localStorage.setItem('site_lang', langCode);
         }
-
         langDropdown.classList.add('hidden');
       });
     });
-
-    // Restore saved language
-    const savedLang = localStorage.getItem('site_lang') || 'en';
-    const langMap = {
-      'en': { flag: '🇬🇧', label: 'EN' },
-      'tr': { flag: '🇹🇷', label: 'TR' },
-      'es': { flag: '🇪🇸', label: 'ES' },
-      'zh-CN': { flag: '🇨🇳', label: 'ZH' },
-      'it': { flag: '🇮🇹', label: 'IT' },
-      'de': { flag: '🇩🇪', label: 'DE' }
-    };
-    if (langMap[savedLang]) {
-      if (flagSpan) flagSpan.textContent = langMap[savedLang].flag;
-      if (labelSpan) labelSpan.textContent = langMap[savedLang].label;
-    }
   }
 </script>

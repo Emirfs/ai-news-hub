@@ -3,12 +3,12 @@ import { getPath } from '../utils/url';
 import LanguageSelector from './LanguageSelector.astro';
 
 const navItems = [
-  { name: 'Latest News', href: '/' },
-  { name: 'Trending Repos', href: '#trending-repos' },
-  { name: 'Emerging AI', href: '#indie-launchpad' },
-  { name: 'Weekly Digests', href: '/digests/' },
-  { name: 'Categories', href: '/categories/' },
-  { name: 'About', href: '/about/' },
+  { key: 'latestNews', name: 'Latest News', href: '/' },
+  { key: 'trendingRepos', name: 'Trending Repos', href: '#trending-repos' },
+  { key: 'emergingAi', name: 'Emerging AI', href: '#indie-launchpad' },
+  { key: 'weeklyDigests', name: 'Weekly Digests', href: '/digests/' },
+  { key: 'categories', name: 'Categories', href: '/categories/' },
+  { key: 'about', name: 'About', href: '/about/' },
 ];
 
 const todayStr = new Intl.DateTimeFormat('en-US', {
@@ -30,7 +30,7 @@ const todayStr = new Intl.DateTimeFormat('en-US', {
             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-500 opacity-75"></span>
             <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
           </span>
-          Autonomous AI Wire
+          <span data-i18n="hourlyActive">Autonomous AI Wire</span>
         </span>
         <span class="hidden sm:inline text-[var(--border-strong)]">|</span>
         <span class="hidden sm:inline font-mono text-[var(--text-muted)]">{todayStr} (UTC)</span>
@@ -55,7 +55,7 @@ const todayStr = new Intl.DateTimeFormat('en-US', {
           <svg class="w-3.5 h-3.5 text-amber-500" fill="currentColor" viewBox="0 0 24 24">
             <path d="M6.18 15.64a2.18 2.18 0 1 1-2.18 2.18 2.18 2.18 0 0 1 2.18-2.18zm0-6.1a8.28 8.28 0 0 1 8.28 8.28h-2.92a5.36 5.36 0 0 0-5.36-5.36zm0-6.1A14.38 14.38 0 0 1 20.56 17.82h-2.92a11.46 11.46 0 0 0-11.46-11.46z"/>
           </svg>
-          RSS
+          <span data-i18n="rss">RSS</span>
         </a>
       </div>
     </div>
@@ -75,14 +75,14 @@ const todayStr = new Intl.DateTimeFormat('en-US', {
       </a>
     </div>
 
-    <!-- Navigation links with proper getPath -->
+    <!-- Navigation links with proper getPath and data-i18n -->
     <nav class="flex flex-wrap items-center gap-1.5 sm:gap-2">
       {navItems.map((item) => (
         <a
           href={item.href.startsWith('#') ? item.href : getPath(item.href)}
           class="px-3.5 py-1.5 rounded text-sm font-medium text-[var(--text-headline)] hover:bg-[var(--bg-card)] hover:text-[var(--accent-editorial)] transition-colors"
         >
-          {item.name}
+          <span data-i18n={item.key}>{item.name}</span>
         </a>
       ))}
     </nav>
