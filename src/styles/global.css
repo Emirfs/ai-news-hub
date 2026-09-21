@@ -3,7 +3,7 @@
 /* ========================================================
    Editorial Newspaper Design System — Zero Blue!
    White Mode (Default) & Midnight Dark Mode
-   Inspired by NYTimes, The Verge, Reuters & BBC News
+   High Legibility Typography with Full CJK & Unicode Support
    ======================================================== */
 
 :root {
@@ -43,16 +43,17 @@ html.dark, html[data-theme="dark"] {
 body {
   background-color: var(--bg-primary);
   color: var(--text-body);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  /* Comprehensive font stack supporting Latin, Turkish diacritics, and CJK (Chinese) without tofu boxes */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", "Hiragino Sans GB", "Noto Sans", Arial, sans-serif;
   min-height: 100vh;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-/* Editorial Newspaper Headlines font */
+/* Editorial Newspaper Headlines with Unicode & Chinese Fallback */
 .font-newspaper {
-  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  font-family: Charter, "Sitka Text", Georgia, Cambria, "Times New Roman", "PingFang SC", "Microsoft YaHei", "Noto Serif", serif;
 }
 
 /* 720px optimal eye tracking column */
@@ -78,7 +79,7 @@ body {
   margin-bottom: 1rem;
   padding-bottom: 0.4rem;
   border-bottom: 1px solid var(--border-subtle);
-  font-family: Charter, "Bitstream Charter", Cambria, Georgia, serif;
+  font-family: Charter, "Sitka Text", Georgia, Cambria, "PingFang SC", "Microsoft YaHei", serif;
   letter-spacing: -0.02em;
 }
 
@@ -88,7 +89,7 @@ body {
   font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  font-family: Charter, "Bitstream Charter", Cambria, Georgia, serif;
+  font-family: Charter, "Sitka Text", Georgia, Cambria, "PingFang SC", "Microsoft YaHei", serif;
   letter-spacing: -0.015em;
 }
 

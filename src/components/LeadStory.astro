@@ -31,7 +31,7 @@ const formattedDate = new Intl.DateTimeFormat('en-US', {
 const articleUrl = getPath(`/news/${slug}/`);
 ---
 
-<section class="border-b border-[var(--border-subtle)] pb-12 mb-12">
+<section class="border-b border-[var(--border-subtle)] pb-12 mb-12" data-news-id={slug}>
   <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
     <div class="lg:col-span-8 space-y-4">
       <div class="flex items-center gap-2.5 text-xs font-mono">
@@ -44,12 +44,12 @@ const articleUrl = getPath(`/news/${slug}/`);
       </div>
 
       <h1 class="text-3xl sm:text-5xl font-bold text-[var(--text-headline)] tracking-tight leading-[1.18] font-newspaper hover:text-[var(--accent-editorial)] transition-colors">
-        <a href={articleUrl}>
+        <a href={articleUrl} data-news-title>
           {title}
         </a>
       </h1>
 
-      <p class="text-lg sm:text-xl text-[var(--text-body)] leading-relaxed font-sans max-w-3xl">
+      <p class="text-lg sm:text-xl text-[var(--text-body)] leading-relaxed font-sans max-w-3xl" data-news-desc>
         {description}
       </p>
 
@@ -82,7 +82,7 @@ const articleUrl = getPath(`/news/${slug}/`);
           {keyTakeaways.slice(0, 3).map((item) => (
             <li class="flex items-start gap-2.5 leading-relaxed">
               <span class="text-[var(--accent-editorial)] font-bold mt-0.5">▸</span>
-              <span>{item}</span>
+              <span data-news-takeaway>{item}</span>
             </li>
           ))}
         </ul>

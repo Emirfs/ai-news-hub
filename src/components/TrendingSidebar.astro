@@ -25,20 +25,20 @@ const { articles } = Astro.props;
 
   <ol class="divide-y divide-[var(--border-subtle)]">
     {articles.slice(0, 5).map((article, idx) => (
-      <li class="py-3.5 flex items-start gap-3.5 group">
+      <li class="py-3.5 flex items-start gap-3.5 group" data-news-id={article.id.replace(/\.md$/, '')}>
         <span class="text-2xl font-black font-newspaper text-[var(--number-color)] group-hover:text-[var(--accent-editorial)] transition-colors leading-none shrink-0 w-7">
           0{idx + 1}
         </span>
         <div class="space-y-1">
           <div class="flex items-center gap-2 text-[11px] font-mono text-[var(--text-muted)]">
-            <span class="text-[var(--text-headline)] font-medium">{article.data.category}</span>
+            <span class="text-[var(--text-headline)] font-medium" data-category={article.data.category}>{article.data.category}</span>
             <span>•</span>
             <time datetime={article.data.pubDate.toISOString()}>
               {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric' }).format(article.data.pubDate)}
             </time>
           </div>
           <h4 class="text-sm sm:text-base font-bold text-[var(--text-headline)] group-hover:text-[var(--accent-editorial)] transition-colors font-newspaper leading-snug">
-            <a href={getPath(`/news/${article.id.replace(/\.md$/, '')}/`)}>
+            <a href={getPath(`/news/${article.id.replace(/\.md$/, '')}/`)} data-news-title>
               {article.data.title}
             </a>
           </h4>

@@ -23,6 +23,20 @@ const trendingArticles = regularArticles.slice(1, 6);
 const wireArticles = regularArticles.slice(1);
 
 const categories = Array.from(new Set(allNews.map((item) => item.data.category)));
+
+// Build news translations map for client-side live homepage translation
+const newsTranslations: Record<string, any> = {};
+allNews.forEach((item) => {
+  const slug = item.id.replace(/\.md$/, '');
+  newsTranslations[slug] = {
+    en: {
+      title: item.data.title,
+      description: item.data.description,
+      keyTakeaways: item.data.keyTakeaways || [],
+    },
+    ...(item.data.translations || {}),
+  };
+});
 ---
 
 <BaseLayout>
@@ -95,14 +109,15 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
           <a
             href={getPath(`/news/${digest.id.replace(/\.md$/, '')}/`)}
             class="p-4 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-editorial)] transition-colors block group"
+            data-news-id={digest.id.replace(/\.md$/, '')}
           >
             <div class="text-xs font-mono text-[var(--accent-editorial)] mb-1">
               {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(digest.data.pubDate)}
             </div>
-            <h4 class="text-base font-bold text-[var(--text-headline)] group-hover:text-[var(--accent-editorial)] transition-colors line-clamp-2 font-newspaper">
+            <h4 class="text-base font-bold text-[var(--text-headline)] group-hover:text-[var(--accent-editorial)] transition-colors line-clamp-2 font-newspaper" data-news-title>
               {digest.data.title}
             </h4>
-            <p class="text-xs text-[var(--text-muted)] line-clamp-2 mt-2 font-sans">
+            <p class="text-xs text-[var(--text-muted)] line-clamp-2 mt-2 font-sans" data-news-desc>
               {digest.data.description}
             </p>
           </a>
@@ -159,3 +174,49 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
     </div>
   </section>
 </BaseLayout>
+
+<script define:vars={{ newsTranslations }}>
+  function updateHomepageNews(lang) {
+    if (!lang) return;
+
+    document.querySelectorAll('[data-news-id]').forEach((el) => {
+      const id = el.getAttribute('data-news-id');
+      if (!id || !newsTranslations[id]) return;
+
+      const data = (lang !== 'en' && newsTranslations[id][lang])
+        ? newsTranslations[id][lang]
+        : newsTranslations[id].en;
+
+      if (!data) return;
+
+      const titleEl = el.querySelector('[data-news-title]');
+      const descEl = el.querySelector('[data-news-desc]');
+      const takeawayEl = el.querySelector('[data-news-takeaway]');
+
+      if (titleEl && data.title) {
+        titleEl.textContent = data.title;
+      }
+      if (descEl && data.description) {
+        descEl.textContent = data.description;
+      }
+      if (takeawayEl && data.keyTakeaways && data.keyTakeaways[0]) {
+        takeawayEl.textContent = data.keyTakeaways[0];
+      }
+    });
+  }
+
+  // Listen for language change events dispatched from header
+  window.addEventListener('pageLanguageChanged', (e) => {
+    if (e.detail && e.detail.lang) {
+      updateHomepageNews(e.detail.lang);
+    }
+  });
+
+  // Run on load if saved language is not English
+  document.addEventListener('DOMContentLoaded', () => {
+    const saved = localStorage.getItem('site_lang') || 'en';
+    if (saved && saved !== 'en') {
+      updateHomepageNews(saved);
+    }
+  });
+</script>
