@@ -1,7 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import NewsCard from '../components/NewsCard.astro';
+import NewsListItem from '../components/NewsListItem.astro';
+import { getPath } from '../utils/url';
 
 const allNews = await getCollection('news');
 const digests = allNews
@@ -13,35 +14,34 @@ const digests = allNews
   title="Weekly Briefings & Executive Digests | Neural Pulse"
   description="High-density weekly intelligence briefings synthesizing frontier artificial intelligence research and industry trends."
 >
-  <div class="max-w-5xl mx-auto py-4">
+  <div class="max-w-4xl mx-auto py-4">
     <!-- Header -->
-    <header class="mb-10 border-b border-neutral-800 pb-6">
-      <div class="flex items-center gap-2 text-xs font-mono font-bold text-amber-400 uppercase tracking-wider mb-2">
+    <header class="mb-10 border-b border-[var(--border-subtle)] pb-6">
+      <div class="flex items-center gap-2 text-xs font-mono font-bold text-[var(--accent-editorial)] uppercase tracking-wider mb-2">
         <span>📋</span> Deep Intelligence
       </div>
-      <h1 class="text-3xl sm:text-4xl font-bold text-white tracking-tight font-newspaper">
+      <h1 class="text-3xl sm:text-4xl font-bold text-[var(--text-headline)] tracking-tight font-newspaper">
         Weekly AI Briefings & Digests
       </h1>
-      <p class="text-base text-neutral-300 mt-2 max-w-2xl">
+      <p class="text-base text-[var(--text-body)] mt-2 max-w-2xl">
         Every week, our autonomous agent synthesizes research preprints, technical release notes, and developer discussions into an executive briefing.
       </p>
     </header>
 
-    <!-- Digests Grid -->
+    <!-- Digests List -->
     {digests.length === 0 ? (
-      <div class="text-center py-16 text-neutral-400 font-mono">
+      <div class="text-center py-16 text-[var(--text-muted)] font-mono">
         No weekly briefings published yet. Next edition scheduled for Sunday 18:00 UTC.
       </div>
     ) : (
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="divide-y divide-[var(--border-subtle)]">
         {digests.map((digest) => (
-          <NewsCard
+          <NewsListItem
             title={digest.data.title}
             description={digest.data.description}
             slug={digest.id.replace(/\.md$/, '')}
             pubDate={digest.data.pubDate}
             category={digest.data.category}
-            tags={digest.data.tags}
             sourceName={digest.data.sourceName}
             sourceUrl={digest.data.sourceUrl}
             keyTakeaways={digest.data.keyTakeaways}

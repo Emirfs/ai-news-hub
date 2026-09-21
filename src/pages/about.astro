@@ -1,30 +1,31 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getPath } from '../utils/url';
 ---
 
 <BaseLayout
   title="About the Autonomous AI Newsroom | Neural Pulse"
   description="Learn how Neural Pulse monitors, curates, verifies, and publishes AI and technology news without human intervention."
 >
-  <div class="max-w-3xl mx-auto py-4">
-    <header class="mb-10 border-b border-neutral-800 pb-6">
-      <div class="text-xs font-mono font-bold text-neutral-400 uppercase tracking-wider mb-2">
+  <div class="reading-column py-6">
+    <header class="mb-10 border-b border-[var(--border-subtle)] pb-6">
+      <div class="text-xs font-mono font-bold text-[var(--accent-editorial)] uppercase tracking-wider mb-2">
         <span>⚡</span> Transparency & Architecture
       </div>
-      <h1 class="text-3xl sm:text-4xl font-bold text-white tracking-tight font-newspaper">
+      <h1 class="text-3xl sm:text-4xl font-bold text-[var(--text-headline)] tracking-tight font-newspaper">
         How Neural Pulse Operates
       </h1>
-      <p class="text-base text-neutral-300 mt-2">
+      <p class="text-base text-[var(--text-body)] mt-2">
         Neural Pulse is a 100% autonomous, agent-operated technology publication running on GitHub Actions, Google Gemini Flash, and Astro.
       </p>
     </header>
 
-    <div class="space-y-10 text-neutral-300 text-base leading-relaxed">
+    <div class="space-y-10 text-[var(--text-body)] text-base leading-relaxed">
       <!-- Pipeline Diagram -->
-      <section class="p-6 rounded bg-[#141416] border border-neutral-800 font-mono text-xs text-neutral-300 overflow-x-auto">
-        <p class="font-bold text-neutral-400 uppercase mb-3">// Autonomous Pipeline Flow</p>
-        <pre class="bg-transparent p-0 text-neutral-300 font-mono">
-[RSS Feeds: arXiv, HF, TechCrunch, HN]
+      <section class="p-6 rounded bg-[var(--bg-card)] border border-[var(--border-subtle)] font-mono text-xs text-[var(--text-body)] overflow-x-auto">
+        <p class="font-bold text-[var(--accent-editorial)] uppercase mb-3">// Autonomous Pipeline Flow</p>
+        <pre class="bg-transparent p-0 text-[var(--text-body)] font-mono">
+[Feeds: OpenAI, Anthropic, DeepSeek, Gemini, arXiv]
                    │
                    ▼ (Hourly Cron via GitHub Actions)
     [Ingestion & Deduplication Engine]
@@ -48,19 +49,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       <!-- Step 1 -->
       <section>
-        <h2 class="text-2xl font-bold text-white mb-3 flex items-center gap-2 font-newspaper">
-          <span class="w-7 h-7 rounded bg-neutral-900 text-neutral-200 border border-neutral-700 flex items-center justify-center font-mono text-xs font-bold">1</span>
+        <h2 class="text-2xl font-bold text-[var(--text-headline)] mb-3 flex items-center gap-2 font-newspaper">
+          <span class="w-7 h-7 rounded bg-[var(--bg-card)] text-[var(--accent-editorial)] border border-[var(--border-strong)] flex items-center justify-center font-mono text-xs font-bold">1</span>
           Continuous Source Monitoring
         </h2>
         <p>
-          The pipeline monitors arXiv preprints, Hugging Face Daily Papers, and technical developer streams every hour.
+          The pipeline monitors OpenAI, Anthropic Claude, DeepSeek, Google Gemini / DeepMind, and arXiv preprints every hour.
         </p>
       </section>
 
       <!-- Step 2 -->
       <section>
-        <h2 class="text-2xl font-bold text-white mb-3 flex items-center gap-2 font-newspaper">
-          <span class="w-7 h-7 rounded bg-neutral-900 text-neutral-200 border border-neutral-700 flex items-center justify-center font-mono text-xs font-bold">2</span>
+        <h2 class="text-2xl font-bold text-[var(--text-headline)] mb-3 flex items-center gap-2 font-newspaper">
+          <span class="w-7 h-7 rounded bg-[var(--bg-card)] text-[var(--accent-editorial)] border border-[var(--border-strong)] flex items-center justify-center font-mono text-xs font-bold">2</span>
           Deduplication & Signal Filtering
         </h2>
         <p>
@@ -70,8 +71,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       <!-- Step 3 -->
       <section>
-        <h2 class="text-2xl font-bold text-white mb-3 flex items-center gap-2 font-newspaper">
-          <span class="w-7 h-7 rounded bg-neutral-900 text-neutral-200 border border-neutral-700 flex items-center justify-center font-mono text-xs font-bold">3</span>
+        <h2 class="text-2xl font-bold text-[var(--text-headline)] mb-3 flex items-center gap-2 font-newspaper">
+          <span class="w-7 h-7 rounded bg-[var(--bg-card)] text-[var(--accent-editorial)] border border-[var(--border-strong)] flex items-center justify-center font-mono text-xs font-bold">3</span>
           Frontier LLM Editorial Synthesis
         </h2>
         <p>
@@ -81,8 +82,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       <!-- Step 4 -->
       <section>
-        <h2 class="text-2xl font-bold text-white mb-3 flex items-center gap-2 font-newspaper">
-          <span class="w-7 h-7 rounded bg-neutral-900 text-neutral-200 border border-neutral-700 flex items-center justify-center font-mono text-xs font-bold">4</span>
+        <h2 class="text-2xl font-bold text-[var(--text-headline)] mb-3 flex items-center gap-2 font-newspaper">
+          <span class="w-7 h-7 rounded bg-[var(--bg-card)] text-[var(--accent-editorial)] border border-[var(--border-strong)] flex items-center justify-center font-mono text-xs font-bold">4</span>
           Direct Markdown Preservation
         </h2>
         <p>

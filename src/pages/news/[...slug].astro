@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getPath } from '../../utils/url';
 
 export async function getStaticPaths() {
   const newsEntries = await getCollection('news');
@@ -14,7 +15,6 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 
 const allNews = await getCollection('news');
-// Find related articles (same category or recent, excluding current)
 const relatedArticles = allNews
   .filter((item) => item.id !== entry.id)
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
@@ -32,28 +32,17 @@ const wordCount = (entry.body || '').split(/\s+/).length + entry.data.descriptio
 const readingTimeMin = Math.max(1, Math.ceil(wordCount / 180));
 
 const articleTitle = `${entry.data.title} | Neural Pulse`;
-
-// Category badge styles (zero blue)
-const categoryBadgeClass: Record<string, string> = {
-  'LLMs & Foundation Models': 'text-amber-300 border-amber-500/30 bg-amber-500/10',
-  'Robotics & Hardware': 'text-emerald-300 border-emerald-500/30 bg-emerald-500/10',
-  'AI Research': 'text-purple-300 border-purple-500/30 bg-purple-500/10',
-  'Open Source AI': 'text-teal-300 border-teal-500/30 bg-teal-500/10',
-  'Weekly Digest': 'text-amber-400 border-amber-500/40 bg-amber-500/15',
-};
-
-const badgeClass = categoryBadgeClass[entry.data.category] || 'text-neutral-300 border-neutral-700 bg-neutral-800';
 ---
 
 <BaseLayout title={articleTitle} description={entry.data.description} articleDate={entry.data.pubDate.toISOString()}>
   <article class="reading-column py-6">
     <!-- Breadcrumb & Back Link -->
-    <nav class="flex items-center justify-between text-xs font-mono text-neutral-400 mb-8 border-b border-neutral-800 pb-3">
-      <a href="/" class="hover:text-amber-400 transition-colors inline-flex items-center gap-1.5 font-medium">
+    <nav class="flex items-center justify-between text-xs font-mono text-[var(--text-muted)] mb-8 border-b border-[var(--border-subtle)] pb-3">
+      <a href={getPath('/')} class="hover:text-[var(--accent-editorial)] transition-colors inline-flex items-center gap-1.5 font-medium">
         <span>←</span>
         <span>Back to Dispatches</span>
       </a>
-      <a href={`/categories/${encodeURIComponent(entry.data.category)}`} class="text-neutral-400 hover:text-white transition-colors">
+      <a href={getPath(`/categories/${encodeURIComponent(entry.data.category)}/`)} class="text-[var(--text-muted)] hover:text-[var(--text-headline)] transition-colors">
         {entry.data.category}
       </a>
     </nav>
@@ -61,32 +50,32 @@ const badgeClass = categoryBadgeClass[entry.data.category] || 'text-neutral-300 
     <!-- Article Header -->
     <header class="mb-10 space-y-4">
       <div class="flex flex-wrap items-center gap-3 text-xs font-mono">
-        <span class={`px-2.5 py-0.5 rounded border text-[11px] font-bold uppercase tracking-wider ${badgeClass}`}>
+        <span class="px-2.5 py-0.5 rounded border border-[var(--border-strong)] bg-[var(--badge-bg)] text-[var(--badge-text)] text-[11px] font-bold uppercase tracking-wider">
           {entry.data.category}
         </span>
-        <time datetime={entry.data.pubDate.toISOString()} class="text-neutral-400">
+        <time datetime={entry.data.pubDate.toISOString()} class="text-[var(--text-muted)]">
           {formattedDate}
         </time>
-        <span class="text-neutral-600">•</span>
-        <span class="text-neutral-400">
+        <span class="text-[var(--border-strong)]">•</span>
+        <span class="text-[var(--text-muted)]">
           {readingTimeMin} min read
         </span>
       </div>
 
       <!-- Main Headline -->
-      <h1 class="text-3xl sm:text-4xl lg:text-[2.75rem] font-bold text-white tracking-tight leading-[1.18] font-editorial">
+      <h1 class="text-3xl sm:text-4xl lg:text-[2.75rem] font-bold text-[var(--text-headline)] tracking-tight leading-[1.18] font-newspaper">
         {entry.data.title}
       </h1>
 
       <!-- Lead Excerpt -->
-      <p class="text-lg sm:text-xl text-neutral-300 leading-relaxed font-sans pt-1">
+      <p class="text-lg sm:text-xl text-[var(--text-body)] leading-relaxed font-sans pt-1">
         {entry.data.description}
       </p>
 
       <!-- Byline & Primary Source Link -->
-      <div class="pt-3 border-t border-neutral-800/80 flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-neutral-400">
+      <div class="pt-3 border-t border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-[var(--text-muted)]">
         <div>
-          Reported by <span class="text-neutral-200 font-medium">{entry.data.author}</span>
+          Reported by <span class="text-[var(--text-headline)] font-medium">{entry.data.author}</span>
         </div>
         {entry.data.sourceUrl && (
           <div class="flex items-center gap-2">
@@ -95,7 +84,7 @@ const badgeClass = categoryBadgeClass[entry.data.category] || 'text-neutral-300 
               href={entry.data.sourceUrl}
               target="_blank"
               rel="noopener noreferrer"
-              class="inline-flex items-center gap-1 text-amber-400 hover:text-amber-300 font-medium underline underline-offset-2"
+              class="inline-flex items-center gap-1 text-[var(--accent-editorial)] hover:opacity-80 font-medium underline underline-offset-2"
             >
               <span>{entry.data.sourceName || 'Primary Document'}</span>
               <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -109,14 +98,14 @@ const badgeClass = categoryBadgeClass[entry.data.category] || 'text-neutral-300 
 
     <!-- Key Takeaways Callout Box -->
     {entry.data.keyTakeaways && entry.data.keyTakeaways.length > 0 && (
-      <section class="my-10 p-6 rounded-r-lg bg-[#141519] border-l-4 border-amber-500 border-y border-r border-neutral-800/80">
-        <div class="flex items-center gap-2 text-xs font-mono font-bold text-amber-400 uppercase tracking-wider mb-3.5">
+      <section class="my-10 p-6 rounded-r-lg bg-[var(--bg-card)] border-l-4 border-[var(--accent-editorial)] border-y border-r border-[var(--border-subtle)]">
+        <div class="flex items-center gap-2 text-xs font-mono font-bold text-[var(--accent-editorial)] uppercase tracking-wider mb-3.5">
           <span>⚡</span> Executive Summary & Key Signals
         </div>
-        <ul class="space-y-3 text-base text-neutral-200">
+        <ul class="space-y-3 text-base text-[var(--text-body)]">
           {entry.data.keyTakeaways.map((point: string) => (
             <li class="flex items-start gap-3 leading-relaxed">
-              <span class="text-amber-400 font-bold mt-1 text-sm">▸</span>
+              <span class="text-[var(--accent-editorial)] font-bold mt-1 text-sm">▸</span>
               <span>{point}</span>
             </li>
           ))}
@@ -131,10 +120,10 @@ const badgeClass = categoryBadgeClass[entry.data.category] || 'text-neutral-300 
 
     <!-- Tags -->
     {entry.data.tags && entry.data.tags.length > 0 && (
-      <footer class="mt-14 pt-6 border-t border-neutral-800 flex flex-wrap items-center gap-2">
-        <span class="text-xs font-mono text-neutral-400 mr-2">Filed under:</span>
+      <footer class="mt-14 pt-6 border-t border-[var(--border-subtle)] flex flex-wrap items-center gap-2">
+        <span class="text-xs font-mono text-[var(--text-muted)] mr-2">Filed under:</span>
         {entry.data.tags.map((tag: string) => (
-          <span class="px-2.5 py-1 rounded bg-neutral-900 border border-neutral-800 text-xs font-mono text-neutral-300">
+          <span class="px-2.5 py-1 rounded bg-[var(--bg-card)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--text-muted)]">
             #{tag}
           </span>
         ))}
@@ -143,20 +132,20 @@ const badgeClass = categoryBadgeClass[entry.data.category] || 'text-neutral-300 
 
     <!-- Continue Reading / Related Stories -->
     {relatedArticles.length > 0 && (
-      <section class="mt-16 pt-10 border-t border-neutral-800">
-        <h3 class="text-sm font-mono font-bold uppercase tracking-wider text-neutral-400 mb-6 flex items-center gap-2">
+      <section class="mt-16 pt-10 border-t border-[var(--border-subtle)]">
+        <h3 class="text-sm font-mono font-bold uppercase tracking-wider text-[var(--text-muted)] mb-6 flex items-center gap-2">
           <span>◆</span> Continue Reading Frontier News
         </h3>
         <div class="space-y-4">
           {relatedArticles.map((item) => (
             <a
-              href={`/news/${item.id.replace(/\.md$/, '')}`}
-              class="p-4 rounded-lg bg-[#121316] border border-neutral-800 hover:border-neutral-700 transition-colors block group"
+              href={getPath(`/news/${item.id.replace(/\.md$/, '')}/`)}
+              class="p-4 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--border-strong)] transition-colors block group"
             >
-              <div class="text-xs font-mono text-neutral-400 mb-1">
+              <div class="text-xs font-mono text-[var(--text-muted)] mb-1">
                 {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(item.data.pubDate)} • {item.data.category}
               </div>
-              <h4 class="text-base font-bold text-white group-hover:text-amber-400 transition-colors font-editorial">
+              <h4 class="text-base font-bold text-[var(--text-headline)] group-hover:text-[var(--accent-editorial)] transition-colors font-newspaper">
                 {item.data.title}
               </h4>
             </a>

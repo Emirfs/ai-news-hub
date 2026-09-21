@@ -4,6 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import LeadStory from '../components/LeadStory.astro';
 import NewsListItem from '../components/NewsListItem.astro';
 import NewsCard from '../components/NewsCard.astro';
+import { getPath } from '../utils/url';
 
 const allNews = await getCollection('news');
 
@@ -24,21 +25,21 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
 
 <BaseLayout>
   <!-- Newsroom Status Ticker -->
-  <section class="mb-10 py-2.5 px-4 rounded bg-[#121316] border border-neutral-800/80 flex flex-wrap items-center justify-between gap-4 text-xs font-mono text-neutral-400">
+  <section class="mb-10 py-2.5 px-4 rounded bg-[var(--bg-card)] border border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-4 text-xs font-mono text-[var(--text-muted)]">
     <div class="flex items-center gap-5">
       <div class="flex items-center gap-2">
-        <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-        <span class="text-neutral-400">Autonomous Desk:</span>
-        <span class="text-white font-medium">Hourly Verification Active</span>
+        <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
+        <span class="text-[var(--text-muted)]">News Desk:</span>
+        <span class="text-[var(--text-headline)] font-medium">Hourly Verification Active</span>
       </div>
-      <div class="hidden sm:inline-block text-neutral-600">|</div>
+      <div class="hidden sm:inline-block text-[var(--border-strong)]">|</div>
       <div class="hidden sm:flex items-center gap-2">
         <span>Monitored:</span>
-        <span class="text-neutral-300">OpenAI, Anthropic, DeepSeek, Google Gemini, arXiv</span>
+        <span class="text-[var(--text-headline)]">OpenAI, Anthropic, DeepSeek, Google Gemini</span>
       </div>
     </div>
     <div>
-      Total Indexed Dispatches: <strong class="text-amber-400 font-semibold">{allNews.length}</strong>
+      Total Indexed Dispatches: <strong class="text-[var(--accent-editorial)] font-semibold">{allNews.length}</strong>
     </div>
   </section>
 
@@ -57,9 +58,9 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
 
   <!-- 2. Secondary Editorial Highlights (2-column layout) -->
   {secondaryStories.length > 0 && (
-    <section class="mb-12 border-b border-neutral-800 pb-12">
+    <section class="mb-12 border-b border-[var(--border-subtle)] pb-12">
       <div class="flex items-center justify-between mb-6">
-        <h2 class="text-xs font-mono font-bold uppercase tracking-wider text-neutral-400 flex items-center gap-2">
+        <h2 class="text-xs font-mono font-bold uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-2">
           <span>◆</span> Frontier Highlights
         </h2>
       </div>
@@ -83,29 +84,29 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
 
   <!-- 3. Weekly Digest Spotlight (if any digest exists) -->
   {digests.length > 0 && (
-    <section class="mb-12 p-6 rounded-lg bg-[#141519] border border-amber-500/30">
+    <section class="mb-12 p-6 rounded-lg bg-[var(--bg-card)] border border-[var(--border-strong)]">
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4">
-        <div class="flex items-center gap-2 font-mono text-sm font-bold text-amber-400 uppercase tracking-wider">
+        <div class="flex items-center gap-2 font-mono text-sm font-bold text-[var(--accent-editorial)] uppercase tracking-wider">
           <span>📋</span>
           Latest Executive Briefing
         </div>
-        <a href="/digests" class="text-xs font-mono text-amber-400 hover:text-amber-300 flex items-center gap-1 font-semibold">
+        <a href={getPath('/digests/')} class="text-xs font-mono text-[var(--accent-editorial)] hover:opacity-80 flex items-center gap-1 font-semibold">
           View All Weekly Briefings →
         </a>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         {digests.slice(0, 2).map((digest) => (
           <a
-            href={`/news/${digest.id.replace(/\.md$/, '')}`}
-            class="p-4 rounded bg-[#0e0f11] border border-neutral-800 hover:border-amber-500/50 transition-colors block group"
+            href={getPath(`/news/${digest.id.replace(/\.md$/, '')}/`)}
+            class="p-4 rounded bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-[var(--accent-editorial)] transition-colors block group"
           >
-            <div class="text-xs font-mono text-amber-400 mb-1">
+            <div class="text-xs font-mono text-[var(--accent-editorial)] mb-1">
               {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(digest.data.pubDate)}
             </div>
-            <h4 class="text-base font-bold text-white group-hover:text-amber-300 transition-colors line-clamp-2 font-editorial">
+            <h4 class="text-base font-bold text-[var(--text-headline)] group-hover:text-[var(--accent-editorial)] transition-colors line-clamp-2 font-newspaper">
               {digest.data.title}
             </h4>
-            <p class="text-xs text-neutral-400 line-clamp-2 mt-2 font-sans">
+            <p class="text-xs text-[var(--text-muted)] line-clamp-2 mt-2 font-sans">
               {digest.data.description}
             </p>
           </a>
@@ -115,18 +116,18 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
   )}
 
   <!-- 4. Category Filter Navigation -->
-  <section class="mb-6 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none border-b border-neutral-800 pb-3">
-    <span class="text-xs font-mono uppercase text-neutral-400 font-semibold mr-1 shrink-0">Filter:</span>
+  <section class="mb-6 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none border-b border-[var(--border-subtle)] pb-3">
+    <span class="text-xs font-mono uppercase text-[var(--text-muted)] font-semibold mr-1 shrink-0">Filter:</span>
     <a
-      href="/"
-      class="px-3 py-1 rounded text-xs font-mono font-medium bg-white text-black transition-colors shrink-0"
+      href={getPath('/')}
+      class="px-3 py-1 rounded text-xs font-mono font-medium bg-[var(--text-headline)] text-[var(--bg-primary)] transition-colors shrink-0"
     >
       All Dispatches ({allNews.length})
     </a>
     {categories.map((cat) => (
       <a
-        href={`/categories/${encodeURIComponent(cat)}`}
-        class="px-3 py-1 rounded text-xs font-mono font-medium bg-neutral-900 hover:bg-neutral-800 text-neutral-300 hover:text-white border border-neutral-800 transition-colors shrink-0"
+        href={getPath(`/categories/${encodeURIComponent(cat)}/`)}
+        class="px-3 py-1 rounded text-xs font-mono font-medium bg-[var(--bg-card)] hover:bg-[var(--border-subtle)] text-[var(--text-body)] hover:text-[var(--text-headline)] border border-[var(--border-subtle)] transition-colors shrink-0"
       >
         {cat}
       </a>
@@ -134,12 +135,12 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
   </section>
 
   <!-- 5. Chronological News Stream (High Readability List) -->
-  <section class="divide-y divide-neutral-800/80">
+  <section class="divide-y divide-[var(--border-subtle)]">
     <div class="flex items-center justify-between pb-3">
-      <h2 class="text-lg font-bold font-editorial text-white tracking-wide flex items-center gap-2">
-        <span class="text-amber-400">⚡</span> Chronological Wire Feed
+      <h2 class="text-lg font-bold font-newspaper text-[var(--text-headline)] tracking-wide flex items-center gap-2">
+        <span class="text-[var(--accent-editorial)]">⚡</span> Chronological Wire Feed
       </h2>
-      <span class="text-xs font-mono text-neutral-400">
+      <span class="text-xs font-mono text-[var(--text-muted)]">
         {feedArticles.length} Stories Listed
       </span>
     </div>

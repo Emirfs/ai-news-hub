@@ -1,53 +1,55 @@
 ---
+import { getPath } from '../utils/url';
+
 const currentYear = new Date().getFullYear();
 ---
 
-<footer class="mt-20 border-t border-neutral-800 bg-[#080809] text-neutral-400 py-12 px-4 sm:px-8">
+<footer class="mt-20 border-t border-[var(--border-subtle)] bg-[var(--bg-card)] text-[var(--text-muted)] py-12 px-4 sm:px-8">
   <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8">
     <!-- Brand Info -->
     <div class="md:col-span-2 space-y-4">
-      <div class="flex items-center gap-2 font-newspaper text-2xl font-bold text-white tracking-wider">
-        <span class="text-amber-400">⚡</span> NEURAL PULSE
+      <div class="flex items-center gap-2 font-newspaper text-2xl font-bold text-[var(--text-headline)] tracking-wider">
+        <span class="text-[var(--accent-editorial)]">⚡</span> NEURAL PULSE
       </div>
-      <p class="text-sm text-neutral-400 max-w-md leading-relaxed">
+      <p class="text-sm text-[var(--text-muted)] max-w-md leading-relaxed">
         The autonomous artificial intelligence journal. Monitoring frontier AI research, open-source model releases, and hardware scaling hourly. Distilled and published without human intervention.
       </p>
-      <div class="flex items-center gap-3 pt-2 text-xs font-mono text-neutral-400">
-        <span class="px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-300">Gemini Flash</span>
+      <div class="flex items-center gap-3 pt-2 text-xs font-mono text-[var(--text-muted)]">
+        <span class="px-2 py-1 bg-[var(--bg-surface)] rounded border border-[var(--border-subtle)] text-[var(--text-headline)]">Gemini Flash</span>
         <span>•</span>
-        <span class="px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-300">Hourly GitHub Actions</span>
+        <span class="px-2 py-1 bg-[var(--bg-surface)] rounded border border-[var(--border-subtle)] text-[var(--text-headline)]">Hourly GitHub Actions</span>
         <span>•</span>
-        <span class="px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-300">Astro Static</span>
+        <span class="px-2 py-1 bg-[var(--bg-surface)] rounded border border-[var(--border-subtle)] text-[var(--text-headline)]">Astro Static</span>
       </div>
     </div>
 
-    <!-- Navigation -->
+    <!-- Navigation with getPath -->
     <div>
-      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-neutral-200 mb-3">Navigation</h3>
+      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-[var(--text-headline)] mb-3">Navigation</h3>
       <ul class="space-y-2 text-sm">
-        <li><a href="/" class="hover:text-amber-400 transition-colors">Latest News</a></li>
-        <li><a href="/digests" class="hover:text-amber-400 transition-colors">Weekly Briefings</a></li>
-        <li><a href="/categories" class="hover:text-amber-400 transition-colors">Topics & Categories</a></li>
-        <li><a href="/about" class="hover:text-amber-400 transition-colors">Pipeline Architecture</a></li>
-        <li><a href="/rss.xml" class="hover:text-amber-400 transition-colors">RSS Feed (XML)</a></li>
+        <li><a href={getPath('/')} class="hover:text-[var(--accent-editorial)] transition-colors">Latest News</a></li>
+        <li><a href={getPath('/digests/')} class="hover:text-[var(--accent-editorial)] transition-colors">Weekly Briefings</a></li>
+        <li><a href={getPath('/categories/')} class="hover:text-[var(--accent-editorial)] transition-colors">Topics & Categories</a></li>
+        <li><a href={getPath('/about/')} class="hover:text-[var(--accent-editorial)] transition-colors">Pipeline Architecture</a></li>
+        <li><a href={getPath('/rss.xml')} class="hover:text-[var(--accent-editorial)] transition-colors">RSS Feed (XML)</a></li>
       </ul>
     </div>
 
     <!-- Data Sources Monitored -->
     <div>
-      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-neutral-200 mb-3">Sourced Feeds</h3>
-      <ul class="space-y-1.5 text-xs text-neutral-400 font-mono">
+      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-[var(--text-headline)] mb-3">Sourced Feeds</h3>
+      <ul class="space-y-1.5 text-xs text-[var(--text-muted)] font-mono">
+        <li>• OpenAI & Anthropic Wire</li>
+        <li>• DeepSeek Open Releases</li>
+        <li>• Google Gemini & DeepMind</li>
         <li>• arXiv (cs.AI, cs.LG)</li>
         <li>• Hugging Face Daily Papers</li>
-        <li>• Hacker News AI Algolia Stream</li>
-        <li>• NVIDIA AI Research Blog</li>
-        <li>• Frontier Lab Press Releases</li>
       </ul>
     </div>
   </div>
 
-  <div class="max-w-7xl mx-auto mt-10 pt-6 border-t border-neutral-800 flex flex-col sm:flex-row items-center justify-between text-xs text-neutral-400">
+  <div class="max-w-7xl mx-auto mt-10 pt-6 border-t border-[var(--border-subtle)] flex flex-col sm:flex-row items-center justify-between text-xs text-[var(--text-muted)]">
     <p>© {currentYear} Neural Pulse. Autonomous news synthesis. All sources cited directly.</p>
-    <p class="mt-2 sm:mt-0 font-mono text-neutral-400">Published via GitHub Pages</p>
+    <p class="mt-2 sm:mt-0 font-mono">Published via GitHub Pages</p>
   </div>
 </footer>
