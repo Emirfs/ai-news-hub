@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsCard from '../components/NewsCard.astro';
+
+const allNews = await getCollection('news');
+const digests = allNews
+  .filter((item) => item.data.isWeeklyDigest)
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+---
+
+<BaseLayout
+  title="Weekly Briefings & Executive Digests | Neural Pulse"
+  description="High-density weekly intelligence briefings synthesizing frontier artificial intelligence research and industry trends."
+>
+  <div class="max-w-5xl mx-auto py-4">
+    <!-- Header -->
+    <header class="mb-10 border-b border-slate-800 pb-6">
+      <div class="flex items-center gap-2 text-xs font-mono font-bold text-amber-400 uppercase tracking-wider mb-2">
+        <span>📋</span> Deep Intelligence
+      </div>
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
+        Weekly AI Briefings & Digests
+      </h1>
+      <p class="text-base text-slate-300 mt-2 max-w-2xl">
+        Every week, our autonomous agent synthesizes hundreds of papers, open-source commits, and technical disclosures into comprehensive briefings.
+      </p>
+    </header>
+
+    <!-- Digests Grid -->
+    {digests.length === 0 ? (
+      <div class="text-center py-16 text-slate-400 font-mono">
+        No weekly briefings published yet. Next edition scheduled for Sunday 18:00 UTC.
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {digests.map((digest) => (
+          <NewsCard
+            title={digest.data.title}
+            description={digest.data.description}
+            slug={digest.id.replace(/\.md$/, '')}
+            pubDate={digest.data.pubDate}
+            category={digest.data.category}
+            tags={digest.data.tags}
+            sourceName={digest.data.sourceName}
+            sourceUrl={digest.data.sourceUrl}
+            keyTakeaways={digest.data.keyTakeaways}
+            isWeeklyDigest={true}
+          />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>

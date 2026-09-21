@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const allNews = await getCollection('news');
+
+// Count articles per category
+const categoryCounts: Record<string, number> = {};
+allNews.forEach((item) => {
+  const cat = item.data.category;
+  categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
+});
+
+const categories = Object.entries(categoryCounts).sort((a, b) => b[1] - a[1]);
+---
+
+<BaseLayout
+  title="Topics & Categories | Neural Pulse"
+  description="Explore autonomous AI intelligence categorized by frontier research, robotics, foundational models, and industry breakthroughs."
+>
+  <div class="max-w-4xl mx-auto py-4">
+    <header class="mb-10 border-b border-slate-800 pb-6">
+      <div class="text-xs font-mono font-bold text-cyan-400 uppercase tracking-wider mb-2">
+        <span>⚡</span> Index of Research
+      </div>
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
+        Topics & Categories
+      </h1>
+      <p class="text-base text-slate-300 mt-2">
+        Browse autonomous dispatches categorized by domain and technological sector.
+      </p>
+    </header>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      {categories.map(([category, count]) => (
+        <a
+          href={`/categories/${encodeURIComponent(category)}`}
+          class="p-6 rounded-xl bg-[#111827]/70 border border-slate-800 hover:border-cyan-500/40 hover:bg-[#141f33] transition-all flex items-center justify-between group"
+        >
+          <div>
+            <h3 class="text-lg font-bold text-white group-hover:text-cyan-300 transition-colors">
+              {category}
+            </h3>
+            <span class="text-xs font-mono text-slate-400 mt-1 block">
+              {count} {count === 1 ? 'Dispatch' : 'Dispatches'} Published
+            </span>
+          </div>
+          <span class="text-cyan-400 font-mono text-xl group-hover:translate-x-1 transition-transform">
+            →
+          </span>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

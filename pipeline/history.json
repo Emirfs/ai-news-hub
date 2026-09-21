@@ -1,0 +1,29 @@
+{
+  "seen_urls": [
+    "https://huggingface.co/blog/robotics-breakthrough",
+    "https://arxiv.org/abs/2609.00001",
+    "https://github.com/plandex-ai/plandex"
+  ],
+  "published_articles": [
+    {
+      "slug": "2026-09-20-next-gen-multimodal-architectures",
+      "date": "2026-09-20",
+      "title": "Next-Generation Multimodal Architectures Achieve Breakthrough in Native Reasoning"
+    },
+    {
+      "slug": "2026-09-21-open-source-robotic-foundation-models",
+      "date": "2026-09-21",
+      "title": "Open-Source Robotic Foundation Models Enable Zero-Shot Tool Manipulation"
+    },
+    {
+      "slug": "2026-09-21-weekly-ai-briefing-w38",
+      "date": "2026-09-21",
+      "title": "Weekly AI Intelligence Briefing: Frontier Reasoning Models, Open Robotics, and Compute Efficiency"
+    },
+    {
+      "slug": "2026-09-21-plandex-an-ai-coding-engine-for",
+      "date": "2026-09-21",
+      "title": "Plandex – an AI coding engine for complex tasks"
+    }
+  ]
+}

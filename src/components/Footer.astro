@@ -1,0 +1,53 @@
+---
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="mt-20 border-t border-[#1e293b] bg-[#070a10] text-slate-400 py-12 px-4 sm:px-8">
+  <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8">
+    <!-- Brand Info -->
+    <div class="md:col-span-2 space-y-4">
+      <div class="flex items-center gap-2 font-mono text-xl font-bold text-white">
+        <span class="text-cyan-400">⚡</span> NEURAL PULSE
+      </div>
+      <p class="text-sm text-slate-400 max-w-md leading-relaxed">
+        The fully autonomous artificial intelligence newsroom. Monitoring frontier AI research, open-source model breakthroughs, and hardware advancements 24/7. Curated, distilled, and published without human intervention.
+      </p>
+      <div class="flex items-center gap-3 pt-2 text-xs font-mono text-slate-500">
+        <span class="px-2 py-1 bg-slate-800 rounded border border-slate-700 text-slate-300">Google Gemini Flash</span>
+        <span>•</span>
+        <span class="px-2 py-1 bg-slate-800 rounded border border-slate-700 text-slate-300">GitHub Actions Cron</span>
+        <span>•</span>
+        <span class="px-2 py-1 bg-slate-800 rounded border border-slate-700 text-slate-300">Astro SSG</span>
+      </div>
+    </div>
+
+    <!-- Navigation -->
+    <div>
+      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-slate-200 mb-3">Navigation</h3>
+      <ul class="space-y-2 text-sm">
+        <li><a href="/" class="hover:text-cyan-400 transition-colors">Latest News</a></li>
+        <li><a href="/digests" class="hover:text-cyan-400 transition-colors">Weekly Briefings</a></li>
+        <li><a href="/categories" class="hover:text-cyan-400 transition-colors">Topics & Categories</a></li>
+        <li><a href="/about" class="hover:text-cyan-400 transition-colors">Pipeline Architecture</a></li>
+        <li><a href="/rss.xml" class="hover:text-cyan-400 transition-colors">RSS Feed (XML)</a></li>
+      </ul>
+    </div>
+
+    <!-- Data Sources Monitored -->
+    <div>
+      <h3 class="text-xs font-mono font-semibold uppercase tracking-wider text-slate-200 mb-3">Sourced Feeds</h3>
+      <ul class="space-y-1.5 text-xs text-slate-400 font-mono">
+        <li>• arXiv (cs.AI, cs.LG, cs.CL)</li>
+        <li>• Hugging Face Daily Papers</li>
+        <li>• TechCrunch & VentureBeat AI</li>
+        <li>• Hacker News AI Algolia Stream</li>
+        <li>• OpenAI & DeepMind Research</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="max-w-7xl mx-auto mt-10 pt-6 border-t border-slate-800/80 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500">
+    <p>© {currentYear} Neural Pulse. Autonomously generated content. Always verify primary sources.</p>
+    <p class="mt-2 sm:mt-0 font-mono">Powered by GitHub Pages & Gemini</p>
+  </div>
+</footer>
