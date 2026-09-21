@@ -1,0 +1,90 @@
+---
+import reposData from '../data/emerging_repos.json';
+
+interface Repo {
+  name: string;
+  url: string;
+  stars: number;
+  forks: number;
+  description: string;
+  language: string;
+  tag: string;
+  pushed_at?: string;
+}
+
+const repos: Repo[] = reposData as Repo[];
+const submitUrl = "https://github.com/Emirfs/ai-news-hub/issues/new?title=%5BProject+Submission%5D+Your+AI+Repo&body=%2A%2ARepository+URL%3A%2A%2A+https%3A%2F%2Fgithub.com%2F...%0A%2A%2AProject+Description%3A%2A%2A+What+does+your+AI+project+do%3F%0A%2A%2APrimary+Category%3A%2A%2A+Autonomous+Agents+%2F+Local+AI+%2F+Tools";
+---
+
+<section class="my-14 border-b border-[var(--border-subtle)] pb-12">
+  <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
+    <div>
+      <div class="flex items-center gap-2 text-xs font-mono font-bold text-amber-500 dark:text-amber-400 uppercase tracking-wider mb-1">
+        <span>🚀</span> Indie AI Launchpad & Hidden Gems
+      </div>
+      <h2 class="text-2xl font-bold font-newspaper text-[var(--text-headline)]">
+        Emerging & Actively Maintained Repositories
+      </h2>
+      <p class="text-xs sm:text-sm text-[var(--text-muted)] mt-1">
+        Curated independent AI tools and experimental research under 500 stars with active commits.
+      </p>
+    </div>
+
+    <!-- Submit Project Action -->
+    <div>
+      <a
+        href={submitUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded border border-[var(--accent-editorial)] text-[var(--accent-editorial)] hover:bg-[var(--accent-editorial)] hover:text-white font-mono text-xs font-bold transition-all shadow-xs"
+      >
+        <span>+ Submit Your Repo</span>
+        <span class="text-sm">↗</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+    {repos.map((repo) => (
+      <a
+        href={repo.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="p-4 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] hover:border-amber-500/60 transition-all flex flex-col justify-between group"
+      >
+        <div>
+          <!-- Tag, Date & Stars -->
+          <div class="flex items-center justify-between gap-2 mb-2 text-xs font-mono">
+            <span class="px-2 py-0.5 rounded border border-[var(--border-strong)] bg-[var(--badge-bg)] text-[var(--badge-text)] text-[10px] font-semibold">
+              {repo.tag}
+            </span>
+            <span class="text-amber-500 dark:text-amber-400 font-bold font-mono text-xs">
+              ★ {repo.stars}
+            </span>
+          </div>
+
+          <!-- Repo Name -->
+          <h3 class="text-sm font-bold font-mono text-[var(--text-headline)] group-hover:text-amber-500 dark:group-hover:text-amber-400 transition-colors break-words mb-2">
+            {repo.name}
+          </h3>
+
+          <!-- Description -->
+          <p class="text-xs text-[var(--text-body)] line-clamp-3 leading-relaxed mb-3 font-sans">
+            {repo.description}
+          </p>
+        </div>
+
+        <!-- Language & Activity Footer -->
+        <div class="pt-3 border-t border-[var(--border-subtle)] flex items-center justify-between text-[11px] font-mono text-[var(--text-muted)]">
+          <span class="flex items-center gap-1.5">
+            <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
+            <span>{repo.language}</span>
+          </span>
+          <span class="text-[10px] text-[var(--text-muted)]">
+            Updated {repo.pushed_at || 'Recent'}
+          </span>
+        </div>
+      </a>
+    ))}
+  </div>
+</section>

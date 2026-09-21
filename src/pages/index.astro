@@ -5,6 +5,7 @@ import LeadStory from '../components/LeadStory.astro';
 import NewsListItem from '../components/NewsListItem.astro';
 import TrendingSidebar from '../components/TrendingSidebar.astro';
 import TrendingRepos from '../components/TrendingRepos.astro';
+import EmergingRepos from '../components/EmergingRepos.astro';
 import { getPath } from '../utils/url';
 
 const allNews = await getCollection('news');
@@ -35,7 +36,7 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
       </div>
       <div class="hidden sm:inline-block text-[var(--border-strong)]">|</div>
       <div class="hidden sm:flex items-center gap-2">
-        <span>Providers Monitored:</span>
+        <span>Monitored:</span>
         <span class="text-[var(--text-headline)] font-medium">OpenAI, Anthropic, DeepSeek, Google Gemini</span>
       </div>
     </div>
@@ -67,9 +68,14 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
     </div>
   </div>
 
-  <!-- Open-Source Radar: Trending & Novel AI Repositories -->
+  <!-- Open-Source Radar: Trending Major AI Repositories -->
   <div id="trending-repos">
     <TrendingRepos />
+  </div>
+
+  <!-- Indie AI Launchpad: Emerging & Actively Maintained Repositories -->
+  <div id="indie-launchpad">
+    <EmergingRepos />
   </div>
 
   <!-- Weekly Digest Spotlight (if any digest exists) -->

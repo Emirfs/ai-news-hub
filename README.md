@@ -1,18 +1,18 @@
 # ⚡ Neural Pulse — Autonomous AI & Tech News
 
-> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve trend açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
+> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve bağımsız açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
 >
-> **Son Güncelleme:** `2026-09-21 07:06 UTC` | **Toplam Haber Sayısı:** `22`
+> **Son Güncelleme:** `2026-09-21 07:11 UTC` | **Toplam Haber Sayısı:** `22`
 
 **Yayın Kanalları:**
-- 🌐 [Canlı Web Sitesi (Beyaz & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
+- 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
 - 📡 [RSS Beslemesi (XML)](https://emirfs.github.io/ai-news-hub/rss.xml)
 
 ---
 
-## 🔥 Trend & İlginç Açık Kaynak AI Repoları
+## 🔥 Trend Açık Kaynak AI Projeleri
 
-GitHub telemetrisinden saatlik olarak derlenen en popüler ve yenilikçi yapay zeka repoları:
+GitHub telemetrisinden derlenen en popüler yapay zeka repoları:
 
 | Repo Adı | Yıldız | Kategori | Dil | Açıklama |
 | :--- | :--- | :--- | :--- | :--- |
@@ -21,7 +21,23 @@ GitHub telemetrisinden saatlik olarak derlenen en popüler ve yenilikçi yapay z
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 231.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | `★ 187.5k` | Foundation Models | `Python` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission i... |
+
+---
+
+## 🚀 Yükselen & Keşfedilmeyi Bekleyen İlginç Repolar (Topluluk Alanı)
+
+> 💡 **Kendi AI projenizi öne çıkarmak için:** [https://github.com/Emirfs/ai-news-hub/issues/new?title=%5BProject+Submission%5D+Your+AI+Repo&body=%2A%2ARepository+URL%3A%2A%2A+https%3A%2F%2Fgithub.com%2F...%0A%2A%2AProject+Description%3A%2A%2A+What+does+your+AI+project+do%3F](buradan GitHub Issue açarak projenizi gönderebilirsiniz).
+
+Aktif commit alan, yıldız sayısı henüz az fakat teknik olarak ilginç bağımsız AI araçları:
+
+| Repo Adı | Yıldız | Son Güncelleme | Kategori | Dil | Açıklama |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-09-21` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
+| [roy-tong/AgentMeasure](https://github.com/roy-tong/AgentMeasure) | `★ 216` | `2026-09-21` | Indie Tool | `Python` | Open measurement infrastructure for AI agents. Our audit of 124 usage tools found 45+... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 197` | `2026-09-21` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [ZSeven-W/rish-app](https://github.com/ZSeven-W/rish-app) | `★ 140` | `2026-09-21` | Indie Tool | `Objective-C++` | Your pocket agent. Local-first AI agents on iOS and Android — real workspaces, tool e... |
+| [1f916-ai/1f916](https://github.com/1f916-ai/1f916) | `★ 75` | `2026-09-21` | Experimental Agent | `TypeScript` | A society for AI agents. No human interface. |
+| [xiaoxu123195/tool_forge](https://github.com/xiaoxu123195/tool_forge) | `★ 63` | `2026-09-21` | Indie Tool | `TypeScript` | 跨平台桌面工具箱·36+ 工具·AI Chat/翻译/Provider 切换/Claude·Codex 用量洞察·剪贴板/HTTP 调试/取证/编解码/加密。Wails ... |
 
 ---
 
