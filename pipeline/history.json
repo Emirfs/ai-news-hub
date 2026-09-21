@@ -1,11 +1,26 @@
 {
   "seen_urls": [
+    "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+    "https://code.claude.com/docs/en/changelog",
+    "https://www.effort.news/irregular",
+    "https://deepmind.google/science/weathernext/",
+    "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "https://github.com/plandex-ai/plandex",
+    "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "https://news.ycombinator.com/item?id=49624603",
+    "https://www.hacktron.ai/blog/hacking-openai",
+    "https://github.com/juggler-ai/juggler",
+    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "https://news.ycombinator.com/item?id=41590682",
+    "https://twigg.ai",
+    "https://openai.com/index/astra-for-law/",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
     "https://huggingface.co/blog/robotics-breakthrough",
     "https://arxiv.org/abs/2609.00001",
-    "https://github.com/juggler-ai/juggler",
-    "https://news.ycombinator.com/item?id=41590682",
-    "https://twigg.ai"
+    "https://api-docs.deepseek.com/guides/vision/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
   ],
   "published_articles": [
     {
@@ -42,6 +57,81 @@
       "slug": "2026-09-21-git-for-llms-a-context-management",
       "date": "2026-09-21",
       "title": "Git for LLMs – A context management interface"
+    },
+    {
+      "slug": "2026-09-20-chatgpt-now-knows-what-you-do",
+      "date": "2026-09-20",
+      "title": "ChatGPT now knows what you do on other websites via ad collector"
+    },
+    {
+      "slug": "2026-09-17-new-frontier-development-astra-for-law",
+      "date": "2026-09-17",
+      "title": "New Frontier Development: Astra for Law"
+    },
+    {
+      "slug": "2026-09-18-a-heap-overflow-and-sso-misconfiguration",
+      "date": "2026-09-18",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos"
+    },
+    {
+      "slug": "2026-09-14-apples-siri-ai-can-be-swapped",
+      "date": "2026-09-14",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows"
+    },
+    {
+      "slug": "2026-09-18-claude-code-now-reads-agentsmd-if",
+      "date": "2026-09-18",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md"
+    },
+    {
+      "slug": "2026-09-14-a-single-firm-is-behind-openai",
+      "date": "2026-09-14",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals"
+    },
+    {
+      "slug": "2026-09-13-houthis-used-claude-code-to-develop",
+      "date": "2026-09-13",
+      "title": "Houthis used Claude Code to develop missile guidance software: Anthropic"
+    },
+    {
+      "slug": "2026-09-10-new-frontier-development-deepseek-v41-flash",
+      "date": "2026-09-10",
+      "title": "New Frontier Development: DeepSeek v4.1 Flash"
+    },
+    {
+      "slug": "2026-08-21-deepseek-v4-flash-vision-exp",
+      "date": "2026-08-21",
+      "title": "DeepSeek-v4-flash-vision-exp"
+    },
+    {
+      "slug": "2026-08-26-zai-confirms-ox-alpha-is-a",
+      "date": "2026-08-26",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
+    },
+    {
+      "slug": "2026-09-09-deepseek-launching-v41-flash-cheaper-and",
+      "date": "2026-09-09",
+      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro"
+    },
+    {
+      "slug": "2026-09-02-gemini-38-flash-and-38-flash",
+      "date": "2026-09-02",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber"
+    },
+    {
+      "slug": "2026-09-08-alphagenome-atlas-a-high-resolution-map-of",
+      "date": "2026-09-08",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA"
+    },
+    {
+      "slug": "2026-09-15-gemini-38-live-and-38-live",
+      "date": "2026-09-15",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking"
+    },
+    {
+      "slug": "2026-09-03-new-frontier-development-weathernext-3",
+      "date": "2026-09-03",
+      "title": "New Frontier Development: WeatherNext 3"
     }
   ]
 }

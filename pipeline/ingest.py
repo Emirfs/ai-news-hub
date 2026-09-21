@@ -40,9 +40,27 @@ FEEDS = [
         "category": "Robotics & Hardware"
     },
     {
-        "name": "Hacker News AI Top",
+        "name": "OpenAI Feed",
         "type": "hn_algolia",
-        "url": "https://hn.algolia.com/api/v1/search?query=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini&tags=story&numericFilters=points>35&hitsPerPage=25",
+        "url": "https://hn.algolia.com/api/v1/search_by_date?query=OpenAI&tags=story&numericFilters=points>25&hitsPerPage=15",
+        "category": "LLMs & Foundation Models"
+    },
+    {
+        "name": "Anthropic & Claude Feed",
+        "type": "hn_algolia",
+        "url": "https://hn.algolia.com/api/v1/search_by_date?query=Anthropic+OR+Claude&tags=story&numericFilters=points>25&hitsPerPage=15",
+        "category": "AI Research"
+    },
+    {
+        "name": "DeepSeek Feed",
+        "type": "hn_algolia",
+        "url": "https://hn.algolia.com/api/v1/search_by_date?query=DeepSeek&tags=story&numericFilters=points>20&hitsPerPage=15",
+        "category": "Open Source AI"
+    },
+    {
+        "name": "Google Gemini & DeepMind",
+        "type": "hn_algolia",
+        "url": "https://hn.algolia.com/api/v1/search_by_date?query=Gemini+OR+DeepMind&tags=story&numericFilters=points>25&hitsPerPage=15",
         "category": "LLMs & Foundation Models"
     }
 ]
@@ -57,7 +75,7 @@ RELEVANCE_PATTERNS = [
     r"\b(robotics|embodied ai|humanoid)\b",
     r"\b(open source|weights|checkpoint)\b",
     r"\b(autonomous agent|agents|agentic)\b",
-    r"\b(gemini|openai|chatgpt|claude|anthropic|deepmind|mistral|llama|groq)\b"
+    r"\b(gemini|openai|chatgpt|claude|anthropic|deepmind|deepseek|mistral|llama|groq)\b"
 ]
 COMPILED_PATTERNS = [re.compile(p, re.IGNORECASE) for p in RELEVANCE_PATTERNS]
 
