@@ -1,8 +1,10 @@
 {
   "seen_urls": [
-    "https://huggingface.co/blog/robotics-breakthrough",
+    "https://new.roman-names.com/",
     "https://arxiv.org/abs/2609.00001",
-    "https://github.com/plandex-ai/plandex"
+    "https://github.com/plandex-ai/plandex",
+    "https://huggingface.co/blog/robotics-breakthrough",
+    "https://github.com/juggler-ai/juggler"
   ],
   "published_articles": [
     {
@@ -24,6 +26,16 @@
       "slug": "2026-09-21-plandex-an-ai-coding-engine-for",
       "date": "2026-09-21",
       "title": "Plandex – an AI coding engine for complex tasks"
+    },
+    {
+      "slug": "2026-09-21-juggler-an-open-source-gui-coding-agent",
+      "date": "2026-09-21",
+      "title": "Juggler – an open-source GUI coding agent, by the creator of JUCE"
+    },
+    {
+      "slug": "2026-09-21-i-am-building-a-map-of",
+      "date": "2026-09-21",
+      "title": "I am building a map of people who lived in the Roman Empire"
     }
   ]
 }
