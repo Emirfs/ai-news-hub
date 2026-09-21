@@ -27,17 +27,26 @@ const formattedDate = new Intl.DateTimeFormat('en-US', {
   day: 'numeric',
 }).format(entry.data.pubDate);
 
-// Calculate reading time estimate
+// Word count & reading time estimate
 const wordCount = (entry.body || '').split(/\s+/).length + entry.data.description.split(/\s+/).length;
-const readingTimeMin = Math.max(1, Math.ceil(wordCount / 180));
+const readingTimeMin = Math.max(2, Math.ceil(wordCount / 170));
 
 const articleTitle = `${entry.data.title} | Neural Pulse`;
+
+const languages = [
+  { code: 'en', flag: '🇬🇧', name: 'English' },
+  { code: 'tr', flag: '🇹🇷', name: 'Türkçe' },
+  { code: 'es', flag: '🇪🇸', name: 'Español' },
+  { code: 'zh-CN', flag: '🇨🇳', name: '中文' },
+  { code: 'it', flag: '🇮🇹', name: 'Italiano' },
+  { code: 'de', flag: '🇩🇪', name: 'Deutsch' },
+];
 ---
 
 <BaseLayout title={articleTitle} description={entry.data.description} articleDate={entry.data.pubDate.toISOString()}>
   <article class="reading-column py-6">
     <!-- Breadcrumb & Back Link -->
-    <nav class="flex items-center justify-between text-xs font-mono text-[var(--text-muted)] mb-8 border-b border-[var(--border-subtle)] pb-3">
+    <nav class="flex items-center justify-between text-xs font-mono text-[var(--text-muted)] mb-6 border-b border-[var(--border-subtle)] pb-3">
       <a href={getPath('/')} class="hover:text-[var(--accent-editorial)] transition-colors inline-flex items-center gap-1.5 font-medium">
         <span>←</span>
         <span>Back to Dispatches</span>
@@ -47,8 +56,27 @@ const articleTitle = `${entry.data.title} | Neural Pulse`;
       </a>
     </nav>
 
+    <!-- Multi-Language Reader Bar -->
+    <div class="mb-8 p-3 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-3 text-xs font-mono">
+      <span class="text-[var(--text-muted)] flex items-center gap-1.5 font-semibold">
+        <span>🌐</span> Read in your language:
+      </span>
+      <div class="flex flex-wrap items-center gap-1.5">
+        {languages.map((l) => (
+          <button
+            type="button"
+            data-lang-code={l.code}
+            class="article-lang-btn px-2.5 py-1 rounded border border-[var(--border-subtle)] bg-[var(--bg-card)] hover:border-[var(--accent-editorial)] hover:text-[var(--accent-editorial)] text-[var(--text-headline)] transition-colors cursor-pointer flex items-center gap-1 text-[11px]"
+          >
+            <span>{l.flag}</span>
+            <span>{l.name}</span>
+          </button>
+        ))}
+      </div>
+    </div>
+
     <!-- Article Header -->
-    <header class="mb-10 space-y-4">
+    <header class="mb-8 space-y-4">
       <div class="flex flex-wrap items-center gap-3 text-xs font-mono">
         <span class="px-2.5 py-0.5 rounded border border-[var(--border-strong)] bg-[var(--badge-bg)] text-[var(--badge-text)] text-[11px] font-bold uppercase tracking-wider">
           {entry.data.category}
@@ -58,7 +86,7 @@ const articleTitle = `${entry.data.title} | Neural Pulse`;
         </time>
         <span class="text-[var(--border-strong)]">•</span>
         <span class="text-[var(--text-muted)]">
-          {readingTimeMin} min read
+          {readingTimeMin} min in-depth read
         </span>
       </div>
 
@@ -72,35 +100,45 @@ const articleTitle = `${entry.data.title} | Neural Pulse`;
         {entry.data.description}
       </p>
 
-      <!-- Byline & Primary Source Link -->
+      <!-- Byline -->
       <div class="pt-3 border-t border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-[var(--text-muted)]">
         <div>
-          Reported by <span class="text-[var(--text-headline)] font-medium">{entry.data.author}</span>
+          Curated & Verified by <span class="text-[var(--text-headline)] font-medium">{entry.data.author}</span>
         </div>
-        {entry.data.sourceUrl && (
-          <div class="flex items-center gap-2">
-            <span>Primary Wire:</span>
-            <a
-              href={entry.data.sourceUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="inline-flex items-center gap-1 text-[var(--accent-editorial)] hover:opacity-80 font-medium underline underline-offset-2"
-            >
-              <span>{entry.data.sourceName || 'Primary Document'}</span>
-              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-              </svg>
-            </a>
-          </div>
-        )}
+        <div>
+          Autonomous AI Newsroom
+        </div>
       </div>
     </header>
+
+    <!-- PROMINENT ORIGINAL SOURCE REDIRECTION CARD (TOP) -->
+    {entry.data.sourceUrl && (
+      <aside class="my-8 p-4 sm:p-5 rounded-lg bg-[var(--bg-surface)] border border-[var(--accent-editorial)] shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+        <div class="space-y-1">
+          <div class="flex items-center gap-2 text-[11px] font-mono font-bold uppercase tracking-wider text-[var(--accent-editorial)]">
+            <span>📰</span> Primary Source Document
+          </div>
+          <p class="text-xs sm:text-sm text-[var(--text-body)]">
+            Original publication on <strong class="text-[var(--text-headline)]">{entry.data.sourceName || 'Primary Wire'}</strong>
+          </p>
+        </div>
+        <a
+          href={entry.data.sourceUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded bg-[var(--accent-editorial)] text-white font-mono text-xs font-bold hover:opacity-90 transition-opacity shrink-0 shadow-xs"
+        >
+          <span>Open Original Source</span>
+          <span class="text-sm">↗</span>
+        </a>
+      </aside>
+    )}
 
     <!-- Key Takeaways Callout Box -->
     {entry.data.keyTakeaways && entry.data.keyTakeaways.length > 0 && (
       <section class="my-10 p-6 rounded-r-lg bg-[var(--bg-card)] border-l-4 border-[var(--accent-editorial)] border-y border-r border-[var(--border-subtle)]">
         <div class="flex items-center gap-2 text-xs font-mono font-bold text-[var(--accent-editorial)] uppercase tracking-wider mb-3.5">
-          <span>⚡</span> Executive Summary & Key Signals
+          <span>⚡</span> Executive Summary & Core Signals
         </div>
         <ul class="space-y-3 text-base text-[var(--text-body)]">
           {entry.data.keyTakeaways.map((point: string) => (
@@ -113,14 +151,36 @@ const articleTitle = `${entry.data.title} | Neural Pulse`;
       </section>
     )}
 
-    <!-- Main Markdown Body -->
+    <!-- Main Markdown Body (Deep Analysis) -->
     <div class="article-prose mt-10">
       <Content />
     </div>
 
+    <!-- PROMINENT ORIGINAL SOURCE REDIRECTION (BOTTOM) -->
+    {entry.data.sourceUrl && (
+      <section class="mt-12 p-6 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-strong)] text-center space-y-3">
+        <h4 class="text-base font-bold font-newspaper text-[var(--text-headline)]">
+          Want to verify the primary technical research?
+        </h4>
+        <p class="text-xs sm:text-sm text-[var(--text-muted)] max-w-lg mx-auto">
+          Neural Pulse provides objective summaries and architectural analysis. Read the full paper or release notes on the primary platform:
+        </p>
+        <div class="pt-2">
+          <a
+            href={entry.data.sourceUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded border border-[var(--accent-editorial)] text-[var(--accent-editorial)] hover:bg-[var(--accent-editorial)] hover:text-white font-mono text-xs font-bold transition-all"
+          >
+            <span>Visit {entry.data.sourceName || 'Primary Document'} ↗</span>
+          </a>
+        </div>
+      </section>
+    )}
+
     <!-- Tags -->
     {entry.data.tags && entry.data.tags.length > 0 && (
-      <footer class="mt-14 pt-6 border-t border-[var(--border-subtle)] flex flex-wrap items-center gap-2">
+      <footer class="mt-12 pt-6 border-t border-[var(--border-subtle)] flex flex-wrap items-center gap-2">
         <span class="text-xs font-mono text-[var(--text-muted)] mr-2">Filed under:</span>
         {entry.data.tags.map((tag: string) => (
           <span class="px-2.5 py-1 rounded bg-[var(--bg-card)] border border-[var(--border-subtle)] text-xs font-mono text-[var(--text-muted)]">
@@ -130,7 +190,7 @@ const articleTitle = `${entry.data.title} | Neural Pulse`;
       </footer>
     )}
 
-    <!-- Continue Reading / Related Stories -->
+    <!-- Continue Reading -->
     {relatedArticles.length > 0 && (
       <section class="mt-16 pt-10 border-t border-[var(--border-subtle)]">
         <h3 class="text-sm font-mono font-bold uppercase tracking-wider text-[var(--text-muted)] mb-6 flex items-center gap-2">
@@ -155,3 +215,26 @@ const articleTitle = `${entry.data.title} | Neural Pulse`;
     )}
   </article>
 </BaseLayout>
+
+<script is:inline>
+  // Article Page Instant Language Switcher
+  document.querySelectorAll('.article-lang-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const langCode = btn.getAttribute('data-lang-code');
+      localStorage.setItem('site_lang', langCode);
+
+      const combo = document.querySelector('.goog-te-combo');
+      if (combo) {
+        combo.value = langCode === 'en' ? '' : langCode;
+        combo.dispatchEvent(new Event('change'));
+      }
+
+      // Update flag in header if available
+      const flagSpan = document.getElementById('current-lang-flag');
+      const labelSpan = document.getElementById('current-lang-label');
+      if (flagSpan && labelSpan) {
+        labelSpan.textContent = langCode.toUpperCase().slice(0, 2);
+      }
+    });
+  });
+</script>
