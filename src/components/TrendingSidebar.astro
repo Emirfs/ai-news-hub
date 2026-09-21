@@ -1,0 +1,49 @@
+---
+import { getPath } from '../utils/url';
+
+interface Props {
+  articles: Array<{
+    id: string;
+    data: {
+      title: string;
+      category: string;
+      pubDate: Date;
+    };
+  }>;
+}
+
+const { articles } = Astro.props;
+---
+
+<aside class="space-y-4">
+  <div class="flex items-center justify-between border-b border-[var(--border-strong)] pb-2">
+    <h3 class="text-xs font-mono font-bold uppercase tracking-wider text-[var(--accent-editorial)] flex items-center gap-1.5">
+      <span>★</span> Trending Dispatches
+    </h3>
+    <span class="text-[11px] font-mono text-[var(--text-muted)]">Top Signals</span>
+  </div>
+
+  <ol class="divide-y divide-[var(--border-subtle)]">
+    {articles.slice(0, 5).map((article, idx) => (
+      <li class="py-3.5 flex items-start gap-3.5 group">
+        <span class="text-2xl font-black font-newspaper text-[var(--number-color)] group-hover:text-[var(--accent-editorial)] transition-colors leading-none shrink-0 w-7">
+          0{idx + 1}
+        </span>
+        <div class="space-y-1">
+          <div class="flex items-center gap-2 text-[11px] font-mono text-[var(--text-muted)]">
+            <span class="text-[var(--text-headline)] font-medium">{article.data.category}</span>
+            <span>•</span>
+            <time datetime={article.data.pubDate.toISOString()}>
+              {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric' }).format(article.data.pubDate)}
+            </time>
+          </div>
+          <h4 class="text-sm sm:text-base font-bold text-[var(--text-headline)] group-hover:text-[var(--accent-editorial)] transition-colors font-newspaper leading-snug">
+            <a href={getPath(`/news/${article.id.replace(/\.md$/, '')}/`)}>
+              {article.data.title}
+            </a>
+          </h4>
+        </div>
+      </li>
+    ))}
+  </ol>
+</aside>

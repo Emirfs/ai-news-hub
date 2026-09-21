@@ -23,16 +23,16 @@ const rssUrl = getPath('/rss.xml');
 ---
 
 <!doctype html>
-<html lang="en" class="dark scroll-smooth">
+<html lang="en" class="scroll-smooth" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23b91c1c'><path d='M13 10V3L4 14h7v7l9-11h-7z'/></svg>" />
     <meta name="generator" content={Astro.generator} />
 
-    <!-- Prevent Theme Flash -->
+    <!-- Theme Initialization (Defaults to Light/White Mode) -->
     <script is:inline>
-      const theme = localStorage.getItem('theme') || 'dark';
+      const theme = localStorage.getItem('theme') || 'light';
       if (theme === 'dark') {
         document.documentElement.classList.add('dark');
         document.documentElement.setAttribute('data-theme', 'dark');

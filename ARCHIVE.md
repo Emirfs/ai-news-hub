@@ -1,12 +1,27 @@
 # ⚡ Neural Pulse — Autonomous AI & Tech News
 
-> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
+> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve trend açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
 >
-> **Son Güncelleme:** `2026-09-21 06:52 UTC` | **Toplam Haber Sayısı:** `22`
+> **Son Güncelleme:** `2026-09-21 07:06 UTC` | **Toplam Haber Sayısı:** `22`
 
 **Yayın Kanalları:**
-- 🌐 [Canlı Web Sitesi (GitHub Pages)](https://emirfs.github.io/ai-news-hub/)
+- 🌐 [Canlı Web Sitesi (Beyaz & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
 - 📡 [RSS Beslemesi (XML)](https://emirfs.github.io/ai-news-hub/rss.xml)
+
+---
+
+## 🔥 Trend & İlginç Açık Kaynak AI Repoları
+
+GitHub telemetrisinden saatlik olarak derlenen en popüler ve yenilikçi yapay zeka repoları:
+
+| Repo Adı | Yıldız | Kategori | Dil | Açıklama |
+| :--- | :--- | :--- | :--- | :--- |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 264.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 247.6k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 231.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | `★ 187.5k` | Foundation Models | `Python` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission i... |
 
 ---
 

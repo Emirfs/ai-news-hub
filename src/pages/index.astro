@@ -3,7 +3,8 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LeadStory from '../components/LeadStory.astro';
 import NewsListItem from '../components/NewsListItem.astro';
-import NewsCard from '../components/NewsCard.astro';
+import TrendingSidebar from '../components/TrendingSidebar.astro';
+import TrendingRepos from '../components/TrendingRepos.astro';
 import { getPath } from '../utils/url';
 
 const allNews = await getCollection('news');
@@ -17,25 +18,25 @@ const digests = sortedNews.filter((item) => item.data.isWeeklyDigest);
 const regularArticles = sortedNews.filter((item) => !item.data.isWeeklyDigest);
 
 const leadStory = regularArticles[0];
-const secondaryStories = regularArticles.slice(1, 3);
-const feedArticles = regularArticles.slice(3);
+const trendingArticles = regularArticles.slice(1, 6);
+const wireArticles = regularArticles.slice(1);
 
 const categories = Array.from(new Set(allNews.map((item) => item.data.category)));
 ---
 
 <BaseLayout>
-  <!-- Newsroom Status Ticker -->
+  <!-- Newsroom Status Bar -->
   <section class="mb-10 py-2.5 px-4 rounded bg-[var(--bg-card)] border border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-4 text-xs font-mono text-[var(--text-muted)]">
     <div class="flex items-center gap-5">
       <div class="flex items-center gap-2">
         <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
         <span class="text-[var(--text-muted)]">News Desk:</span>
-        <span class="text-[var(--text-headline)] font-medium">Hourly Verification Active</span>
+        <span class="text-[var(--text-headline)] font-medium">Hourly Autonomous Wire</span>
       </div>
       <div class="hidden sm:inline-block text-[var(--border-strong)]">|</div>
       <div class="hidden sm:flex items-center gap-2">
-        <span>Monitored:</span>
-        <span class="text-[var(--text-headline)]">OpenAI, Anthropic, DeepSeek, Google Gemini</span>
+        <span>Providers Monitored:</span>
+        <span class="text-[var(--text-headline)] font-medium">OpenAI, Anthropic, DeepSeek, Google Gemini</span>
       </div>
     </div>
     <div>
@@ -43,48 +44,37 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
     </div>
   </section>
 
-  <!-- 1. Top Lead Story -->
-  {leadStory && (
-    <LeadStory
-      title={leadStory.data.title}
-      description={leadStory.data.description}
-      slug={leadStory.id.replace(/\.md$/, '')}
-      pubDate={leadStory.data.pubDate}
-      category={leadStory.data.category}
-      sourceName={leadStory.data.sourceName}
-      keyTakeaways={leadStory.data.keyTakeaways}
-    />
-  )}
+  <!-- Front Page Editorial Grid (2/3 Lead Story + 1/3 Top 5 Trending Sidebar) -->
+  <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 border-b border-[var(--border-subtle)] pb-12 mb-12">
+    <!-- Main Column: Lead Headline -->
+    <div class="lg:col-span-8">
+      {leadStory && (
+        <LeadStory
+          title={leadStory.data.title}
+          description={leadStory.data.description}
+          slug={leadStory.id.replace(/\.md$/, '')}
+          pubDate={leadStory.data.pubDate}
+          category={leadStory.data.category}
+          sourceName={leadStory.data.sourceName}
+          keyTakeaways={leadStory.data.keyTakeaways}
+        />
+      )}
+    </div>
 
-  <!-- 2. Secondary Editorial Highlights (2-column layout) -->
-  {secondaryStories.length > 0 && (
-    <section class="mb-12 border-b border-[var(--border-subtle)] pb-12">
-      <div class="flex items-center justify-between mb-6">
-        <h2 class="text-xs font-mono font-bold uppercase tracking-wider text-[var(--text-muted)] flex items-center gap-2">
-          <span>◆</span> Frontier Highlights
-        </h2>
-      </div>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {secondaryStories.map((story) => (
-          <NewsCard
-            title={story.data.title}
-            description={story.data.description}
-            slug={story.id.replace(/\.md$/, '')}
-            pubDate={story.data.pubDate}
-            category={story.data.category}
-            tags={story.data.tags}
-            sourceName={story.data.sourceName}
-            sourceUrl={story.data.sourceUrl}
-            keyTakeaways={story.data.keyTakeaways}
-          />
-        ))}
-      </div>
-    </section>
-  )}
+    <!-- Right Sidebar: Numbered Top 5 Trending Stories (like NYTimes & The Verge) -->
+    <div class="lg:col-span-4 lg:border-l lg:border-[var(--border-subtle)] lg:pl-8">
+      <TrendingSidebar articles={trendingArticles} />
+    </div>
+  </div>
 
-  <!-- 3. Weekly Digest Spotlight (if any digest exists) -->
+  <!-- Open-Source Radar: Trending & Novel AI Repositories -->
+  <div id="trending-repos">
+    <TrendingRepos />
+  </div>
+
+  <!-- Weekly Digest Spotlight (if any digest exists) -->
   {digests.length > 0 && (
-    <section class="mb-12 p-6 rounded-lg bg-[var(--bg-card)] border border-[var(--border-strong)]">
+    <section class="my-12 p-6 rounded-lg bg-[var(--bg-card)] border border-[var(--border-strong)]">
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4">
         <div class="flex items-center gap-2 font-mono text-sm font-bold text-[var(--accent-editorial)] uppercase tracking-wider">
           <span>📋</span>
@@ -115,9 +105,9 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
     </section>
   )}
 
-  <!-- 4. Category Filter Navigation -->
+  <!-- Category Filter Tabs -->
   <section class="mb-6 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none border-b border-[var(--border-subtle)] pb-3">
-    <span class="text-xs font-mono uppercase text-[var(--text-muted)] font-semibold mr-1 shrink-0">Filter:</span>
+    <span class="text-xs font-mono uppercase text-[var(--text-muted)] font-semibold mr-1 shrink-0">Filter Wire:</span>
     <a
       href={getPath('/')}
       class="px-3 py-1 rounded text-xs font-mono font-medium bg-[var(--text-headline)] text-[var(--bg-primary)] transition-colors shrink-0"
@@ -134,19 +124,19 @@ const categories = Array.from(new Set(allNews.map((item) => item.data.category))
     ))}
   </section>
 
-  <!-- 5. Chronological News Stream (High Readability List) -->
+  <!-- Chronological News Wire Feed -->
   <section class="divide-y divide-[var(--border-subtle)]">
     <div class="flex items-center justify-between pb-3">
-      <h2 class="text-lg font-bold font-newspaper text-[var(--text-headline)] tracking-wide flex items-center gap-2">
-        <span class="text-[var(--accent-editorial)]">⚡</span> Chronological Wire Feed
+      <h2 class="text-xl font-bold font-newspaper text-[var(--text-headline)] tracking-wide flex items-center gap-2">
+        <span class="text-[var(--accent-editorial)]">⚡</span> Continuous Wire Stream
       </h2>
       <span class="text-xs font-mono text-[var(--text-muted)]">
-        {feedArticles.length} Stories Listed
+        {wireArticles.length} Stories Indexed
       </span>
     </div>
 
     <div class="space-y-1">
-      {feedArticles.map((article) => (
+      {wireArticles.map((article) => (
         <NewsListItem
           title={article.data.title}
           description={article.data.description}

@@ -2,39 +2,42 @@
 
 /* ========================================================
    Editorial Newspaper Design System — Zero Blue!
-   Inspired by Financial Times, The Atlantic & Classic Broadsheet
+   White Mode (Default) & Midnight Dark Mode
+   Inspired by NYTimes, The Verge, Reuters & BBC News
    ======================================================== */
 
 :root {
-  /* Paper Mode (Light Broadsheet) */
-  --bg-primary: #fbf9f4;
-  --bg-surface: #ffffff;
-  --bg-card: #f5f2e9;
-  --border-subtle: #e6e0d2;
-  --border-strong: #c8c0b0;
-  --text-headline: #1c1917;
-  --text-body: #292524;
-  --text-muted: #57534e;
+  /* Clean White Newspaper Mode (Default) */
+  --bg-primary: #ffffff;
+  --bg-surface: #f9fafb;
+  --bg-card: #f3f4f6;
+  --border-subtle: #e5e7eb;
+  --border-strong: #d1d5db;
+  --text-headline: #111827;
+  --text-body: #374151;
+  --text-muted: #6b7280;
   --accent-editorial: #b91c1c;
-  --accent-secondary: #c2410c;
-  --badge-bg: #ece6d8;
-  --badge-text: #44403c;
+  --accent-secondary: #ea580c;
+  --badge-bg: #f3f4f6;
+  --badge-text: #1f2937;
+  --number-color: #9ca3af;
 }
 
 html.dark, html[data-theme="dark"] {
-  /* Midnight Ink Mode (Warm Charcoal Broadside) */
-  --bg-primary: #141413;
-  --bg-surface: #1c1c1a;
-  --bg-card: #222220;
-  --border-subtle: #2d2c29;
-  --border-strong: #3f3e3a;
-  --text-headline: #f5f2eb;
-  --text-body: #ded9cd;
-  --text-muted: #a39e94;
+  /* Midnight Dark Mode */
+  --bg-primary: #0f1013;
+  --bg-surface: #16171d;
+  --bg-card: #1c1e24;
+  --border-subtle: #282a33;
+  --border-strong: #383a45;
+  --text-headline: #f9fafb;
+  --text-body: #d1d5db;
+  --text-muted: #9ca3af;
   --accent-editorial: #e05638;
   --accent-secondary: #f59e0b;
-  --badge-bg: #262522;
-  --badge-text: #d6d1c5;
+  --badge-bg: #22242c;
+  --badge-text: #e5e7eb;
+  --number-color: #525666;
 }
 
 body {
@@ -59,7 +62,7 @@ body {
   margin-right: auto;
 }
 
-/* Editorial Reading Typography */
+/* Article Reading Typography */
 .article-prose {
   color: var(--text-body);
   font-size: 1.18rem;
@@ -118,7 +121,7 @@ body {
   margin: 1.75rem 0;
   color: var(--text-headline);
   font-style: italic;
-  background-color: var(--bg-card);
+  background-color: var(--bg-surface);
   border-radius: 0 0.375rem 0.375rem 0;
 }
 
@@ -133,7 +136,7 @@ body {
 }
 
 .article-prose pre {
-  background-color: var(--bg-card);
+  background-color: var(--bg-surface);
   border: 1px solid var(--border-subtle);
   border-radius: 0.5rem;
   padding: 1.25rem;
