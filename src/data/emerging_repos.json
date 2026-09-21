@@ -1,28 +1,38 @@
 [
   {
-    "name": "OpenMOSS/EasyWAM",
-    "url": "https://github.com/OpenMOSS/EasyWAM",
-    "stars": 309,
-    "forks": 11,
-    "description": "A unified framework for training, fine-tuning, and evaluating World Action Models",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 273,
+    "forks": 152,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-21"
   },
   {
-    "name": "FBddcz/embodied-jev",
-    "url": "https://github.com/FBddcz/embodied-jev",
-    "stars": 160,
-    "forks": 2,
-    "description": "EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs",
-    "language": "Python",
-    "tag": "Embodied AI",
+    "name": "Changan-Su/Forsion",
+    "url": "https://github.com/Changan-Su/Forsion",
+    "stars": 138,
+    "forks": 0,
+    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-21"
+  },
+  {
+    "name": "gmickel/gno",
+    "url": "https://github.com/gmickel/gno",
+    "stars": 114,
+    "forks": 12,
+    "description": "Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP support for AI clien...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-09-21"
   },
   {
     "name": "RomanSlack/jev-drone",
     "url": "https://github.com/RomanSlack/jev-drone",
-    "stars": 108,
+    "stars": 111,
     "forks": 10,
     "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
     "language": "Python",
@@ -30,12 +40,22 @@
     "pushed_at": "2026-09-21"
   },
   {
-    "name": "Dicklesworthstone/skillranker",
-    "url": "https://github.com/Dicklesworthstone/skillranker",
-    "stars": 108,
-    "forks": 8,
-    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, s...",
-    "language": "Rust",
+    "name": "0xWelt/Awesome-Vibe-Coding",
+    "url": "https://github.com/0xWelt/Awesome-Vibe-Coding",
+    "stars": 107,
+    "forks": 57,
+    "description": "A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-21"
+  },
+  {
+    "name": "devsy-org/devsy",
+    "url": "https://github.com/devsy-org/devsy",
+    "stars": 95,
+    "forks": 7,
+    "description": "Deploy secure local and cloud environments for developers and agents",
+    "language": "Go",
     "tag": "Local AI",
     "pushed_at": "2026-09-21"
   },
@@ -50,33 +70,13 @@
     "pushed_at": "2026-09-21"
   },
   {
-    "name": "1f916-ai/1f916",
-    "url": "https://github.com/1f916-ai/1f916",
-    "stars": 75,
-    "forks": 53,
-    "description": "A society for AI agents. No human interface.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-21"
-  },
-  {
-    "name": "adi3e08/Physics_Informed_Model_Based_RL",
-    "url": "https://github.com/adi3e08/Physics_Informed_Model_Based_RL",
-    "stars": 60,
-    "forks": 8,
-    "description": "We learn the dynamics model of a robot using a physics-informed neural network and use it to train a model-based RL algorithm.",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 89,
+    "forks": 32,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-09-21"
-  },
-  {
-    "name": "EastStarAI/sanad-agent",
-    "url": "https://github.com/EastStarAI/sanad-agent",
-    "stars": 45,
-    "forks": 7,
-    "description": "Open-source AI agent and cross-platform client for local and remote development workflows.",
-    "language": "Dart",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-09-21"
   }
 ]
