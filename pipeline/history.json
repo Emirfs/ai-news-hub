@@ -1,9 +1,8 @@
 {
   "seen_urls": [
-    "https://new.roman-names.com/",
+    "https://huggingface.co/blog/robotics-breakthrough",
     "https://arxiv.org/abs/2609.00001",
     "https://github.com/plandex-ai/plandex",
-    "https://huggingface.co/blog/robotics-breakthrough",
     "https://github.com/juggler-ai/juggler"
   ],
   "published_articles": [
@@ -31,11 +30,6 @@
       "slug": "2026-09-21-juggler-an-open-source-gui-coding-agent",
       "date": "2026-09-21",
       "title": "Juggler – an open-source GUI coding agent, by the creator of JUCE"
-    },
-    {
-      "slug": "2026-09-21-i-am-building-a-map-of",
-      "date": "2026-09-21",
-      "title": "I am building a map of people who lived in the Roman Empire"
     }
   ]
 }

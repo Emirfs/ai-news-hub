@@ -8,10 +8,17 @@ import json
 import os
 import re
 import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 
-# Default to Gemini 2.0 Flash, fall back to 1.5 Flash if needed
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+# Candidate models to try in order
+DEFAULT_MODELS = [
+    os.getenv("GEMINI_MODEL", "gemini-1.5-flash"),
+    "gemini-1.5-flash",
+    "gemini-2.0-flash-exp",
+    "gemini-1.5-pro",
+]
+
 ALLOWED_CATEGORIES = [
     "LLMs & Foundation Models",
     "AI Research",
@@ -29,44 +36,65 @@ def create_slug(title: str, max_words: int = 6) -> str:
 
 
 def call_gemini_api(prompt: str, api_key: str) -> dict:
-    """Call Google Gemini REST API."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent?key={api_key}"
+    """Call Google Gemini REST API with model fallback."""
+    last_error = None
 
-    payload = {
-        "contents": [
-            {
-                "parts": [
-                    {"text": prompt}
-                ]
+    # Deduplicate candidate models while preserving order
+    models_to_try = []
+    for m in DEFAULT_MODELS:
+        if m and m not in models_to_try:
+            models_to_try.append(m)
+
+    for model_name in models_to_try:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
+
+        payload = {
+            "contents": [
+                {
+                    "parts": [
+                        {"text": prompt}
+                    ]
+                }
+            ],
+            "generationConfig": {
+                "temperature": 0.3,
+                "topP": 0.9,
+                "responseMimeType": "application/json"
             }
-        ],
-        "generationConfig": {
-            "temperature": 0.3,
-            "topP": 0.9,
-            "responseMimeType": "application/json"
         }
-    }
 
-    req = urllib.request.Request(
-        url,
-        data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json"}
-    )
+        req = urllib.request.Request(
+            url,
+            data=json.dumps(payload).encode("utf-8"),
+            headers={"Content-Type": "application/json"}
+        )
 
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        res_data = json.loads(resp.read().decode("utf-8"))
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                res_data = json.loads(resp.read().decode("utf-8"))
 
-    # Extract text from response
-    candidates = res_data.get("candidates", [])
-    if not candidates:
-        raise ValueError("No candidates returned from Gemini API")
+            candidates = res_data.get("candidates", [])
+            if not candidates:
+                raise ValueError(f"No candidates returned from Gemini API ({model_name})")
 
-    content_parts = candidates[0].get("content", {}).get("parts", [])
-    if not content_parts:
-        raise ValueError("Empty content returned from Gemini API")
+            content_parts = candidates[0].get("content", {}).get("parts", [])
+            if not content_parts:
+                raise ValueError(f"Empty content returned from Gemini API ({model_name})")
 
-    raw_text = content_parts[0].get("text", "")
-    return json.loads(raw_text)
+            raw_text = content_parts[0].get("text", "")
+            print(f"  ✓ Successfully generated dispatch via model: {model_name}")
+            return json.loads(raw_text)
+
+        except urllib.error.HTTPError as e:
+            last_error = e
+            print(f"  Model {model_name} HTTP {e.code}: {e.reason}. Trying next model...")
+            continue
+        except Exception as e:
+            last_error = e
+            print(f"  Model {model_name} failed: {e}. Trying next model...")
+            continue
+
+    raise RuntimeError(f"All Gemini models failed. Last error: {last_error}")
 
 
 def generate_article_from_item(item: dict) -> dict:
@@ -111,9 +139,8 @@ Output must strictly conform to this JSON schema:
 
     if api_key:
         try:
-            print(f"Calling Gemini ({GEMINI_MODEL}) for: {item['title'][:60]}...")
+            print(f"Calling Gemini API for: {item['title'][:60]}...")
             article_data = call_gemini_api(prompt, api_key)
-            # Ensure category is valid
             if article_data.get("category") not in ALLOWED_CATEGORIES:
                 article_data["category"] = item.get("default_category", ALLOWED_CATEGORIES[0])
             return article_data
