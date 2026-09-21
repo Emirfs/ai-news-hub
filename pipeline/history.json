@@ -1,26 +1,28 @@
 {
   "seen_urls": [
-    "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-    "https://code.claude.com/docs/en/changelog",
-    "https://www.effort.news/irregular",
-    "https://deepmind.google/science/weathernext/",
-    "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "https://github.com/plandex-ai/plandex",
-    "https://twitter.com/deepseek_ai/status/2097930608790167907",
-    "https://news.ycombinator.com/item?id=49624603",
-    "https://www.hacktron.ai/blog/hacking-openai",
     "https://github.com/juggler-ai/juggler",
-    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "https://github.com/plandex-ai/plandex",
+    "https://news.ycombinator.com/item?id=49624603",
+    "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
     "https://news.ycombinator.com/item?id=41590682",
-    "https://twigg.ai",
     "https://openai.com/index/astra-for-law/",
-    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "https://huggingface.co/blog/robotics-breakthrough",
+    "https://deepmind.google/science/weathernext/",
+    "https://twigg.ai",
+    "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "https://www.hacktron.ai/blog/hacking-openai",
+    "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "https://news.ycombinator.com/item?id=48473166",
     "https://arxiv.org/abs/2609.00001",
     "https://api-docs.deepseek.com/guides/vision/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+    "https://huggingface.co/blog/robotics-breakthrough",
+    "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "https://api-docs.deepseek.com/news/news260813/",
+    "https://code.claude.com/docs/en/changelog",
+    "https://www.effort.news/irregular",
+    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
   ],
   "published_articles": [
     {
@@ -132,6 +134,16 @@
       "slug": "2026-09-03-new-frontier-development-weathernext-3",
       "date": "2026-09-03",
       "title": "New Frontier Development: WeatherNext 3"
+    },
+    {
+      "slug": "2026-09-21-aws-bedrock-to-require-sharing-data",
+      "date": "2026-09-21",
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models"
+    },
+    {
+      "slug": "2026-09-21-deepseek-peakoff-peak-pricing-update",
+      "date": "2026-09-21",
+      "title": "DeepSeek peak/off-peak pricing update"
     }
   ]
 }

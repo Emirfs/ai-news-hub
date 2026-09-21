@@ -270,10 +270,13 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
                 file_path = NEWS_DIR / f"{slug}-{counter}.md"
                 counter += 1
 
-            # Generate multi-language metadata
+            # Generate multi-language metadata and full-body translations
             multi_trans = generate_multilingual_metadata(article)
+            from pipeline.translate_full_articles import generate_full_translated_body
+            for lang in ["tr", "es", "zh", "de", "it"]:
+                if lang in multi_trans:
+                    multi_trans[lang]["body_html"] = generate_full_translated_body(article["title"], item["source_name"], lang)
             article["translations"] = multi_trans
-
             md_content = format_markdown_file(
                 article=article,
                 source_url=item['url'],
