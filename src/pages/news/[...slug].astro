@@ -13,6 +13,13 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
+const allNews = await getCollection('news');
+// Find related articles (same category or recent, excluding current)
+const relatedArticles = allNews
+  .filter((item) => item.id !== entry.id)
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 3);
+
 const formattedDate = new Intl.DateTimeFormat('en-US', {
   weekday: 'long',
   year: 'numeric',
@@ -20,72 +27,96 @@ const formattedDate = new Intl.DateTimeFormat('en-US', {
   day: 'numeric',
 }).format(entry.data.pubDate);
 
+// Calculate reading time estimate
+const wordCount = (entry.body || '').split(/\s+/).length + entry.data.description.split(/\s+/).length;
+const readingTimeMin = Math.max(1, Math.ceil(wordCount / 180));
+
 const articleTitle = `${entry.data.title} | Neural Pulse`;
+
+// Category badge styles (zero blue)
+const categoryBadgeClass: Record<string, string> = {
+  'LLMs & Foundation Models': 'text-amber-300 border-amber-500/30 bg-amber-500/10',
+  'Robotics & Hardware': 'text-emerald-300 border-emerald-500/30 bg-emerald-500/10',
+  'AI Research': 'text-purple-300 border-purple-500/30 bg-purple-500/10',
+  'Open Source AI': 'text-teal-300 border-teal-500/30 bg-teal-500/10',
+  'Weekly Digest': 'text-amber-400 border-amber-500/40 bg-amber-500/15',
+};
+
+const badgeClass = categoryBadgeClass[entry.data.category] || 'text-neutral-300 border-neutral-700 bg-neutral-800';
 ---
 
 <BaseLayout title={articleTitle} description={entry.data.description} articleDate={entry.data.pubDate.toISOString()}>
-  <article class="max-w-3xl mx-auto py-6">
-    <!-- Breadcrumb & Back -->
-    <nav class="flex items-center gap-2 text-xs font-mono text-neutral-400 mb-6 border-b border-neutral-800 pb-3">
-      <a href="/" class="hover:text-amber-400 transition-colors">← Back to Newsroom</a>
-      <span>/</span>
-      <a href={`/categories/${encodeURIComponent(entry.data.category)}`} class="text-neutral-300 hover:text-white transition-colors">
+  <article class="reading-column py-6">
+    <!-- Breadcrumb & Back Link -->
+    <nav class="flex items-center justify-between text-xs font-mono text-neutral-400 mb-8 border-b border-neutral-800 pb-3">
+      <a href="/" class="hover:text-amber-400 transition-colors inline-flex items-center gap-1.5 font-medium">
+        <span>←</span>
+        <span>Back to Dispatches</span>
+      </a>
+      <a href={`/categories/${encodeURIComponent(entry.data.category)}`} class="text-neutral-400 hover:text-white transition-colors">
         {entry.data.category}
       </a>
     </nav>
 
-    <!-- Header info -->
-    <header class="mb-8 border-b border-neutral-800 pb-8 space-y-4">
-      <div class="flex flex-wrap items-center gap-3">
-        <span class="px-2.5 py-0.5 rounded bg-neutral-800 text-neutral-200 border border-neutral-700 text-xs font-mono font-bold uppercase">
+    <!-- Article Header -->
+    <header class="mb-10 space-y-4">
+      <div class="flex flex-wrap items-center gap-3 text-xs font-mono">
+        <span class={`px-2.5 py-0.5 rounded border text-[11px] font-bold uppercase tracking-wider ${badgeClass}`}>
           {entry.data.category}
         </span>
-        <time datetime={entry.data.pubDate.toISOString()} class="text-xs font-mono text-neutral-400">
+        <time datetime={entry.data.pubDate.toISOString()} class="text-neutral-400">
           {formattedDate}
         </time>
         <span class="text-neutral-600">•</span>
-        <span class="text-xs font-mono text-neutral-400">
-          Curator: <span class="text-neutral-200">{entry.data.author}</span>
+        <span class="text-neutral-400">
+          {readingTimeMin} min read
         </span>
       </div>
 
-      <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-white tracking-tight leading-tight font-newspaper">
+      <!-- Main Headline -->
+      <h1 class="text-3xl sm:text-4xl lg:text-[2.75rem] font-bold text-white tracking-tight leading-[1.18] font-editorial">
         {entry.data.title}
       </h1>
 
-      <p class="text-lg sm:text-xl text-neutral-300 leading-relaxed font-sans">
+      <!-- Lead Excerpt -->
+      <p class="text-lg sm:text-xl text-neutral-300 leading-relaxed font-sans pt-1">
         {entry.data.description}
       </p>
 
-      <!-- Source Attribution Badge -->
-      {entry.data.sourceUrl && (
-        <div class="pt-2 flex items-center gap-2 text-xs font-mono">
-          <span class="text-neutral-400">Primary Technical Source:</span>
-          <a
-            href={entry.data.sourceUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="inline-flex items-center gap-1.5 px-3 py-1 rounded bg-neutral-900 hover:bg-neutral-800 text-amber-400 hover:text-amber-300 border border-neutral-700 transition-colors"
-          >
-            <span>{entry.data.sourceName || 'Primary Document'}</span>
-            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-            </svg>
-          </a>
+      <!-- Byline & Primary Source Link -->
+      <div class="pt-3 border-t border-neutral-800/80 flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-neutral-400">
+        <div>
+          Reported by <span class="text-neutral-200 font-medium">{entry.data.author}</span>
         </div>
-      )}
+        {entry.data.sourceUrl && (
+          <div class="flex items-center gap-2">
+            <span>Primary Wire:</span>
+            <a
+              href={entry.data.sourceUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center gap-1 text-amber-400 hover:text-amber-300 font-medium underline underline-offset-2"
+            >
+              <span>{entry.data.sourceName || 'Primary Document'}</span>
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+            </a>
+          </div>
+        )}
+      </div>
     </header>
 
     <!-- Key Takeaways Callout Box -->
     {entry.data.keyTakeaways && entry.data.keyTakeaways.length > 0 && (
-      <section class="my-8 p-6 rounded bg-[#141416] border border-neutral-800 shadow-sm">
-        <div class="flex items-center gap-2 text-xs font-mono font-bold text-amber-400 uppercase tracking-wider mb-3">
-          <span>⚡</span> Key Editorial Insights
+      <section class="my-10 p-6 rounded-r-lg bg-[#141519] border-l-4 border-amber-500 border-y border-r border-neutral-800/80">
+        <div class="flex items-center gap-2 text-xs font-mono font-bold text-amber-400 uppercase tracking-wider mb-3.5">
+          <span>⚡</span> Executive Summary & Key Signals
         </div>
-        <ul class="space-y-2.5 text-sm sm:text-base text-neutral-200">
+        <ul class="space-y-3 text-base text-neutral-200">
           {entry.data.keyTakeaways.map((point: string) => (
-            <li class="flex items-start gap-2.5">
-              <span class="text-amber-400 font-bold mt-1">▸</span>
+            <li class="flex items-start gap-3 leading-relaxed">
+              <span class="text-amber-400 font-bold mt-1 text-sm">▸</span>
               <span>{point}</span>
             </li>
           ))}
@@ -94,20 +125,44 @@ const articleTitle = `${entry.data.title} | Neural Pulse`;
     )}
 
     <!-- Main Markdown Body -->
-    <div class="article-prose mt-8">
+    <div class="article-prose mt-10">
       <Content />
     </div>
 
-    <!-- Tags & Footer Info -->
+    <!-- Tags -->
     {entry.data.tags && entry.data.tags.length > 0 && (
-      <footer class="mt-12 pt-6 border-t border-neutral-800 flex flex-wrap items-center gap-2">
-        <span class="text-xs font-mono text-neutral-400 mr-2">Topics:</span>
+      <footer class="mt-14 pt-6 border-t border-neutral-800 flex flex-wrap items-center gap-2">
+        <span class="text-xs font-mono text-neutral-400 mr-2">Filed under:</span>
         {entry.data.tags.map((tag: string) => (
           <span class="px-2.5 py-1 rounded bg-neutral-900 border border-neutral-800 text-xs font-mono text-neutral-300">
             #{tag}
           </span>
         ))}
       </footer>
+    )}
+
+    <!-- Continue Reading / Related Stories -->
+    {relatedArticles.length > 0 && (
+      <section class="mt-16 pt-10 border-t border-neutral-800">
+        <h3 class="text-sm font-mono font-bold uppercase tracking-wider text-neutral-400 mb-6 flex items-center gap-2">
+          <span>◆</span> Continue Reading Frontier News
+        </h3>
+        <div class="space-y-4">
+          {relatedArticles.map((item) => (
+            <a
+              href={`/news/${item.id.replace(/\.md$/, '')}`}
+              class="p-4 rounded-lg bg-[#121316] border border-neutral-800 hover:border-neutral-700 transition-colors block group"
+            >
+              <div class="text-xs font-mono text-neutral-400 mb-1">
+                {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(item.data.pubDate)} • {item.data.category}
+              </div>
+              <h4 class="text-base font-bold text-white group-hover:text-amber-400 transition-colors font-editorial">
+                {item.data.title}
+              </h4>
+            </a>
+          ))}
+        </div>
+      </section>
     )}
   </article>
 </BaseLayout>

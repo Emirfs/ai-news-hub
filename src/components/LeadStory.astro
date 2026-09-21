@@ -20,63 +20,64 @@ const {
 } = Astro.props;
 
 const formattedDate = new Intl.DateTimeFormat('en-US', {
+  weekday: 'long',
   month: 'long',
   day: 'numeric',
   year: 'numeric'
 }).format(pubDate);
 ---
 
-<section class="relative rounded-lg bg-[#141416] border border-neutral-800 p-6 sm:p-10 mb-12">
+<section class="border-b border-neutral-800 pb-12 mb-12">
   <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
     <div class="lg:col-span-8 space-y-4">
-      <div class="flex items-center gap-3">
-        <span class="px-2.5 py-0.5 rounded bg-amber-500/10 text-amber-400 border border-amber-500/30 text-xs font-mono font-bold uppercase tracking-wider">
-          ★ Lead Headline
+      <div class="flex items-center gap-2.5 text-xs font-mono">
+        <span class="px-2 py-0.5 rounded bg-amber-500/15 text-amber-400 border border-amber-500/30 font-bold uppercase tracking-wider text-[11px]">
+          ★ Top Story
         </span>
-        <span class="text-xs font-mono text-neutral-400">{category}</span>
+        <span class="text-neutral-400">{category}</span>
         <span class="text-neutral-600">•</span>
-        <span class="text-xs font-mono text-neutral-400">{formattedDate}</span>
+        <span class="text-neutral-400">{formattedDate}</span>
       </div>
 
-      <h1 class="text-2xl sm:text-4xl font-bold text-white tracking-tight leading-snug font-newspaper hover:text-amber-400 transition-colors">
+      <h1 class="text-3xl sm:text-5xl font-bold text-white tracking-tight leading-[1.18] font-editorial hover:text-amber-400 transition-colors">
         <a href={`/news/${slug}`}>
           {title}
         </a>
       </h1>
 
-      <p class="text-base sm:text-lg text-neutral-300 leading-relaxed max-w-3xl">
+      <p class="text-lg sm:text-xl text-neutral-300 leading-relaxed font-sans max-w-3xl">
         {description}
       </p>
 
-      <div class="pt-3 flex flex-wrap items-center gap-4">
+      <div class="pt-2 flex flex-wrap items-center gap-4">
         <a
           href={`/news/${slug}`}
-          class="inline-flex items-center gap-2 px-5 py-2 rounded bg-white hover:bg-neutral-200 text-black font-semibold text-sm transition-colors"
+          class="inline-flex items-center gap-2 px-5 py-2.5 rounded bg-white hover:bg-neutral-200 text-black font-semibold text-sm transition-colors"
         >
           Read Full Analysis
-          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+          <svg class="w-4 h-4 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M14 5l7 7m0 0l-7 7m7-7H3" />
           </svg>
         </a>
 
         {sourceName && (
           <span class="text-xs font-mono text-neutral-400">
-            Source: <strong class="text-neutral-200">{sourceName}</strong>
+            Primary Wire: <strong class="text-neutral-200">{sourceName}</strong>
           </span>
         )}
       </div>
     </div>
 
-    <!-- Takeaways Box -->
+    <!-- Takeaways Box (Sidebar on desktop) -->
     {keyTakeaways && keyTakeaways.length > 0 && (
-      <div class="lg:col-span-4 rounded bg-[#0d0d0f] border border-neutral-800 p-5 space-y-3">
-        <div class="flex items-center gap-2 text-xs font-mono font-bold text-neutral-200 uppercase tracking-wider border-b border-neutral-800 pb-2">
-          <span class="text-amber-400">⚡</span> Key Editorial Takeaways
+      <div class="lg:col-span-4 rounded-lg bg-[#141519] border border-neutral-800 p-5 space-y-3.5">
+        <div class="flex items-center gap-2 text-xs font-mono font-bold text-amber-400 uppercase tracking-wider border-b border-neutral-800 pb-2">
+          <span>⚡</span> Executive Highlights
         </div>
-        <ul class="space-y-2.5 text-xs text-neutral-300">
+        <ul class="space-y-3 text-xs sm:text-sm text-neutral-300">
           {keyTakeaways.slice(0, 3).map((item) => (
-            <li class="flex items-start gap-2 leading-relaxed">
-              <span class="text-amber-400 font-mono mt-0.5">▸</span>
+            <li class="flex items-start gap-2.5 leading-relaxed">
+              <span class="text-amber-400 font-bold mt-0.5">▸</span>
               <span>{item}</span>
             </li>
           ))}
