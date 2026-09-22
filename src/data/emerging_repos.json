@@ -1,20 +1,10 @@
 [
   {
-    "name": "yonatangross/orchestkit",
-    "url": "https://github.com/yonatangross/orchestkit",
-    "stars": 283,
-    "forks": 34,
-    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), or `ork-alpha` for t...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "SonarSource/sonarqube-cli",
-    "url": "https://github.com/SonarSource/sonarqube-cli",
-    "stars": 279,
-    "forks": 19,
-    "description": "Command-line interface for SonarQube with AI agent integration. Scan for secrets and get fast feedback on code quality and security from you...",
+    "name": "decocms/studio",
+    "url": "https://github.com/decocms/studio",
+    "stars": 408,
+    "forks": 57,
+    "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-22"
@@ -30,19 +20,9 @@
     "pushed_at": "2026-09-22"
   },
   {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 230,
-    "forks": 29,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-22"
-  },
-  {
     "name": "FBddcz/embodied-jev",
     "url": "https://github.com/FBddcz/embodied-jev",
-    "stars": 182,
+    "stars": 185,
     "forks": 3,
     "description": "EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs",
     "language": "Python",
@@ -50,33 +30,53 @@
     "pushed_at": "2026-09-22"
   },
   {
-    "name": "0xSero/local-ai-registry",
-    "url": "https://github.com/0xSero/local-ai-registry",
-    "stars": 120,
-    "forks": 14,
-    "description": "Local AI registry: one validated recipe per machine, with the evidence attached",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "templetongroup/radiant",
-    "url": "https://github.com/templetongroup/radiant",
-    "stars": 106,
-    "forks": 19,
-    "description": "A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call in a live activity feed, and dr...",
-    "language": "JavaScript",
+    "name": "ZSeven-W/rish-app",
+    "url": "https://github.com/ZSeven-W/rish-app",
+    "stars": 145,
+    "forks": 16,
+    "description": "Your pocket agent. Local-first AI agents on iOS and Android — real workspaces, tool execution with approvals, and your choice of model (DSH ...",
+    "language": "Objective-C++",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-22"
   },
   {
-    "name": "ClipboardHealth/groundcrew",
-    "url": "https://github.com/ClipboardHealth/groundcrew",
-    "stars": 66,
-    "forks": 9,
-    "description": "Dispatch your task backlog to local, interactive AI coding agents. One git worktree per task, sandboxed by default.",
+    "name": "RomanSlack/jev-drone",
+    "url": "https://github.com/RomanSlack/jev-drone",
+    "stars": 129,
+    "forks": 12,
+    "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "richlander/dotnet-skills",
+    "url": "https://github.com/richlander/dotnet-skills",
+    "stars": 57,
+    "forks": 1,
+    "description": "Skills for using tools that improve LLM-driven .NET / C# development",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "sarrazola/openlivery",
+    "url": "https://github.com/sarrazola/openlivery",
+    "stars": 49,
+    "forks": 46,
+    "description": "Open-source, white-label AI agent platform for agencies to deploy and manage branded WhatsApp agents across client accounts, with human hand...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "ggui-ai/ggui",
+    "url": "https://github.com/ggui-ai/ggui",
+    "stars": 42,
+    "forks": 3,
+    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
     "language": "TypeScript",
-    "tag": "Local AI",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-22"
   }
 ]
