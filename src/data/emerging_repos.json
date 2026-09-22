@@ -1,28 +1,38 @@
 [
   {
-    "name": "decocms/studio",
-    "url": "https://github.com/decocms/studio",
-    "stars": 408,
-    "forks": 57,
-    "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-22"
-  },
-  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 273,
-    "forks": 155,
+    "forks": 156,
     "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-22"
   },
   {
+    "name": "OyadotAI/oya-browser",
+    "url": "https://github.com/OyadotAI/oya-browser",
+    "stars": 250,
+    "forks": 199,
+    "description": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persisten...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 230,
+    "forks": 29,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-22"
+  },
+  {
     "name": "FBddcz/embodied-jev",
     "url": "https://github.com/FBddcz/embodied-jev",
-    "stars": 185,
+    "stars": 186,
     "forks": 3,
     "description": "EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs",
     "language": "Python",
@@ -30,19 +40,19 @@
     "pushed_at": "2026-09-22"
   },
   {
-    "name": "ZSeven-W/rish-app",
-    "url": "https://github.com/ZSeven-W/rish-app",
-    "stars": 145,
-    "forks": 16,
-    "description": "Your pocket agent. Local-first AI agents on iOS and Android — real workspaces, tool execution with approvals, and your choice of model (DSH ...",
-    "language": "Objective-C++",
-    "tag": "Indie Tool",
+    "name": "domdoss/Warden",
+    "url": "https://github.com/domdoss/Warden",
+    "stars": 173,
+    "forks": 50,
+    "description": "This is a fork of the https://dockbox.dev project I made",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-22"
   },
   {
     "name": "RomanSlack/jev-drone",
     "url": "https://github.com/RomanSlack/jev-drone",
-    "stars": 129,
+    "stars": 131,
     "forks": 12,
     "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
     "language": "Python",
@@ -50,33 +60,23 @@
     "pushed_at": "2026-09-22"
   },
   {
-    "name": "richlander/dotnet-skills",
-    "url": "https://github.com/richlander/dotnet-skills",
-    "stars": 57,
-    "forks": 1,
-    "description": "Skills for using tools that improve LLM-driven .NET / C# development",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "sarrazola/openlivery",
-    "url": "https://github.com/sarrazola/openlivery",
-    "stars": 49,
-    "forks": 46,
-    "description": "Open-source, white-label AI agent platform for agencies to deploy and manage branded WhatsApp agents across client accounts, with human hand...",
+    "name": "VKirill/claude-lane-stack",
+    "url": "https://github.com/VKirill/claude-lane-stack",
+    "stars": 117,
+    "forks": 0,
+    "description": "Multi-agent AI coding factory for one person — Claude Code PM + Codex/Qwen/Grok/Kimi/AGY writers, durable conveyor, auto-merge to main",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-22"
   },
   {
-    "name": "ggui-ai/ggui",
-    "url": "https://github.com/ggui-ai/ggui",
-    "stars": 42,
-    "forks": 3,
-    "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+    "name": "xlnfinance/xln",
+    "url": "https://github.com/xlnfinance/xln",
+    "stars": 103,
+    "forks": 23,
+    "description": "0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped...",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "tag": "Local AI",
     "pushed_at": "2026-09-22"
   }
 ]
