@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Neural Pulse is an autonomous technology journal monitoring, verifying, and publishing breaking developments across artificial intelligence, foundation models, robotics, and open-source software every hour.
 >
-> **Last Synced:** `2026-09-22 10:03 UTC` | **Total Verified Dispatches:** `33`
+> **Last Synced:** `2026-09-22 14:59 UTC` | **Total Verified Dispatches:** `35`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 265.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 247.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 232.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 265.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.0k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 233.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [juspay/xyne-spaces](https://github.com/juspay/xyne-spaces) | `★ 405` | `2026-09-22` | Experimental Agent | `TypeScript` | The AI Org-OS — a collaborative platform for humans and agents. Explore: https://spac... |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-09-22` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
+| [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `★ 283` | `2026-09-22` | Experimental Agent | `TypeScript` | The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks... |
+| [SonarSource/sonarqube-cli](https://github.com/SonarSource/sonarqube-cli) | `★ 279` | `2026-09-22` | Experimental Agent | `TypeScript` | Command-line interface for SonarQube with AI agent integration. Scan for secrets and ... |
 | [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 273` | `2026-09-22` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [alibaba/loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) | `★ 191` | `2026-09-22` | Local AI | `TypeScript` | Local-first telemetry collector for AI coding agents — unified OpenTelemetry events f... |
-| [FBddcz/embodied-jev](https://github.com/FBddcz/embodied-jev) | `★ 174` | `2026-09-22` | Embodied AI | `Python` | EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible mod... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 230` | `2026-09-22` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [FBddcz/embodied-jev](https://github.com/FBddcz/embodied-jev) | `★ 182` | `2026-09-22` | Embodied AI | `Python` | EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible mod... |
 
 ### 📰 Latest AI News Dispatches (Direct Markdown)
 
@@ -44,9 +44,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-22` | AI Research | [Twitter/X Dispatch: Karpathyâs Pelican](src/content/news/2026-09-22-twitterx-dispatch-karpathys-pelican.md) | An extensive analysis of Twitter/X Dispatch: Karpathy’s Pelican, distributed via Andrej Karpathy (@karpathy), offer... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-twitterx-dispatch-karpathys-pelican/) | [Andrej Karpathy (@karpathy)]() |
 | `2026-09-22` | AI Research | [Smart model routing directly in Claude, Codex and Cursor](src/content/news/2026-09-22-smart-model-routing-directly-in-claude.md) | An extensive analysis of Smart model routing directly in Claude, Codex and Cursor, distributed via Anthropic & Clau... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-smart-model-routing-directly-in-claude/) | [Anthropic & Claude Feed]() |
+| `2026-09-22` | LLMs & Foundation Models | [Microsoft director: AI scraping 'the largest theft of labor in human history](src/content/news/2026-09-22-microsoft-director-ai-scraping-the-largest.md) | An extensive analysis of Microsoft director: AI scraping 'the largest theft of labor in human history', distributed... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-microsoft-director-ai-scraping-the-largest/) | [OpenAI Feed]() |
 | `2026-09-22` | AI Research | [Launch HN: Adam (YC W25) â Open-Source AI CAD](src/content/news/2026-09-22-launch-hn-adam-yc-w25-open-source.md) | An extensive analysis of Launch HN: Adam (YC W25) – Open-Source AI CAD, distributed via Anthropic & Claude Feed, of... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-launch-hn-adam-yc-w25-open-source/) | [Anthropic & Claude Feed]() |
 | `2026-09-22` | Open Source AI | [Hugging Face Trending Release: abenzerps/Qwen-Image-2.1-GGUF (text-to-image)](src/content/news/2026-09-22-hugging-face-trending-release-abenzerpsqwen-image-21-gguf-text-to-image.md) | An extensive analysis of Hugging Face Trending Release: abenzerps/Qwen-Image-2.1-GGUF (text-to-image), distributed ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-hugging-face-trending-release-abenzerpsqwen-image-21-gguf-text-to-image/) | [Hugging Face Model Hub]() |
 | `2026-09-22` | LLMs & Foundation Models | [How OpenAI Used Its Own LLMs to Design Its JalapeÃ±o Chip](src/content/news/2026-09-22-how-openai-used-its-own-llms.md) | An extensive analysis of How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip, distributed via OpenAI Feed, off... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-how-openai-used-its-own-llms/) | [OpenAI Feed]() |
+| `2026-09-22` | Open Source AI | [DeepSeek v4.1 Flash Is Now Our Best Hacking Model](src/content/news/2026-09-22-deepseek-v41-flash-is-now-our.md) | An extensive analysis of DeepSeek v4.1 Flash Is Now Our Best Hacking Model, distributed via DeepSeek Feed, offering... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-deepseek-v41-flash-is-now-our/) | [DeepSeek Feed]() |
 | `2026-09-22` | Open Source AI | [Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](src/content/news/2026-09-22-cactus-needle-3-8-29mb-automation-models.md) | An extensive analysis of Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash, distributed via Dee... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-cactus-needle-3-8-29mb-automation-models/) | [DeepSeek Feed]() |
 | `2026-09-21` | Weekly Digest | 📋 **[Digest]** [Weekly AI Intelligence Briefing: Frontier Reasoning Models, Open Robotics, and Compute Efficiency](src/content/news/2026-09-21-weekly-ai-briefing-w38.md) | A comprehensive synthesis of the week's defining breakthroughs across AI research, hardware scaling, and open-sourc... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-21-weekly-ai-briefing-w38/) | [Neural Pulse Editorial]() |
 | `2026-09-21` | AI Research | [Twitter/X Dispatch: Iâve joined Anthropic](src/content/news/2026-09-21-twitterx-dispatch-ive-joined-anthropic.md) | An extensive analysis of Twitter/X Dispatch: I’ve joined Anthropic, distributed via Andrej Karpathy (@karpathy), of... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-21-twitterx-dispatch-ive-joined-anthropic/) | [Andrej Karpathy (@karpathy)]() |
@@ -82,7 +84,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve bağımsız açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
 >
-> **Son Güncelleme:** `2026-09-22 10:03 UTC` | **Doğrulanmış Haber Sayısı:** `33`
+> **Son Güncelleme:** `2026-09-22 14:59 UTC` | **Doğrulanmış Haber Sayısı:** `35`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -94,9 +96,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-22` | AI Research | [Twitter/X Dispatch: Karpathyâs Pelican](src/content/news/2026-09-22-twitterx-dispatch-karpathys-pelican.md) | An extensive analysis of Twitter/X Dispatch: Karpathy’s Pelican, distributed via Andrej Karpathy (@karpathy), offer... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-twitterx-dispatch-karpathys-pelican/) | [Andrej Karpathy (@karpathy)]() |
 | `2026-09-22` | AI Research | [Smart model routing directly in Claude, Codex and Cursor](src/content/news/2026-09-22-smart-model-routing-directly-in-claude.md) | An extensive analysis of Smart model routing directly in Claude, Codex and Cursor, distributed via Anthropic & Clau... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-smart-model-routing-directly-in-claude/) | [Anthropic & Claude Feed]() |
+| `2026-09-22` | LLMs & Foundation Models | [Microsoft director: AI scraping 'the largest theft of labor in human history](src/content/news/2026-09-22-microsoft-director-ai-scraping-the-largest.md) | An extensive analysis of Microsoft director: AI scraping 'the largest theft of labor in human history', distributed... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-microsoft-director-ai-scraping-the-largest/) | [OpenAI Feed]() |
 | `2026-09-22` | AI Research | [Launch HN: Adam (YC W25) â Open-Source AI CAD](src/content/news/2026-09-22-launch-hn-adam-yc-w25-open-source.md) | An extensive analysis of Launch HN: Adam (YC W25) – Open-Source AI CAD, distributed via Anthropic & Claude Feed, of... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-launch-hn-adam-yc-w25-open-source/) | [Anthropic & Claude Feed]() |
 | `2026-09-22` | Open Source AI | [Hugging Face Trending Release: abenzerps/Qwen-Image-2.1-GGUF (text-to-image)](src/content/news/2026-09-22-hugging-face-trending-release-abenzerpsqwen-image-21-gguf-text-to-image.md) | An extensive analysis of Hugging Face Trending Release: abenzerps/Qwen-Image-2.1-GGUF (text-to-image), distributed ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-hugging-face-trending-release-abenzerpsqwen-image-21-gguf-text-to-image/) | [Hugging Face Model Hub]() |
 | `2026-09-22` | LLMs & Foundation Models | [How OpenAI Used Its Own LLMs to Design Its JalapeÃ±o Chip](src/content/news/2026-09-22-how-openai-used-its-own-llms.md) | An extensive analysis of How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip, distributed via OpenAI Feed, off... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-how-openai-used-its-own-llms/) | [OpenAI Feed]() |
+| `2026-09-22` | Open Source AI | [DeepSeek v4.1 Flash Is Now Our Best Hacking Model](src/content/news/2026-09-22-deepseek-v41-flash-is-now-our.md) | An extensive analysis of DeepSeek v4.1 Flash Is Now Our Best Hacking Model, distributed via DeepSeek Feed, offering... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-deepseek-v41-flash-is-now-our/) | [DeepSeek Feed]() |
 | `2026-09-22` | Open Source AI | [Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](src/content/news/2026-09-22-cactus-needle-3-8-29mb-automation-models.md) | An extensive analysis of Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash, distributed via Dee... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-cactus-needle-3-8-29mb-automation-models/) | [DeepSeek Feed]() |
 | `2026-09-21` | Weekly Digest | 📋 **[Haftalık Bülten]** [Weekly AI Intelligence Briefing: Frontier Reasoning Models, Open Robotics, and Compute Efficiency](src/content/news/2026-09-21-weekly-ai-briefing-w38.md) | A comprehensive synthesis of the week's defining breakthroughs across AI research, hardware scaling, and open-sourc... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-weekly-ai-briefing-w38/) | [Neural Pulse Editorial]() |
 | `2026-09-21` | AI Research | [Twitter/X Dispatch: Iâve joined Anthropic](src/content/news/2026-09-21-twitterx-dispatch-ive-joined-anthropic.md) | An extensive analysis of Twitter/X Dispatch: I’ve joined Anthropic, distributed via Andrej Karpathy (@karpathy), of... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-twitterx-dispatch-ive-joined-anthropic/) | [Andrej Karpathy (@karpathy)]() |
