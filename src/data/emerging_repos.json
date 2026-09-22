@@ -1,11 +1,21 @@
 [
   {
-    "name": "nudgebee/nudgebee",
-    "url": "https://github.com/nudgebee/nudgebee",
-    "stars": 397,
-    "forks": 263,
-    "description": "Unified CloudOps platform with AI-SRE, AI-FinOps, AI-K8sOps, and the Agentic Automation Builder without fragmented tools, context switching,...",
-    "language": "Go",
+    "name": "juspay/xyne-spaces",
+    "url": "https://github.com/juspay/xyne-spaces",
+    "stars": 405,
+    "forks": 250,
+    "description": "The AI Org-OS — a collaborative platform for humans and agents. Explore: https://spaces.xyne.ai",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 302,
+    "forks": 66,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-22"
   },
@@ -20,9 +30,19 @@
     "pushed_at": "2026-09-22"
   },
   {
+    "name": "alibaba/loongsuite-pilot",
+    "url": "https://github.com/alibaba/loongsuite-pilot",
+    "stars": 191,
+    "forks": 47,
+    "description": "Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, co...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-22"
+  },
+  {
     "name": "FBddcz/embodied-jev",
     "url": "https://github.com/FBddcz/embodied-jev",
-    "stars": 164,
+    "stars": 174,
     "forks": 2,
     "description": "EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs",
     "language": "Python",
@@ -30,52 +50,32 @@
     "pushed_at": "2026-09-22"
   },
   {
-    "name": "ldbumble/taskuary",
-    "url": "https://github.com/ldbumble/taskuary",
-    "stars": 116,
-    "forks": 22,
-    "description": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, C...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "raia-live/amfs",
-    "url": "https://github.com/raia-live/amfs",
-    "stars": 76,
-    "forks": 10,
-    "description": "Continual Learning for AI agents, helping your agents self-improve with every run",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "linux4life1/front-porch-AI",
-    "url": "https://github.com/linux4life1/front-porch-AI",
-    "stars": 71,
-    "forks": 10,
-    "description": "Local-first AI character chat & roleplay for Windows/macOS/Linux — a living Realism Engine, built-in TTS & image generation, and The Stoop c...",
-    "language": "Dart",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "openmake/openmake_llm",
-    "url": "https://github.com/openmake/openmake_llm",
-    "stars": 43,
-    "forks": 6,
-    "description": "Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifa...",
+    "name": "different-ai-studio/teamclu",
+    "url": "https://github.com/different-ai-studio/teamclu",
+    "stars": 168,
+    "forks": 16,
+    "description": "TeamClu, AI Agent Desktop Workspace",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-22"
   },
   {
-    "name": "lightspeed-core/lightspeed-stack",
-    "url": "https://github.com/lightspeed-core/lightspeed-stack",
-    "stars": 40,
-    "forks": 103,
-    "description": "LLM tooling stack",
-    "language": "Python",
+    "name": "looptroop-ai/LoopTroop",
+    "url": "https://github.com/looptroop-ai/LoopTroop",
+    "stars": 152,
+    "forks": 12,
+    "description": "Local AI coding orchestration for repo-scale work: LLM-council planning, Ralph-loop recovery, isolated OpenCode worktrees, and human-gated P...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "grandgaming9321-prog/reality-engine",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine",
+    "stars": 128,
+    "forks": 2,
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "language": "HTML",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-22"
   }
