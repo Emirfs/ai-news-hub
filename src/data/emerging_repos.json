@@ -1,82 +1,82 @@
 [
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 273,
-    "forks": 152,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-21"
-  },
-  {
-    "name": "Changan-Su/Forsion",
-    "url": "https://github.com/Changan-Su/Forsion",
-    "stars": 138,
-    "forks": 0,
-    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-21"
-  },
-  {
-    "name": "gmickel/gno",
-    "url": "https://github.com/gmickel/gno",
-    "stars": 114,
-    "forks": 12,
-    "description": "Local AI-powered document search and editing with first-in-class hybrid retrieval, LLM answers, WebUI, REST API and MCP support for AI clien...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-21"
-  },
-  {
-    "name": "RomanSlack/jev-drone",
-    "url": "https://github.com/RomanSlack/jev-drone",
-    "stars": 111,
-    "forks": 10,
-    "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-21"
-  },
-  {
-    "name": "0xWelt/Awesome-Vibe-Coding",
-    "url": "https://github.com/0xWelt/Awesome-Vibe-Coding",
-    "stars": 107,
+    "name": "decocms/studio",
+    "url": "https://github.com/decocms/studio",
+    "stars": 407,
     "forks": 57,
-    "description": "A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-21"
+    "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-22"
   },
   {
-    "name": "devsy-org/devsy",
-    "url": "https://github.com/devsy-org/devsy",
-    "stars": 95,
-    "forks": 7,
-    "description": "Deploy secure local and cloud environments for developers and agents",
-    "language": "Go",
+    "name": "guaardvark/guaardvark",
+    "url": "https://github.com/guaardvark/guaardvark",
+    "stars": 228,
+    "forks": 48,
+    "description": "The self-hosted AI studio: local video, image, music, voice, LoRA training, coding swarms, RAG and screen agents on one GPU, driven from the...",
+    "language": "Python",
     "tag": "Local AI",
-    "pushed_at": "2026-09-21"
+    "pushed_at": "2026-09-22"
   },
   {
-    "name": "diillson/chatcli",
-    "url": "https://github.com/diillson/chatcli",
-    "stars": 93,
-    "forks": 24,
-    "description": "ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic, OpenAI, and others—to facilitate interactive conversa...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-21"
+    "name": "sleep2agi/agent-network",
+    "url": "https://github.com/sleep2agi/agent-network",
+    "stars": 74,
+    "forks": 10,
+    "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / Mini...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-22"
   },
   {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 89,
-    "forks": 32,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "name": "Yokin-XY/Kite",
+    "url": "https://github.com/Yokin-XY/Kite",
+    "stars": 58,
+    "forks": 9,
+    "description": "Android card-based workbench for KF/KFShell: Ubuntu runtime, AI tool cards, local Web Shell, and shareable recipes.",
+    "language": "Kotlin",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "vixl-ai/vixl",
+    "url": "https://github.com/vixl-ai/vixl",
+    "stars": 22,
+    "forks": 3,
+    "description": "Open LLMs UI",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "raro42/mac-stats",
+    "url": "https://github.com/raro42/mac-stats",
+    "stars": 18,
+    "forks": 4,
+    "description": "Menu-bar system monitor for Apple Silicon (optional local AI agent). Rust + Tauri. No cloud telemetry.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "donghzs/vermes",
+    "url": "https://github.com/donghzs/vermes",
+    "stars": 16,
+    "forks": 3,
+    "description": "Vermes - 开源、可自托管开箱即用的陪伴式记忆自进化自学习一体化 AI Agent 解决方案",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-21"
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-22"
+  },
+  {
+    "name": "KCNyu/clawock",
+    "url": "https://github.com/KCNyu/clawock",
+    "stars": 15,
+    "forks": 0,
+    "description": "AI argues. Code settles. The losses stay on the page. A real HK + US brokerage account run by agents that must debate every call, settled by...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-22"
   }
 ]

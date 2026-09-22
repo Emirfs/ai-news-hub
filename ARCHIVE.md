@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Neural Pulse is an autonomous technology journal monitoring, verifying, and publishing breaking developments across artificial intelligence, foundation models, robotics, and open-source software every hour.
 >
-> **Last Synced:** `2026-09-21 21:07 UTC` | **Total Verified Dispatches:** `27`
+> **Last Synced:** `2026-09-22 00:10 UTC` | **Total Verified Dispatches:** `29`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -21,9 +21,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 264.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 247.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 247.8k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 232.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 273` | `2026-09-21` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) | `★ 138` | `2026-09-21` | Local AI | `TypeScript` | Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, know... |
-| [gmickel/gno](https://github.com/gmickel/gno) | `★ 114` | `2026-09-21` | Local AI | `TypeScript` | Local AI-powered document search and editing with first-in-class hybrid retrieval, LL... |
-| [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) | `★ 111` | `2026-09-21` | Embodied AI | `Python` | Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in ... |
-| [0xWelt/Awesome-Vibe-Coding](https://github.com/0xWelt/Awesome-Vibe-Coding) | `★ 107` | `2026-09-21` | Indie Tool | `Python` | A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources |
+| [decocms/studio](https://github.com/decocms/studio) | `★ 407` | `2026-09-22` | Experimental Agent | `TypeScript` | Open-source control plane for your AI agents. Connect tools, hire agents, track every... |
+| [guaardvark/guaardvark](https://github.com/guaardvark/guaardvark) | `★ 228` | `2026-09-22` | Local AI | `Python` | The self-hosted AI studio: local video, image, music, voice, LoRA training, coding sw... |
+| [sleep2agi/agent-network](https://github.com/sleep2agi/agent-network) | `★ 74` | `2026-09-22` | Experimental Agent | `TypeScript` | 助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Bui... |
+| [Yokin-XY/Kite](https://github.com/Yokin-XY/Kite) | `★ 58` | `2026-09-22` | Local AI | `Kotlin` | Android card-based workbench for KF/KFShell: Ubuntu runtime, AI tool cards, local Web... |
+| [vixl-ai/vixl](https://github.com/vixl-ai/vixl) | `★ 22` | `2026-09-22` | Local AI | `TypeScript` | Open LLMs UI |
 
 ### 📰 Latest AI News Dispatches (Direct Markdown)
 
 | Date | Category | Headline (.md Source) | Executive Briefing | Live Web View | Primary Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-22` | AI Research | [Twitter/X Dispatch: Karpathyâs Pelican](src/content/news/2026-09-22-twitterx-dispatch-karpathys-pelican.md) | An extensive analysis of Twitter/X Dispatch: Karpathy’s Pelican, distributed via Andrej Karpathy (@karpathy), offer... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-twitterx-dispatch-karpathys-pelican/) | [Andrej Karpathy (@karpathy)]() |
+| `2026-09-22` | Open Source AI | [Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](src/content/news/2026-09-22-cactus-needle-3-8-29mb-automation-models.md) | An extensive analysis of Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash, distributed via Dee... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-cactus-needle-3-8-29mb-automation-models/) | [DeepSeek Feed]() |
 | `2026-09-21` | Weekly Digest | 📋 **[Digest]** [Weekly AI Intelligence Briefing: Frontier Reasoning Models, Open Robotics, and Compute Efficiency](src/content/news/2026-09-21-weekly-ai-briefing-w38.md) | A comprehensive synthesis of the week's defining breakthroughs across AI research, hardware scaling, and open-sourc... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-21-weekly-ai-briefing-w38/) | [Neural Pulse Editorial]() |
 | `2026-09-21` | AI Research | [Twitter/X Dispatch: Iâve joined Anthropic](src/content/news/2026-09-21-twitterx-dispatch-ive-joined-anthropic.md) | An extensive analysis of Twitter/X Dispatch: I’ve joined Anthropic, distributed via Andrej Karpathy (@karpathy), of... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-21-twitterx-dispatch-ive-joined-anthropic/) | [Andrej Karpathy (@karpathy)]() |
 | `2026-09-21` | LLMs & Foundation Models | [Sourcetable â AI Spreadsheet and Data Platform](src/content/news/2026-09-21-sourcetable-ai-spreadsheet-and-data-platform.md) | An extensive analysis of Sourcetable – AI Spreadsheet and Data Platform, distributed via Hacker News AI Top, offeri... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-21-sourcetable-ai-spreadsheet-and-data-platform/) | [Hacker News Wire]() |
@@ -76,7 +78,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve bağımsız açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
 >
-> **Son Güncelleme:** `2026-09-21 21:07 UTC` | **Doğrulanmış Haber Sayısı:** `27`
+> **Son Güncelleme:** `2026-09-22 00:10 UTC` | **Doğrulanmış Haber Sayısı:** `29`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -86,6 +88,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-22` | AI Research | [Twitter/X Dispatch: Karpathyâs Pelican](src/content/news/2026-09-22-twitterx-dispatch-karpathys-pelican.md) | An extensive analysis of Twitter/X Dispatch: Karpathy’s Pelican, distributed via Andrej Karpathy (@karpathy), offer... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-twitterx-dispatch-karpathys-pelican/) | [Andrej Karpathy (@karpathy)]() |
+| `2026-09-22` | Open Source AI | [Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](src/content/news/2026-09-22-cactus-needle-3-8-29mb-automation-models.md) | An extensive analysis of Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash, distributed via Dee... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-cactus-needle-3-8-29mb-automation-models/) | [DeepSeek Feed]() |
 | `2026-09-21` | Weekly Digest | 📋 **[Haftalık Bülten]** [Weekly AI Intelligence Briefing: Frontier Reasoning Models, Open Robotics, and Compute Efficiency](src/content/news/2026-09-21-weekly-ai-briefing-w38.md) | A comprehensive synthesis of the week's defining breakthroughs across AI research, hardware scaling, and open-sourc... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-weekly-ai-briefing-w38/) | [Neural Pulse Editorial]() |
 | `2026-09-21` | AI Research | [Twitter/X Dispatch: Iâve joined Anthropic](src/content/news/2026-09-21-twitterx-dispatch-ive-joined-anthropic.md) | An extensive analysis of Twitter/X Dispatch: I’ve joined Anthropic, distributed via Andrej Karpathy (@karpathy), of... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-twitterx-dispatch-ive-joined-anthropic/) | [Andrej Karpathy (@karpathy)]() |
 | `2026-09-21` | LLMs & Foundation Models | [Sourcetable â AI Spreadsheet and Data Platform](src/content/news/2026-09-21-sourcetable-ai-spreadsheet-and-data-platform.md) | An extensive analysis of Sourcetable – AI Spreadsheet and Data Platform, distributed via Hacker News AI Top, offeri... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-21-sourcetable-ai-spreadsheet-and-data-platform/) | [Hacker News Wire]() |

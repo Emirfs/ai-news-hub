@@ -1,35 +1,37 @@
 {
   "seen_urls": [
-    "https://api-docs.deepseek.com/news/news260813/",
-    "https://api-docs.deepseek.com/guides/vision/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "https://huggingface.co/convaiinnovations/laya",
-    "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-    "https://code.claude.com/docs/en/changelog",
-    "https://www.hacktron.ai/blog/hacking-openai",
-    "https://news.ycombinator.com/item?id=48473166",
-    "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "https://twitter.com/karpathy/status/2056753169888334312",
+    "https://huggingface.co/Qwen/Qwen-Image-2.1",
     "https://huggingface.co/blog/robotics-breakthrough",
     "https://news.ycombinator.com/item?id=49624603",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "https://arxiv.org/abs/2609.00001",
-    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "https://github.com/juggler-ai/juggler",
-    "https://github.com/plandex-ai/plandex",
-    "https://www.effort.news/irregular",
-    "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-    "https://openai.com/index/astra-for-law/",
-    "https://huggingface.co/Qwen/Qwen-Image-2.1",
-    "https://huggingface.co/Qwen/Qwen3.8-27B",
-    "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-    "https://deepmind.google/science/weathernext/",
-    "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
     "https://news.ycombinator.com/item?id=41590682",
-    "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "https://github.com/juggler-ai/juggler",
+    "https://twitter.com/karpathy/status/2083749667410727319",
+    "https://api-docs.deepseek.com/news/news260813/",
+    "https://news.ycombinator.com/item?id=48473166",
+    "https://github.com/plandex-ai/plandex",
+    "https://api-docs.deepseek.com/guides/vision/",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-    "https://twigg.ai"
+    "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+    "https://huggingface.co/convaiinnovations/laya",
+    "https://twigg.ai",
+    "https://arxiv.org/abs/2609.00001",
+    "https://deepmind.google/science/weathernext/",
+    "https://twitter.com/karpathy/status/2056753169888334312",
+    "https://www.effort.news/irregular",
+    "https://openai.com/index/astra-for-law/",
+    "https://www.hacktron.ai/blog/hacking-openai",
+    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "https://cactuscompute.com/needle",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "https://twitter.com/deepseek_ai/status/2097930608790167907",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+    "https://code.claude.com/docs/en/changelog"
   ],
   "published_articles": [
     {
@@ -186,6 +188,16 @@
       "slug": "2026-09-21-hugging-face-trending-release-xingchen-agixing40-29b-a4b-text-generation",
       "date": "2026-09-21",
       "title": "Hugging Face Trending Release: XingChen-AGI/Xing4.0-29B-A4B (text-generation)"
+    },
+    {
+      "slug": "2026-09-22-twitterx-dispatch-karpathys-pelican",
+      "date": "2026-09-22",
+      "title": "Twitter/X Dispatch: Karpathy’s Pelican"
+    },
+    {
+      "slug": "2026-09-22-cactus-needle-3-8-29mb-automation-models",
+      "date": "2026-09-22",
+      "title": "Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
     }
   ]
 }
