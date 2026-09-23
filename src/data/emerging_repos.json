@@ -1,82 +1,42 @@
 [
   {
-    "name": "agentclientprotocol/registry",
-    "url": "https://github.com/agentclientprotocol/registry",
-    "stars": 404,
-    "forks": 319,
-    "description": "Registry of agents implementing the Agent Client Protocol (ACP)",
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 302,
+    "forks": 66,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-23"
   },
   {
-    "name": "ai-shifu/ai-shifu",
-    "url": "https://github.com/ai-shifu/ai-shifu",
-    "stars": 318,
-    "forks": 125,
-    "description": "Get AI to teach and answer questions for you - just by typing!",
+    "name": "lizhiyao/oh-my-knowledge",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "forks": 4,
+    "description": "OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "agent-kit-startup/agent-kit",
+    "url": "https://github.com/agent-kit-startup/agent-kit",
+    "stars": 19,
+    "forks": 1,
+    "description": "Plan, build, review, and ship anything to the real world without leaving your environment. AI harness with built-in Project Management and D...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "KCNyu/clawock",
+    "url": "https://github.com/KCNyu/clawock",
+    "stars": 15,
+    "forks": 0,
+    "description": "AI argues. Code settles. The losses stay on the page. A real HK + US brokerage account run by agents that must debate every call, settled by...",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 275,
-    "forks": 157,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "dondai44423/bladebro",
-    "url": "https://github.com/dondai44423/bladebro",
-    "stars": 200,
-    "forks": 15,
-    "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "godot-fun/gai",
-    "url": "https://github.com/godot-fun/gai",
-    "stars": 170,
-    "forks": 16,
-    "description": "A lightweight AI agent and skill workflow framework built with Godot.",
-    "language": "GDScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "ZSeven-W/rish-app",
-    "url": "https://github.com/ZSeven-W/rish-app",
-    "stars": 145,
-    "forks": 16,
-    "description": "Your pocket agent. Local-first AI agents on iOS and Android — real workspaces, tool execution with approvals, and your choice of model (DSH ...",
-    "language": "Objective-C++",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "Tomotsugu-dev/Hindsight",
-    "url": "https://github.com/Tomotsugu-dev/Hindsight",
-    "stars": 132,
-    "forks": 9,
-    "description": "Local-first desktop activity tracker — see where your hours go, with on-device AI daily summaries and optional multi-device sync",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "hjxwz123/Aivory",
-    "url": "https://github.com/hjxwz123/Aivory",
-    "stars": 101,
-    "forks": 13,
-    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
-    "language": "Go",
-    "tag": "Indie Tool",
     "pushed_at": "2026-09-23"
   }
 ]

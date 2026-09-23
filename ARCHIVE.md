@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-23 12:20 UTC` | **Source-linked stories:** `6`
+> **Index generated:** `2026-09-23 13:36 UTC` | **Source-linked stories:** `8`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 264.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 247.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 231.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 265.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.3k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 234.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,18 +32,19 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 197` | `2026-09-21` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
-| [xiayu1987/noobot](https://github.com/xiayu1987/noobot) | `★ 181` | `2026-09-21` | Indie Tool | `JavaScript` | Cheapest Money-Saving Self-hosted AI agent workspace with tool calling, MCP, multi-mo... |
-| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | `★ 172` | `2026-09-21` | Experimental Agent | `JavaScript` | openworkbuddy — local-first AI office agent: turn requests into real files. Self-host... |
-| [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | `★ 125` | `2026-09-21` | Indie Tool | `HTML` | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
-| [Abhinesh2004/mirage-cortex](https://github.com/Abhinesh2004/mirage-cortex) | `★ 121` | `2026-09-21` | Indie Tool | `HTML` | Top Agent Swarm Simulation Tools for LLM World Modeling 2026 |
+| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-09-23` | Experimental Agent | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
+| [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | `★ 23` | `2026-09-23` | Experimental Agent | `TypeScript` | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, ... |
+| [agent-kit-startup/agent-kit](https://github.com/agent-kit-startup/agent-kit) | `★ 19` | `2026-09-23` | Experimental Agent | `TypeScript` | Plan, build, review, and ship anything to the real world without leaving your environ... |
+| [KCNyu/clawock](https://github.com/KCNyu/clawock) | `★ 15` | `2026-09-23` | Experimental Agent | `Python` | AI argues. Code settles. The losses stay on the page. A real HK + US brokerage accoun... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-23` | LLMs & Foundation Models | [Grab and OpenAI bring practical AI skills to Southeast Asia](src/content/news/2026-09-23-grab-and-openai-bring-practical-ai.md) | OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-grab-and-openai-bring-practical-ai/) | [OpenAI News](https://openai.com/index/grab-openai-ai-skills-southeast-asia) |
+| `2026-09-23` | AI Research | [Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models](src/content/news/2026-09-23-didactic-knowledge-or-clinical-cases-how.md) | Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-didactic-knowledge-or-clinical-cases-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22161) |
 | `2026-09-23` | AI Research | [AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](src/content/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent.md) | Researchers introduce AutoGym, a framework for generating agent-training tasks with executable environments and ver... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22592) |
+| `2026-09-23` | AI Research | [An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users](src/content/news/2026-09-23-an-affordable-ai-integrated-smart-cane-for.md) | Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated ha... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-an-affordable-ai-integrated-smart-cane-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22277) |
 | `2026-09-23` | AI Research | [Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus](src/content/news/2026-09-23-agreement-overstates-evidence-error-dependence-in.md) | Researchers report correlated errors among LLM judges, so agreement between judges may overstate the evidence. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-agreement-overstates-evidence-error-dependence-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22512) |
 | `2026-09-22` | LLMs & Foundation Models | [OpenAI introduces GPT-6 Sol and GPT-6 Luna](src/content/news/2026-09-22-gpt-6-sol-official-release.md) | OpenAI announced GPT-6 Sol and Luna on September 22. The company says both are available through its API and Codex,... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-gpt-6-sol-official-release/) | [OpenAI](https://openai.com/index/introducing-gpt-6-sol-and-luna/) |
 | `2026-09-22` | LLMs & Foundation Models | [Better prompt caching for GPT-6](src/content/news/2026-09-22-better-prompt-caching-for-gpt-6.md) | OpenAI says GPT-6 prompt caching improves cache reuse and adds diagnostics and explicit cache breakpoints. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-better-prompt-caching-for-gpt-6/) | [OpenAI News](https://openai.com/index/better-prompt-caching-for-gpt-6) |
@@ -55,7 +56,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-23 12:20 UTC` | **Yayımlanan haber:** `6`
+> **Dizin oluşturma:** `2026-09-23 13:36 UTC` | **Yayımlanan haber:** `8`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -66,7 +67,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-23` | LLMs & Foundation Models | [Grab and OpenAI bring practical AI skills to Southeast Asia](src/content/news/2026-09-23-grab-and-openai-bring-practical-ai.md) | OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-grab-and-openai-bring-practical-ai/) | [OpenAI News](https://openai.com/index/grab-openai-ai-skills-southeast-asia) |
+| `2026-09-23` | AI Research | [Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models](src/content/news/2026-09-23-didactic-knowledge-or-clinical-cases-how.md) | Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-didactic-knowledge-or-clinical-cases-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22161) |
 | `2026-09-23` | AI Research | [AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](src/content/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent.md) | Researchers introduce AutoGym, a framework for generating agent-training tasks with executable environments and ver... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22592) |
+| `2026-09-23` | AI Research | [An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users](src/content/news/2026-09-23-an-affordable-ai-integrated-smart-cane-for.md) | Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated ha... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-an-affordable-ai-integrated-smart-cane-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22277) |
 | `2026-09-23` | AI Research | [Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus](src/content/news/2026-09-23-agreement-overstates-evidence-error-dependence-in.md) | Researchers report correlated errors among LLM judges, so agreement between judges may overstate the evidence. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-agreement-overstates-evidence-error-dependence-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22512) |
 | `2026-09-22` | LLMs & Foundation Models | [OpenAI introduces GPT-6 Sol and GPT-6 Luna](src/content/news/2026-09-22-gpt-6-sol-official-release.md) | OpenAI announced GPT-6 Sol and Luna on September 22. The company says both are available through its API and Codex,... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-gpt-6-sol-official-release/) | [OpenAI](https://openai.com/index/introducing-gpt-6-sol-and-luna/) |
 | `2026-09-22` | LLMs & Foundation Models | [Better prompt caching for GPT-6](src/content/news/2026-09-22-better-prompt-caching-for-gpt-6.md) | OpenAI says GPT-6 prompt caching improves cache reuse and adds diagnostics and explicit cache breakpoints. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-better-prompt-caching-for-gpt-6/) | [OpenAI News](https://openai.com/index/better-prompt-caching-for-gpt-6) |
