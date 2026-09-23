@@ -1,5 +1,25 @@
 [
   {
+    "name": "receptron/mulmoclaude",
+    "url": "https://github.com/receptron/mulmoclaude",
+    "stars": 351,
+    "forks": 60,
+    "description": "Nurture your own AI assistant on your own computer. Local-first and MIT: memories, data and apps stay as plain files in your workspace. Chat...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "gameworkerkim/vibe-investing",
+    "url": "https://github.com/gameworkerkim/vibe-investing",
+    "stars": 335,
+    "forks": 99,
+    "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNA...",
+    "language": "HTML",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 273,
@@ -7,76 +27,56 @@
     "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-09-22"
+    "pushed_at": "2026-09-23"
   },
   {
-    "name": "OyadotAI/oya-browser",
-    "url": "https://github.com/OyadotAI/oya-browser",
-    "stars": 250,
-    "forks": 199,
-    "description": "The browser control plane for AI agents. One API over Oya Cloud, Browserbase, Steel, Anchor, Browser Use and your own Chrome, with persisten...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 230,
-    "forks": 29,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "FBddcz/embodied-jev",
-    "url": "https://github.com/FBddcz/embodied-jev",
-    "stars": 186,
-    "forks": 3,
-    "description": "EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "domdoss/Warden",
-    "url": "https://github.com/domdoss/Warden",
-    "stars": 173,
-    "forks": 50,
-    "description": "This is a fork of the https://dockbox.dev project I made",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "RomanSlack/jev-drone",
-    "url": "https://github.com/RomanSlack/jev-drone",
-    "stars": 131,
-    "forks": 12,
-    "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-22"
-  },
-  {
-    "name": "VKirill/claude-lane-stack",
-    "url": "https://github.com/VKirill/claude-lane-stack",
-    "stars": 117,
-    "forks": 0,
-    "description": "Multi-agent AI coding factory for one person — Claude Code PM + Codex/Qwen/Grok/Kimi/AGY writers, durable conveyor, auto-merge to main",
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 214,
+    "forks": 31,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-22"
+    "pushed_at": "2026-09-23"
   },
   {
-    "name": "xlnfinance/xln",
-    "url": "https://github.com/xlnfinance/xln",
-    "stars": 103,
-    "forks": 23,
-    "description": "0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped...",
-    "language": "TypeScript",
+    "name": "Dicklesworthstone/skillranker",
+    "url": "https://github.com/Dicklesworthstone/skillranker",
+    "stars": 113,
+    "forks": 8,
+    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, s...",
+    "language": "Rust",
     "tag": "Local AI",
-    "pushed_at": "2026-09-22"
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "conceptadev/ack",
+    "url": "https://github.com/conceptadev/ack",
+    "stars": 63,
+    "forks": 3,
+    "description": "A modern Dart schema library for structured data, with a focus on LLM tools in mind.",
+    "language": "Dart",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "everruns/everruns",
+    "url": "https://github.com/everruns/everruns",
+    "stars": 48,
+    "forks": 5,
+    "description": "Headless durable agentic harness engine. Run durable AI agents reliably and scalably.",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "PVRLabs/aibadger",
+    "url": "https://github.com/PVRLabs/aibadger",
+    "stars": 41,
+    "forks": 4,
+    "description": "AI Badger - Local-first tool that extracts focused repo context for any AI chat (Claude, ChatGPT, Grok, etc.) without wasting tokens on irre...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-23"
   }
 ]
