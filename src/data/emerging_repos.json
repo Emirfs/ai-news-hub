@@ -1,42 +1,82 @@
 [
   {
-    "name": "xorbitsai/xagent",
-    "url": "https://github.com/xorbitsai/xagent",
-    "stars": 302,
-    "forks": 66,
-    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 275,
+    "forks": 157,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "nightly-labs/openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "stars": 210,
+    "forks": 20,
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "TheSyart/emperor-agent",
+    "url": "https://github.com/TheSyart/emperor-agent",
+    "stars": 188,
+    "forks": 42,
+    "description": "Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, tools, skills, memory, and token telemetry.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "ldbumble/taskuary",
+    "url": "https://github.com/ldbumble/taskuary",
+    "stars": 118,
+    "forks": 22,
+    "description": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, C...",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-23"
   },
   {
-    "name": "lizhiyao/oh-my-knowledge",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge",
-    "stars": 23,
+    "name": "dylanneve1/talon",
+    "url": "https://github.com/dylanneve1/talon",
+    "stars": 84,
     "forks": 4,
-    "description": "OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek ...",
+    "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "tag": "Indie Tool",
     "pushed_at": "2026-09-23"
   },
   {
-    "name": "agent-kit-startup/agent-kit",
-    "url": "https://github.com/agent-kit-startup/agent-kit",
-    "stars": 19,
-    "forks": 1,
-    "description": "Plan, build, review, and ship anything to the real world without leaving your environment. AI harness with built-in Project Management and D...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "KCNyu/clawock",
-    "url": "https://github.com/KCNyu/clawock",
-    "stars": 15,
-    "forks": 0,
-    "description": "AI argues. Code settles. The losses stay on the page. A real HK + US brokerage account run by agents that must debate every call, settled by...",
+    "name": "js-lee-AI/awesome-llm-agent-papers",
+    "url": "https://github.com/js-lee-AI/awesome-llm-agent-papers",
+    "stars": 84,
+    "forks": 24,
+    "description": "A curated, continuously updated reading list of 200+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Com...",
     "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "daintreehq/daintree",
+    "url": "https://github.com/daintreehq/daintree",
+    "stars": 74,
+    "forks": 10,
+    "description": "A delegation environment for orchestrating AI coding agents. Manage Claude, Gemini, and Codex sessions across git   worktrees with integrate...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "techysy/10router",
+    "url": "https://github.com/techysy/10router",
+    "stars": 44,
+    "forks": 12,
+    "description": "10Router — local AI routing gateway & dashboard (9Router 精简优化版) · npm i -g @techysy/10router",
+    "language": "JavaScript",
+    "tag": "Local AI",
     "pushed_at": "2026-09-23"
   }
 ]

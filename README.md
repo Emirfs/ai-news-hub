@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-23 13:36 UTC` | **Source-linked stories:** `8`
+> **Index generated:** `2026-09-23 15:04 UTC` | **Source-linked stories:** `10`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -22,7 +22,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 265.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 234.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 234.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,15 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-09-23` | Experimental Agent | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | `★ 23` | `2026-09-23` | Experimental Agent | `TypeScript` | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, ... |
-| [agent-kit-startup/agent-kit](https://github.com/agent-kit-startup/agent-kit) | `★ 19` | `2026-09-23` | Experimental Agent | `TypeScript` | Plan, build, review, and ship anything to the real world without leaving your environ... |
-| [KCNyu/clawock](https://github.com/KCNyu/clawock) | `★ 15` | `2026-09-23` | Experimental Agent | `Python` | AI argues. Code settles. The losses stay on the page. A real HK + US brokerage accoun... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 275` | `2026-09-23` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | `★ 210` | `2026-09-23` | Experimental Agent | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and G... |
+| [TheSyart/emperor-agent](https://github.com/TheSyart/emperor-agent) | `★ 188` | `2026-09-23` | Indie Tool | `TypeScript` | Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, too... |
+| [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | `★ 118` | `2026-09-23` | Experimental Agent | `Python` | Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one time... |
+| [dylanneve1/talon](https://github.com/dylanneve1/talon) | `★ 84` | `2026-09-23` | Indie Tool | `TypeScript` | 🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal wit... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-23` | AI Research | [Social Influence and the Allocation of Scientific Attention in AI Populations](src/content/news/2026-09-23-social-influence-and-the-allocation-of.md) | AI systems are becoming participants in the evaluation and use of scientific research. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-social-influence-and-the-allocation-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22408) |
+| `2026-09-23` | AI Research | [PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation](src/content/news/2026-09-23-paani-on-device-visual-evidence-fusion.md) | Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-paani-on-device-visual-evidence-fusion/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22353) |
 | `2026-09-23` | LLMs & Foundation Models | [Grab and OpenAI bring practical AI skills to Southeast Asia](src/content/news/2026-09-23-grab-and-openai-bring-practical-ai.md) | OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-grab-and-openai-bring-practical-ai/) | [OpenAI News](https://openai.com/index/grab-openai-ai-skills-southeast-asia) |
 | `2026-09-23` | AI Research | [Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models](src/content/news/2026-09-23-didactic-knowledge-or-clinical-cases-how.md) | Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-didactic-knowledge-or-clinical-cases-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22161) |
 | `2026-09-23` | AI Research | [AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](src/content/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent.md) | Researchers introduce AutoGym, a framework for generating agent-training tasks with executable environments and ver... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22592) |
@@ -56,7 +59,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-23 13:36 UTC` | **Yayımlanan haber:** `8`
+> **Dizin oluşturma:** `2026-09-23 15:04 UTC` | **Yayımlanan haber:** `10`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -66,6 +69,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-23` | AI Research | [Social Influence and the Allocation of Scientific Attention in AI Populations](src/content/news/2026-09-23-social-influence-and-the-allocation-of.md) | AI systems are becoming participants in the evaluation and use of scientific research. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-social-influence-and-the-allocation-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22408) |
+| `2026-09-23` | AI Research | [PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation](src/content/news/2026-09-23-paani-on-device-visual-evidence-fusion.md) | Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-paani-on-device-visual-evidence-fusion/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22353) |
 | `2026-09-23` | LLMs & Foundation Models | [Grab and OpenAI bring practical AI skills to Southeast Asia](src/content/news/2026-09-23-grab-and-openai-bring-practical-ai.md) | OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-grab-and-openai-bring-practical-ai/) | [OpenAI News](https://openai.com/index/grab-openai-ai-skills-southeast-asia) |
 | `2026-09-23` | AI Research | [Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models](src/content/news/2026-09-23-didactic-knowledge-or-clinical-cases-how.md) | Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-didactic-knowledge-or-clinical-cases-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22161) |
 | `2026-09-23` | AI Research | [AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](src/content/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent.md) | Researchers introduce AutoGym, a framework for generating agent-training tasks with executable environments and ver... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22592) |
