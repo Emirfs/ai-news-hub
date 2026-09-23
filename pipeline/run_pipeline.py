@@ -40,7 +40,7 @@ def update_readme_and_archive():
         try:
             content = md_file.read_text(encoding="utf-8")
             meta, body = extract_frontmatter(content)
-            if not meta.get("sourcePolicy"):
+            if not meta.get("sourcePolicy") or not meta.get("sourceUrl"):
                 continue
             slug = md_file.stem
             

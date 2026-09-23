@@ -37,6 +37,16 @@ def clean_html(raw_html: str) -> str:
     import html
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", raw_html))).strip()
 
+def source_excerpt(summary: str, max_chars: int = 1200) -> str:
+    """Keep source text readable without ending an excerpt mid-sentence."""
+    summary = re.sub(r"^arXiv:\S+\s+Announce Type:\s+\w+\s+Abstract:\s*", "", summary)
+    if len(summary) <= max_chars:
+        return summary
+    endings = [match.start() for match in re.finditer(r"(?<=[.!?])\s+", summary[:max_chars])]
+    if endings and endings[-1] >= 200:
+        return summary[:endings[-1]].strip()
+    return summary[:max_chars].rsplit(" ", 1)[0].strip() + "…"
+
 
 def clean_url(url: str) -> str:
     if not url:
@@ -192,7 +202,7 @@ def fetch_feed_data(feed: dict) -> list[dict]:
             title, summary = clean_html(entry.get("title", "")), clean_html(entry.get("summary", ""))
             url = clean_url(entry.get("url", ""))
             if title and summary and url:
-                items.append({"title": title, "url": url, "summary": summary[:1000],
+                items.append({"title": title, "url": url, "summary": source_excerpt(summary),
                               "source_name": feed["name"], "default_category": entry.get("category", feed["category"]),
                               "published": entry.get("published", ""),
                               "score": 60 if feed["name"] == "Anthropic Newsroom" else 55 if feed["name"] == "OpenAI News" else 40,

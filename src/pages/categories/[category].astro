@@ -5,7 +5,7 @@ import NewsListItem from '../../components/NewsListItem.astro';
 import { getPath } from '../../utils/url';
 
 export async function getStaticPaths() {
-  const allNews = await getCollection('news');
+  const allNews = (await getCollection('news')).filter((item) => item.data.sourcePolicy === 'primary');
   const categories = Array.from(new Set(allNews.map((item) => item.data.category)));
 
   return categories.map((category) => ({
@@ -57,9 +57,7 @@ const { category, articles } = Astro.props;
           pubDate={article.data.pubDate}
           category={article.data.category}
           sourceName={article.data.sourceName}
-          sourceUrl={article.data.sourceUrl}
           keyTakeaways={article.data.keyTakeaways}
-          isWeeklyDigest={article.data.isWeeklyDigest}
         />
       ))}
     </div>

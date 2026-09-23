@@ -58,16 +58,19 @@ def generate_article_from_item(item: dict) -> dict:
                 excerpt = generated
         except Exception as exc:
             print(f"Summary generation unavailable; retaining source excerpt ({exc}).")
+    description = re.split(r"(?<=[.!?])\s+", excerpt, maxsplit=1)[0]
+    if len(description) > 300:
+        description = description[:299].rsplit(" ", 1)[0] + "…"
     source = item["source_name"]
     return {
         "title": title,
-        "description": excerpt[:300],
+        "description": description,
         "category": category,
         "tags": [],
         "keyTakeaways": [],
         "content_markdown": (
             "### Source-attributed summary\n\n"
-            f"This summary is based only on {escape(source)}'s published excerpt. "
+            f"This summary uses the published excerpt from {escape(source)}. "
             "It has not been independently fact-checked by Neural Pulse.\n\n"
             f"{escape(excerpt)}\n\n"
             f"[Read the original source]({item['url']}) for the full context."

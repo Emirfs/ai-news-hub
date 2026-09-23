@@ -26,7 +26,13 @@ def fetch(url, headers=None):
 
 def is_official(url):
     parsed = urllib.parse.urlparse(url)
-    return parsed.scheme == "https" and parsed.hostname in OFFICIAL_HOSTS
+    if parsed.scheme != "https" or parsed.hostname not in OFFICIAL_HOSTS:
+        return False
+    if parsed.hostname == "huggingface.co":
+        return parsed.path.startswith("/blog/")
+    if parsed.hostname in ("arxiv.org", "export.arxiv.org"):
+        return parsed.path.startswith("/abs/")
+    return True
 
 
 class Metadata(HTMLParser):

@@ -4,7 +4,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import NewsListItem from '../components/NewsListItem.astro';
 import { getPath } from '../utils/url';
 
-const allNews = await getCollection('news');
+const allNews = (await getCollection('news')).filter((item) => item.data.sourcePolicy === 'primary');
 const digests = allNews
   .filter((item) => item.data.isWeeklyDigest)
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
@@ -43,9 +43,7 @@ const digests = allNews
             pubDate={digest.data.pubDate}
             category={digest.data.category}
             sourceName={digest.data.sourceName}
-            sourceUrl={digest.data.sourceUrl}
             keyTakeaways={digest.data.keyTakeaways}
-            isWeeklyDigest={true}
           />
         ))}
       </div>

@@ -4,7 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getPath } from '../../utils/url';
 
 export async function getStaticPaths() {
-  const newsEntries = await getCollection('news');
+  const newsEntries = (await getCollection('news')).filter((entry) => entry.data.sourcePolicy === 'primary');
   return newsEntries.map((entry) => ({
     params: { slug: entry.id.replace(/\.md$/, '') },
     props: { entry },
@@ -14,7 +14,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const allNews = await getCollection('news');
+const allNews = (await getCollection('news')).filter((item) => item.data.sourcePolicy === 'primary');
 const relatedArticles = allNews
   .filter((item) => item.id !== entry.id)
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
@@ -84,12 +84,6 @@ const defaultData = {
         {entry.data.category}
       </a>
     </nav>
-    {!entry.data.sourcePolicy && (
-      <aside class="mb-6 rounded-lg border border-amber-500 bg-amber-50 p-4 text-sm text-amber-950 dark:bg-amber-950 dark:text-amber-100">
-        Archive notice: This article predates the official-source publication policy.
-        Its claims and summaries have not been checked against the cited source.
-      </aside>
-    )}
 
     {Object.keys(articleTranslations).length > 0 && <div class="mb-8 p-3.5 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs font-mono shadow-xs">
       <div class="flex items-center gap-2 text-[var(--text-muted)]">

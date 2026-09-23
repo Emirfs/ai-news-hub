@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-23 10:29 UTC` | **Source-linked stories:** `2`
+> **Index generated:** `2026-09-23 12:20 UTC` | **Source-linked stories:** `6`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -42,7 +42,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-23` | LLMs & Foundation Models | [Grab and OpenAI bring practical AI skills to Southeast Asia](src/content/news/2026-09-23-grab-and-openai-bring-practical-ai.md) | OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-grab-and-openai-bring-practical-ai/) | [OpenAI News](https://openai.com/index/grab-openai-ai-skills-southeast-asia) |
+| `2026-09-23` | AI Research | [AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](src/content/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent.md) | Researchers introduce AutoGym, a framework for generating agent-training tasks with executable environments and ver... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22592) |
+| `2026-09-23` | AI Research | [Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus](src/content/news/2026-09-23-agreement-overstates-evidence-error-dependence-in.md) | Researchers report correlated errors among LLM judges, so agreement between judges may overstate the evidence. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-agreement-overstates-evidence-error-dependence-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22512) |
 | `2026-09-22` | LLMs & Foundation Models | [OpenAI introduces GPT-6 Sol and GPT-6 Luna](src/content/news/2026-09-22-gpt-6-sol-official-release.md) | OpenAI announced GPT-6 Sol and Luna on September 22. The company says both are available through its API and Codex,... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-gpt-6-sol-official-release/) | [OpenAI](https://openai.com/index/introducing-gpt-6-sol-and-luna/) |
+| `2026-09-22` | LLMs & Foundation Models | [Better prompt caching for GPT-6](src/content/news/2026-09-22-better-prompt-caching-for-gpt-6.md) | OpenAI says GPT-6 prompt caching improves cache reuse and adds diagnostics and explicit cache breakpoints. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-better-prompt-caching-for-gpt-6/) | [OpenAI News](https://openai.com/index/better-prompt-caching-for-gpt-6) |
 | `2026-09-22` | LLMs & Foundation Models | [Anthropic introduces Claude Opus 5.5](src/content/news/2026-09-22-claude-opus-55-official-release.md) | Anthropic announced Claude Opus 5.5 on September 22. It says typical workloads cost 40% less than Opus 5; the claim... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-claude-opus-55-official-release/) | [Anthropic](https://www.anthropic.com/claude-opus-5-5) |
 
 ---
@@ -51,7 +55,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-23 10:29 UTC` | **Yayımlanan haber:** `2`
+> **Dizin oluşturma:** `2026-09-23 12:20 UTC` | **Yayımlanan haber:** `6`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -61,7 +65,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-23` | LLMs & Foundation Models | [Grab and OpenAI bring practical AI skills to Southeast Asia](src/content/news/2026-09-23-grab-and-openai-bring-practical-ai.md) | OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-grab-and-openai-bring-practical-ai/) | [OpenAI News](https://openai.com/index/grab-openai-ai-skills-southeast-asia) |
+| `2026-09-23` | AI Research | [AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](src/content/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent.md) | Researchers introduce AutoGym, a framework for generating agent-training tasks with executable environments and ver... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22592) |
+| `2026-09-23` | AI Research | [Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus](src/content/news/2026-09-23-agreement-overstates-evidence-error-dependence-in.md) | Researchers report correlated errors among LLM judges, so agreement between judges may overstate the evidence. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-agreement-overstates-evidence-error-dependence-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22512) |
 | `2026-09-22` | LLMs & Foundation Models | [OpenAI introduces GPT-6 Sol and GPT-6 Luna](src/content/news/2026-09-22-gpt-6-sol-official-release.md) | OpenAI announced GPT-6 Sol and Luna on September 22. The company says both are available through its API and Codex,... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-gpt-6-sol-official-release/) | [OpenAI](https://openai.com/index/introducing-gpt-6-sol-and-luna/) |
+| `2026-09-22` | LLMs & Foundation Models | [Better prompt caching for GPT-6](src/content/news/2026-09-22-better-prompt-caching-for-gpt-6.md) | OpenAI says GPT-6 prompt caching improves cache reuse and adds diagnostics and explicit cache breakpoints. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-better-prompt-caching-for-gpt-6/) | [OpenAI News](https://openai.com/index/better-prompt-caching-for-gpt-6) |
 | `2026-09-22` | LLMs & Foundation Models | [Anthropic introduces Claude Opus 5.5](src/content/news/2026-09-22-claude-opus-55-official-release.md) | Anthropic announced Claude Opus 5.5 on September 22. It says typical workloads cost 40% less than Opus 5; the claim... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-claude-opus-55-official-release/) | [Anthropic](https://www.anthropic.com/claude-opus-5-5) |
 
 ---
