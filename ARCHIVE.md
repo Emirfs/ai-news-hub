@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Neural Pulse is an autonomous technology journal monitoring, verifying, and publishing breaking developments across artificial intelligence, foundation models, robotics, and open-source software every hour.
 >
-> **Last Synced:** `2026-09-23 05:15 UTC` | **Total Verified Dispatches:** `43`
+> **Last Synced:** `2026-09-23 10:05 UTC` | **Total Verified Dispatches:** `45`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 265.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 265.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 233.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 234.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [receptron/mulmoclaude](https://github.com/receptron/mulmoclaude) | `★ 351` | `2026-09-23` | Local AI | `TypeScript` | Nurture your own AI assistant on your own computer. Local-first and MIT: memories, da... |
-| [OpenMOSS/EasyWAM](https://github.com/OpenMOSS/EasyWAM) | `★ 313` | `2026-09-23` | Embodied AI | `Python` | A unified framework for training, fine-tuning, and evaluating World Action Models |
-| [cortexkit/aft](https://github.com/cortexkit/aft) | `★ 307` | `2026-09-23` | Experimental Agent | `Rust` | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenC... |
-| [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) | `★ 276` | `2026-09-23` | Local AI | `TypeScript` | System audio capture + multi-provider ASR + local-first AI review workspace. Floating... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 273` | `2026-09-23` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [agentclientprotocol/registry](https://github.com/agentclientprotocol/registry) | `★ 404` | `2026-09-23` | Experimental Agent | `Python` | Registry of agents implementing the Agent Client Protocol (ACP) |
+| [ai-shifu/ai-shifu](https://github.com/ai-shifu/ai-shifu) | `★ 318` | `2026-09-23` | Experimental Agent | `Python` | Get AI to teach and answer questions for you - just by typing! |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 275` | `2026-09-23` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [dondai44423/bladebro](https://github.com/dondai44423/bladebro) | `★ 200` | `2026-09-23` | Experimental Agent | `Rust` | A Fully free agentic browser driver for AI , few tools, full control, real stealth, t... |
+| [godot-fun/gai](https://github.com/godot-fun/gai) | `★ 170` | `2026-09-23` | Experimental Agent | `GDScript` | A lightweight AI agent and skill workflow framework built with Godot. |
 
 ### 📰 Latest AI News Dispatches (Direct Markdown)
 
 | Date | Category | Headline (.md Source) | Executive Briefing | Live Web View | Primary Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-23` | AI Research | [Twitter/X Dispatch: Gemini won't return C++ coding help if you're under 18 \"to preserve your safety\](src/content/news/2026-09-23-twitterx-dispatch-gemini-wont-return-c.md) | An extensive analysis of Twitter/X Dispatch: Gemini won't return C++ coding help if you're under 18 \"to preserve y... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-twitterx-dispatch-gemini-wont-return-c/) | [Yann LeCun (Meta AI) (@ylecun)]() |
+| `2026-09-23` | AI Research | [Twitter/X Dispatch: Don't study or work on LLMs](src/content/news/2026-09-23-twitterx-dispatch-dont-study-or-work.md) | An extensive analysis of Twitter/X Dispatch: Don't study or work on LLMs, distributed via Yann LeCun (Meta AI) (@yl... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-twitterx-dispatch-dont-study-or-work/) | [Yann LeCun (Meta AI) (@ylecun)]() |
 | `2026-09-23` | AI Research | [Tell HN: Claude 4.7 is ignoring stop hooks](src/content/news/2026-09-23-tell-hn-claude-47-is-ignoring.md) | An extensive analysis of Tell HN: Claude 4.7 is ignoring stop hooks, distributed via Anthropic & Claude Feed, offer... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-tell-hn-claude-47-is-ignoring/) | [Anthropic & Claude Feed]() |
 | `2026-09-23` | LLMs & Foundation Models | [Did OpenAI solve the wrong Navier-Stokes problem?](src/content/news/2026-09-23-did-openai-solve-the-wrong-navier-stokes.md) | An extensive analysis of Did OpenAI solve the wrong Navier-Stokes problem?, distributed via OpenAI Feed, offering n... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-did-openai-solve-the-wrong-navier-stokes/) | [OpenAI Feed]() |
 | `2026-09-23` | Open Source AI | [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](src/content/news/2026-09-23-deepseek-v41-flash-pushing-the-limits-of.md) | An extensive analysis of DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression, distributed via DeepSeek ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-deepseek-v41-flash-pushing-the-limits-of/) | [DeepSeek Feed]() |
@@ -92,7 +94,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve bağımsız açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
 >
-> **Son Güncelleme:** `2026-09-23 05:15 UTC` | **Doğrulanmış Haber Sayısı:** `43`
+> **Son Güncelleme:** `2026-09-23 10:05 UTC` | **Doğrulanmış Haber Sayısı:** `45`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -102,6 +104,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-23` | AI Research | [Twitter/X Dispatch: Gemini won't return C++ coding help if you're under 18 \"to preserve your safety\](src/content/news/2026-09-23-twitterx-dispatch-gemini-wont-return-c.md) | An extensive analysis of Twitter/X Dispatch: Gemini won't return C++ coding help if you're under 18 \"to preserve y... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-twitterx-dispatch-gemini-wont-return-c/) | [Yann LeCun (Meta AI) (@ylecun)]() |
+| `2026-09-23` | AI Research | [Twitter/X Dispatch: Don't study or work on LLMs](src/content/news/2026-09-23-twitterx-dispatch-dont-study-or-work.md) | An extensive analysis of Twitter/X Dispatch: Don't study or work on LLMs, distributed via Yann LeCun (Meta AI) (@yl... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-twitterx-dispatch-dont-study-or-work/) | [Yann LeCun (Meta AI) (@ylecun)]() |
 | `2026-09-23` | AI Research | [Tell HN: Claude 4.7 is ignoring stop hooks](src/content/news/2026-09-23-tell-hn-claude-47-is-ignoring.md) | An extensive analysis of Tell HN: Claude 4.7 is ignoring stop hooks, distributed via Anthropic & Claude Feed, offer... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-tell-hn-claude-47-is-ignoring/) | [Anthropic & Claude Feed]() |
 | `2026-09-23` | LLMs & Foundation Models | [Did OpenAI solve the wrong Navier-Stokes problem?](src/content/news/2026-09-23-did-openai-solve-the-wrong-navier-stokes.md) | An extensive analysis of Did OpenAI solve the wrong Navier-Stokes problem?, distributed via OpenAI Feed, offering n... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-did-openai-solve-the-wrong-navier-stokes/) | [OpenAI Feed]() |
 | `2026-09-23` | Open Source AI | [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](src/content/news/2026-09-23-deepseek-v41-flash-pushing-the-limits-of.md) | An extensive analysis of DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression, distributed via DeepSeek ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-deepseek-v41-flash-pushing-the-limits-of/) | [DeepSeek Feed]() |

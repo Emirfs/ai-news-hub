@@ -1,82 +1,82 @@
 [
   {
-    "name": "receptron/mulmoclaude",
-    "url": "https://github.com/receptron/mulmoclaude",
-    "stars": 351,
-    "forks": 60,
-    "description": "Nurture your own AI assistant on your own computer. Local-first and MIT: memories, data and apps stay as plain files in your workspace. Chat...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "OpenMOSS/EasyWAM",
-    "url": "https://github.com/OpenMOSS/EasyWAM",
-    "stars": 313,
-    "forks": 11,
-    "description": "A unified framework for training, fine-tuning, and evaluating World Action Models",
+    "name": "agentclientprotocol/registry",
+    "url": "https://github.com/agentclientprotocol/registry",
+    "stars": 404,
+    "forks": 319,
+    "description": "Registry of agents implementing the Agent Client Protocol (ACP)",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "cortexkit/aft",
-    "url": "https://github.com/cortexkit/aft",
-    "stars": 307,
-    "forks": 38,
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
-    "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-23"
   },
   {
-    "name": "XimilalaXiang/DeLive",
-    "url": "https://github.com/XimilalaXiang/DeLive",
-    "stars": 276,
-    "forks": 17,
-    "description": "System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summ...",
-    "language": "TypeScript",
-    "tag": "Local AI",
+    "name": "ai-shifu/ai-shifu",
+    "url": "https://github.com/ai-shifu/ai-shifu",
+    "stars": 318,
+    "forks": 125,
+    "description": "Get AI to teach and answer questions for you - just by typing!",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-23"
   },
   {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 273,
-    "forks": 156,
+    "stars": 275,
+    "forks": 157,
     "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-23"
   },
   {
-    "name": "fitchmultz/pi-posthorse",
-    "url": "https://github.com/fitchmultz/pi-posthorse",
-    "stars": 247,
-    "forks": 7,
-    "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover t...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 214,
-    "forks": 31,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
+    "name": "dondai44423/bladebro",
+    "url": "https://github.com/dondai44423/bladebro",
+    "stars": 200,
+    "forks": 15,
+    "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
+    "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-23"
   },
   {
     "name": "godot-fun/gai",
     "url": "https://github.com/godot-fun/gai",
-    "stars": 169,
+    "stars": 170,
     "forks": 16,
     "description": "A lightweight AI agent and skill workflow framework built with Godot.",
     "language": "GDScript",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "ZSeven-W/rish-app",
+    "url": "https://github.com/ZSeven-W/rish-app",
+    "stars": 145,
+    "forks": 16,
+    "description": "Your pocket agent. Local-first AI agents on iOS and Android — real workspaces, tool execution with approvals, and your choice of model (DSH ...",
+    "language": "Objective-C++",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "Tomotsugu-dev/Hindsight",
+    "url": "https://github.com/Tomotsugu-dev/Hindsight",
+    "stars": 132,
+    "forks": 9,
+    "description": "Local-first desktop activity tracker — see where your hours go, with on-device AI daily summaries and optional multi-device sync",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "hjxwz123/Aivory",
+    "url": "https://github.com/hjxwz123/Aivory",
+    "stars": 101,
+    "forks": 13,
+    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
+    "language": "Go",
+    "tag": "Indie Tool",
     "pushed_at": "2026-09-23"
   }
 ]
