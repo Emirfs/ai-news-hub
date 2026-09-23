@@ -1,82 +1,82 @@
 [
   {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 230,
-    "forks": 29,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "domdoss/Warden",
-    "url": "https://github.com/domdoss/Warden",
-    "stars": 173,
-    "forks": 50,
-    "description": "This is a fork of the https://dockbox.dev project I made",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "Mintplex-Labs/anythingllm-mobile",
-    "url": "https://github.com/Mintplex-Labs/anythingllm-mobile",
-    "stars": 103,
-    "forks": 30,
-    "description": "Own your intelligence on the go. Chat, RAG, Agents, and more using small models on device first.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "dylanneve1/talon",
-    "url": "https://github.com/dylanneve1/talon",
-    "stars": 85,
-    "forks": 4,
-    "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "General-Instinct/InstinctFlash",
-    "url": "https://github.com/General-Instinct/InstinctFlash",
-    "stars": 80,
-    "forks": 6,
-    "description": "High-Performance Serving Runtime for Robotics Models",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "saeedkolivand/ai-job-hunter-app",
-    "url": "https://github.com/saeedkolivand/ai-job-hunter-app",
-    "stars": 57,
-    "forks": 5,
-    "description": "Local-first AI desktop assistant that scrapes job boards, matches roles to your resume, and auto-generates resumes & cover letters. Offline ...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "egosteer/robot-stack",
-    "url": "https://github.com/egosteer/robot-stack",
-    "stars": 50,
-    "forks": 3,
-    "description": "A unified stack for teleoperation, model inference, and human-in-the-loop correction on a bimanual dexterous robot platform.",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 276,
+    "forks": 157,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-23"
   },
   {
-    "name": "techysy/10router",
-    "url": "https://github.com/techysy/10router",
-    "stars": 44,
-    "forks": 12,
-    "description": "10Router — local AI routing gateway & dashboard (9Router 精简优化版) · npm i -g @techysy/10router",
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 214,
+    "forks": 33,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "NVIDIA/NeMo-Relay",
+    "url": "https://github.com/NVIDIA/NeMo-Relay",
+    "stars": 176,
+    "forks": 73,
+    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "Hash-7777/HashCortX",
+    "url": "https://github.com/Hash-7777/HashCortX",
+    "stars": 152,
+    "forks": 14,
+    "description": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop ...",
     "language": "JavaScript",
     "tag": "Local AI",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "benseverndev-oss/goldenmatch",
+    "url": "https://github.com/benseverndev-oss/goldenmatch",
+    "stars": 133,
+    "forks": 15,
+    "description": "Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 ...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "magnus919/agent-skills",
+    "url": "https://github.com/magnus919/agent-skills",
+    "stars": 95,
+    "forks": 9,
+    "description": "Curated collection of AI agent skills for Hermes and other agent frameworks",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 89,
+    "forks": 33,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "General-Instinct/InstinctFlash",
+    "url": "https://github.com/General-Instinct/InstinctFlash",
+    "stars": 83,
+    "forks": 6,
+    "description": "High-Performance Serving Runtime for Robotics Models",
+    "language": "C++",
+    "tag": "Embodied AI",
     "pushed_at": "2026-09-23"
   }
 ]

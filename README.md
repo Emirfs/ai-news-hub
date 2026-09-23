@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-23 19:06 UTC` | **Source-linked stories:** `12`
+> **Index generated:** `2026-09-23 22:20 UTC` | **Source-linked stories:** `14`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 266.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 234.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 266.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.4k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 234.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,19 +32,21 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 230` | `2026-09-23` | Experimental Agent | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
-| [domdoss/Warden](https://github.com/domdoss/Warden) | `★ 173` | `2026-09-23` | Experimental Agent | `JavaScript` | This is a fork of the https://dockbox.dev project I made |
-| [Mintplex-Labs/anythingllm-mobile](https://github.com/Mintplex-Labs/anythingllm-mobile) | `★ 103` | `2026-09-23` | Experimental Agent | `TypeScript` | Own your intelligence on the go. Chat, RAG, Agents, and more using small models on de... |
-| [dylanneve1/talon](https://github.com/dylanneve1/talon) | `★ 85` | `2026-09-23` | Indie Tool | `TypeScript` | 🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal wit... |
-| [General-Instinct/InstinctFlash](https://github.com/General-Instinct/InstinctFlash) | `★ 80` | `2026-09-23` | Embodied AI | `C++` | High-Performance Serving Runtime for Robotics Models |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 276` | `2026-09-23` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 214` | `2026-09-23` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
+| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 176` | `2026-09-23` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
+| [Hash-7777/HashCortX](https://github.com/Hash-7777/HashCortX) | `★ 152` | `2026-09-23` | Local AI | `JavaScript` | A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D mode... |
+| [benseverndev-oss/goldenmatch](https://github.com/benseverndev-oss/goldenmatch) | `★ 133` | `2026-09-23` | Indie Tool | `Python` | Zero-config entity resolution feeding a durable identity layer: messy records from an... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-23` | AI Research | [The Wisdom of Artificial Deliberative Crowds](src/content/news/2026-09-23-the-wisdom-of-artificial-deliberative-crowds.md) | The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdo... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-the-wisdom-of-artificial-deliberative-crowds/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22497) |
 | `2026-09-23` | AI Research | [Social Influence and the Allocation of Scientific Attention in AI Populations](src/content/news/2026-09-23-social-influence-and-the-allocation-of.md) | AI systems are becoming participants in the evaluation and use of scientific research. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-social-influence-and-the-allocation-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22408) |
 | `2026-09-23` | AI Research | [Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation](src/content/news/2026-09-23-replication-without-persistence-in-hosted-llms.md) | Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrumen... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-replication-without-persistence-in-hosted-llms/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22478) |
 | `2026-09-23` | AI Research | [PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation](src/content/news/2026-09-23-paani-on-device-visual-evidence-fusion.md) | Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-paani-on-device-visual-evidence-fusion/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22353) |
+| `2026-09-23` | AI Research | [IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law](src/content/news/2026-09-23-intlawner-a-named-entity-recognition-dataset.md) | International law provides the normative framework through which states coordinate action, regulate armed conflict,... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-intlawner-a-named-entity-recognition-dataset/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22529) |
 | `2026-09-23` | LLMs & Foundation Models | [Grab and OpenAI bring practical AI skills to Southeast Asia](src/content/news/2026-09-23-grab-and-openai-bring-practical-ai.md) | OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-grab-and-openai-bring-practical-ai/) | [OpenAI News](https://openai.com/index/grab-openai-ai-skills-southeast-asia) |
 | `2026-09-23` | AI Research | [Goal-driven Variant Categorization](src/content/news/2026-09-23-goal-driven-variant-categorization.md) | Process discovery rarely yields a single coherent process structure. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-goal-driven-variant-categorization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22475) |
 | `2026-09-23` | AI Research | [Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models](src/content/news/2026-09-23-didactic-knowledge-or-clinical-cases-how.md) | Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-didactic-knowledge-or-clinical-cases-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22161) |
@@ -61,7 +63,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-23 19:06 UTC` | **Yayımlanan haber:** `12`
+> **Dizin oluşturma:** `2026-09-23 22:20 UTC` | **Yayımlanan haber:** `14`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -71,9 +73,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-23` | AI Research | [The Wisdom of Artificial Deliberative Crowds](src/content/news/2026-09-23-the-wisdom-of-artificial-deliberative-crowds.md) | The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdo... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-the-wisdom-of-artificial-deliberative-crowds/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22497) |
 | `2026-09-23` | AI Research | [Social Influence and the Allocation of Scientific Attention in AI Populations](src/content/news/2026-09-23-social-influence-and-the-allocation-of.md) | AI systems are becoming participants in the evaluation and use of scientific research. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-social-influence-and-the-allocation-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22408) |
 | `2026-09-23` | AI Research | [Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation](src/content/news/2026-09-23-replication-without-persistence-in-hosted-llms.md) | Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrumen... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-replication-without-persistence-in-hosted-llms/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22478) |
 | `2026-09-23` | AI Research | [PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation](src/content/news/2026-09-23-paani-on-device-visual-evidence-fusion.md) | Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-paani-on-device-visual-evidence-fusion/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22353) |
+| `2026-09-23` | AI Research | [IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law](src/content/news/2026-09-23-intlawner-a-named-entity-recognition-dataset.md) | International law provides the normative framework through which states coordinate action, regulate armed conflict,... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-intlawner-a-named-entity-recognition-dataset/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22529) |
 | `2026-09-23` | LLMs & Foundation Models | [Grab and OpenAI bring practical AI skills to Southeast Asia](src/content/news/2026-09-23-grab-and-openai-bring-practical-ai.md) | OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-grab-and-openai-bring-practical-ai/) | [OpenAI News](https://openai.com/index/grab-openai-ai-skills-southeast-asia) |
 | `2026-09-23` | AI Research | [Goal-driven Variant Categorization](src/content/news/2026-09-23-goal-driven-variant-categorization.md) | Process discovery rarely yields a single coherent process structure. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-goal-driven-variant-categorization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22475) |
 | `2026-09-23` | AI Research | [Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models](src/content/news/2026-09-23-didactic-knowledge-or-clinical-cases-how.md) | Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-didactic-knowledge-or-clinical-cases-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22161) |
