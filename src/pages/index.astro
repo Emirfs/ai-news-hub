@@ -59,6 +59,9 @@ allNews.forEach((item) => {
     <div>
       <span>Latest indexed date:</span> <strong class="text-[var(--accent-editorial)] font-semibold">{sortedNews[0]?.data.pubDate.toISOString().slice(0, 10) ?? 'No stories yet'}</strong>
       <span class="block sm:inline sm:ml-2 text-[var(--text-muted)] mt-1 sm:mt-0">Older articles are labeled archival and unverified.</span>
+      <a href="#news-wire" class="mt-2 block w-fit font-semibold text-[var(--accent-editorial)] underline underline-offset-4 hover:opacity-80">
+        Browse all {wireArticles.length} news stories ↓
+      </a>
     </div>
   </section>
 
@@ -83,6 +86,15 @@ allNews.forEach((item) => {
     <div class="lg:col-span-4 lg:border-l lg:border-[var(--border-subtle)] lg:pl-8">
       <TrendingSidebar articles={trendingArticles} />
     </div>
+  </div>
+  <!-- Open-Source Radar: Trending Major AI Repositories -->
+  <div id="trending-repos">
+    <TrendingRepos />
+  </div>
+
+  <!-- Indie AI Launchpad: Emerging & Actively Maintained Repositories -->
+  <div id="indie-launchpad">
+    <EmergingRepos />
   </div>
 
   <!-- Weekly Digest Spotlight (if any digest exists) -->
@@ -120,7 +132,7 @@ allNews.forEach((item) => {
   )}
 
   <!-- Category Filter Tabs -->
-  <section class="mb-6 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none border-b border-[var(--border-subtle)] pb-3">
+  <section id="news-wire" class="scroll-mt-32 mb-6 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-none border-b border-[var(--border-subtle)] pb-3">
     <span class="text-xs font-mono uppercase text-[var(--text-muted)] font-semibold mr-1 shrink-0" data-i18n="filterWire">Filter Wire:</span>
     <a
       href={getPath('/')}
@@ -173,15 +185,6 @@ allNews.forEach((item) => {
       ))}
     </div>
   </section>
-  <!-- Open-Source Radar: Trending Major AI Repositories -->
-  <div id="trending-repos">
-    <TrendingRepos />
-  </div>
-
-  <!-- Indie AI Launchpad: Emerging & Actively Maintained Repositories -->
-  <div id="indie-launchpad">
-    <EmergingRepos />
-  </div>
 
 </BaseLayout>
 
