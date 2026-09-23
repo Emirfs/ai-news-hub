@@ -8,22 +8,21 @@ import TrendingRepos from '../components/TrendingRepos.astro';
 import EmergingRepos from '../components/EmergingRepos.astro';
 import { getPath } from '../utils/url';
 
-const allNews = (await getCollection('news')).filter((item) => item.data.sourcePolicy === 'primary');
+const allNews = await getCollection('news');
 
 const sortedNews = allNews.sort((a, b) => {
   const dateOrder = b.data.pubDate.getTime() - a.data.pubDate.getTime();
   if (dateOrder !== 0) return dateOrder;
-  const aRumor = a.data.category.toLowerCase() === 'rumors & leaks';
-  const bRumor = b.data.category.toLowerCase() === 'rumors & leaks';
-  return Number(aRumor) - Number(bRumor);
+  if (a.data.sourcePolicy !== b.data.sourcePolicy) return a.data.sourcePolicy === 'primary' ? -1 : 1;
+  return 0;
 });
 
-const digests = sortedNews.filter((item) => item.data.isWeeklyDigest);
-const regularArticles = sortedNews.filter((item) => !item.data.isWeeklyDigest);
-
+const digests = sortedNews.filter((item) => item.data.isWeeklyDigest && item.data.sourcePolicy === 'primary');
+const regularArticles = sortedNews.filter((item) => !item.data.isWeeklyDigest && item.data.sourcePolicy === 'primary');
 const leadStory = regularArticles[0];
 const trendingArticles = regularArticles.slice(1, 6);
 const wireArticles = sortedNews;
+const archiveCount = wireArticles.filter((item) => item.data.sourcePolicy !== 'primary').length;
 
 const categories = Array.from(new Set(allNews.map((item) => item.data.category)));
 
@@ -58,8 +57,8 @@ allNews.forEach((item) => {
       </div>
     </div>
     <div>
-      <span>Latest published date:</span> <strong class="text-[var(--accent-editorial)] font-semibold">{leadStory?.data.pubDate.toISOString().slice(0, 10) ?? 'No stories yet'}</strong>
-      <span class="block sm:inline sm:ml-2 text-[var(--text-muted)] mt-1 sm:mt-0">Official-source stories; claims are not independently verified.</span>
+      <span>Latest indexed date:</span> <strong class="text-[var(--accent-editorial)] font-semibold">{sortedNews[0]?.data.pubDate.toISOString().slice(0, 10) ?? 'No stories yet'}</strong>
+      <span class="block sm:inline sm:ml-2 text-[var(--text-muted)] mt-1 sm:mt-0">Older articles are labeled archival and unverified.</span>
     </div>
   </section>
 
@@ -84,16 +83,6 @@ allNews.forEach((item) => {
     <div class="lg:col-span-4 lg:border-l lg:border-[var(--border-subtle)] lg:pl-8">
       <TrendingSidebar articles={trendingArticles} />
     </div>
-  </div>
-
-  <!-- Open-Source Radar: Trending Major AI Repositories -->
-  <div id="trending-repos">
-    <TrendingRepos />
-  </div>
-
-  <!-- Indie AI Launchpad: Emerging & Actively Maintained Repositories -->
-  <div id="indie-launchpad">
-    <EmergingRepos />
   </div>
 
   <!-- Weekly Digest Spotlight (if any digest exists) -->
@@ -160,6 +149,12 @@ allNews.forEach((item) => {
         {wireArticles.length} <span data-i18n="storiesIndexed">Stories Indexed</span>
       </span>
     </div>
+    {archiveCount > 0 && (
+      <p class="mb-4 rounded border border-amber-500 bg-amber-50 p-3 text-sm text-amber-950 dark:bg-amber-950 dark:text-amber-100">
+        This feed includes {archiveCount} earlier articles published under different rules.
+        Their claims have not been checked against their cited sources.
+      </p>
+    )}
 
     <div class="space-y-1">
       {wireArticles.map((article) => (
@@ -173,10 +168,21 @@ allNews.forEach((item) => {
           sourceUrl={article.data.sourceUrl}
           keyTakeaways={article.data.keyTakeaways}
           isWeeklyDigest={article.data.isWeeklyDigest}
+          sourcePolicy={article.data.sourcePolicy}
         />
       ))}
     </div>
   </section>
+  <!-- Open-Source Radar: Trending Major AI Repositories -->
+  <div id="trending-repos">
+    <TrendingRepos />
+  </div>
+
+  <!-- Indie AI Launchpad: Emerging & Actively Maintained Repositories -->
+  <div id="indie-launchpad">
+    <EmergingRepos />
+  </div>
+
 </BaseLayout>
 
 <script define:vars={{ newsTranslations }}>

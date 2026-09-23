@@ -11,6 +11,7 @@ interface Props {
   sourceUrl?: string;
   keyTakeaways?: string[];
   isWeeklyDigest?: boolean;
+  sourcePolicy?: 'primary';
 }
 
 const {
@@ -23,6 +24,7 @@ const {
   sourceUrl,
   keyTakeaways = [],
   isWeeklyDigest = false,
+  sourcePolicy,
 } = Astro.props;
 
 const formattedDate = new Intl.DateTimeFormat('en-US', {
@@ -41,6 +43,11 @@ const articleUrl = getPath(`/news/${slug}/`);
       <span class="px-2 py-0.5 rounded border border-[var(--border-strong)] bg-[var(--badge-bg)] text-[var(--badge-text)] text-[10px] uppercase font-bold tracking-wider">
         {category}
       </span>
+      {sourcePolicy !== 'primary' && (
+        <span class="px-2 py-0.5 rounded border border-amber-500 bg-amber-50 text-amber-950 dark:bg-amber-950 dark:text-amber-100 text-[10px] uppercase font-bold tracking-wider">
+          Archive · unverified
+        </span>
+      )}
       <time datetime={pubDate.toISOString()} class="text-[var(--text-muted)]">
         {formattedDate}
       </time>
@@ -48,7 +55,7 @@ const articleUrl = getPath(`/news/${slug}/`);
         <>
           <span class="text-[var(--border-strong)]">•</span>
           <span class="text-[var(--text-muted)]">
-            Source: <span class="text-[var(--text-headline)]">{sourceName}</span>
+            {sourcePolicy === 'primary' ? 'Original source:' : 'Cited source:'} <span class="text-[var(--text-headline)]">{sourceName}</span>
           </span>
         </>
       )}
