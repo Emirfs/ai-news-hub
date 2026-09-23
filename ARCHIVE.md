@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Neural Pulse is an autonomous technology journal monitoring, verifying, and publishing breaking developments across artificial intelligence, foundation models, robotics, and open-source software every hour.
 >
-> **Last Synced:** `2026-09-23 00:41 UTC` | **Total Verified Dispatches:** `41`
+> **Last Synced:** `2026-09-23 05:15 UTC` | **Total Verified Dispatches:** `43`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 265.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 233.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 265.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 233.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -33,17 +33,19 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [receptron/mulmoclaude](https://github.com/receptron/mulmoclaude) | `★ 351` | `2026-09-23` | Local AI | `TypeScript` | Nurture your own AI assistant on your own computer. Local-first and MIT: memories, da... |
-| [gameworkerkim/vibe-investing](https://github.com/gameworkerkim/vibe-investing) | `★ 335` | `2026-09-23` | Experimental Agent | `HTML` | AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi... |
+| [OpenMOSS/EasyWAM](https://github.com/OpenMOSS/EasyWAM) | `★ 313` | `2026-09-23` | Embodied AI | `Python` | A unified framework for training, fine-tuning, and evaluating World Action Models |
+| [cortexkit/aft](https://github.com/cortexkit/aft) | `★ 307` | `2026-09-23` | Experimental Agent | `Rust` | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenC... |
+| [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) | `★ 276` | `2026-09-23` | Local AI | `TypeScript` | System audio capture + multi-provider ASR + local-first AI review workspace. Floating... |
 | [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 273` | `2026-09-23` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 214` | `2026-09-23` | Experimental Agent | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) | `★ 113` | `2026-09-23` | Local AI | `Rust` | Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step us... |
 
 ### 📰 Latest AI News Dispatches (Direct Markdown)
 
 | Date | Category | Headline (.md Source) | Executive Briefing | Live Web View | Primary Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-23` | AI Research | [Tell HN: Claude 4.7 is ignoring stop hooks](src/content/news/2026-09-23-tell-hn-claude-47-is-ignoring.md) | An extensive analysis of Tell HN: Claude 4.7 is ignoring stop hooks, distributed via Anthropic & Claude Feed, offer... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-tell-hn-claude-47-is-ignoring/) | [Anthropic & Claude Feed]() |
+| `2026-09-23` | LLMs & Foundation Models | [Did OpenAI solve the wrong Navier-Stokes problem?](src/content/news/2026-09-23-did-openai-solve-the-wrong-navier-stokes.md) | An extensive analysis of Did OpenAI solve the wrong Navier-Stokes problem?, distributed via OpenAI Feed, offering n... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-did-openai-solve-the-wrong-navier-stokes/) | [OpenAI Feed]() |
 | `2026-09-23` | Open Source AI | [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](src/content/news/2026-09-23-deepseek-v41-flash-pushing-the-limits-of.md) | An extensive analysis of DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression, distributed via DeepSeek ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-deepseek-v41-flash-pushing-the-limits-of/) | [DeepSeek Feed]() |
+| `2026-09-23` | AI Research | [BrowserOS â "Claude Cowork" in the browser](src/content/news/2026-09-23-browseros-claude-cowork-in-the-browser.md) | An extensive analysis of BrowserOS – \"Claude Cowork\" in the browser, distributed via Anthropic & Claude Feed, off... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-browseros-claude-cowork-in-the-browser/) | [Anthropic & Claude Feed]() |
 | `2026-09-22` | AI Research | [Twitter/X Dispatch: Karpathyâs Pelican](src/content/news/2026-09-22-twitterx-dispatch-karpathys-pelican.md) | An extensive analysis of Twitter/X Dispatch: Karpathy’s Pelican, distributed via Andrej Karpathy (@karpathy), offer... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-twitterx-dispatch-karpathys-pelican/) | [Andrej Karpathy (@karpathy)]() |
 | `2026-09-22` | AI Research | [Smart model routing directly in Claude, Codex and Cursor](src/content/news/2026-09-22-smart-model-routing-directly-in-claude.md) | An extensive analysis of Smart model routing directly in Claude, Codex and Cursor, distributed via Anthropic & Clau... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-smart-model-routing-directly-in-claude/) | [Anthropic & Claude Feed]() |
 | `2026-09-22` | LLMs & Foundation Models | [OpenAI is well positioned to fast-follow Jev](src/content/news/2026-09-22-openai-is-well-positioned-to-fast-follow.md) | An extensive analysis of OpenAI is well positioned to fast-follow Jev, distributed via OpenAI Feed, offering novel ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-openai-is-well-positioned-to-fast-follow/) | [OpenAI Feed]() |
@@ -90,7 +92,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve bağımsız açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.
 >
-> **Son Güncelleme:** `2026-09-23 00:41 UTC` | **Doğrulanmış Haber Sayısı:** `41`
+> **Son Güncelleme:** `2026-09-23 05:15 UTC` | **Doğrulanmış Haber Sayısı:** `43`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -101,7 +103,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-23` | AI Research | [Tell HN: Claude 4.7 is ignoring stop hooks](src/content/news/2026-09-23-tell-hn-claude-47-is-ignoring.md) | An extensive analysis of Tell HN: Claude 4.7 is ignoring stop hooks, distributed via Anthropic & Claude Feed, offer... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-tell-hn-claude-47-is-ignoring/) | [Anthropic & Claude Feed]() |
+| `2026-09-23` | LLMs & Foundation Models | [Did OpenAI solve the wrong Navier-Stokes problem?](src/content/news/2026-09-23-did-openai-solve-the-wrong-navier-stokes.md) | An extensive analysis of Did OpenAI solve the wrong Navier-Stokes problem?, distributed via OpenAI Feed, offering n... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-did-openai-solve-the-wrong-navier-stokes/) | [OpenAI Feed]() |
 | `2026-09-23` | Open Source AI | [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](src/content/news/2026-09-23-deepseek-v41-flash-pushing-the-limits-of.md) | An extensive analysis of DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression, distributed via DeepSeek ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-deepseek-v41-flash-pushing-the-limits-of/) | [DeepSeek Feed]() |
+| `2026-09-23` | AI Research | [BrowserOS â "Claude Cowork" in the browser](src/content/news/2026-09-23-browseros-claude-cowork-in-the-browser.md) | An extensive analysis of BrowserOS – \"Claude Cowork\" in the browser, distributed via Anthropic & Claude Feed, off... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-browseros-claude-cowork-in-the-browser/) | [Anthropic & Claude Feed]() |
 | `2026-09-22` | AI Research | [Twitter/X Dispatch: Karpathyâs Pelican](src/content/news/2026-09-22-twitterx-dispatch-karpathys-pelican.md) | An extensive analysis of Twitter/X Dispatch: Karpathy’s Pelican, distributed via Andrej Karpathy (@karpathy), offer... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-twitterx-dispatch-karpathys-pelican/) | [Andrej Karpathy (@karpathy)]() |
 | `2026-09-22` | AI Research | [Smart model routing directly in Claude, Codex and Cursor](src/content/news/2026-09-22-smart-model-routing-directly-in-claude.md) | An extensive analysis of Smart model routing directly in Claude, Codex and Cursor, distributed via Anthropic & Clau... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-smart-model-routing-directly-in-claude/) | [Anthropic & Claude Feed]() |
 | `2026-09-22` | LLMs & Foundation Models | [OpenAI is well positioned to fast-follow Jev](src/content/news/2026-09-22-openai-is-well-positioned-to-fast-follow.md) | An extensive analysis of OpenAI is well positioned to fast-follow Jev, distributed via OpenAI Feed, offering novel ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-openai-is-well-positioned-to-fast-follow/) | [OpenAI Feed]() |

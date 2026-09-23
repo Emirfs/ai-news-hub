@@ -10,13 +10,33 @@
     "pushed_at": "2026-09-23"
   },
   {
-    "name": "gameworkerkim/vibe-investing",
-    "url": "https://github.com/gameworkerkim/vibe-investing",
-    "stars": 335,
-    "forks": 99,
-    "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNA...",
-    "language": "HTML",
+    "name": "OpenMOSS/EasyWAM",
+    "url": "https://github.com/OpenMOSS/EasyWAM",
+    "stars": 313,
+    "forks": 11,
+    "description": "A unified framework for training, fine-tuning, and evaluating World Action Models",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "cortexkit/aft",
+    "url": "https://github.com/cortexkit/aft",
+    "stars": 307,
+    "forks": 38,
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
+    "language": "Rust",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-09-23"
+  },
+  {
+    "name": "XimilalaXiang/DeLive",
+    "url": "https://github.com/XimilalaXiang/DeLive",
+    "stars": 276,
+    "forks": 17,
+    "description": "System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summ...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-09-23"
   },
   {
@@ -30,6 +50,16 @@
     "pushed_at": "2026-09-23"
   },
   {
+    "name": "fitchmultz/pi-posthorse",
+    "url": "https://github.com/fitchmultz/pi-posthorse",
+    "stars": 247,
+    "forks": 7,
+    "description": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover t...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-23"
+  },
+  {
     "name": "damianvtran/local-operator",
     "url": "https://github.com/damianvtran/local-operator",
     "stars": 214,
@@ -40,43 +70,13 @@
     "pushed_at": "2026-09-23"
   },
   {
-    "name": "Dicklesworthstone/skillranker",
-    "url": "https://github.com/Dicklesworthstone/skillranker",
-    "stars": 113,
-    "forks": 8,
-    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, s...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "conceptadev/ack",
-    "url": "https://github.com/conceptadev/ack",
-    "stars": 63,
-    "forks": 3,
-    "description": "A modern Dart schema library for structured data, with a focus on LLM tools in mind.",
-    "language": "Dart",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "everruns/everruns",
-    "url": "https://github.com/everruns/everruns",
-    "stars": 48,
-    "forks": 5,
-    "description": "Headless durable agentic harness engine. Run durable AI agents reliably and scalably.",
-    "language": "Rust",
+    "name": "godot-fun/gai",
+    "url": "https://github.com/godot-fun/gai",
+    "stars": 169,
+    "forks": 16,
+    "description": "A lightweight AI agent and skill workflow framework built with Godot.",
+    "language": "GDScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "PVRLabs/aibadger",
-    "url": "https://github.com/PVRLabs/aibadger",
-    "stars": 41,
-    "forks": 4,
-    "description": "AI Badger - Local-first tool that extracts focused repo context for any AI chat (Claude, ChatGPT, Grok, etc.) without wasting tokens on irre...",
-    "language": "Go",
-    "tag": "Indie Tool",
     "pushed_at": "2026-09-23"
   }
 ]
