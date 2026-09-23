@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: ai-news-curator
+  cancel-in-progress: false
+
 jobs:
   weekly-digest:
     runs-on: ubuntu-latest
@@ -23,12 +27,8 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Synthesize weekly intelligence briefing
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: 'gemini-1.5-flash'
-        run: |
-          python pipeline/run_pipeline.py --mode weekly
+      - name: Compile source-linked weekly digest
+        run: python pipeline/run_pipeline.py --mode weekly
 
       - name: Commit and push weekly briefing
         run: |

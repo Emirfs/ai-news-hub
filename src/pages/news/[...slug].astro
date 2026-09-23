@@ -29,7 +29,7 @@ const formattedDate = new Intl.DateTimeFormat('en-US', {
 
 // Word count & reading time estimate
 const wordCount = (entry.body || '').split(/\s+/).length + entry.data.description.split(/\s+/).length;
-const readingTimeMin = Math.max(2, Math.ceil(wordCount / 170));
+const readingTimeMin = Math.max(1, Math.ceil(wordCount / 200));
 
 const articleTitle = `${entry.data.title} | Neural Pulse`;
 
@@ -84,15 +84,20 @@ const defaultData = {
         {entry.data.category}
       </a>
     </nav>
+    {!entry.data.sourcePolicy && (
+      <aside class="mb-6 rounded-lg border border-amber-500 bg-amber-50 p-4 text-sm text-amber-950 dark:bg-amber-950 dark:text-amber-100">
+        Archive notice: This article predates the official-source publication policy.
+        Its claims and summaries have not been checked against the cited source.
+      </aside>
+    )}
 
-    <!-- Interactive Multi-Language Reader Bar -->
-    <div class="mb-8 p-3.5 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs font-mono shadow-xs">
+    {Object.keys(articleTranslations).length > 0 && <div class="mb-8 p-3.5 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs font-mono shadow-xs">
       <div class="flex items-center gap-2 text-[var(--text-muted)]">
         <span class="text-base">🌐</span>
         <span class="font-bold text-[var(--text-headline)]" id="ui-lang-label">Select Reading Language:</span>
       </div>
       <div class="flex flex-wrap items-center gap-1.5">
-        {languages.map((l) => (
+        {languages.filter((l) => l.code === 'en' || articleTranslations[l.code]).map((l) => (
           <button
             type="button"
             data-lang-code={l.code}
@@ -107,7 +112,7 @@ const defaultData = {
           </button>
         ))}
       </div>
-    </div>
+    </div>}
 
     <!-- Article Header -->
     <header class="mb-8 space-y-4">
@@ -120,7 +125,7 @@ const defaultData = {
         </time>
         <span class="text-[var(--border-strong)]">•</span>
         <span class="text-[var(--text-muted)]" id="ui-reading-time">
-          {readingTimeMin} min in-depth read
+          {readingTimeMin} min read
         </span>
       </div>
 
@@ -137,7 +142,8 @@ const defaultData = {
       <!-- Byline -->
       <div class="pt-3 border-t border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-3 text-xs font-mono text-[var(--text-muted)]">
         <div>
-          <span id="ui-byline-label">Curated & Verified by</span> <strong class="text-[var(--text-headline)]">{entry.data.author}</strong>
+          <span id="ui-byline-label">Source-attributed; not independently verified. Reporter:</span>
+          <strong class="text-[var(--text-headline)]">{entry.data.author}</strong>
         </div>
         <div>
           Neural Pulse Desk
@@ -170,10 +176,10 @@ const defaultData = {
       <aside class="my-8 p-4 sm:p-5 rounded-lg bg-[var(--bg-surface)] border-2 border-[var(--accent-editorial)] shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div class="space-y-1">
           <div class="flex items-center gap-2 text-xs font-mono font-bold uppercase tracking-wider text-[var(--accent-editorial)]">
-            <span>📰</span> <span id="ui-source-badge">Primary Source Document (Direct Link)</span>
+            <span>📰</span> <span id="ui-source-badge">Reported source</span>
           </div>
           <p class="text-xs sm:text-sm text-[var(--text-body)]">
-            Verified publication on <strong class="text-[var(--text-headline)]">{entry.data.sourceName || 'Primary Wire'}</strong>
+            Source attribution: <strong class="text-[var(--text-headline)]">{entry.data.sourceName || 'Original source'}</strong>. This citation does not indicate independent verification.
           </p>
         </div>
         <a
@@ -214,10 +220,10 @@ const defaultData = {
     {entry.data.sourceUrl && (
       <section class="mt-14 p-6 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-strong)] text-center space-y-3 shadow-xs">
         <h4 class="text-lg font-bold font-newspaper text-[var(--text-headline)]" id="ui-bottom-prompt">
-          Need to inspect the original primary publication?
+          Read the cited source
         </h4>
         <p class="text-xs sm:text-sm text-[var(--text-muted)] max-w-lg mx-auto">
-          Neural Pulse provides objective synthesis and architectural reporting. You can read the complete paper or release notes on the primary source platform:
+          This article summarizes its cited source. Its claims have not been independently verified.
         </p>
         <div class="pt-2">
           <a
@@ -275,56 +281,55 @@ const defaultData = {
     en: {
       backLink: 'Back to Dispatches',
       langLabel: 'Select Reading Language:',
-      readingTimeSuffix: 'min in-depth read',
-      takeawaysHeading: 'Executive Summary & Core Signals',
-      sourceBadge: 'Primary Source Document (Direct Link)',
-      openSourceBtn: 'Open Original Source',
-      bottomPrompt: 'Need to inspect the original primary publication?'
+      takeawaysHeading: 'Reported summary and takeaways',
+      sourceBadge: 'Reported source',
+      openSourceBtn: 'Open cited source',
+      bottomPrompt: 'Read the cited source'
     },
     tr: {
       backLink: 'Haber Akışına Dön',
       langLabel: 'Okuma Dilini Seçin:',
       readingTimeSuffix: 'dakika detaylı okuma',
       takeawaysHeading: 'Yönetici Özeti ve Temel Sinyaller',
-      sourceBadge: 'Birincil Kaynak Belge (Doğrudan Bağlantı)',
-      openSourceBtn: 'Orijinal Kaynak Habere Git',
-      bottomPrompt: 'Orijinal yayını ve dökümanları incelemek ister misiniz?'
+      sourceBadge: 'Atıf yapılan kaynak',
+      openSourceBtn: 'Atıf yapılan kaynağı aç',
+      bottomPrompt: 'Atıf yapılan kaynağı inceleyin'
     },
     es: {
       backLink: 'Volver a los Despachos',
       langLabel: 'Seleccionar Idioma de Lectura:',
       readingTimeSuffix: 'minutos de lectura profunda',
-      takeawaysHeading: 'Resumen Ejecutivo y Señales Clave',
-      sourceBadge: 'Documento Fuente Primario (Enlace Directo)',
-      openSourceBtn: 'Abrir Fuente Original',
-      bottomPrompt: '¿Desea consultar la publicación original?'
+      takeawaysHeading: 'Resumen y puntos destacados atribuidos',
+      sourceBadge: 'Fuente citada',
+      openSourceBtn: 'Abrir fuente citada',
+      bottomPrompt: 'Leer la fuente citada'
     },
     zh: {
       backLink: '返回快讯列表',
       langLabel: '选择阅读语言：',
       readingTimeSuffix: '分钟深度阅读',
       takeawaysHeading: '核心要点与技术摘要',
-      sourceBadge: '原始权威技术源（直接跳转）',
-      openSourceBtn: '前往原始文档',
-      bottomPrompt: '是否需要查阅原始技术发布文档？'
+      sourceBadge: '引用来源',
+      openSourceBtn: '打开引用来源',
+      bottomPrompt: '阅读引用来源'
     },
     it: {
       backLink: 'Torna alle Notizie',
       langLabel: 'Seleziona Lingua di Lettura:',
       readingTimeSuffix: 'minuti di lettura approfondita',
-      takeawaysHeading: 'Sintesi Esecutiva e Segnali Chiave',
-      sourceBadge: 'Documento Fonte Primario (Collegamento Diretto)',
-      openSourceBtn: 'Apri Fonte Originale',
-      bottomPrompt: 'Vuoi consultare la pubblicazione tecnica originale?'
+      takeawaysHeading: 'Riepilogo e punti attribuiti',
+      sourceBadge: 'Fonte citata',
+      openSourceBtn: 'Apri la fonte citata',
+      bottomPrompt: 'Leggi la fonte citata'
     },
     de: {
       backLink: 'Zurück zur Übersicht',
       langLabel: 'Lesesprache Auswählen:',
       readingTimeSuffix: 'Minuten Tiefenanalyse',
-      takeawaysHeading: 'Wesentliche Erkenntnisse & Zusammenfassung',
-      sourceBadge: 'Primäres Quelldokument (Direktlink)',
-      openSourceBtn: 'Originalquelle Öffnen',
-      bottomPrompt: 'Möchten Sie die originale Veröffentlichung einsehen?'
+      takeawaysHeading: 'Zugeordnete Zusammenfassung und Hinweise',
+      sourceBadge: 'Zitierte Quelle',
+      openSourceBtn: 'Zitierte Quelle öffnen',
+      bottomPrompt: 'Zitierte Quelle lesen'
     }
   };
 

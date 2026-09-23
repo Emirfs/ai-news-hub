@@ -10,17 +10,14 @@ import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
+import os
 
 # Ensure project root is on sys.path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-
-from pipeline.ingest import collect_candidate_news, load_history, save_history, verify_live_url
+from pipeline.ingest import collect_candidate_news, load_history, save_history, parse_publication_date
 from pipeline.generator import generate_article_from_item, format_markdown_file, create_slug
 from pipeline.weekly_digest import generate_weekly_digest, extract_frontmatter
 from pipeline.repos import refresh_all_repos, TRENDING_FILE, EMERGING_FILE
-from pipeline.translate_articles import generate_multilingual_metadata
-from pipeline.translate_full_articles import generate_full_translated_body
-from pipeline.broadcast import broadcast_to_discord, broadcast_to_telegram, SITE_URL
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NEWS_DIR = REPO_ROOT / "src" / "content" / "news"
@@ -43,6 +40,8 @@ def update_readme_and_archive():
         try:
             content = md_file.read_text(encoding="utf-8")
             meta, body = extract_frontmatter(content)
+            if not meta.get("sourcePolicy"):
+                continue
             slug = md_file.stem
             
             trans_match = re.search(r"translations:\s*(\{.*?\})\n---", content, re.DOTALL)
@@ -91,15 +90,15 @@ def update_readme_and_archive():
     lines = [
         "# ⚡ Neural Pulse — Autonomous AI & Tech News",
         "",
-        "**Languages / Diller / Idiomas / 语言:** [ 🇬🇧 English (Default)](#-english) • [ 🇹🇷 Türkçe](#-türkçe) • [ 🇪🇸 Español](#-español) • [ 🇨🇳 中文](#-中文) • [ 🇮🇹 Italiano](#-italiano) • [ 🇩🇪 Deutsch](#-deutsch)",
+        "**Guides:** [English](README.en.md) · [Türkçe](README.tr.md) · [Español](README.es.md) · [中文](README.zh.md) · [Italiano](README.it.md) · [Deutsch](README.de.md)",
         "",
         "---",
         "",
         "## 🇬🇧 English",
         "",
-        "> **What Neural Pulse Does:** Neural Pulse is an autonomous technology journal monitoring, verifying, and publishing breaking developments across artificial intelligence, foundation models, robotics, and open-source software every hour.",
-        ">",
-        f"> **Last Synced:** `{now_iso}` | **Total Verified Dispatches:** `{len(articles)}`",
+        "> **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.",
+        "> Publication dates appear on each story. Source availability is not independent fact-checking.",
+        f"> **Index generated:** `{now_iso}` | **Source-linked stories:** `{len(articles)}`",
         "",
         "**Publication Outlets:**",
         "- 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)",
@@ -134,9 +133,9 @@ def update_readme_and_archive():
 
     lines.extend([
         "",
-        "### 📰 Latest AI News Dispatches (Direct Markdown)",
+        "### 📰 Source-linked AI stories (direct Markdown)",
         "",
-        "| Date | Category | Headline (.md Source) | Executive Briefing | Live Web View | Primary Source |",
+        "| Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |",
         "| :--- | :--- | :--- | :--- | :--- | :--- |"
     ])
 
@@ -154,9 +153,9 @@ def update_readme_and_archive():
         "",
         "## 🇹🇷 Türkçe",
         "",
-        "> **Ne İşe Yarar:** Neural Pulse, yapay zeka, makine öğrenimi, robotik ve teknoloji dünyasındaki en son gelişmeleri ve bağımsız açık kaynak projeleri her saat başı otonom olarak araştıran, teknik sinyalleri özetleyen ve yayınlayan bağımsız bir AI haber bültenidir.",
-        ">",
-        f"> **Son Güncelleme:** `{now_iso}` | **Doğrulanmış Haber Sayısı:** `{len(articles)}`",
+        "> **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.",
+        "> Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.",
+        f"> **Dizin oluşturma:** `{now_iso}` | **Yayımlanan haber:** `{len(articles)}`",
         "",
         "**Yayın Kanalları:**",
         "- 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)",
@@ -187,39 +186,39 @@ def update_readme_and_archive():
         "",
         "## 🇪🇸 Español",
         "",
-        "> **Propósito:** Neural Pulse es una publicación tecnológica autónoma que monitorea, verifica y publica avances de última hora en inteligencia artificial y modelos abiertos cada hora.",
-        "> Consulta el [sitio web en vivo](https://emirfs.github.io/ai-news-hub/) para leer despachos traducidos al español con un solo clic.",
+        "> Neural Pulse consulta fuentes originales y publica resúmenes con enlaces. Las afirmaciones no se verifican de forma independiente.",
+        "> Consulte las fechas y fuentes en el [sitio web](https://emirfs.github.io/ai-news-hub/).",
         "",
         "---",
         "",
         "## 🇨🇳 中文",
         "",
-        "> **关于我们：** Neural Pulse 是一个每小时自主运行的人工智能前沿快讯平台，实时跟踪大语言模型、开源智能体与具身智能突破。",
-        "> 访问 [在线新闻网站](https://emirfs.github.io/ai-news-hub/) 可一键切换中文阅读模式并查阅所有原始技术文档。",
+        "> Neural Pulse 定期收集原始来源的人工智能新闻，并附上来源链接。内容未经独立事实核查。",
+        "> 请在[网站](https://emirfs.github.io/ai-news-hub/)查看每篇报道的发布日期。",
         "",
         "---",
         "",
         "## 🇮🇹 Italiano",
         "",
-        "> **Scopo:** Neural Pulse è una pubblicazione tecnologica autonoma che monitora e riporta ogni ora le ultime novità sull'intelligenza artificiale e sulla robotica open source.",
-        "> Visita il [sito web online](https://emirfs.github.io/ai-news-hub/) per leggere le analisi in italiano.",
+        "> Neural Pulse raccoglie notizie dalle fonti originali e pubblica estratti attribuiti. Le affermazioni non sono verificate in modo indipendente.",
+        "> Controlla date e fonti sul [sito](https://emirfs.github.io/ai-news-hub/).",
         "",
         "---",
         "",
         "## 🇩🇪 Deutsch",
         "",
-        "> **Überblick:** Neural Pulse ist ein autonomes Technologie-Journal, das stündlich die neuesten Entwicklungen in künstlicher Intelligenz, Robotik und Open-Source-Modellen zusammenfasst.",
-        "> Besuchen Sie die [Live-Website](https://emirfs.github.io/ai-news-hub/) für tiefe Analysen und Direktquellen.",
+        "> Neural Pulse sammelt KI-Nachrichten aus Originalquellen und veröffentlicht Auszüge mit Quellenangabe. Die Angaben werden nicht unabhängig geprüft.",
+        "> Datum und Quellen stehen auf der [Website](https://emirfs.github.io/ai-news-hub/).",
         "",
         "---",
-        "*All news stories are autonomously compiled and backed by verified HTTP 200 source URLs.*",
+        "*Stories link to their original sources; source availability does not constitute independent verification.*",
         ""
     ])
 
     full_content = "\n".join(lines)
     README_FILE.write_text(full_content, encoding="utf-8")
     ARCHIVE_FILE.write_text(full_content, encoding="utf-8")
-    print(f"✓ Updated multi-language README.md and ARCHIVE.md with {len(articles)} verified dispatches.")
+    print(f"✓ Updated multi-language README.md and ARCHIVE.md with {len(articles)} source-attributed stories.")
 
 
 def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
@@ -229,11 +228,11 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
     print(f"Timestamp: {datetime.now(timezone.utc).isoformat()}")
     print("=" * 60)
 
-    try:
-        refresh_all_repos()
-    except Exception as e:
-        print(f"Warning: Repo refresh error: {e}")
-
+    if not dry_run:
+        try:
+            refresh_all_repos()
+        except Exception as e:
+            print(f"Warning: Repo refresh error: {e}")
     NEWS_DIR.mkdir(parents=True, exist_ok=True)
     history = load_history()
     seen_urls = set(history.get("seen_urls", []))
@@ -241,8 +240,9 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
 
     candidates = collect_candidate_news(max_items=max_items)
     if not candidates:
-        print("No new verified candidate articles found in this cycle.")
-        update_readme_and_archive()
+        print("No new eligible official-source stories found in this cycle.")
+        if not dry_run:
+            update_readme_and_archive()
         return
 
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -251,11 +251,10 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
     for idx, item in enumerate(candidates, 1):
         print(f"\n[{idx}/{len(candidates)}] Processing: {item['title']}")
         
-        if not verify_live_url(item['url']):
-            print(f"  ✗ Rejecting item with dead URL: {item['url']}")
-            continue
 
         try:
+            item["key"] = os.environ.get("GEMINI_API_KEY", "")
+            item["model"] = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
             article = generate_article_from_item(item)
             slug_base = create_slug(article['title'])
             slug = f"{today_str}-{slug_base}"
@@ -266,27 +265,11 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
                 file_path = NEWS_DIR / f"{slug}-{counter}.md"
                 counter += 1
 
-            # Generate multi-language metadata and full-body translations
-            multi_trans = generate_multilingual_metadata(article)
-            for lang in ["tr", "es", "zh", "de", "it"]:
-                if lang in multi_trans:
-                    multi_trans[lang]["body_html"] = generate_full_translated_body(article["title"], item["source_name"], lang)
-            article["translations"] = multi_trans
-
             md_content = format_markdown_file(
                 article=article,
-                source_url=item['url'],
-                source_name=item['source_name'],
-                pub_date=today_str
-            )
-
-            # Append translations to frontmatter
-            trans_yaml = json.dumps(multi_trans, ensure_ascii=False, indent=2)
-            md_content = re.sub(
-                r"(---\s*\n)(.*?)(\n---)",
-                r"\1\2" + f"\ntranslations: {trans_yaml}" + r"\3",
-                md_content,
-                flags=re.DOTALL
+                pub_date=parse_publication_date(item["published"]).strftime("%Y-%m-%d"),
+                source_url=item["url"],
+                source_name=item["source_name"],
             )
 
             if dry_run:
@@ -294,20 +277,10 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
                 print(f"  Title: {article['title']}")
             else:
                 file_path.write_text(md_content, encoding="utf-8")
-                print(f"  ✓ Saved verified dispatch: {file_path.name}")
+                print(f"  ✓ Saved source-attributed story: {file_path.name}")
                 seen_urls.add(item['url'])
-                published.append({
-                    "slug": file_path.stem,
-                    "date": today_str,
-                    "title": article['title']
-                })
+                published.append({"slug": file_path.stem, "date": today_str, "title": article['title']})
                 generated_count += 1
-
-                # Broadcast to external channels if configured
-                article_public_url = f"{SITE_URL}/news/{file_path.stem}/"
-                broadcast_to_discord(article, article_public_url)
-                broadcast_to_telegram(article, article_public_url)
-
         except Exception as e:
             print(f"  ✗ Error generating article for '{item['title']}': {e}")
 
@@ -316,9 +289,8 @@ def run_daily_pipeline(max_items: int = 2, dry_run: bool = False):
             history["seen_urls"] = list(seen_urls)
             history["published_articles"] = published
             save_history(history)
-            print(f"\n✓ Successfully published {generated_count} new dispatches and updated history.json.")
+            print(f"\n✓ Published {generated_count} source-attributed stories and updated history.json.")
         update_readme_and_archive()
-
 
 def main():
     parser = argparse.ArgumentParser(description="Neural Pulse AI Newsroom Pipeline")

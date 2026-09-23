@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "neural-pulse": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "pipeline.news_mcp"],
+      "cwd": "."
+    }
+  }
+}

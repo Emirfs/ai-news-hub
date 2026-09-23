@@ -4,8 +4,8 @@ import { getPath } from '../utils/url';
 ---
 
 <BaseLayout
-  title="About the Autonomous AI Newsroom | Neural Pulse"
-  description="Learn how Neural Pulse monitors, curates, verifies, and publishes AI and technology news without human intervention."
+  title="How Neural Pulse works | AI news sources"
+  description="Neural Pulse publishes dated, source-linked AI news. Learn how scheduled discovery, attribution, and limitations work."
 >
   <div class="reading-column py-6">
     <header class="mb-10 border-b border-[var(--border-subtle)] pb-6">
@@ -16,7 +16,7 @@ import { getPath } from '../utils/url';
         How Neural Pulse Operates
       </h1>
       <p class="text-base text-[var(--text-body)] mt-2">
-        Neural Pulse is a 100% autonomous, agent-operated technology publication running on GitHub Actions, Google Gemini Flash, and Astro.
+        Neural Pulse publishes source-linked AI news through scheduled GitHub Actions and Astro builds.
       </p>
     </header>
 
@@ -25,25 +25,21 @@ import { getPath } from '../utils/url';
       <section class="p-6 rounded bg-[var(--bg-card)] border border-[var(--border-subtle)] font-mono text-xs text-[var(--text-body)] overflow-x-auto">
         <p class="font-bold text-[var(--accent-editorial)] uppercase mb-3">// Autonomous Pipeline Flow</p>
         <pre class="bg-transparent p-0 text-[var(--text-body)] font-mono">
-[Feeds: OpenAI, Anthropic, DeepSeek, Gemini, arXiv]
-                   │
-                   ▼ (Hourly Cron via GitHub Actions)
-    [Ingestion & Deduplication Engine]
-                   │
-                   ▼ (Filter duplicates via content hashes)
-       [Gemini Flash Editorial Synthesis]
-  - Extract Key Technical Signals
-  - Synthesize High-Density Analysis
-  - Extract Citations & Primary URLs
-                   │
-                   ▼
-  [Generate Structured Markdown in src/content/news/]
-                   │
-                   ▼
-    [Git Auto-Commit & Push to Main]
-                   │
-                   ▼
- [Astro Static Build & Deploy to GitHub Pages]
+[Anthropic, OpenAI, arXiv, Hugging Face, NVIDIA feeds]
+               │
+[Reddit, Hugging Face papers, optional X links]
+               │
+               ▼
+[Require a dated official source page]
+               │
+               ▼
+[Deduplicate by original source URL]
+               │
+               ▼
+[Publish attributed excerpt or extractive summary]
+               │
+               ▼
+[GitHub commit → Astro build → GitHub Pages]
         </pre>
       </section>
 
@@ -54,7 +50,7 @@ import { getPath } from '../utils/url';
           Continuous Source Monitoring
         </h2>
         <p>
-          The pipeline monitors OpenAI, Anthropic Claude, DeepSeek, Google Gemini / DeepMind, and arXiv preprints every hour.
+          Official feeds are checked twice an hour by GitHub Actions. Schedules may run late or be skipped.
         </p>
       </section>
 
@@ -65,7 +61,7 @@ import { getPath } from '../utils/url';
           Deduplication & Signal Filtering
         </h2>
         <p>
-          Our ingestion engine clusters stories using URL canonicalization and title matching, selecting the highest-signal technical sources while ignoring marketing fluff.
+          Community links lead to candidate pages, but publication requires a dated official source. URLs prevent repeat publication.
         </p>
       </section>
 
@@ -73,10 +69,10 @@ import { getPath } from '../utils/url';
       <section>
         <h2 class="text-2xl font-bold text-[var(--text-headline)] mb-3 flex items-center gap-2 font-newspaper">
           <span class="w-7 h-7 rounded bg-[var(--bg-card)] text-[var(--accent-editorial)] border border-[var(--border-strong)] flex items-center justify-center font-mono text-xs font-bold">3</span>
-          Frontier LLM Editorial Synthesis
+          Source excerpts and optional Gemini extraction
         </h2>
         <p>
-          Google Gemini Flash processes the source documents to extract verifiable metrics, format key takeaways, and maintain a neutral engineering tone.
+          Gemini can select existing sentences from a source excerpt when configured. This is not independent fact-checking.
         </p>
       </section>
 

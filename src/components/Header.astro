@@ -11,13 +11,6 @@ const navItems = [
   { key: 'about', name: 'About', href: '/about/' },
 ];
 
-const todayStr = new Intl.DateTimeFormat('en-US', {
-  weekday: 'long',
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-  timeZone: 'UTC'
-}).format(new Date());
 ---
 
 <header class="border-b border-[var(--border-subtle)] bg-[var(--bg-surface)] sticky top-0 z-50">
@@ -25,15 +18,12 @@ const todayStr = new Intl.DateTimeFormat('en-US', {
   <div class="border-b border-[var(--border-subtle)] bg-[var(--bg-card)] text-xs py-2 px-4 sm:px-8">
     <div class="max-w-7xl mx-auto flex items-center justify-between text-[var(--text-muted)]">
       <div class="flex items-center space-x-3">
-        <span class="inline-flex items-center gap-1.5 text-emerald-600 dark:text-emerald-400 font-mono font-medium text-[11px] tracking-wider uppercase">
-          <span class="relative flex h-2 w-2">
-            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-500 opacity-75"></span>
-            <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
-          </span>
-          <span data-i18n="hourlyActive">Autonomous AI Wire</span>
+        <span class="inline-flex items-center gap-2 text-[var(--accent-editorial)] font-mono font-medium text-[11px] tracking-wider uppercase">
+          <span class="h-2 w-2 rounded-full bg-[var(--accent-editorial)]" aria-hidden="true"></span>
+          Source-linked AI news
         </span>
         <span class="hidden sm:inline text-[var(--border-strong)]">|</span>
-        <span class="hidden sm:inline font-mono text-[var(--text-muted)]">{todayStr} (UTC)</span>
+        <span class="hidden sm:inline font-mono text-[var(--text-muted)]">Publication dates appear on each story</span>
       </div>
 
       <div class="flex items-center space-x-3">
@@ -72,7 +62,7 @@ const todayStr = new Intl.DateTimeFormat('en-US', {
         </div>
         <div>
           <span class="text-2xl sm:text-3xl font-black tracking-widest text-[var(--text-headline)] uppercase font-newspaper">NEURAL <span class="text-[var(--accent-editorial)]">PULSE</span></span>
-          <p class="text-[10px] text-[var(--text-muted)] tracking-widest font-mono uppercase">The Autonomous AI & Frontier Tech Journal</p>
+          <p class="text-[10px] text-[var(--text-muted)] tracking-widest font-mono uppercase">AI developments linked to original sources</p>
         </div>
       </a>
     </div>

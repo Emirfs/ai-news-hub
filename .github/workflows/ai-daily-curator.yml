@@ -20,6 +20,9 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: ai-news-curator
+  cancel-in-progress: false
 jobs:
   curate-news:
     runs-on: ubuntu-latest
@@ -37,20 +40,30 @@ jobs:
       - name: Run autonomous news curator
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: 'gemini-1.5-flash'
+          GEMINI_MODEL: 'gemini-2.5-flash'
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          PYTHONUNBUFFERED: '1'
         run: |
           COUNT="${{ github.event.inputs.article_count || '2' }}"
           DRY_RUN="${{ github.event.inputs.dry_run }}"
 
-          CMD="python pipeline/run_pipeline.py --mode daily --count $COUNT"
-          if [ "$DRY_RUN" = "true" ]; then
-            CMD="$CMD --dry-run"
+          if ! [[ "$COUNT" =~ ^[1-9][0-9]?$ ]]; then
+            echo "::error::article_count must be an integer from 1 to 99"
+            exit 1
           fi
 
-          echo "Executing: $CMD"
-          eval $CMD
+          CMD=(python pipeline/run_pipeline.py --mode daily --count "$COUNT")
+          if [ "$DRY_RUN" = "true" ]; then
+            CMD+=(--dry-run)
+          fi
+
+          printf 'Executing:'
+          printf ' %q' "${CMD[@]}"
+          printf '\n'
+          "${CMD[@]}"
 
       - name: Commit and push new dispatches
+        if: ${{ github.event.inputs.dry_run != 'true' }}
         run: |
           git config --global user.name "NeuralPulseBot[bot]"
           git config --global user.email "neuralpulse-bot@users.noreply.github.com"

@@ -13,6 +13,7 @@ const news = defineCollection({
     sourceUrl: z.string().url().optional().or(z.literal('')),
     sourceName: z.string().optional().or(z.literal('')),
     isWeeklyDigest: z.boolean().default(false),
+    sourcePolicy: z.literal('primary').optional(),
     keyTakeaways: z.array(z.string()).default([]),
     translations: z.record(
       z.string(),

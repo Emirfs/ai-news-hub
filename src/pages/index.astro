@@ -8,12 +8,15 @@ import TrendingRepos from '../components/TrendingRepos.astro';
 import EmergingRepos from '../components/EmergingRepos.astro';
 import { getPath } from '../utils/url';
 
-const allNews = await getCollection('news');
+const allNews = (await getCollection('news')).filter((item) => item.data.sourcePolicy === 'primary');
 
-// Sort by date descending
-const sortedNews = allNews.sort(
-  (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime()
-);
+const sortedNews = allNews.sort((a, b) => {
+  const dateOrder = b.data.pubDate.getTime() - a.data.pubDate.getTime();
+  if (dateOrder !== 0) return dateOrder;
+  const aRumor = a.data.category.toLowerCase() === 'rumors & leaks';
+  const bRumor = b.data.category.toLowerCase() === 'rumors & leaks';
+  return Number(aRumor) - Number(bRumor);
+});
 
 const digests = sortedNews.filter((item) => item.data.isWeeklyDigest);
 const regularArticles = sortedNews.filter((item) => !item.data.isWeeklyDigest);
@@ -44,18 +47,19 @@ allNews.forEach((item) => {
   <section class="mb-10 py-2.5 px-4 rounded bg-[var(--bg-card)] border border-[var(--border-subtle)] flex flex-wrap items-center justify-between gap-4 text-xs font-mono text-[var(--text-muted)]">
     <div class="flex items-center gap-5">
       <div class="flex items-center gap-2">
-        <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-        <span class="text-[var(--text-muted)]" data-i18n="wireStatus">News Desk:</span>
-        <span class="text-[var(--text-headline)] font-medium" data-i18n="hourlyActive">Hourly Autonomous Wire</span>
+        <span class="w-2 h-2 rounded-full bg-[var(--accent-editorial)]"></span>
+        <span class="text-[var(--text-muted)]" data-i18n="wireStatus">News desk:</span>
+        <span class="text-[var(--text-headline)] font-medium">Scheduled updates; publication dates vary.</span>
       </div>
       <div class="hidden sm:inline-block text-[var(--border-strong)]">|</div>
       <div class="hidden sm:flex items-center gap-2">
         <span data-i18n="monitoredProviders">Providers Monitored:</span>
-        <span class="text-[var(--text-headline)] font-medium">OpenAI, Anthropic, DeepSeek, Google Gemini</span>
+        <span class="text-[var(--text-headline)] font-medium">Anthropic, OpenAI, arXiv, Hugging Face, NVIDIA</span>
       </div>
     </div>
     <div>
-      <span data-i18n="totalIndexed">Total Indexed Dispatches:</span> <strong class="text-[var(--accent-editorial)] font-semibold">{allNews.length}</strong>
+      <span>Latest published date:</span> <strong class="text-[var(--accent-editorial)] font-semibold">{leadStory?.data.pubDate.toISOString().slice(0, 10) ?? 'No stories yet'}</strong>
+      <span class="block sm:inline sm:ml-2 text-[var(--text-muted)] mt-1 sm:mt-0">Official-source stories; claims are not independently verified.</span>
     </div>
   </section>
 
