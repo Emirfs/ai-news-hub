@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-24 17:16 UTC` | **Source-linked stories:** `22`
+> **Index generated:** `2026-09-24 20:33 UTC` | **Source-linked stories:** `24`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 266.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 266.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 235.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 235.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [auscaster/frantic-board](https://github.com/auscaster/frantic-board) | `★ 427` | `2026-09-24` | Experimental Agent | `Shell` | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public le... |
 | [TNY-Robotics/TNY-360](https://github.com/TNY-Robotics/TNY-360) | `★ 303` | `2026-09-24` | Embodied AI | `C++` | TNY - 360 Robot source code and 3d models |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 301` | `2026-09-24` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 160` | `2026-09-24` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | `★ 90` | `2026-09-24` | Local AI | `TypeScript` | Local AI song generator with an editable score — YuE2 on your GPU: full songs with vo... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 277` | `2026-09-24` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | `★ 228` | `2026-09-24` | Local AI | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and G... |
+| [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors) | `★ 173` | `2026-09-24` | Embodied AI | `C++` | Provides numerous sensor models designed to generate realistic data from simulation e... |
+| [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli) | `★ 166` | `2026-09-24` | Local AI | `Python` | Unified CLI for running AI coding agents in isolated containers. Includes built-in lo... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -44,7 +44,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-24` | AI Research | [Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment](src/content/news/2026-09-24-which-objectives-need-a-dial-predicting.md) | Multi-Objective Direct Preference | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-which-objectives-need-a-dial-predicting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26929) |
 | `2026-09-24` | AI Research | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](src/content/news/2026-09-24-twincheck-evidence-grounded-negative-twin-verification-for-stateful.md) | TwinCheck | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-twincheck-evidence-grounded-negative-twin-verification-for-stateful/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26911) |
+| `2026-09-24` | AI Research | [Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations](src/content/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with.md) | This paper introduces a novel | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27037) |
 | `2026-09-24` | AI Research | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](src/content/news/2026-09-24-silent-failures-in-agent-tool-interaction-an.md) | Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-silent-failures-in-agent-tool-interaction-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26836) |
+| `2026-09-24` | AI Research | [Reinforcement Learning with Decomposed Subtasks](src/content/news/2026-09-24-reinforcement-learning-with-decomposed-subtasks.md) | Reinforcement | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-reinforcement-learning-with-decomposed-subtasks/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27035) |
 | `2026-09-24` | AI Research | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](src/content/news/2026-09-24-harness-as-a-language-a-minimalist.md) | JAZ | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-harness-as-a-language-a-minimalist/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26891) |
 | `2026-09-24` | AI Research | [Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution](src/content/news/2026-09-24-escaping-python-dependency-hell-a-hybrid.md) | Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocu... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-escaping-python-dependency-hell-a-hybrid/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26952) |
 | `2026-09-24` | AI Research | [Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations](src/content/news/2026-09-24-building-socio-affective-artificial-intelligence-for-interactive.md) | The objective of this article is to provide design principles and a software architecture for enabling interaction ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-building-socio-affective-artificial-intelligence-for-interactive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26927) |
@@ -71,7 +73,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-24 17:16 UTC` | **Yayımlanan haber:** `22`
+> **Dizin oluşturma:** `2026-09-24 20:33 UTC` | **Yayımlanan haber:** `24`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -83,7 +85,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-24` | AI Research | [Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment](src/content/news/2026-09-24-which-objectives-need-a-dial-predicting.md) | Multi-Objective Direct Preference | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-which-objectives-need-a-dial-predicting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26929) |
 | `2026-09-24` | AI Research | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](src/content/news/2026-09-24-twincheck-evidence-grounded-negative-twin-verification-for-stateful.md) | TwinCheck | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-twincheck-evidence-grounded-negative-twin-verification-for-stateful/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26911) |
+| `2026-09-24` | AI Research | [Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations](src/content/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with.md) | This paper introduces a novel | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27037) |
 | `2026-09-24` | AI Research | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](src/content/news/2026-09-24-silent-failures-in-agent-tool-interaction-an.md) | Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-silent-failures-in-agent-tool-interaction-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26836) |
+| `2026-09-24` | AI Research | [Reinforcement Learning with Decomposed Subtasks](src/content/news/2026-09-24-reinforcement-learning-with-decomposed-subtasks.md) | Reinforcement | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-reinforcement-learning-with-decomposed-subtasks/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27035) |
 | `2026-09-24` | AI Research | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](src/content/news/2026-09-24-harness-as-a-language-a-minimalist.md) | JAZ | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-harness-as-a-language-a-minimalist/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26891) |
 | `2026-09-24` | AI Research | [Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution](src/content/news/2026-09-24-escaping-python-dependency-hell-a-hybrid.md) | Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocu... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-escaping-python-dependency-hell-a-hybrid/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26952) |
 | `2026-09-24` | AI Research | [Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations](src/content/news/2026-09-24-building-socio-affective-artificial-intelligence-for-interactive.md) | The objective of this article is to provide design principles and a software architecture for enabling interaction ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-building-socio-affective-artificial-intelligence-for-interactive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26927) |
