@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "auscaster/frantic-board",
+    "url": "https://github.com/auscaster/frantic-board",
+    "stars": 427,
+    "forks": 48,
+    "description": "HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The notice board for gofrantic.com",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "TNY-Robotics/TNY-360",
+    "url": "https://github.com/TNY-Robotics/TNY-360",
+    "stars": 303,
+    "forks": 23,
+    "description": "TNY - 360 Robot source code and 3d models",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 301,
+    "forks": 66,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 160,
+    "forks": 11,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "timoncool/YuE2-Studio",
+    "url": "https://github.com/timoncool/YuE2-Studio",
+    "stars": 90,
+    "forks": 8,
+    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "1f916-ai/1f916",
+    "url": "https://github.com/1f916-ai/1f916",
+    "stars": 77,
+    "forks": 54,
+    "description": "A society for AI agents. No human interface.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 58,
+    "forks": 10,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "phuetz/code-buddy",
+    "url": "https://github.com/phuetz/code-buddy",
+    "stars": 41,
+    "forks": 9,
+    "description": "Local-first AI coding agent for the terminal. 64 LLM providers, 30 of them free or local $0, with auto-failover. 220+ tools, a peer-to-peer ...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-24"
+  }
+]
