@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-24 00:54 UTC` | **Source-linked stories:** `16`
+> **Index generated:** `2026-09-24 06:13 UTC` | **Source-linked stories:** `18`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 266.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 234.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 266.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 234.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mixpeek/amux](https://github.com/mixpeek/amux) | `★ 495` | `2026-09-24` | Experimental Agent | `Rust` | Open-source control plane for AI coding agents. Run an AI engineering team: parallel ... |
-| [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | `★ 270` | `2026-09-24` | Experimental Agent | `Go` | Securely scale AI usage across your organization. A single stack to Connect, Secure, ... |
-| [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) | `★ 113` | `2026-09-24` | Indie Tool | `JavaScript` | Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness... |
-| [sumarilkkxx/Mora](https://github.com/sumarilkkxx/Mora) | `★ 103` | `2026-09-24` | Local AI | `TypeScript` | 本地优先的开源 AI 商业推广视频工作台，覆盖从脚本到成片的完整工作流：文本 LLM 编写脚本，图像模型生成素材，视频模型支持 AI 视频直出，快速完成配音、字幕、剪辑与... |
-| [hfgwygey/yu-ai-agent](https://github.com/hfgwygey/yu-ai-agent) | `★ 95` | `2026-09-24` | Experimental Agent | `Java` | 编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自... |
+| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-09-24` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
+| [OpenBMB/SimpleMemVLA](https://github.com/OpenBMB/SimpleMemVLA) | `★ 72` | `2026-09-24` | Embodied AI | `Python` | Native-video memory for vision-language-action models, using timestamped visual histo... |
+| [r3dbars/transcripted](https://github.com/r3dbars/transcripted) | `★ 71` | `2026-09-24` | Local AI | `Swift` | Record meetings and dictation on your Mac. Everything becomes plain Markdown files th... |
+| [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | `★ 47` | `2026-09-24` | Experimental Agent | `Python` | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed ever... |
+| [openmake/openmake_llm](https://github.com/openmake/openmake_llm) | `★ 43` | `2026-09-24` | Indie Tool | `TypeScript` | Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteL... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-24` | AI Research | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](src/content/news/2026-09-24-silent-failures-in-agent-tool-interaction-an.md) | Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-silent-failures-in-agent-tool-interaction-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26836) |
+| `2026-09-24` | AI Research | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](src/content/news/2026-09-24-harness-as-a-language-a-minimalist.md) | JAZ | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-harness-as-a-language-a-minimalist/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26891) |
 | `2026-09-23` | AI Research | [The Wisdom of Artificial Deliberative Crowds](src/content/news/2026-09-23-the-wisdom-of-artificial-deliberative-crowds.md) | The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdo... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-the-wisdom-of-artificial-deliberative-crowds/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22497) |
 | `2026-09-23` | AI Research | [Social Influence and the Allocation of Scientific Attention in AI Populations](src/content/news/2026-09-23-social-influence-and-the-allocation-of.md) | AI systems are becoming participants in the evaluation and use of scientific research. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-social-influence-and-the-allocation-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22408) |
 | `2026-09-23` | AI Research | [Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation](src/content/news/2026-09-23-replication-without-persistence-in-hosted-llms.md) | Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrumen... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-replication-without-persistence-in-hosted-llms/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22478) |
@@ -65,7 +67,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-24 00:54 UTC` | **Yayımlanan haber:** `16`
+> **Dizin oluşturma:** `2026-09-24 06:13 UTC` | **Yayımlanan haber:** `18`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -75,6 +77,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-24` | AI Research | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](src/content/news/2026-09-24-silent-failures-in-agent-tool-interaction-an.md) | Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-silent-failures-in-agent-tool-interaction-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26836) |
+| `2026-09-24` | AI Research | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](src/content/news/2026-09-24-harness-as-a-language-a-minimalist.md) | JAZ | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-harness-as-a-language-a-minimalist/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26891) |
 | `2026-09-23` | AI Research | [The Wisdom of Artificial Deliberative Crowds](src/content/news/2026-09-23-the-wisdom-of-artificial-deliberative-crowds.md) | The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdo... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-the-wisdom-of-artificial-deliberative-crowds/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22497) |
 | `2026-09-23` | AI Research | [Social Influence and the Allocation of Scientific Attention in AI Populations](src/content/news/2026-09-23-social-influence-and-the-allocation-of.md) | AI systems are becoming participants in the evaluation and use of scientific research. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-social-influence-and-the-allocation-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22408) |
 | `2026-09-23` | AI Research | [Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation](src/content/news/2026-09-23-replication-without-persistence-in-hosted-llms.md) | Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrumen... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-replication-without-persistence-in-hosted-llms/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22478) |

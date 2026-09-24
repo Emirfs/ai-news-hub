@@ -1,82 +1,82 @@
 [
   {
-    "name": "mixpeek/amux",
-    "url": "https://github.com/mixpeek/amux",
-    "stars": 495,
-    "forks": 58,
-    "description": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared bo...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-24"
-  },
-  {
-    "name": "speakeasy-api/gram",
-    "url": "https://github.com/speakeasy-api/gram",
-    "stars": 270,
-    "forks": 33,
-    "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within ...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-24"
-  },
-  {
-    "name": "PerryLink/dsh-memento",
-    "url": "https://github.com/PerryLink/dsh-memento",
-    "stars": 113,
-    "forks": 3,
-    "description": "Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness (capability seam: ctx.memory + SQLite provider + memor...",
-    "language": "JavaScript",
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 302,
+    "forks": 66,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-24"
   },
   {
-    "name": "sumarilkkxx/Mora",
-    "url": "https://github.com/sumarilkkxx/Mora",
-    "stars": 103,
-    "forks": 23,
-    "description": "本地优先的开源 AI 商业推广视频工作台，覆盖从脚本到成片的完整工作流：文本 LLM 编写脚本，图像模型生成素材，视频模型支持 AI 视频直出，快速完成配音、字幕、剪辑与导出。 | A local-first, open-source workspace for end-to-e...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-24"
-  },
-  {
-    "name": "hfgwygey/yu-ai-agent",
-    "url": "https://github.com/hfgwygey/yu-ai-agent",
-    "stars": 95,
-    "forks": 27,
-    "description": "编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI 核心特性、Prompt 工程和优化、R...",
-    "language": "Java",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-24"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 89,
-    "forks": 33,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "name": "OpenBMB/SimpleMemVLA",
+    "url": "https://github.com/OpenBMB/SimpleMemVLA",
+    "stars": 72,
+    "forks": 7,
+    "description": "Native-video memory for vision-language-action models, using timestamped visual history and exact streaming inference for long-horizon robot...",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-24"
   },
   {
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate",
-    "stars": 89,
-    "forks": 3,
-    "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, a...",
-    "language": "Python",
+    "name": "r3dbars/transcripted",
+    "url": "https://github.com/r3dbars/transcripted",
+    "stars": 71,
+    "forks": 12,
+    "description": "Record meetings and dictation on your Mac. Everything becomes plain Markdown files that Claude, Codex, or any AI can search. Free, open sour...",
+    "language": "Swift",
     "tag": "Local AI",
     "pushed_at": "2026-09-24"
   },
   {
-    "name": "dylanneve1/talon",
-    "url": "https://github.com/dylanneve1/talon",
-    "stars": 85,
+    "name": "linny006/trending-claude-skills",
+    "url": "https://github.com/linny006/trending-claude-skills",
+    "stars": 47,
     "forks": 4,
-    "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "openmake/openmake_llm",
+    "url": "https://github.com/openmake/openmake_llm",
+    "stars": 43,
+    "forks": 6,
+    "description": "Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifa...",
     "language": "TypeScript",
     "tag": "Indie Tool",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "phuetz/code-buddy",
+    "url": "https://github.com/phuetz/code-buddy",
+    "stars": 41,
+    "forks": 9,
+    "description": "Local-first AI coding agent for the terminal. 64 LLM providers, 30 of them free or local $0, with auto-failover. 220+ tools, a peer-to-peer ...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "lightspeed-core/lightspeed-stack",
+    "url": "https://github.com/lightspeed-core/lightspeed-stack",
+    "stars": 40,
+    "forks": 103,
+    "description": "LLM tooling stack",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "linny006/awesome-agent-skills",
+    "url": "https://github.com/linny006/awesome-agent-skills",
+    "stars": 37,
+    "forks": 4,
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-24"
   }
 ]
