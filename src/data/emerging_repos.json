@@ -1,63 +1,53 @@
 [
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 276,
-    "forks": 157,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 214,
-    "forks": 33,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "NVIDIA/NeMo-Relay",
-    "url": "https://github.com/NVIDIA/NeMo-Relay",
-    "stars": 176,
-    "forks": 73,
-    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
+    "name": "mixpeek/amux",
+    "url": "https://github.com/mixpeek/amux",
+    "stars": 495,
+    "forks": 58,
+    "description": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared bo...",
     "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "Hash-7777/HashCortX",
-    "url": "https://github.com/Hash-7777/HashCortX",
-    "stars": 152,
-    "forks": 14,
-    "description": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop ...",
-    "language": "JavaScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "benseverndev-oss/goldenmatch",
-    "url": "https://github.com/benseverndev-oss/goldenmatch",
-    "stars": 133,
-    "forks": 15,
-    "description": "Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 ...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-23"
-  },
-  {
-    "name": "magnus919/agent-skills",
-    "url": "https://github.com/magnus919/agent-skills",
-    "stars": 95,
-    "forks": 9,
-    "description": "Curated collection of AI agent skills for Hermes and other agent frameworks",
-    "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-23"
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "speakeasy-api/gram",
+    "url": "https://github.com/speakeasy-api/gram",
+    "stars": 270,
+    "forks": 33,
+    "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within ...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "PerryLink/dsh-memento",
+    "url": "https://github.com/PerryLink/dsh-memento",
+    "stars": 113,
+    "forks": 3,
+    "description": "Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness (capability seam: ctx.memory + SQLite provider + memor...",
+    "language": "JavaScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "sumarilkkxx/Mora",
+    "url": "https://github.com/sumarilkkxx/Mora",
+    "stars": 103,
+    "forks": 23,
+    "description": "本地优先的开源 AI 商业推广视频工作台，覆盖从脚本到成片的完整工作流：文本 LLM 编写脚本，图像模型生成素材，视频模型支持 AI 视频直出，快速完成配音、字幕、剪辑与导出。 | A local-first, open-source workspace for end-to-e...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "hfgwygey/yu-ai-agent",
+    "url": "https://github.com/hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "forks": 27,
+    "description": "编程导航 2025 年 AI 开发实战新项目，基于 Spring Boot 3 + Java 21 + Spring AI 构建 AI 恋爱大师应用和 ReAct 模式自主规划智能体YuManus，覆盖 AI 大模型接入、Spring AI 核心特性、Prompt 工程和优化、R...",
+    "language": "Java",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-24"
   },
   {
     "name": "mstar-project/mstar",
@@ -67,16 +57,26 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-09-23"
+    "pushed_at": "2026-09-24"
   },
   {
-    "name": "General-Instinct/InstinctFlash",
-    "url": "https://github.com/General-Instinct/InstinctFlash",
-    "stars": 83,
-    "forks": 6,
-    "description": "High-Performance Serving Runtime for Robotics Models",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-23"
+    "name": "ThreeMoonsLab/agents-shipgate",
+    "url": "https://github.com/ThreeMoonsLab/agents-shipgate",
+    "stars": 89,
+    "forks": 3,
+    "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, a...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-24"
+  },
+  {
+    "name": "dylanneve1/talon",
+    "url": "https://github.com/dylanneve1/talon",
+    "stars": 85,
+    "forks": 4,
+    "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-24"
   }
 ]
