@@ -1,82 +1,82 @@
 [
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 279,
-    "forks": 158,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "hzxie/DynamicVLA",
+    "url": "https://github.com/hzxie/DynamicVLA",
+    "stars": 338,
+    "forks": 22,
+    "description": "The official implementation of \"DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation\". (NeurIPS 2026)",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "btsouth/toolport",
-    "url": "https://github.com/btsouth/toolport",
-    "stars": 221,
-    "forks": 60,
-    "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secr...",
-    "language": "Rust",
+    "name": "gameworkerkim/vibe-investing",
+    "url": "https://github.com/gameworkerkim/vibe-investing",
+    "stars": 334,
+    "forks": 99,
+    "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNA...",
+    "language": "HTML",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "1f916-ai/1f916",
-    "url": "https://github.com/1f916-ai/1f916",
-    "stars": 77,
-    "forks": 54,
-    "description": "A society for AI agents. No human interface.",
+    "name": "yonatangross/orchestkit",
+    "url": "https://github.com/yonatangross/orchestkit",
+    "stars": 284,
+    "forks": 35,
+    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), or `ork-alpha` for t...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "KanJieTeam/kjdraw",
-    "url": "https://github.com/KanJieTeam/kjdraw",
-    "stars": 63,
-    "forks": 2,
-    "description": "The open-source CAD engine for AI agents. Structured drawings with stable object ids, transactional edits, and DXF/KJD output. TypeScript + ...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "Etamus/NeveAI",
-    "url": "https://github.com/Etamus/NeveAI",
-    "stars": 63,
-    "forks": 2,
-    "description": "NeveAI é uma plataforma de IA local privacy-first, desenvolvida para oferecer uma experiência de alta performance na execução de LLMs, reduz...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "tao12345666333/ankaloop",
-    "url": "https://github.com/tao12345666333/ankaloop",
-    "stars": 49,
-    "forks": 8,
-    "description": "Out-of-the-box coding-agent runtime for terminal, IDE, server, and Telegram: built-in tools, subagents, skills, memory, MCP/ACP, hooks, and ...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "ALH477/Oligarchy",
-    "url": "https://github.com/ALH477/Oligarchy",
-    "stars": 47,
-    "forks": 3,
-    "description": "Oligarchy is a reproducible NixOS computing platform developed as a daily-driver operating system by its author ALH477, evolving from a pers...",
-    "language": "Nix",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "gandazgul/runwield",
-    "url": "https://github.com/gandazgul/runwield",
-    "stars": 43,
-    "forks": 8,
-    "description": "NOW you can let AI agents make code changes without losing engineering control.",
+    "name": "shaun0927/openchrome",
+    "url": "https://github.com/shaun0927/openchrome",
+    "stars": 237,
+    "forks": 42,
+    "description": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
     "language": "TypeScript",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 201,
+    "forks": 34,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "timoncool/YuE2-Studio",
+    "url": "https://github.com/timoncool/YuE2-Studio",
+    "stars": 123,
+    "forks": 8,
+    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "linbei0/EcomGen",
+    "url": "https://github.com/linbei0/EcomGen",
+    "stars": 119,
+    "forks": 26,
+    "description": "Local-first AI e-commerce image suite generator for individual sellers. Pi Agent storyboards, 25 templates + reusable suites, product-truth ...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 88,
+    "forks": 11,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-09-25"
   }
 ]

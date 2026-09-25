@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-25 01:57 UTC` | **Source-linked stories:** `28`
+> **Index generated:** `2026-09-25 07:54 UTC` | **Source-linked stories:** `30`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 266.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 235.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.8k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 235.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 279` | `2026-09-25` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 221` | `2026-09-25` | Indie Tool | `Rust` | Local-first MCP gateway. One port for every tool and every AI client: lazy discovery ... |
-| [1f916-ai/1f916](https://github.com/1f916-ai/1f916) | `★ 77` | `2026-09-25` | Experimental Agent | `TypeScript` | A society for AI agents. No human interface. |
-| [KanJieTeam/kjdraw](https://github.com/KanJieTeam/kjdraw) | `★ 63` | `2026-09-25` | Experimental Agent | `JavaScript` | The open-source CAD engine for AI agents. Structured drawings with stable object ids,... |
-| [Etamus/NeveAI](https://github.com/Etamus/NeveAI) | `★ 63` | `2026-09-25` | Local AI | `Python` | NeveAI é uma plataforma de IA local privacy-first, desenvolvida para oferecer uma exp... |
+| [hzxie/DynamicVLA](https://github.com/hzxie/DynamicVLA) | `★ 338` | `2026-09-25` | Embodied AI | `Python` | The official implementation of "DynamicVLA: A Vision-Language-Action Model for Dynami... |
+| [gameworkerkim/vibe-investing](https://github.com/gameworkerkim/vibe-investing) | `★ 334` | `2026-09-25` | Indie Tool | `HTML` | AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi... |
+| [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `★ 284` | `2026-09-25` | Experimental Agent | `TypeScript` | The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks... |
+| [shaun0927/openchrome](https://github.com/shaun0927/openchrome) | `★ 237` | `2026-09-25` | Experimental Agent | `TypeScript` | Open-source browser automation MCP server. Control your real Chrome from any AI agent... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 201` | `2026-09-25` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-25` | AI Research | [When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing](src/content/news/2026-09-25-when-should-forecasting-agents-reason-behavioral.md) | Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it re... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-when-should-forecasting-agents-reason-behavioral/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28475) |
+| `2026-09-25` | AI Research | [TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split](src/content/news/2026-09-25-tw3cast-a-frozen-router-of-lightly.md) | TW3Cast is a | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-tw3cast-a-frozen-router-of-lightly/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28506) |
 | `2026-09-24` | AI Research | [Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment](src/content/news/2026-09-24-which-objectives-need-a-dial-predicting.md) | Multi-Objective Direct Preference | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-which-objectives-need-a-dial-predicting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26929) |
 | `2026-09-24` | AI Research | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](src/content/news/2026-09-24-twincheck-evidence-grounded-negative-twin-verification-for-stateful.md) | TwinCheck | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-twincheck-evidence-grounded-negative-twin-verification-for-stateful/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26911) |
 | `2026-09-24` | AI Research | [Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations](src/content/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with.md) | This paper introduces a novel | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27037) |
@@ -77,7 +79,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-25 01:57 UTC` | **Yayımlanan haber:** `28`
+> **Dizin oluşturma:** `2026-09-25 07:54 UTC` | **Yayımlanan haber:** `30`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -87,6 +89,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-25` | AI Research | [When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing](src/content/news/2026-09-25-when-should-forecasting-agents-reason-behavioral.md) | Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it re... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-when-should-forecasting-agents-reason-behavioral/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28475) |
+| `2026-09-25` | AI Research | [TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split](src/content/news/2026-09-25-tw3cast-a-frozen-router-of-lightly.md) | TW3Cast is a | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-tw3cast-a-frozen-router-of-lightly/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28506) |
 | `2026-09-24` | AI Research | [Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment](src/content/news/2026-09-24-which-objectives-need-a-dial-predicting.md) | Multi-Objective Direct Preference | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-which-objectives-need-a-dial-predicting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26929) |
 | `2026-09-24` | AI Research | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](src/content/news/2026-09-24-twincheck-evidence-grounded-negative-twin-verification-for-stateful.md) | TwinCheck | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-twincheck-evidence-grounded-negative-twin-verification-for-stateful/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26911) |
 | `2026-09-24` | AI Research | [Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations](src/content/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with.md) | This paper introduces a novel | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27037) |

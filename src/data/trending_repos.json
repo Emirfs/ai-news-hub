@@ -2,8 +2,8 @@
   {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 266939,
-    "forks": 39890,
+    "stars": 267094,
+    "forks": 39907,
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code...",
     "language": "JavaScript",
     "tag": "Autonomous Agents",
@@ -12,8 +12,8 @@
   {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 248741,
-    "forks": 52651,
+    "stars": 248792,
+    "forks": 52682,
     "description": "The agent that grows with you",
     "language": "Python",
     "tag": "Autonomous Agents",
@@ -22,8 +22,8 @@
   {
     "name": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 235203,
-    "forks": 28295,
+    "stars": 235472,
+    "forks": 28318,
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
@@ -32,8 +32,8 @@
   {
     "name": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 209905,
-    "forks": 27741,
+    "stars": 209931,
+    "forks": 27746,
     "description": "The open source coding agent.",
     "language": "TypeScript",
     "tag": "Developer Tools",
@@ -52,7 +52,7 @@
   {
     "name": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "stars": 187535,
+    "stars": 187541,
     "forks": 45997,
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on w...",
     "language": "Python",
@@ -62,8 +62,8 @@
   {
     "name": "firecrawl/firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 184339,
-    "forks": 9911,
+    "stars": 184436,
+    "forks": 9916,
     "description": "The web data API to search, scrape, and interact at scale. 🔥",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
@@ -72,11 +72,11 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "stars": 181651,
+    "stars": 181665,
     "forks": 17999,
     "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "tag": "DeepSeek Ecosystem",
-    "pushed_at": "2026-09-24"
+    "pushed_at": "2026-09-25"
   }
 ]
