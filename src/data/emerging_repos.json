@@ -1,32 +1,12 @@
 [
   {
-    "name": "apoorvdarshan/fud-ai",
-    "url": "https://github.com/apoorvdarshan/fud-ai",
-    "stars": 435,
-    "forks": 90,
-    "description": "Fud AI — free & open-source AI calorie & workout tracker for iOS and Android. Privacy-first, local-first, bring your own key.",
-    "language": "Kotlin",
+    "name": "Vigil-SOC/vigil",
+    "url": "https://github.com/Vigil-SOC/vigil",
+    "stars": 316,
+    "forks": 82,
+    "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
+    "language": "Python",
     "tag": "Local AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "schmitech/orbit",
-    "url": "https://github.com/schmitech/orbit",
-    "stars": 351,
-    "forks": 57,
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "mindroom-ai/mindroom",
-    "url": "https://github.com/mindroom-ai/mindroom",
-    "stars": 300,
-    "forks": 14,
-    "description": "Your AI is trapped in apps. We set it free — Self-hostable AI stack for multi-user, multi-agent workflows on Matrix.",
-    "language": "Python",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-09-25"
   },
   {
@@ -40,43 +20,63 @@
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "mjasnikovs/pi-task",
-    "url": "https://github.com/mjasnikovs/pi-task",
-    "stars": 134,
-    "forks": 11,
-    "description": "Deterministic spec-orchestration for local LLMs in the pi coding agent — drives prompts through refine→research→grill→compose→critique, with...",
+    "name": "nightly-labs/openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "stars": 233,
+    "forks": 25,
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin...",
     "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "benseverndev-oss/goldenmatch",
-    "url": "https://github.com/benseverndev-oss/goldenmatch",
-    "stars": 133,
-    "forks": 15,
-    "description": "Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 ...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "ScriptedAlchemy/tracedecay",
-    "url": "https://github.com/ScriptedAlchemy/tracedecay",
-    "stars": 78,
-    "forks": 6,
-    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
-    "language": "Rust",
     "tag": "Local AI",
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 72,
-    "forks": 10,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "name": "jonigl/ollama-mcp-bridge",
+    "url": "https://github.com/jonigl/ollama-mcp-bridge",
+    "stars": 102,
+    "forks": 38,
+    "description": "Extend the Ollama API with dynamic AI tool integration from multiple MCP (Model Context Protocol) servers. Fully compatible, transparent, an...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 89,
+    "forks": 33,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "jmrplens/gitlab-mcp-server",
+    "url": "https://github.com/jmrplens/gitlab-mcp-server",
+    "stars": 41,
+    "forks": 5,
+    "description": "Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850+ GitLab actions (1,000+ Enterprise), stdio/HTTP/OAuth,...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "showlab/Dream.exe",
+    "url": "https://github.com/showlab/Dream.exe",
+    "stars": 40,
+    "forks": 1,
+    "description": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "skills-il/tax-and-finance",
+    "url": "https://github.com/skills-il/tax-and-finance",
+    "stars": 35,
+    "forks": 18,
+    "description": "AI agent skills for Israeli tax, invoicing, VAT, and financial systems",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-25"
   }
 ]
