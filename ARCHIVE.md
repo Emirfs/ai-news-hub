@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-24 23:31 UTC` | **Source-linked stories:** `26`
+> **Index generated:** `2026-09-25 01:57 UTC` | **Source-linked stories:** `28`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -22,7 +22,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 266.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 248.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 235.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 235.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 209.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [TNY-Robotics/TNY-360](https://github.com/TNY-Robotics/TNY-360) | `★ 303` | `2026-09-24` | Embodied AI | `C++` | TNY - 360 Robot source code and 3d models |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 278` | `2026-09-24` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) | `★ 179` | `2026-09-24` | Embodied AI | `Python` | Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in ... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 160` | `2026-09-24` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [benseverndev-oss/goldenmatch](https://github.com/benseverndev-oss/goldenmatch) | `★ 133` | `2026-09-24` | Indie Tool | `Python` | Zero-config entity resolution feeding a durable identity layer: messy records from an... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 279` | `2026-09-25` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 221` | `2026-09-25` | Indie Tool | `Rust` | Local-first MCP gateway. One port for every tool and every AI client: lazy discovery ... |
+| [1f916-ai/1f916](https://github.com/1f916-ai/1f916) | `★ 77` | `2026-09-25` | Experimental Agent | `TypeScript` | A society for AI agents. No human interface. |
+| [KanJieTeam/kjdraw](https://github.com/KanJieTeam/kjdraw) | `★ 63` | `2026-09-25` | Experimental Agent | `JavaScript` | The open-source CAD engine for AI agents. Structured drawings with stable object ids,... |
+| [Etamus/NeveAI](https://github.com/Etamus/NeveAI) | `★ 63` | `2026-09-25` | Local AI | `Python` | NeveAI é uma plataforma de IA local privacy-first, desenvolvida para oferecer uma exp... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -47,6 +47,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-24` | AI Research | [Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations](src/content/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with.md) | This paper introduces a novel | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27037) |
 | `2026-09-24` | AI Research | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](src/content/news/2026-09-24-silent-failures-in-agent-tool-interaction-an.md) | Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-silent-failures-in-agent-tool-interaction-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26836) |
 | `2026-09-24` | AI Research | [Reinforcement Learning with Decomposed Subtasks](src/content/news/2026-09-24-reinforcement-learning-with-decomposed-subtasks.md) | Reinforcement | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-reinforcement-learning-with-decomposed-subtasks/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27035) |
+| `2026-09-24` | AI Research | [Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors](src/content/news/2026-09-25-propose-dont-judge-an-anytime-valid-referee.md) | Language-model | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-propose-dont-judge-an-anytime-valid-referee/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27051) |
+| `2026-09-24` | AI Research | [Policy-as-Skill: Governed LLM Decision Support with Evidence, Deterministic Control, and Audit](src/content/news/2026-09-25-policy-as-skill-governed-llm-decision-support-with.md) | Policy- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-policy-as-skill-governed-llm-decision-support-with/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27087) |
 | `2026-09-24` | AI Research | [Math Reasoning in LLMs is Organized by Approach, Not Topic](src/content/news/2026-09-24-math-reasoning-in-llms-is-organized.md) | Mathematical reasoning benchmarks are typically organized by topic, but language models may organize their internal... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-math-reasoning-in-llms-is-organized/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27041) |
 | `2026-09-24` | AI Research | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](src/content/news/2026-09-24-harness-as-a-language-a-minimalist.md) | JAZ | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-harness-as-a-language-a-minimalist/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26891) |
 | `2026-09-24` | AI Research | [Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution](src/content/news/2026-09-24-escaping-python-dependency-hell-a-hybrid.md) | Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocu... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-escaping-python-dependency-hell-a-hybrid/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26952) |
@@ -75,7 +77,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-24 23:31 UTC` | **Yayımlanan haber:** `26`
+> **Dizin oluşturma:** `2026-09-25 01:57 UTC` | **Yayımlanan haber:** `28`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -90,6 +92,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-24` | AI Research | [Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations](src/content/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with.md) | This paper introduces a novel | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-training-intelligent-voice-assistant-wakeup-with/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27037) |
 | `2026-09-24` | AI Research | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](src/content/news/2026-09-24-silent-failures-in-agent-tool-interaction-an.md) | Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-silent-failures-in-agent-tool-interaction-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26836) |
 | `2026-09-24` | AI Research | [Reinforcement Learning with Decomposed Subtasks](src/content/news/2026-09-24-reinforcement-learning-with-decomposed-subtasks.md) | Reinforcement | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-reinforcement-learning-with-decomposed-subtasks/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27035) |
+| `2026-09-24` | AI Research | [Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors](src/content/news/2026-09-25-propose-dont-judge-an-anytime-valid-referee.md) | Language-model | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-propose-dont-judge-an-anytime-valid-referee/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27051) |
+| `2026-09-24` | AI Research | [Policy-as-Skill: Governed LLM Decision Support with Evidence, Deterministic Control, and Audit](src/content/news/2026-09-25-policy-as-skill-governed-llm-decision-support-with.md) | Policy- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-policy-as-skill-governed-llm-decision-support-with/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27087) |
 | `2026-09-24` | AI Research | [Math Reasoning in LLMs is Organized by Approach, Not Topic](src/content/news/2026-09-24-math-reasoning-in-llms-is-organized.md) | Mathematical reasoning benchmarks are typically organized by topic, but language models may organize their internal... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-math-reasoning-in-llms-is-organized/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.27041) |
 | `2026-09-24` | AI Research | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](src/content/news/2026-09-24-harness-as-a-language-a-minimalist.md) | JAZ | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-harness-as-a-language-a-minimalist/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26891) |
 | `2026-09-24` | AI Research | [Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution](src/content/news/2026-09-24-escaping-python-dependency-hell-a-hybrid.md) | Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocu... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-escaping-python-dependency-hell-a-hybrid/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26952) |

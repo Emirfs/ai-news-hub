@@ -1,82 +1,82 @@
 [
   {
-    "name": "TNY-Robotics/TNY-360",
-    "url": "https://github.com/TNY-Robotics/TNY-360",
-    "stars": 303,
-    "forks": 23,
-    "description": "TNY - 360 Robot source code and 3d models",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-24"
-  },
-  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 278,
+    "stars": 279,
     "forks": 158,
     "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-09-24"
+    "pushed_at": "2026-09-25"
   },
   {
-    "name": "RomanSlack/jev-drone",
-    "url": "https://github.com/RomanSlack/jev-drone",
-    "stars": 179,
-    "forks": 24,
-    "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-24"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 160,
-    "forks": 11,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-24"
-  },
-  {
-    "name": "benseverndev-oss/goldenmatch",
-    "url": "https://github.com/benseverndev-oss/goldenmatch",
-    "stars": 133,
-    "forks": 15,
-    "description": "Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 ...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-24"
-  },
-  {
-    "name": "timoncool/dub-studio",
-    "url": "https://github.com/timoncool/dub-studio",
-    "stars": 130,
-    "forks": 19,
-    "description": "Free offline AI video dubbing studio for Windows — voice cloning, translation, subtitles & on-screen-text localization. 100% local, one nati...",
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 221,
+    "forks": 60,
+    "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secr...",
     "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-24"
-  },
-  {
-    "name": "RioShiina47/comfy-webui",
-    "url": "https://github.com/RioShiina47/comfy-webui",
-    "stars": 76,
-    "forks": 6,
-    "description": "A recipe-driven WaaS platform for ComfyUI that turns complex workflows (Image, Audio, Video, 3D) into intuitive Gradio UIs, high-level seman...",
-    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-09-24"
+    "pushed_at": "2026-09-25"
   },
   {
-    "name": "objectstack-ai/objectstack",
-    "url": "https://github.com/objectstack-ai/objectstack",
-    "stars": 64,
-    "forks": 16,
-    "description": "Apps small enough for AI to hold whole. ObjectStack turns the whole app — data model, UI, workflows, permissions — into typed metadata: a co...",
+    "name": "1f916-ai/1f916",
+    "url": "https://github.com/1f916-ai/1f916",
+    "stars": 77,
+    "forks": 54,
+    "description": "A society for AI agents. No human interface.",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-24"
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "KanJieTeam/kjdraw",
+    "url": "https://github.com/KanJieTeam/kjdraw",
+    "stars": 63,
+    "forks": 2,
+    "description": "The open-source CAD engine for AI agents. Structured drawings with stable object ids, transactional edits, and DXF/KJD output. TypeScript + ...",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "Etamus/NeveAI",
+    "url": "https://github.com/Etamus/NeveAI",
+    "stars": 63,
+    "forks": 2,
+    "description": "NeveAI é uma plataforma de IA local privacy-first, desenvolvida para oferecer uma experiência de alta performance na execução de LLMs, reduz...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "tao12345666333/ankaloop",
+    "url": "https://github.com/tao12345666333/ankaloop",
+    "stars": 49,
+    "forks": 8,
+    "description": "Out-of-the-box coding-agent runtime for terminal, IDE, server, and Telegram: built-in tools, subagents, skills, memory, MCP/ACP, hooks, and ...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "ALH477/Oligarchy",
+    "url": "https://github.com/ALH477/Oligarchy",
+    "stars": 47,
+    "forks": 3,
+    "description": "Oligarchy is a reproducible NixOS computing platform developed as a daily-driver operating system by its author ALH477, evolving from a pers...",
+    "language": "Nix",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "gandazgul/runwield",
+    "url": "https://github.com/gandazgul/runwield",
+    "stars": 43,
+    "forks": 8,
+    "description": "NOW you can let AI agents make code changes without losing engineering control.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-25"
   }
 ]
