@@ -1,82 +1,82 @@
 [
   {
-    "name": "hzxie/DynamicVLA",
-    "url": "https://github.com/hzxie/DynamicVLA",
-    "stars": 338,
-    "forks": 22,
-    "description": "The official implementation of \"DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation\". (NeurIPS 2026)",
+    "name": "apoorvdarshan/fud-ai",
+    "url": "https://github.com/apoorvdarshan/fud-ai",
+    "stars": 434,
+    "forks": 90,
+    "description": "Fud AI — free & open-source AI calorie & workout tracker for iOS and Android. Privacy-first, local-first, bring your own key.",
+    "language": "Kotlin",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 279,
+    "forks": 158,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "gameworkerkim/vibe-investing",
-    "url": "https://github.com/gameworkerkim/vibe-investing",
-    "stars": 334,
-    "forks": 99,
-    "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNA...",
-    "language": "HTML",
+    "name": "mohitsoni48/TurboLLM",
+    "url": "https://github.com/mohitsoni48/TurboLLM",
+    "stars": 277,
+    "forks": 40,
+    "description": "Run any local LLM engine, auto-tuned to your GPU — polished web UI + OpenAI/Anthropic-compatible API. Point Claude Code at your own machine ...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "templetongroup/radiant",
+    "url": "https://github.com/templetongroup/radiant",
+    "stars": 110,
+    "forks": 20,
+    "description": "A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call in a live activity feed, and dr...",
+    "language": "JavaScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "yonatangross/orchestkit",
-    "url": "https://github.com/yonatangross/orchestkit",
-    "stars": 284,
-    "forks": 35,
-    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), or `ork-alpha` for t...",
-    "language": "TypeScript",
+    "name": "hookdeck/webhook-skills",
+    "url": "https://github.com/hookdeck/webhook-skills",
+    "stars": 89,
+    "forks": 14,
+    "description": "Webhook integration skills for AI coding agents (Claude Code, Cursor, Copilot). Step-by-step guidance for setting up webhook receivers, sign...",
+    "language": "JavaScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "shaun0927/openchrome",
-    "url": "https://github.com/shaun0927/openchrome",
-    "stars": 237,
-    "forks": 42,
-    "description": "Open-source browser automation MCP server. Control your real Chrome from any AI agent.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 201,
-    "forks": 34,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "timoncool/YuE2-Studio",
-    "url": "https://github.com/timoncool/YuE2-Studio",
-    "stars": 123,
-    "forks": 8,
-    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "linbei0/EcomGen",
-    "url": "https://github.com/linbei0/EcomGen",
-    "stars": 119,
-    "forks": 26,
-    "description": "Local-first AI e-commerce image suite generator for individual sellers. Pi Agent storyboards, 25 templates + reusable suites, product-truth ...",
-    "language": "TypeScript",
-    "tag": "Local AI",
     "pushed_at": "2026-09-25"
   },
   {
     "name": "ypollak2/llm-router",
     "url": "https://github.com/ypollak2/llm-router",
-    "stars": 88,
+    "stars": 89,
     "forks": 11,
     "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
     "language": "Python",
     "tag": "Indie Tool",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 66,
+    "forks": 10,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "tech4242/aquaman",
+    "url": "https://github.com/tech4242/aquaman",
+    "stars": 37,
+    "forks": 1,
+    "description": "🔱 The only independent credential proxy for AI agents: bring-your-own-vault isolation & least-privilege request policies. Your keys stay whe...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-25"
   }
 ]
