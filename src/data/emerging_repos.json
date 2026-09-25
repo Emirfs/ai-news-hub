@@ -2,11 +2,31 @@
   {
     "name": "apoorvdarshan/fud-ai",
     "url": "https://github.com/apoorvdarshan/fud-ai",
-    "stars": 434,
+    "stars": 435,
     "forks": 90,
     "description": "Fud AI — free & open-source AI calorie & workout tracker for iOS and Android. Privacy-first, local-first, bring your own key.",
     "language": "Kotlin",
     "tag": "Local AI",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "schmitech/orbit",
+    "url": "https://github.com/schmitech/orbit",
+    "stars": 351,
+    "forks": 57,
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "mindroom-ai/mindroom",
+    "url": "https://github.com/mindroom-ai/mindroom",
+    "stars": 300,
+    "forks": 14,
+    "description": "Your AI is trapped in apps. We set it free — Self-hostable AI stack for multi-user, multi-agent workflows on Matrix.",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-25"
   },
   {
@@ -20,63 +40,43 @@
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "mohitsoni48/TurboLLM",
-    "url": "https://github.com/mohitsoni48/TurboLLM",
-    "stars": 277,
-    "forks": 40,
-    "description": "Run any local LLM engine, auto-tuned to your GPU — polished web UI + OpenAI/Anthropic-compatible API. Point Claude Code at your own machine ...",
+    "name": "mjasnikovs/pi-task",
+    "url": "https://github.com/mjasnikovs/pi-task",
+    "stars": 134,
+    "forks": 11,
+    "description": "Deterministic spec-orchestration for local LLMs in the pi coding agent — drives prompts through refine→research→grill→compose→critique, with...",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "templetongroup/radiant",
-    "url": "https://github.com/templetongroup/radiant",
-    "stars": 110,
-    "forks": 20,
-    "description": "A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call in a live activity feed, and dr...",
-    "language": "JavaScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-25"
   },
   {
-    "name": "hookdeck/webhook-skills",
-    "url": "https://github.com/hookdeck/webhook-skills",
-    "stars": 89,
-    "forks": 14,
-    "description": "Webhook integration skills for AI coding agents (Claude Code, Cursor, Copilot). Step-by-step guidance for setting up webhook receivers, sign...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 89,
-    "forks": 11,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "name": "benseverndev-oss/goldenmatch",
+    "url": "https://github.com/benseverndev-oss/goldenmatch",
+    "stars": 133,
+    "forks": 15,
+    "description": "Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 ...",
     "language": "Python",
     "tag": "Indie Tool",
+    "pushed_at": "2026-09-25"
+  },
+  {
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 78,
+    "forks": 6,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Local AI",
     "pushed_at": "2026-09-25"
   },
   {
     "name": "ThinkFlowLab/system1-agents",
     "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 66,
+    "stars": 72,
     "forks": 10,
     "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "tech4242/aquaman",
-    "url": "https://github.com/tech4242/aquaman",
-    "stars": 37,
-    "forks": 1,
-    "description": "🔱 The only independent credential proxy for AI agents: bring-your-own-vault isolation & least-privilege request policies. Your keys stay whe...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-09-25"
   }
 ]
