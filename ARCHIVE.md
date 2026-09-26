@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-26 00:39 UTC` | **Source-linked stories:** `38`
+> **Index generated:** `2026-09-26 05:34 UTC` | **Source-linked stories:** `40`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.0k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 316` | `2026-09-26` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 214` | `2026-09-26` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [diillson/chatcli](https://github.com/diillson/chatcli) | `★ 93` | `2026-09-26` | Indie Tool | `Go` | ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic... |
-| [neoneye/agent-memory-atlas](https://github.com/neoneye/agent-memory-atlas) | `★ 83` | `2026-09-26` | Experimental Agent | `Python` | Comparison of memory systems for agents |
-| [www-zaq-ai/zaq](https://github.com/www-zaq-ai/zaq) | `★ 72` | `2026-09-26` | Experimental Agent | `Elixir` | Connect your people, tools and data with your custom AI agents. ZAQ is an open source... |
+| [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) | `★ 303` | `2026-09-26` | Experimental Agent | `Python` | Static analysis tool that catches 1000+ bug patterns across all popular programming l... |
+| [helixnow/deep-student](https://github.com/helixnow/deep-student) | `★ 269` | `2026-09-26` | Local AI | `TypeScript` | An open-source, local-first AI learning workbench |
+| [omnirexflora-labs/omnicoreagent](https://github.com/omnirexflora-labs/omnicoreagent) | `★ 247` | `2026-09-26` | Indie Tool | `Python` | Open Python agent harness for production AI apps: tools, MCP, memory, workspace, tele... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 161` | `2026-09-26` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) | `★ 121` | `2026-09-26` | Local AI | `Rust` | Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step us... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -75,9 +75,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-23` | AI Research | [EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability](src/content/news/2026-09-24-evident-building-trustworthy-enterprise-assistants-through.md) | Enterprise AI assistants must produce responses that are verifiable and traceable to source evidence. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-evident-building-trustworthy-enterprise-assistants-through/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22537) |
 | `2026-09-23` | AI Research | [Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models](src/content/news/2026-09-23-didactic-knowledge-or-clinical-cases-how.md) | Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-didactic-knowledge-or-clinical-cases-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22161) |
 | `2026-09-23` | AI Research | [AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](src/content/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent.md) | Researchers introduce AutoGym, a framework for generating agent-training tasks with executable environments and ver... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22592) |
+| `2026-09-23` | Robotics & Hardware | [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](src/content/news/2026-09-26-at-ai-day-singapore-nvidia-and.md) | NVIDIA AI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-at-ai-day-singapore-nvidia-and/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-day-singapore) |
 | `2026-09-23` | AI Research | [An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users](src/content/news/2026-09-23-an-affordable-ai-integrated-smart-cane-for.md) | Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated ha... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-an-affordable-ai-integrated-smart-cane-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22277) |
 | `2026-09-23` | AI Research | [Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus](src/content/news/2026-09-23-agreement-overstates-evidence-error-dependence-in.md) | Researchers report correlated errors among LLM judges, so agreement between judges may overstate the evidence. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-23-agreement-overstates-evidence-error-dependence-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22512) |
 | `2026-09-22` | LLMs & Foundation Models | [OpenAI introduces GPT-6 Sol and GPT-6 Luna](src/content/news/2026-09-22-gpt-6-sol-official-release.md) | OpenAI announced GPT-6 Sol and Luna on September 22. The company says both are available through its API and Codex,... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-gpt-6-sol-official-release/) | [OpenAI](https://openai.com/index/introducing-gpt-6-sol-and-luna/) |
+| `2026-09-22` | Robotics & Hardware | [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](src/content/news/2026-09-26-nvidia-isaac-ros-50-advances-agentic.md) | NVIDIA Isaac ROS | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-nvidia-isaac-ros-50-advances-agentic/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics) |
 | `2026-09-22` | LLMs & Foundation Models | [Better prompt caching for GPT-6](src/content/news/2026-09-22-better-prompt-caching-for-gpt-6.md) | OpenAI says GPT-6 prompt caching improves cache reuse and adds diagnostics and explicit cache breakpoints. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-better-prompt-caching-for-gpt-6/) | [OpenAI News](https://openai.com/index/better-prompt-caching-for-gpt-6) |
 | `2026-09-22` | LLMs & Foundation Models | [Anthropic introduces Claude Opus 5.5](src/content/news/2026-09-22-claude-opus-55-official-release.md) | Anthropic announced Claude Opus 5.5 on September 22. It says typical workloads cost 40% less than Opus 5; the claim... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-claude-opus-55-official-release/) | [Anthropic](https://www.anthropic.com/claude-opus-5-5) |
 
@@ -87,7 +89,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-26 00:39 UTC` | **Yayımlanan haber:** `38`
+> **Dizin oluşturma:** `2026-09-26 05:34 UTC` | **Yayımlanan haber:** `40`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -130,9 +132,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-23` | AI Research | [EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability](src/content/news/2026-09-24-evident-building-trustworthy-enterprise-assistants-through.md) | Enterprise AI assistants must produce responses that are verifiable and traceable to source evidence. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-evident-building-trustworthy-enterprise-assistants-through/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22537) |
 | `2026-09-23` | AI Research | [Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models](src/content/news/2026-09-23-didactic-knowledge-or-clinical-cases-how.md) | Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-didactic-knowledge-or-clinical-cases-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22161) |
 | `2026-09-23` | AI Research | [AutoGym: Blueprint-First Generation of Verifiable Agent Gyms](src/content/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent.md) | Researchers introduce AutoGym, a framework for generating agent-training tasks with executable environments and ver... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-autogym-blueprint-first-generation-of-verifiable-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22592) |
+| `2026-09-23` | Robotics & Hardware | [At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia](src/content/news/2026-09-26-at-ai-day-singapore-nvidia-and.md) | NVIDIA AI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-at-ai-day-singapore-nvidia-and/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-day-singapore) |
 | `2026-09-23` | AI Research | [An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users](src/content/news/2026-09-23-an-affordable-ai-integrated-smart-cane-for.md) | Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated ha... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-an-affordable-ai-integrated-smart-cane-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22277) |
 | `2026-09-23` | AI Research | [Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus](src/content/news/2026-09-23-agreement-overstates-evidence-error-dependence-in.md) | Researchers report correlated errors among LLM judges, so agreement between judges may overstate the evidence. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-23-agreement-overstates-evidence-error-dependence-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.22512) |
 | `2026-09-22` | LLMs & Foundation Models | [OpenAI introduces GPT-6 Sol and GPT-6 Luna](src/content/news/2026-09-22-gpt-6-sol-official-release.md) | OpenAI announced GPT-6 Sol and Luna on September 22. The company says both are available through its API and Codex,... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-gpt-6-sol-official-release/) | [OpenAI](https://openai.com/index/introducing-gpt-6-sol-and-luna/) |
+| `2026-09-22` | Robotics & Hardware | [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](src/content/news/2026-09-26-nvidia-isaac-ros-50-advances-agentic.md) | NVIDIA Isaac ROS | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-nvidia-isaac-ros-50-advances-agentic/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics) |
 | `2026-09-22` | LLMs & Foundation Models | [Better prompt caching for GPT-6](src/content/news/2026-09-22-better-prompt-caching-for-gpt-6.md) | OpenAI says GPT-6 prompt caching improves cache reuse and adds diagnostics and explicit cache breakpoints. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-better-prompt-caching-for-gpt-6/) | [OpenAI News](https://openai.com/index/better-prompt-caching-for-gpt-6) |
 | `2026-09-22` | LLMs & Foundation Models | [Anthropic introduces Claude Opus 5.5](src/content/news/2026-09-22-claude-opus-55-official-release.md) | Anthropic announced Claude Opus 5.5 on September 22. It says typical workloads cost 40% less than Opus 5; the claim... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-claude-opus-55-official-release/) | [Anthropic](https://www.anthropic.com/claude-opus-5-5) |
 
