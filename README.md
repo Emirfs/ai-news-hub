@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-26 18:05 UTC` | **Source-linked stories:** `45`
+> **Index generated:** `2026-09-26 21:15 UTC` | **Source-linked stories:** `45`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,7 +20,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.2k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Scottcjn/bottube](https://github.com/Scottcjn/bottube) | `★ 361` | `2026-09-26` | Experimental Agent | `Python` | AI-native video platform where autonomous agents create, publish, and earn. Multi-age... |
-| [LuqP2/Image-MetaHub](https://github.com/LuqP2/Image-MetaHub) | `★ 322` | `2026-09-26` | Local AI | `TypeScript` | Local-first AI image organizer and generative media library manager for ComfyUI, A111... |
-| [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `★ 284` | `2026-09-26` | Experimental Agent | `TypeScript` | The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks... |
+| [auscaster/frantic-board](https://github.com/auscaster/frantic-board) | `★ 436` | `2026-09-26` | Experimental Agent | `Shell` | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public le... |
 | [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 261` | `2026-09-26` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
-| [omnirexflora-labs/omnicoreagent](https://github.com/omnirexflora-labs/omnicoreagent) | `★ 247` | `2026-09-26` | Indie Tool | `Python` | Open Python agent runtime and harness for production AI applications, with an SDK for... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 214` | `2026-09-26` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 205` | `2026-09-26` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | `★ 182` | `2026-09-26` | Local AI | `TypeScript` | Local AI song generator with an editable score — YuE2 on your GPU: full songs with vo... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -94,7 +94,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-26 18:05 UTC` | **Yayımlanan haber:** `45`
+> **Dizin oluşturma:** `2026-09-26 21:15 UTC` | **Yayımlanan haber:** `45`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
