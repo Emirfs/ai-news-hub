@@ -1,12 +1,12 @@
 [
   {
-    "name": "auscaster/frantic-board",
-    "url": "https://github.com/auscaster/frantic-board",
-    "stars": 436,
-    "forks": 53,
-    "description": "HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The notice board for gofrantic.com",
-    "language": "Shell",
-    "tag": "Experimental Agent",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 282,
+    "forks": 160,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-09-26"
   },
   {
@@ -20,29 +20,9 @@
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 214,
-    "forks": 34,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 205,
-    "forks": 34,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
     "name": "timoncool/YuE2-Studio",
     "url": "https://github.com/timoncool/YuE2-Studio",
-    "stars": 182,
+    "stars": 188,
     "forks": 13,
     "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
     "language": "TypeScript",
@@ -50,33 +30,53 @@
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 161,
-    "forks": 11,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "scragnog/HOT-Step-CPP",
-    "url": "https://github.com/scragnog/HOT-Step-CPP",
-    "stars": 158,
-    "forks": 24,
-    "description": "Turn dials. Summon bangers! NOW WITH MORE C++! Local AI music generation powered by GGML",
-    "language": "C++",
+    "name": "Dicklesworthstone/skillranker",
+    "url": "https://github.com/Dicklesworthstone/skillranker",
+    "stars": 121,
+    "forks": 8,
+    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, s...",
+    "language": "Rust",
     "tag": "Local AI",
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "hyperb1iss/sibyl",
-    "url": "https://github.com/hyperb1iss/sibyl",
-    "stars": 63,
+    "name": "Yokin-XY/Kite",
+    "url": "https://github.com/Yokin-XY/Kite",
+    "stars": 58,
     "forks": 9,
-    "description": "Collective intelligence runtime for AI agents. Knowledge graph + persistent memory.",
+    "description": "Android card-based workbench for KF/KFShell: Ubuntu runtime, AI tool cards, local Web Shell, and shareable recipes.",
+    "language": "Kotlin",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "frangelbarrera/Artificial-Intelligence-Universe",
+    "url": "https://github.com/frangelbarrera/Artificial-Intelligence-Universe",
+    "stars": 33,
+    "forks": 30,
+    "description": "Curated directory of AI tools, agents, LLMs, MCP servers, and learning resources for developers, researchers, and builders.",
     "language": "Python",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "CloudLLM-ai/cloudllm",
+    "url": "https://github.com/CloudLLM-ai/cloudllm",
+    "stars": 32,
+    "forks": 3,
+    "description": "CloudLLM is a batteries-included Rust toolkit for building intelligent agents with LLM integration, multi-protocol tool support, and multi-a...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "DraconDev/pi-goal-list-loop-audit",
+    "url": "https://github.com/DraconDev/pi-goal-list-loop-audit",
+    "stars": 25,
+    "forks": 14,
+    "description": "Goal. Loop. Audit. Done. A pi-coding-agent extension that supervises long-running work, with an isolated auditor on each completion. Beat ba...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
     "pushed_at": "2026-09-26"
   }
 ]
