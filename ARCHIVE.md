@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-26 10:18 UTC` | **Source-linked stories:** `42`
+> **Index generated:** `2026-09-26 14:45 UTC` | **Source-linked stories:** `44`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [gameworkerkim/vibe-investing](https://github.com/gameworkerkim/vibe-investing) | `★ 334` | `2026-09-26` | Indie Tool | `HTML` | AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 279` | `2026-09-26` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
 | [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 261` | `2026-09-26` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | `★ 238` | `2026-09-26` | Experimental Agent | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and G... |
-| [antropos17/Aegis](https://github.com/antropos17/Aegis) | `★ 152` | `2026-09-26` | Experimental Agent | `JavaScript` | Desktop monitoring and local security reviews for AI agents, with opt-in policy-contr... |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | `★ 238` | `2026-09-26` | Local AI | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and G... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 205` | `2026-09-26` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | `★ 169` | `2026-09-26` | Local AI | `TypeScript` | Local AI song generator with an editable score — YuE2 on your GPU: full songs with vo... |
+| [primaprashant/hns](https://github.com/primaprashant/hns) | `★ 119` | `2026-09-26` | Indie Tool | `Python` | hns is a speech-to-text CLI tool to transcribe your voice from your microphone direct... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -84,6 +84,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-22` | LLMs & Foundation Models | [Anthropic introduces Claude Opus 5.5](src/content/news/2026-09-22-claude-opus-55-official-release.md) | Anthropic announced Claude Opus 5.5 on September 22. It says typical workloads cost 40% less than Opus 5; the claim... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-claude-opus-55-official-release/) | [Anthropic](https://www.anthropic.com/claude-opus-5-5) |
 | `2026-09-21` | Robotics & Hardware | [Why Deploying Physical AI at Scale Demands Safety at Every Layer](src/content/news/2026-09-26-why-deploying-physical-ai-at-scale.md) | Physical AI is moving rapidly from research to large-scale deployment. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-why-deploying-physical-ai-at-scale/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/physical-ai-halos-safety) |
 | `2026-09-21` | Robotics & Hardware | [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](src/content/news/2026-09-26-nvidia-launches-dsx-ready-to-qualify.md) | Every AI factory needs power and cooling that fit its computing architecture. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-nvidia-launches-dsx-ready-to-qualify/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling) |
+| `2026-09-21` | Robotics & Hardware | [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](src/content/news/2026-09-26-from-enablement-to-execution-egypts-ai.md) | Egypt’s AI builders | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-from-enablement-to-execution-egypts-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem) |
+| `2026-09-21` | Robotics & Hardware | [AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack](src/content/news/2026-09-26-ai-security-is-an-engineering-problem.md) | AI security is an | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-ai-security-is-an-engineering-problem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-security-agent-stack) |
 
 ---
 
@@ -91,7 +93,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-26 10:18 UTC` | **Yayımlanan haber:** `42`
+> **Dizin oluşturma:** `2026-09-26 14:45 UTC` | **Yayımlanan haber:** `44`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -143,6 +145,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-22` | LLMs & Foundation Models | [Anthropic introduces Claude Opus 5.5](src/content/news/2026-09-22-claude-opus-55-official-release.md) | Anthropic announced Claude Opus 5.5 on September 22. It says typical workloads cost 40% less than Opus 5; the claim... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-claude-opus-55-official-release/) | [Anthropic](https://www.anthropic.com/claude-opus-5-5) |
 | `2026-09-21` | Robotics & Hardware | [Why Deploying Physical AI at Scale Demands Safety at Every Layer](src/content/news/2026-09-26-why-deploying-physical-ai-at-scale.md) | Physical AI is moving rapidly from research to large-scale deployment. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-why-deploying-physical-ai-at-scale/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/physical-ai-halos-safety) |
 | `2026-09-21` | Robotics & Hardware | [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](src/content/news/2026-09-26-nvidia-launches-dsx-ready-to-qualify.md) | Every AI factory needs power and cooling that fit its computing architecture. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-nvidia-launches-dsx-ready-to-qualify/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling) |
+| `2026-09-21` | Robotics & Hardware | [From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale](src/content/news/2026-09-26-from-enablement-to-execution-egypts-ai.md) | Egypt’s AI builders | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-from-enablement-to-execution-egypts-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem) |
+| `2026-09-21` | Robotics & Hardware | [AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack](src/content/news/2026-09-26-ai-security-is-an-engineering-problem.md) | AI security is an | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-ai-security-is-an-engineering-problem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-security-agent-stack) |
 
 ---
 

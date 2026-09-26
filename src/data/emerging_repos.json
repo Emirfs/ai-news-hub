@@ -1,25 +1,5 @@
 [
   {
-    "name": "gameworkerkim/vibe-investing",
-    "url": "https://github.com/gameworkerkim/vibe-investing",
-    "stars": 334,
-    "forks": 99,
-    "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNA...",
-    "language": "HTML",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 279,
-    "forks": 158,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
     "name": "arounamounchili/linkforge",
     "url": "https://github.com/arounamounchili/linkforge",
     "stars": 261,
@@ -36,47 +16,67 @@
     "forks": 27,
     "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin...",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "antropos17/Aegis",
-    "url": "https://github.com/antropos17/Aegis",
-    "stars": 152,
-    "forks": 25,
-    "description": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; ...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "raia-live/amfs",
-    "url": "https://github.com/raia-live/amfs",
-    "stars": 82,
-    "forks": 10,
-    "description": "Continual Learning for AI agents, helping your agents self-improve with every run",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "techysy/10router",
-    "url": "https://github.com/techysy/10router",
-    "stars": 44,
-    "forks": 12,
-    "description": "10Router — local AI routing gateway & dashboard (9Router 精简优化版) · npm i -g @techysy/10router",
-    "language": "JavaScript",
     "tag": "Local AI",
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "stars": 38,
-    "forks": 1,
-    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
-    "language": "Python",
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 205,
+    "forks": 34,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
     "tag": "Embodied AI",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "timoncool/YuE2-Studio",
+    "url": "https://github.com/timoncool/YuE2-Studio",
+    "stars": 169,
+    "forks": 13,
+    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "primaprashant/hns",
+    "url": "https://github.com/primaprashant/hns",
+    "stars": 119,
+    "forks": 14,
+    "description": "hns is a speech-to-text CLI tool to transcribe your voice from your microphone directly to clipboard. Integrate hns with Claude Code, Ollama...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "5dive-ai/5dive",
+    "url": "https://github.com/5dive-ai/5dive",
+    "stars": 61,
+    "forks": 10,
+    "description": "Run a company of AI agents on a server you own. Spin up named agents (claude, codex, pi…), put them on an org chart with a shared backlog, l...",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "haabe/mycelium",
+    "url": "https://github.com/haabe/mycelium",
+    "stars": 46,
+    "forks": 3,
+    "description": "AI made building cheap. It didn't make deciding cheap. Mycelium is a Claude Code harness that makes your agent run discovery and weigh evide...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "xopcai/xopc",
+    "url": "https://github.com/xopcai/xopc",
+    "stars": 37,
+    "forks": 7,
+    "description": "Keep what matters moving. Open-source, local-first personal AI for the one-person company.",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-09-26"
   }
 ]
