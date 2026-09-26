@@ -7,76 +7,76 @@
     "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
     "language": "Python",
     "tag": "Local AI",
-    "pushed_at": "2026-09-25"
+    "pushed_at": "2026-09-26"
   },
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 279,
-    "forks": 158,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 214,
+    "forks": 34,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "nightly-labs/openbot",
-    "url": "https://github.com/nightly-labs/openbot",
-    "stars": 233,
-    "forks": 25,
-    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin...",
-    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-09-25"
+    "pushed_at": "2026-09-26"
   },
   {
-    "name": "jonigl/ollama-mcp-bridge",
-    "url": "https://github.com/jonigl/ollama-mcp-bridge",
-    "stars": 102,
-    "forks": 38,
-    "description": "Extend the Ollama API with dynamic AI tool integration from multiple MCP (Model Context Protocol) servers. Fully compatible, transparent, an...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 89,
-    "forks": 33,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "jmrplens/gitlab-mcp-server",
-    "url": "https://github.com/jmrplens/gitlab-mcp-server",
-    "stars": 41,
-    "forks": 5,
-    "description": "Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850+ GitLab actions (1,000+ Enterprise), stdio/HTTP/OAuth,...",
+    "name": "diillson/chatcli",
+    "url": "https://github.com/diillson/chatcli",
+    "stars": 93,
+    "forks": 24,
+    "description": "ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic, OpenAI, and others—to facilitate interactive conversa...",
     "language": "Go",
     "tag": "Indie Tool",
-    "pushed_at": "2026-09-25"
+    "pushed_at": "2026-09-26"
   },
   {
-    "name": "showlab/Dream.exe",
-    "url": "https://github.com/showlab/Dream.exe",
-    "stars": 40,
-    "forks": 1,
-    "description": "Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-25"
-  },
-  {
-    "name": "skills-il/tax-and-finance",
-    "url": "https://github.com/skills-il/tax-and-finance",
-    "stars": 35,
-    "forks": 18,
-    "description": "AI agent skills for Israeli tax, invoicing, VAT, and financial systems",
+    "name": "neoneye/agent-memory-atlas",
+    "url": "https://github.com/neoneye/agent-memory-atlas",
+    "stars": 83,
+    "forks": 8,
+    "description": "Comparison of memory systems for agents",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-25"
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "www-zaq-ai/zaq",
+    "url": "https://github.com/www-zaq-ai/zaq",
+    "stars": 72,
+    "forks": 10,
+    "description": "Connect your people, tools and data with your custom AI agents. ZAQ is an open source collaborative and sovereign agentic operating system ",
+    "language": "Elixir",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "5dive-ai/5dive",
+    "url": "https://github.com/5dive-ai/5dive",
+    "stars": 62,
+    "forks": 10,
+    "description": "Run a company of AI agents on a server you own. Spin up named agents (claude, codex, pi…), put them on an org chart with a shared backlog, l...",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 41,
+    "forks": 3,
+    "description": "An LLM server for a single RTX 5090, built for agent workloads: tool calls, long conversations, reasoning, and many requests at once. One of...",
+    "language": "Cuda",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "boxabirds/awesome-local-ai",
+    "url": "https://github.com/boxabirds/awesome-local-ai",
+    "stars": 29,
+    "forks": 2,
+    "description": "Various configurations for optimal Local AI usage. ",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-26"
   }
 ]

@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-25 21:51 UTC` | **Source-linked stories:** `36`
+> **Index generated:** `2026-09-26 00:39 UTC` | **Source-linked stories:** `38`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,7 +20,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.0k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 316` | `2026-09-25` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 279` | `2026-09-25` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | `★ 233` | `2026-09-25` | Local AI | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and G... |
-| [jonigl/ollama-mcp-bridge](https://github.com/jonigl/ollama-mcp-bridge) | `★ 102` | `2026-09-25` | Indie Tool | `Python` | Extend the Ollama API with dynamic AI tool integration from multiple MCP (Model Conte... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 89` | `2026-09-25` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 316` | `2026-09-26` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 214` | `2026-09-26` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
+| [diillson/chatcli](https://github.com/diillson/chatcli) | `★ 93` | `2026-09-26` | Indie Tool | `Go` | ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic... |
+| [neoneye/agent-memory-atlas](https://github.com/neoneye/agent-memory-atlas) | `★ 83` | `2026-09-26` | Experimental Agent | `Python` | Comparison of memory systems for agents |
+| [www-zaq-ai/zaq](https://github.com/www-zaq-ai/zaq) | `★ 72` | `2026-09-26` | Experimental Agent | `Elixir` | Connect your people, tools and data with your custom AI agents. ZAQ is an open source... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -48,6 +48,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-25` | AI Research | [TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split](src/content/news/2026-09-25-tw3cast-a-frozen-router-of-lightly.md) | TW3Cast is a | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-tw3cast-a-frozen-router-of-lightly/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28506) |
 | `2026-09-25` | AI Research | [Pistis Technical Report](src/content/news/2026-09-25-pistis-technical-report.md) | We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qw... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-pistis-technical-report/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28554) |
 | `2026-09-25` | AI Research | [PAWS: Policy-driven Agentic World Simulation](src/content/news/2026-09-25-paws-policy-driven-agentic-world-simulation.md) | Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, ye... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-paws-policy-driven-agentic-world-simulation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28547) |
+| `2026-09-25` | AI Research | [Driving Epidemic Models with AI Agents: the Epydemix Agent Framework](src/content/news/2026-09-26-driving-epidemic-models-with-ai-agents.md) | Artificial Intelligence agents based on large language models provide convenient natural language interfaces to sci... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-driving-epidemic-models-with-ai-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28692) |
+| `2026-09-25` | AI Research | [Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency](src/content/news/2026-09-26-beyond-surface-style-aligning-multi-turn-user.md) | Faithful user simulation is fundamental to building, evaluating, and improving interactive AI at scale. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-beyond-surface-style-aligning-multi-turn-user/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28690) |
 | `2026-09-25` | AI Research | [BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines](src/content/news/2026-09-25-basecamp-----an-agentic-ai-framework.md) | DNA sequencing | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-basecamp-----an-agentic-ai-framework/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28557) |
 | `2026-09-25` | AI Research | [Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents](src/content/news/2026-09-25-adversarial-closed-loop-curriculum-for-evolving-role-playing.md) | Role-playing agents based on large language models have been widely applied in areas such as personalized assistanc... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-adversarial-closed-loop-curriculum-for-evolving-role-playing/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28609) |
 | `2026-09-24` | AI Research | [Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment](src/content/news/2026-09-24-which-objectives-need-a-dial-predicting.md) | Multi-Objective Direct Preference | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-24-which-objectives-need-a-dial-predicting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26929) |
@@ -85,7 +87,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-25 21:51 UTC` | **Yayımlanan haber:** `36`
+> **Dizin oluşturma:** `2026-09-26 00:39 UTC` | **Yayımlanan haber:** `38`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -101,6 +103,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-25` | AI Research | [TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split](src/content/news/2026-09-25-tw3cast-a-frozen-router-of-lightly.md) | TW3Cast is a | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-tw3cast-a-frozen-router-of-lightly/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28506) |
 | `2026-09-25` | AI Research | [Pistis Technical Report](src/content/news/2026-09-25-pistis-technical-report.md) | We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qw... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-pistis-technical-report/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28554) |
 | `2026-09-25` | AI Research | [PAWS: Policy-driven Agentic World Simulation](src/content/news/2026-09-25-paws-policy-driven-agentic-world-simulation.md) | Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, ye... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-paws-policy-driven-agentic-world-simulation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28547) |
+| `2026-09-25` | AI Research | [Driving Epidemic Models with AI Agents: the Epydemix Agent Framework](src/content/news/2026-09-26-driving-epidemic-models-with-ai-agents.md) | Artificial Intelligence agents based on large language models provide convenient natural language interfaces to sci... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-driving-epidemic-models-with-ai-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28692) |
+| `2026-09-25` | AI Research | [Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency](src/content/news/2026-09-26-beyond-surface-style-aligning-multi-turn-user.md) | Faithful user simulation is fundamental to building, evaluating, and improving interactive AI at scale. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-beyond-surface-style-aligning-multi-turn-user/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28690) |
 | `2026-09-25` | AI Research | [BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines](src/content/news/2026-09-25-basecamp-----an-agentic-ai-framework.md) | DNA sequencing | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-basecamp-----an-agentic-ai-framework/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28557) |
 | `2026-09-25` | AI Research | [Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents](src/content/news/2026-09-25-adversarial-closed-loop-curriculum-for-evolving-role-playing.md) | Role-playing agents based on large language models have been widely applied in areas such as personalized assistanc... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-adversarial-closed-loop-curriculum-for-evolving-role-playing/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28609) |
 | `2026-09-24` | AI Research | [Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment](src/content/news/2026-09-24-which-objectives-need-a-dial-predicting.md) | Multi-Objective Direct Preference | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-24-which-objectives-need-a-dial-predicting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.26929) |
