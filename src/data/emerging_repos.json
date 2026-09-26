@@ -1,5 +1,35 @@
 [
   {
+    "name": "Scottcjn/bottube",
+    "url": "https://github.com/Scottcjn/bottube",
+    "stars": 361,
+    "forks": 261,
+    "description": "AI-native video platform where autonomous agents create, publish, and earn. Multi-agent content economy on Sybil-resistant, hardware-verifie...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "LuqP2/Image-MetaHub",
+    "url": "https://github.com/LuqP2/Image-MetaHub",
+    "stars": 322,
+    "forks": 25,
+    "description": "Local-first AI image organizer and generative media library manager for ComfyUI, A1111, InvokeAI & more. Search huge output folders by promp...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "yonatangross/orchestkit",
+    "url": "https://github.com/yonatangross/orchestkit",
+    "stars": 284,
+    "forks": 35,
+    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), or `ork-alpha` for t...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
     "name": "arounamounchili/linkforge",
     "url": "https://github.com/arounamounchili/linkforge",
     "stars": 261,
@@ -10,13 +40,13 @@
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "nightly-labs/openbot",
-    "url": "https://github.com/nightly-labs/openbot",
-    "stars": 238,
-    "forks": 27,
-    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin...",
-    "language": "TypeScript",
-    "tag": "Local AI",
+    "name": "omnirexflora-labs/omnicoreagent",
+    "url": "https://github.com/omnirexflora-labs/omnicoreagent",
+    "stars": 247,
+    "forks": 58,
+    "description": "Open Python agent runtime and harness for production AI applications, with an SDK for governed tools, durable runs, sandboxes, budgets, exec...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-09-26"
   },
   {
@@ -30,52 +60,22 @@
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "timoncool/YuE2-Studio",
-    "url": "https://github.com/timoncool/YuE2-Studio",
-    "stars": 169,
-    "forks": 13,
-    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "primaprashant/hns",
-    "url": "https://github.com/primaprashant/hns",
-    "stars": 119,
-    "forks": 14,
-    "description": "hns is a speech-to-text CLI tool to transcribe your voice from your microphone directly to clipboard. Integrate hns with Claude Code, Ollama...",
-    "language": "Python",
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 161,
+    "forks": 11,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "5dive-ai/5dive",
-    "url": "https://github.com/5dive-ai/5dive",
-    "stars": 61,
-    "forks": 10,
-    "description": "Run a company of AI agents on a server you own. Spin up named agents (claude, codex, pi…), put them on an org chart with a shared backlog, l...",
-    "language": "Shell",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "haabe/mycelium",
-    "url": "https://github.com/haabe/mycelium",
-    "stars": 46,
-    "forks": 3,
-    "description": "AI made building cheap. It didn't make deciding cheap. Mycelium is a Claude Code harness that makes your agent run discovery and weigh evide...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "xopcai/xopc",
-    "url": "https://github.com/xopcai/xopc",
-    "stars": 37,
-    "forks": 7,
-    "description": "Keep what matters moving. Open-source, local-first personal AI for the one-person company.",
-    "language": "TypeScript",
+    "name": "Hash-7777/HashCortX",
+    "url": "https://github.com/Hash-7777/HashCortX",
+    "stars": 157,
+    "forks": 14,
+    "description": "A local-first AI workspace — multi-provider chat, an autonomous coding agent, 3D models, ERPs, and multi-agent swarms in one native desktop ...",
+    "language": "JavaScript",
     "tag": "Local AI",
     "pushed_at": "2026-09-26"
   }
