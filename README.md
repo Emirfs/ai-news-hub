@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-26 05:34 UTC` | **Source-linked stories:** `40`
+> **Index generated:** `2026-09-26 10:18 UTC` | **Source-linked stories:** `42`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.0k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.1k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) | `★ 303` | `2026-09-26` | Experimental Agent | `Python` | Static analysis tool that catches 1000+ bug patterns across all popular programming l... |
-| [helixnow/deep-student](https://github.com/helixnow/deep-student) | `★ 269` | `2026-09-26` | Local AI | `TypeScript` | An open-source, local-first AI learning workbench |
-| [omnirexflora-labs/omnicoreagent](https://github.com/omnirexflora-labs/omnicoreagent) | `★ 247` | `2026-09-26` | Indie Tool | `Python` | Open Python agent harness for production AI apps: tools, MCP, memory, workspace, tele... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 161` | `2026-09-26` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) | `★ 121` | `2026-09-26` | Local AI | `Rust` | Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step us... |
+| [gameworkerkim/vibe-investing](https://github.com/gameworkerkim/vibe-investing) | `★ 334` | `2026-09-26` | Indie Tool | `HTML` | AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 279` | `2026-09-26` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 261` | `2026-09-26` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | `★ 238` | `2026-09-26` | Experimental Agent | `TypeScript` | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and G... |
+| [antropos17/Aegis](https://github.com/antropos17/Aegis) | `★ 152` | `2026-09-26` | Experimental Agent | `JavaScript` | Desktop monitoring and local security reviews for AI agents, with opt-in policy-contr... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -82,6 +82,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-22` | Robotics & Hardware | [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](src/content/news/2026-09-26-nvidia-isaac-ros-50-advances-agentic.md) | NVIDIA Isaac ROS | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-nvidia-isaac-ros-50-advances-agentic/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics) |
 | `2026-09-22` | LLMs & Foundation Models | [Better prompt caching for GPT-6](src/content/news/2026-09-22-better-prompt-caching-for-gpt-6.md) | OpenAI says GPT-6 prompt caching improves cache reuse and adds diagnostics and explicit cache breakpoints. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-better-prompt-caching-for-gpt-6/) | [OpenAI News](https://openai.com/index/better-prompt-caching-for-gpt-6) |
 | `2026-09-22` | LLMs & Foundation Models | [Anthropic introduces Claude Opus 5.5](src/content/news/2026-09-22-claude-opus-55-official-release.md) | Anthropic announced Claude Opus 5.5 on September 22. It says typical workloads cost 40% less than Opus 5; the claim... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-22-claude-opus-55-official-release/) | [Anthropic](https://www.anthropic.com/claude-opus-5-5) |
+| `2026-09-21` | Robotics & Hardware | [Why Deploying Physical AI at Scale Demands Safety at Every Layer](src/content/news/2026-09-26-why-deploying-physical-ai-at-scale.md) | Physical AI is moving rapidly from research to large-scale deployment. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-why-deploying-physical-ai-at-scale/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/physical-ai-halos-safety) |
+| `2026-09-21` | Robotics & Hardware | [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](src/content/news/2026-09-26-nvidia-launches-dsx-ready-to-qualify.md) | Every AI factory needs power and cooling that fit its computing architecture. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-26-nvidia-launches-dsx-ready-to-qualify/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling) |
 
 ---
 
@@ -89,7 +91,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-26 05:34 UTC` | **Yayımlanan haber:** `40`
+> **Dizin oluşturma:** `2026-09-26 10:18 UTC` | **Yayımlanan haber:** `42`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -139,6 +141,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-09-22` | Robotics & Hardware | [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](src/content/news/2026-09-26-nvidia-isaac-ros-50-advances-agentic.md) | NVIDIA Isaac ROS | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-nvidia-isaac-ros-50-advances-agentic/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics) |
 | `2026-09-22` | LLMs & Foundation Models | [Better prompt caching for GPT-6](src/content/news/2026-09-22-better-prompt-caching-for-gpt-6.md) | OpenAI says GPT-6 prompt caching improves cache reuse and adds diagnostics and explicit cache breakpoints. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-better-prompt-caching-for-gpt-6/) | [OpenAI News](https://openai.com/index/better-prompt-caching-for-gpt-6) |
 | `2026-09-22` | LLMs & Foundation Models | [Anthropic introduces Claude Opus 5.5](src/content/news/2026-09-22-claude-opus-55-official-release.md) | Anthropic announced Claude Opus 5.5 on September 22. It says typical workloads cost 40% less than Opus 5; the claim... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-22-claude-opus-55-official-release/) | [Anthropic](https://www.anthropic.com/claude-opus-5-5) |
+| `2026-09-21` | Robotics & Hardware | [Why Deploying Physical AI at Scale Demands Safety at Every Layer](src/content/news/2026-09-26-why-deploying-physical-ai-at-scale.md) | Physical AI is moving rapidly from research to large-scale deployment. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-why-deploying-physical-ai-at-scale/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/physical-ai-halos-safety) |
+| `2026-09-21` | Robotics & Hardware | [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](src/content/news/2026-09-26-nvidia-launches-dsx-ready-to-qualify.md) | Every AI factory needs power and cooling that fit its computing architecture. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-26-nvidia-launches-dsx-ready-to-qualify/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling) |
 
 ---
 

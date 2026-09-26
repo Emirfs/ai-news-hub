@@ -1,82 +1,82 @@
 [
   {
-    "name": "Dicklesworthstone/ultimate_bug_scanner",
-    "url": "https://github.com/Dicklesworthstone/ultimate_bug_scanner",
-    "stars": 303,
-    "forks": 43,
-    "description": "Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "helixnow/deep-student",
-    "url": "https://github.com/helixnow/deep-student",
-    "stars": 269,
-    "forks": 54,
-    "description": "An open-source, local-first AI learning workbench",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "omnirexflora-labs/omnicoreagent",
-    "url": "https://github.com/omnirexflora-labs/omnicoreagent",
-    "stars": 247,
-    "forks": 58,
-    "description": "Open Python agent harness for production AI apps: tools, MCP, memory, workspace, telemetry, subagents, background tasks, and OmniServe APIs.",
-    "language": "Python",
+    "name": "gameworkerkim/vibe-investing",
+    "url": "https://github.com/gameworkerkim/vibe-investing",
+    "stars": 334,
+    "forks": 99,
+    "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNA...",
+    "language": "HTML",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 161,
-    "forks": 11,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "Dicklesworthstone/skillranker",
-    "url": "https://github.com/Dicklesworthstone/skillranker",
-    "stars": 121,
-    "forks": 8,
-    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, s...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "WingedGuardian/GENesis-AGI",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI",
-    "stars": 95,
-    "forks": 29,
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 89,
-    "forks": 33,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 279,
+    "forks": 158,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-26"
   },
   {
-    "name": "igiamronit/justbetter-mcp",
-    "url": "https://github.com/igiamronit/justbetter-mcp",
-    "stars": 58,
-    "forks": 5,
-    "description": "A high-performance, token-efficient Model Context Protocol (MCP) gateway proxy. Avoids context bloat and eliminates multi-turn tool discover...",
+    "name": "arounamounchili/linkforge",
+    "url": "https://github.com/arounamounchili/linkforge",
+    "stars": 261,
+    "forks": 23,
+    "description": "The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "nightly-labs/openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "stars": 238,
+    "forks": 27,
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharin...",
     "language": "TypeScript",
-    "tag": "Indie Tool",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "antropos17/Aegis",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 152,
+    "forks": 25,
+    "description": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; ...",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "raia-live/amfs",
+    "url": "https://github.com/raia-live/amfs",
+    "stars": 82,
+    "forks": 10,
+    "description": "Continual Learning for AI agents, helping your agents self-improve with every run",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "techysy/10router",
+    "url": "https://github.com/techysy/10router",
+    "stars": 44,
+    "forks": 12,
+    "description": "10Router — local AI routing gateway & dashboard (9Router 精简优化版) · npm i -g @techysy/10router",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-26"
+  },
+  {
+    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "stars": 38,
+    "forks": 1,
+    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-09-26"
   }
 ]
