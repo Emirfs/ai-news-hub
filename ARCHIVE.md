@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-26 23:40 UTC` | **Source-linked stories:** `45`
+> **Index generated:** `2026-09-27 01:52 UTC` | **Source-linked stories:** `45`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 267.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 268.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 236.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 282` | `2026-09-26` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 261` | `2026-09-26` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
-| [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | `★ 188` | `2026-09-26` | Local AI | `TypeScript` | Local AI song generator with an editable score — YuE2 on your GPU: full songs with vo... |
-| [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) | `★ 121` | `2026-09-26` | Local AI | `Rust` | Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step us... |
-| [Yokin-XY/Kite](https://github.com/Yokin-XY/Kite) | `★ 58` | `2026-09-26` | Local AI | `Kotlin` | Android card-based workbench for KF/KFShell: Ubuntu runtime, AI tool cards, local Web... |
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 402` | `2026-09-27` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
+| [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | `★ 271` | `2026-09-27` | Experimental Agent | `Go` | Securely scale AI usage across your organization. A single stack to Connect, Secure, ... |
+| [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) | `★ 232` | `2026-09-27` | Indie Tool | `TypeScript` | Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 214` | `2026-09-27` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
+| [cyanheads/mcp-ts-core](https://github.com/cyanheads/mcp-ts-core) | `★ 152` | `2026-09-27` | Experimental Agent | `TypeScript` | Agent-native TypeScript framework for building MCP servers. |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -94,7 +94,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-26 23:40 UTC` | **Yayımlanan haber:** `45`
+> **Dizin oluşturma:** `2026-09-27 01:52 UTC` | **Yayımlanan haber:** `45`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

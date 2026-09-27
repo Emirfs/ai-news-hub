@@ -1,82 +1,82 @@
 [
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 282,
-    "forks": 160,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "arounamounchili/linkforge",
-    "url": "https://github.com/arounamounchili/linkforge",
-    "stars": 261,
-    "forks": 23,
-    "description": "The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "timoncool/YuE2-Studio",
-    "url": "https://github.com/timoncool/YuE2-Studio",
-    "stars": 188,
-    "forks": 13,
-    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "Dicklesworthstone/skillranker",
-    "url": "https://github.com/Dicklesworthstone/skillranker",
-    "stars": 121,
-    "forks": 8,
-    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, s...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "Yokin-XY/Kite",
-    "url": "https://github.com/Yokin-XY/Kite",
-    "stars": 58,
-    "forks": 9,
-    "description": "Android card-based workbench for KF/KFShell: Ubuntu runtime, AI tool cards, local Web Shell, and shareable recipes.",
-    "language": "Kotlin",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-26"
-  },
-  {
-    "name": "frangelbarrera/Artificial-Intelligence-Universe",
-    "url": "https://github.com/frangelbarrera/Artificial-Intelligence-Universe",
-    "stars": 33,
-    "forks": 30,
-    "description": "Curated directory of AI tools, agents, LLMs, MCP servers, and learning resources for developers, researchers, and builders.",
-    "language": "Python",
+    "name": "marcusquinn/aidevops",
+    "url": "https://github.com/marcusquinn/aidevops",
+    "stars": 402,
+    "forks": 69,
+    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
+    "language": "Shell",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-26"
+    "pushed_at": "2026-09-27"
   },
   {
-    "name": "CloudLLM-ai/cloudllm",
-    "url": "https://github.com/CloudLLM-ai/cloudllm",
-    "stars": 32,
-    "forks": 3,
-    "description": "CloudLLM is a batteries-included Rust toolkit for building intelligent agents with LLM integration, multi-protocol tool support, and multi-a...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-26"
+    "name": "speakeasy-api/gram",
+    "url": "https://github.com/speakeasy-api/gram",
+    "stars": 271,
+    "forks": 33,
+    "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within ...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-27"
   },
   {
-    "name": "DraconDev/pi-goal-list-loop-audit",
-    "url": "https://github.com/DraconDev/pi-goal-list-loop-audit",
-    "stars": 25,
-    "forks": 14,
-    "description": "Goal. Loop. Audit. Done. A pi-coding-agent extension that supervises long-running work, with an isolated auditor on each completion. Beat ba...",
+    "name": "rajudandigam/agent-inspect",
+    "url": "https://github.com/rajudandigam/agent-inspect",
+    "stars": 232,
+    "forks": 71,
+    "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share s...",
     "language": "TypeScript",
     "tag": "Indie Tool",
-    "pushed_at": "2026-09-26"
+    "pushed_at": "2026-09-27"
+  },
+  {
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 214,
+    "forks": 34,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-27"
+  },
+  {
+    "name": "cyanheads/mcp-ts-core",
+    "url": "https://github.com/cyanheads/mcp-ts-core",
+    "stars": 152,
+    "forks": 30,
+    "description": "Agent-native TypeScript framework for building MCP servers.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-27"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 121,
+    "forks": 11,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-27"
+  },
+  {
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 78,
+    "forks": 6,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-27"
+  },
+  {
+    "name": "Bredrumb/TomoriBot",
+    "url": "https://github.com/Bredrumb/TomoriBot",
+    "stars": 53,
+    "forks": 11,
+    "description": "A highly customizable personal AI assistant for Discord featuring smart agentic AI features such as memory, personas, tool usage, and more! ...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-27"
   }
 ]
