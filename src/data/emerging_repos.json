@@ -1,42 +1,22 @@
 [
   {
-    "name": "IvanWng97/pixtuoid",
-    "url": "https://github.com/IvanWng97/pixtuoid",
-    "stars": 485,
-    "forks": 31,
-    "description": "Terminal pixel-art office for AI coding agents",
-    "language": "Rust",
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 212,
+    "forks": 34,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "iterate/iterate",
+    "url": "https://github.com/iterate/iterate",
+    "stars": 204,
+    "forks": 21,
+    "description": "The most hackable AI agent",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "omnirexflora-labs/omnicoreagent",
-    "url": "https://github.com/omnirexflora-labs/omnicoreagent",
-    "stars": 247,
-    "forks": 58,
-    "description": "Open Python agent runtime and harness for production AI applications, with an SDK for governed tools, durable runs, sandboxes, budgets, exec...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 161,
-    "forks": 13,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "ldbumble/taskuary",
-    "url": "https://github.com/ldbumble/taskuary",
-    "stars": 128,
-    "forks": 32,
-    "description": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, C...",
-    "language": "Python",
-    "tag": "Local AI",
     "pushed_at": "2026-09-28"
   },
   {
@@ -50,32 +30,52 @@
     "pushed_at": "2026-09-28"
   },
   {
-    "name": "DeepRoboticsLab/deep_robotics_model",
-    "url": "https://github.com/DeepRoboticsLab/deep_robotics_model",
-    "stars": 78,
-    "forks": 14,
-    "description": "URDF_model",
+    "name": "boxabirds/awesome-local-ai",
+    "url": "https://github.com/boxabirds/awesome-local-ai",
+    "stars": 41,
+    "forks": 3,
+    "description": "Various configurations for optimal Local AI usage. ",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "yha9806/academic-writing-toolkit",
+    "url": "https://github.com/yha9806/academic-writing-toolkit",
+    "stars": 41,
+    "forks": 7,
+    "description": "Local-first, evidence-controlled academic writing workflows for AI agents, with bounded revision, clean-room review, and release governance.",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "lightspeed-core/lightspeed-stack",
+    "url": "https://github.com/lightspeed-core/lightspeed-stack",
+    "stars": 40,
+    "forks": 104,
+    "description": "LLM tooling stack",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "stars": 40,
+    "forks": 2,
+    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-09-28"
   },
   {
-    "name": "uni-infiniteai/clawec-agents",
-    "url": "https://github.com/uni-infiniteai/clawec-agents",
-    "stars": 48,
-    "forks": 8,
-    "description": "clawEC 跨境电商 AI Agent 开源仓库：多平台选品/搜品 Agent（亚马逊、TikTok、Shopee、Temu、Ozon 等）与 Clawec API Skills，支持安装到 Cursor、Claude Code、Codex 等工具。官网 https://www...",
-    "language": "Shell",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "phuetz/code-buddy",
-    "url": "https://github.com/phuetz/code-buddy",
-    "stars": 41,
-    "forks": 9,
-    "description": "Local-first AI coding agent for the terminal. 64 LLM providers, 30 of them free or local $0, with auto-failover. 220+ tools, a peer-to-peer ...",
-    "language": "TypeScript",
+    "name": "madebywelch/guaca",
+    "url": "https://github.com/madebywelch/guaca",
+    "stars": 36,
+    "forks": 4,
+    "description": "A desktop workspace (inspired by Grok Bot & Muse) for AI agents that collaborate, write code, and use tools. Run locally or on your own serv...",
+    "language": "Rust",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-28"
   }
