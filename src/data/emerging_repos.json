@@ -1,32 +1,22 @@
 [
   {
-    "name": "rajudandigam/agent-inspect",
-    "url": "https://github.com/rajudandigam/agent-inspect",
-    "stars": 233,
-    "forks": 71,
-    "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share s...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "Changan-Su/Forsion",
-    "url": "https://github.com/Changan-Su/Forsion",
-    "stars": 146,
-    "forks": 0,
-    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "Dicklesworthstone/frankenterm",
-    "url": "https://github.com/Dicklesworthstone/frankenterm",
-    "stars": 118,
-    "forks": 19,
-    "description": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of ...",
-    "language": "Rust",
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 215,
+    "forks": 34,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
+    "language": "Python",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "dinglebear-ai/unraid",
+    "url": "https://github.com/dinglebear-ai/unraid",
+    "stars": 133,
+    "forks": 38,
+    "description": "Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications,...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-09-28"
   },
   {
@@ -40,43 +30,53 @@
     "pushed_at": "2026-09-28"
   },
   {
-    "name": "yarenty/kowalski",
-    "url": "https://github.com/yarenty/kowalski",
-    "stars": 65,
-    "forks": 15,
-    "description": "A Rust multi-agent framework: agents with MCP tools and memory, and hordes (step pipelines with cron, watch and webhook triggers) over Ollam...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "objectstack-ai/objectstack",
-    "url": "https://github.com/objectstack-ai/objectstack",
-    "stars": 64,
-    "forks": 16,
-    "description": "Apps small enough for AI to hold whole. ObjectStack turns the whole app — data model, UI, workflows, permissions — into typed metadata: a co...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "Dicklesworthstone/remote_compilation_helper",
-    "url": "https://github.com/Dicklesworthstone/remote_compilation_helper",
-    "stars": 62,
-    "forks": 4,
-    "description": "Intercepts cargo/gcc builds from AI coding agents via hooks and transparently routes them to remote worker machines, returning artifacts as ...",
+    "name": "saeedkolivand/ai-job-hunter-app",
+    "url": "https://github.com/saeedkolivand/ai-job-hunter-app",
+    "stars": 60,
+    "forks": 5,
+    "description": "Local-first AI desktop assistant that scrapes job boards, matches roles to your resume, and auto-generates resumes & cover letters. Offline ...",
     "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-09-28"
   },
   {
-    "name": "Supervertaler/Supervertaler-Workbench",
-    "url": "https://github.com/Supervertaler/Supervertaler-Workbench",
-    "stars": 57,
-    "forks": 12,
-    "description": "No longer actively developed. Free, open-source standalone CAT tool: editor, AI translation, termbases, TMs, plus system-wide clipboard mana...",
+    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "stars": 45,
+    "forks": 3,
+    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
     "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "boxabirds/awesome-local-ai",
+    "url": "https://github.com/boxabirds/awesome-local-ai",
+    "stars": 42,
+    "forks": 3,
+    "description": "Various configurations for optimal Local AI usage. ",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "DemoMacro/office-open",
+    "url": "https://github.com/DemoMacro/office-open",
+    "stars": 35,
+    "forks": 9,
+    "description": "Create Word, Excel, and PowerPoint files (.docx, .xlsx, .pptx) from plain JSON or fully typed APIs — generate, parse, and patch. Built for A...",
+    "language": "TypeScript",
     "tag": "Indie Tool",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "damianvtran/local-operator-ui",
+    "url": "https://github.com/damianvtran/local-operator-ui",
+    "stars": 26,
+    "forks": 11,
+    "description": "User interface for the Local Operator on-device agent environment.  Local Operator is an AI agents platform that gives you an integrated tea...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-09-28"
   }
 ]

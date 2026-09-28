@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-28 19:43 UTC` | **Source-linked stories:** `51`
+> **Index generated:** `2026-09-28 23:58 UTC` | **Source-linked stories:** `53`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,7 +20,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 268.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 269.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.8k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 238.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) | `★ 233` | `2026-09-28` | Indie Tool | `TypeScript` | Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect... |
-| [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) | `★ 146` | `2026-09-28` | Local AI | `TypeScript` | Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, know... |
-| [Dicklesworthstone/frankenterm](https://github.com/Dicklesworthstone/frankenterm) | `★ 118` | `2026-09-28` | Experimental Agent | `Rust` | Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine patter... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 215` | `2026-09-28` | Experimental Agent | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
+| [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid) | `★ 133` | `2026-09-28` | Indie Tool | `Python` | Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 89` | `2026-09-28` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [yarenty/kowalski](https://github.com/yarenty/kowalski) | `★ 65` | `2026-09-28` | Indie Tool | `Rust` | A Rust multi-agent framework: agents with MCP tools and memory, and hordes (step pipe... |
+| [saeedkolivand/ai-job-hunter-app](https://github.com/saeedkolivand/ai-job-hunter-app) | `★ 60` | `2026-09-28` | Experimental Agent | `Rust` | Local-first AI desktop assistant that scrapes job boards, matches roles to your resum... |
+| [Frank-ZY-Dou/awesome-ai-3d-modeling-robotics](https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics) | `★ 45` | `2026-09-28` | Embodied AI | `Python` | Source-linked examples of AI models used for 3D modeling, industrial design and CAD, ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -44,6 +44,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-28` | AI Research | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](src/content/news/2026-09-28-when-is-a-multi-agent-code-judge.md) | When one language model judges whether another's code is correct, it does not report the absence of evidence. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-when-is-a-multi-agent-code-judge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30328) |
 | `2026-09-28` | AI Research | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](src/content/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries.md) | Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a sin... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30325) |
+| `2026-09-28` | AI Research | [Pretrained ASR Pseudo-labeling for Noisy Police Audio](src/content/news/2026-09-28-pretrained-asr-pseudo-labeling-for-noisy-police.md) | Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understan... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-pretrained-asr-pseudo-labeling-for-noisy-police/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30469) |
+| `2026-09-28` | AI Research | [Predicting Transmembrane Protein Topology from 3D Structure](src/content/news/2026-09-28-predicting-transmembrane-protein-topology-from-3d.md) | This paper | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-predicting-transmembrane-protein-topology-from-3d/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30446) |
 | `2026-09-28` | LLMs & Foundation Models | [Introducing Claude Sonnet 5.5](src/content/news/2026-09-28-introducing-claude-sonnet-55.md) | A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-introducing-claude-sonnet-55/) | [Anthropic Newsroom](https://www.anthropic.com/claude-sonnet-5-5) |
 | `2026-09-28` | AI Research | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](src/content/news/2026-09-28-bringing-ai-to-autonomous-systems---.md) | The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the dev... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-bringing-ai-to-autonomous-systems---/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30291) |
 | `2026-09-28` | AI Research | [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](src/content/news/2026-09-28-bridging-llm-agents-and-data-spaces.md) | Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-bridging-llm-agents-and-data-spaces/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30341) |
@@ -100,7 +102,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-28 19:43 UTC` | **Yayımlanan haber:** `51`
+> **Dizin oluşturma:** `2026-09-28 23:58 UTC` | **Yayımlanan haber:** `53`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -112,6 +114,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-28` | AI Research | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](src/content/news/2026-09-28-when-is-a-multi-agent-code-judge.md) | When one language model judges whether another's code is correct, it does not report the absence of evidence. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-when-is-a-multi-agent-code-judge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30328) |
 | `2026-09-28` | AI Research | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](src/content/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries.md) | Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a sin... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30325) |
+| `2026-09-28` | AI Research | [Pretrained ASR Pseudo-labeling for Noisy Police Audio](src/content/news/2026-09-28-pretrained-asr-pseudo-labeling-for-noisy-police.md) | Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understan... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-pretrained-asr-pseudo-labeling-for-noisy-police/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30469) |
+| `2026-09-28` | AI Research | [Predicting Transmembrane Protein Topology from 3D Structure](src/content/news/2026-09-28-predicting-transmembrane-protein-topology-from-3d.md) | This paper | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-predicting-transmembrane-protein-topology-from-3d/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30446) |
 | `2026-09-28` | LLMs & Foundation Models | [Introducing Claude Sonnet 5.5](src/content/news/2026-09-28-introducing-claude-sonnet-55.md) | A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-introducing-claude-sonnet-55/) | [Anthropic Newsroom](https://www.anthropic.com/claude-sonnet-5-5) |
 | `2026-09-28` | AI Research | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](src/content/news/2026-09-28-bringing-ai-to-autonomous-systems---.md) | The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the dev... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-bringing-ai-to-autonomous-systems---/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30291) |
 | `2026-09-28` | AI Research | [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](src/content/news/2026-09-28-bridging-llm-agents-and-data-spaces.md) | Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-bridging-llm-agents-and-data-spaces/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30341) |
