@@ -1,43 +1,43 @@
 [
   {
-    "name": "Belkins/ai-dive-deep",
-    "url": "https://github.com/Belkins/ai-dive-deep",
-    "stars": 351,
-    "forks": 2,
-    "description": "Vlad's Playbook — a 48-chapter operator field manual where every artifact is live, clickable, and forwardable. 31 interactive widgets, a sel...",
-    "language": "Astro",
+    "name": "IvanWng97/pixtuoid",
+    "url": "https://github.com/IvanWng97/pixtuoid",
+    "stars": 485,
+    "forks": 31,
+    "description": "Terminal pixel-art office for AI coding agents",
+    "language": "Rust",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-09-27"
+    "pushed_at": "2026-09-28"
   },
   {
-    "name": "schmitech/orbit",
-    "url": "https://github.com/schmitech/orbit",
-    "stars": 351,
-    "forks": 57,
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "name": "omnirexflora-labs/omnicoreagent",
+    "url": "https://github.com/omnirexflora-labs/omnicoreagent",
+    "stars": 247,
+    "forks": 58,
+    "description": "Open Python agent runtime and harness for production AI applications, with an SDK for governed tools, durable runs, sandboxes, budgets, exec...",
     "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-09-27"
+    "pushed_at": "2026-09-28"
   },
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 283,
-    "forks": 160,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 161,
+    "forks": 13,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "ldbumble/taskuary",
+    "url": "https://github.com/ldbumble/taskuary",
+    "stars": 128,
+    "forks": 32,
+    "description": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, C...",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-27"
-  },
-  {
-    "name": "moonrunnerkc/swarm-orchestrator",
-    "url": "https://github.com/moonrunnerkc/swarm-orchestrator",
-    "stars": 112,
-    "forks": 5,
-    "description": "Contract-first swarm orchestration for AI coding agents, with parallel execution, deterministic verification, adaptive repair, and auditable...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-27"
+    "tag": "Local AI",
+    "pushed_at": "2026-09-28"
   },
   {
     "name": "mstar-project/mstar",
@@ -47,36 +47,36 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-09-27"
+    "pushed_at": "2026-09-28"
   },
   {
-    "name": "boxabirds/awesome-local-ai",
-    "url": "https://github.com/boxabirds/awesome-local-ai",
-    "stars": 39,
-    "forks": 2,
-    "description": "Various configurations for optimal Local AI usage. ",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-27"
-  },
-  {
-    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "stars": 38,
-    "forks": 2,
-    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
+    "name": "DeepRoboticsLab/deep_robotics_model",
+    "url": "https://github.com/DeepRoboticsLab/deep_robotics_model",
+    "stars": 78,
+    "forks": 14,
+    "description": "URDF_model",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-09-27"
+    "pushed_at": "2026-09-28"
   },
   {
-    "name": "pixelsmasher13/platypus",
-    "url": "https://github.com/pixelsmasher13/platypus",
-    "stars": 34,
-    "forks": 7,
-    "description": "Platypus is one app you need to organize your data. Note-taker, meeting transcriber and knowledge management, written in Rust. Easily add no...",
+    "name": "uni-infiniteai/clawec-agents",
+    "url": "https://github.com/uni-infiniteai/clawec-agents",
+    "stars": 48,
+    "forks": 8,
+    "description": "clawEC 跨境电商 AI Agent 开源仓库：多平台选品/搜品 Agent（亚马逊、TikTok、Shopee、Temu、Ozon 等）与 Clawec API Skills，支持安装到 Cursor、Claude Code、Codex 等工具。官网 https://www...",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-28"
+  },
+  {
+    "name": "phuetz/code-buddy",
+    "url": "https://github.com/phuetz/code-buddy",
+    "stars": 41,
+    "forks": 9,
+    "description": "Local-first AI coding agent for the terminal. 64 LLM providers, 30 of them free or local $0, with auto-failover. 220+ tools, a peer-to-peer ...",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-27"
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-28"
   }
 ]
