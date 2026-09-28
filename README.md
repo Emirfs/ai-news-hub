@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-28 12:02 UTC` | **Source-linked stories:** `49`
+> **Index generated:** `2026-09-28 19:43 UTC` | **Source-linked stories:** `51`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 268.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 238.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 268.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.8k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 238.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 212` | `2026-09-28` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
-| [iterate/iterate](https://github.com/iterate/iterate) | `★ 204` | `2026-09-28` | Experimental Agent | `TypeScript` | The most hackable AI agent |
+| [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) | `★ 233` | `2026-09-28` | Indie Tool | `TypeScript` | Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect... |
+| [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) | `★ 146` | `2026-09-28` | Local AI | `TypeScript` | Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, know... |
+| [Dicklesworthstone/frankenterm](https://github.com/Dicklesworthstone/frankenterm) | `★ 118` | `2026-09-28` | Experimental Agent | `Rust` | Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine patter... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 89` | `2026-09-28` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [boxabirds/awesome-local-ai](https://github.com/boxabirds/awesome-local-ai) | `★ 41` | `2026-09-28` | Local AI | `TypeScript` | Various configurations for optimal Local AI usage.  |
-| [yha9806/academic-writing-toolkit](https://github.com/yha9806/academic-writing-toolkit) | `★ 41` | `2026-09-28` | Local AI | `Python` | Local-first, evidence-controlled academic writing workflows for AI agents, with bound... |
+| [yarenty/kowalski](https://github.com/yarenty/kowalski) | `★ 65` | `2026-09-28` | Indie Tool | `Rust` | A Rust multi-agent framework: agents with MCP tools and memory, and hordes (step pipe... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -44,8 +44,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-28` | AI Research | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](src/content/news/2026-09-28-when-is-a-multi-agent-code-judge.md) | When one language model judges whether another's code is correct, it does not report the absence of evidence. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-when-is-a-multi-agent-code-judge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30328) |
 | `2026-09-28` | AI Research | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](src/content/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries.md) | Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a sin... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30325) |
+| `2026-09-28` | LLMs & Foundation Models | [Introducing Claude Sonnet 5.5](src/content/news/2026-09-28-introducing-claude-sonnet-55.md) | A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-introducing-claude-sonnet-55/) | [Anthropic Newsroom](https://www.anthropic.com/claude-sonnet-5-5) |
 | `2026-09-28` | AI Research | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](src/content/news/2026-09-28-bringing-ai-to-autonomous-systems---.md) | The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the dev... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-bringing-ai-to-autonomous-systems---/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30291) |
 | `2026-09-28` | AI Research | [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](src/content/news/2026-09-28-bridging-llm-agents-and-data-spaces.md) | Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-bridging-llm-agents-and-data-spaces/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30341) |
+| `2026-09-28` | AI Research | [A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods](src/content/news/2026-09-28-a-synthetic-ground-truth-framework-for-the.md) | Evaluating explainable Artificial | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-a-synthetic-ground-truth-framework-for-the/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30397) |
 | `2026-09-25` | AI Research | [When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing](src/content/news/2026-09-25-when-should-forecasting-agents-reason-behavioral.md) | Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it re... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-when-should-forecasting-agents-reason-behavioral/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28475) |
 | `2026-09-25` | AI Research | [Training Object Permanence in World Models](src/content/news/2026-09-25-training-object-permanence-in-world-models.md) | Object permanence and solidity are hallmarks of human cognitive priors. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-training-object-permanence-in-world-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28654) |
 | `2026-09-25` | AI Research | [TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment](src/content/news/2026-09-25-twist-a-proposed-benchmark-for-intervention.md) | TWIST is | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-25-twist-a-proposed-benchmark-for-intervention/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28575) |
@@ -98,7 +100,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-28 12:02 UTC` | **Yayımlanan haber:** `49`
+> **Dizin oluşturma:** `2026-09-28 19:43 UTC` | **Yayımlanan haber:** `51`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -110,8 +112,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-28` | AI Research | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](src/content/news/2026-09-28-when-is-a-multi-agent-code-judge.md) | When one language model judges whether another's code is correct, it does not report the absence of evidence. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-when-is-a-multi-agent-code-judge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30328) |
 | `2026-09-28` | AI Research | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](src/content/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries.md) | Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a sin... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30325) |
+| `2026-09-28` | LLMs & Foundation Models | [Introducing Claude Sonnet 5.5](src/content/news/2026-09-28-introducing-claude-sonnet-55.md) | A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-introducing-claude-sonnet-55/) | [Anthropic Newsroom](https://www.anthropic.com/claude-sonnet-5-5) |
 | `2026-09-28` | AI Research | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](src/content/news/2026-09-28-bringing-ai-to-autonomous-systems---.md) | The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the dev... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-bringing-ai-to-autonomous-systems---/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30291) |
 | `2026-09-28` | AI Research | [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](src/content/news/2026-09-28-bridging-llm-agents-and-data-spaces.md) | Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-bridging-llm-agents-and-data-spaces/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30341) |
+| `2026-09-28` | AI Research | [A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods](src/content/news/2026-09-28-a-synthetic-ground-truth-framework-for-the.md) | Evaluating explainable Artificial | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-a-synthetic-ground-truth-framework-for-the/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30397) |
 | `2026-09-25` | AI Research | [When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing](src/content/news/2026-09-25-when-should-forecasting-agents-reason-behavioral.md) | Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it re... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-when-should-forecasting-agents-reason-behavioral/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28475) |
 | `2026-09-25` | AI Research | [Training Object Permanence in World Models](src/content/news/2026-09-25-training-object-permanence-in-world-models.md) | Object permanence and solidity are hallmarks of human cognitive priors. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-training-object-permanence-in-world-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28654) |
 | `2026-09-25` | AI Research | [TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment](src/content/news/2026-09-25-twist-a-proposed-benchmark-for-intervention.md) | TWIST is | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-25-twist-a-proposed-benchmark-for-intervention/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.28575) |
