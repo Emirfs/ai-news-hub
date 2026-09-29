@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-29 05:49 UTC` | **Source-linked stories:** `55`
+> **Index generated:** `2026-09-29 13:00 UTC` | **Source-linked stories:** `57`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 269.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 249.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 239.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 269.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.0k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 239.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -33,17 +33,19 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [auscaster/frantic-board](https://github.com/auscaster/frantic-board) | `★ 446` | `2026-09-29` | Experimental Agent | `Shell` | HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public le... |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-09-29` | Experimental Agent | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 215` | `2026-09-29` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 161` | `2026-09-29` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [ArthurkaX/cds-text-sync](https://github.com/ArthurkaX/cds-text-sync) | `★ 95` | `2026-09-29` | Indie Tool | `Python` | 🔄 Git-friendly text synchronization for CODESYS. Export your project to ST files, edi... |
+| [edgehero/pi-dispatch](https://github.com/edgehero/pi-dispatch) | `★ 178` | `2026-09-29` | Experimental Agent | `JavaScript` | Run the pi coding agent as a service — triggered on demand, on a cron schedule, or by... |
+| [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | `★ 128` | `2026-09-29` | Local AI | `Python` | Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one time... |
+| [mingti-org/phyai](https://github.com/mingti-org/phyai) | `★ 127` | `2026-09-29` | Embodied AI | `Python` | PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and b... |
+| [kroshu/kuka_robot_descriptions](https://github.com/kroshu/kuka_robot_descriptions) | `★ 115` | `2026-09-29` | Embodied AI | `Python` | Repository containing models of KUKA robots |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
 | `2026-09-29` | AI Research | [Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework](src/content/news/2026-09-29-do-llms-understand-context-a-knowledge.md) | While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-do-llms-understand-context-a-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30484) |
 | `2026-09-29` | AI Research | [BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering](src/content/news/2026-09-29-bioeval-a-global-multi-institutional-benchmark-of.md) | Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-bioeval-a-global-multi-institutional-benchmark-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30489) |
+| `2026-09-29` | AI Research | [Benchy: towards a universal language for task-oriented AI benchmarks](src/content/news/2026-09-29-benchy-towards-a-universal-language-for.md) | Benchy is a semantic language and execution engine for benchmarking AI programs. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-benchy-towards-a-universal-language-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30550) |
 | `2026-09-28` | AI Research | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](src/content/news/2026-09-28-when-is-a-multi-agent-code-judge.md) | When one language model judges whether another's code is correct, it does not report the absence of evidence. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-when-is-a-multi-agent-code-judge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30328) |
 | `2026-09-28` | AI Research | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](src/content/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries.md) | Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a sin... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30325) |
 | `2026-09-28` | AI Research | [Pretrained ASR Pseudo-labeling for Noisy Police Audio](src/content/news/2026-09-28-pretrained-asr-pseudo-labeling-for-noisy-police.md) | Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understan... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-28-pretrained-asr-pseudo-labeling-for-noisy-police/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30469) |
@@ -104,7 +106,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-29 05:49 UTC` | **Yayımlanan haber:** `55`
+> **Dizin oluşturma:** `2026-09-29 13:00 UTC` | **Yayımlanan haber:** `57`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -114,8 +116,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
 | `2026-09-29` | AI Research | [Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework](src/content/news/2026-09-29-do-llms-understand-context-a-knowledge.md) | While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-do-llms-understand-context-a-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30484) |
 | `2026-09-29` | AI Research | [BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering](src/content/news/2026-09-29-bioeval-a-global-multi-institutional-benchmark-of.md) | Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-bioeval-a-global-multi-institutional-benchmark-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30489) |
+| `2026-09-29` | AI Research | [Benchy: towards a universal language for task-oriented AI benchmarks](src/content/news/2026-09-29-benchy-towards-a-universal-language-for.md) | Benchy is a semantic language and execution engine for benchmarking AI programs. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-benchy-towards-a-universal-language-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30550) |
 | `2026-09-28` | AI Research | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](src/content/news/2026-09-28-when-is-a-multi-agent-code-judge.md) | When one language model judges whether another's code is correct, it does not report the absence of evidence. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-when-is-a-multi-agent-code-judge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30328) |
 | `2026-09-28` | AI Research | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](src/content/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries.md) | Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a sin... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-scopebench-do-agents-preserve-engagement-boundaries/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30325) |
 | `2026-09-28` | AI Research | [Pretrained ASR Pseudo-labeling for Noisy Police Audio](src/content/news/2026-09-28-pretrained-asr-pseudo-labeling-for-noisy-police.md) | Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understan... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-28-pretrained-asr-pseudo-labeling-for-noisy-police/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30469) |
