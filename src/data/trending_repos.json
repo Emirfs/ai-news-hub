@@ -2,8 +2,8 @@
   {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 268976,
-    "forks": 40181,
+    "stars": 269144,
+    "forks": 40220,
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code...",
     "language": "JavaScript",
     "tag": "Autonomous Agents",
@@ -12,18 +12,18 @@
   {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 249792,
-    "forks": 53221,
+    "stars": 249868,
+    "forks": 53258,
     "description": "The agent that grows with you",
     "language": "Python",
     "tag": "Autonomous Agents",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   },
   {
     "name": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 238723,
-    "forks": 28677,
+    "stars": 239035,
+    "forks": 28720,
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
@@ -32,18 +32,18 @@
   {
     "name": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 210626,
-    "forks": 27878,
+    "stars": 210685,
+    "forks": 27886,
     "description": "The open source coding agent.",
     "language": "TypeScript",
     "tag": "Developer Tools",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   },
   {
     "name": "ultraworkers/claw-code",
     "url": "https://github.com/ultraworkers/claw-code",
-    "stars": 195288,
-    "forks": 108337,
+    "stars": 195282,
+    "forks": 108333,
     "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
     "language": "Rust",
     "tag": "Developer Tools",
@@ -52,31 +52,31 @@
   {
     "name": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "stars": 187595,
-    "forks": 45982,
+    "stars": 187597,
+    "forks": 45980,
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on w...",
     "language": "Python",
     "tag": "Foundation Models",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   },
   {
     "name": "firecrawl/firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 185994,
-    "forks": 9963,
+    "stars": 186147,
+    "forks": 9969,
     "description": "The web data API to search, scrape, and interact at scale. 🔥",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   },
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "stars": 181870,
-    "forks": 18032,
+    "stars": 181890,
+    "forks": 18036,
     "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "tag": "DeepSeek Ecosystem",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   }
 ]

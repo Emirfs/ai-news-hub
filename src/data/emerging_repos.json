@@ -1,82 +1,82 @@
 [
   {
+    "name": "auscaster/frantic-board",
+    "url": "https://github.com/auscaster/frantic-board",
+    "stars": 446,
+    "forks": 52,
+    "description": "HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The notice board for gofrantic.com",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 302,
+    "forks": 69,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-29"
+  },
+  {
     "name": "damianvtran/local-operator",
     "url": "https://github.com/damianvtran/local-operator",
     "stars": 215,
     "forks": 34,
     "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
     "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "dinglebear-ai/unraid",
-    "url": "https://github.com/dinglebear-ai/unraid",
-    "stars": 133,
-    "forks": 38,
-    "description": "Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Supports system info, Docker, VMs, array/parity, notifications,...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 89,
-    "forks": 33,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "saeedkolivand/ai-job-hunter-app",
-    "url": "https://github.com/saeedkolivand/ai-job-hunter-app",
-    "stars": 60,
-    "forks": 5,
-    "description": "Local-first AI desktop assistant that scrapes job boards, matches roles to your resume, and auto-generates resumes & cover letters. Offline ...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "stars": 45,
-    "forks": 3,
-    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-09-28"
-  },
-  {
-    "name": "boxabirds/awesome-local-ai",
-    "url": "https://github.com/boxabirds/awesome-local-ai",
-    "stars": 42,
-    "forks": 3,
-    "description": "Various configurations for optimal Local AI usage. ",
-    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   },
   {
-    "name": "DemoMacro/office-open",
-    "url": "https://github.com/DemoMacro/office-open",
-    "stars": 35,
-    "forks": 9,
-    "description": "Create Word, Excel, and PowerPoint files (.docx, .xlsx, .pptx) from plain JSON or fully typed APIs — generate, parse, and patch. Built for A...",
-    "language": "TypeScript",
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 161,
+    "forks": 13,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
     "tag": "Indie Tool",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   },
   {
-    "name": "damianvtran/local-operator-ui",
-    "url": "https://github.com/damianvtran/local-operator-ui",
-    "stars": 26,
+    "name": "ArthurkaX/cds-text-sync",
+    "url": "https://github.com/ArthurkaX/cds-text-sync",
+    "stars": 95,
+    "forks": 18,
+    "description": "🔄 Git-friendly text synchronization for CODESYS. Export your project to ST files, edit with modern tools (or LLMs), and sync back. Lightweig...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "eclipse-enclave/enclave",
+    "url": "https://github.com/eclipse-enclave/enclave",
+    "stars": 54,
+    "forks": 10,
+    "description": "Sandbox for running AI coding agents autonomously: isolated, network-restricted, host-safe",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "RealManRobot/rm_models",
+    "url": "https://github.com/RealManRobot/rm_models",
+    "stars": 54,
     "forks": 11,
-    "description": "User interface for the Local Operator on-device agent environment.  Local Operator is an AI agents platform that gives you an integrated tea...",
-    "language": "TypeScript",
+    "description": "Realman Robot Models and Simulation Files",
+    "language": "MATLAB",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "dovvnloading/Cortex",
+    "url": "https://github.com/dovvnloading/Cortex",
+    "stars": 37,
+    "forks": 6,
+    "description": "Local-first Windows desktop AI chat. Runs models through Ollama or its own managed llama.cpp runtime (GGUF files). Nothing leaves your machi...",
+    "language": "Python",
     "tag": "Local AI",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   }
 ]
