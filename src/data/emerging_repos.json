@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "devsy-org/devsy",
+    "url": "https://github.com/devsy-org/devsy",
+    "stars": 105,
+    "forks": 8,
+    "description": "Deploy secure local and cloud environments for developers and agents",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 91,
+    "forks": 11,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "Bike4Mind/bike4mind",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 89,
+    "forks": 15,
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "MCERQUA/OpenVoiceUI",
+    "url": "https://github.com/MCERQUA/OpenVoiceUI",
+    "stars": 77,
+    "forks": 14,
+    "description": "Voice-powered AI assistant platform — connect any LLM, any TTS, with a live web canvas, music generation, and agent orchestration using open...",
+    "language": "HTML",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "patrick-tssn/Awesome-Multimodal-Memory",
+    "url": "https://github.com/patrick-tssn/Awesome-Multimodal-Memory",
+    "stars": 70,
+    "forks": 1,
+    "description": "[TMLR 2025] Reading List of Memory Augmented Multimodal Research, including multimodal context modeling, memory in vision and robotics, and ...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "skillberry-ai/cap-evolve",
+    "url": "https://github.com/skillberry-ai/cap-evolve",
+    "stars": 64,
+    "forks": 16,
+    "description": "Optimize any AI agent’s skills, tools/MCP, and prompts against your own evals.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 43,
+    "forks": 3,
+    "description": "LLM server for one RTX 5090. Runs Qwen3.8-Flash-Next (512-expert MoE) on a single 32 GB card at 75-80 tok/s. Decodes 17-191 % faster than ll...",
+    "language": "C++",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "PVRLabs/aibadger",
+    "url": "https://github.com/PVRLabs/aibadger",
+    "stars": 41,
+    "forks": 4,
+    "description": "AI Badger - Local-first tool that extracts focused repo context for any AI chat (Claude, ChatGPT, Grok, etc.) without wasting tokens on irre...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-09-29"
+  }
+]

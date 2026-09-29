@@ -2,18 +2,18 @@
   {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 269501,
-    "forks": 40277,
+    "stars": 269609,
+    "forks": 40290,
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code...",
     "language": "JavaScript",
     "tag": "Autonomous Agents",
-    "pushed_at": "2026-09-28"
+    "pushed_at": "2026-09-29"
   },
   {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 250021,
-    "forks": 53349,
+    "stars": 250054,
+    "forks": 53364,
     "description": "The agent that grows with you",
     "language": "Python",
     "tag": "Autonomous Agents",
@@ -22,18 +22,38 @@
   {
     "name": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 239892,
-    "forks": 28806,
+    "stars": 239955,
+    "forks": 28813,
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
     "pushed_at": "2026-09-29"
   },
   {
+    "name": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "stars": 210918,
+    "forks": 27931,
+    "description": "The open source coding agent.",
+    "language": "TypeScript",
+    "tag": "Developer Tools",
+    "pushed_at": "2026-09-29"
+  },
+  {
+    "name": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "stars": 195289,
+    "forks": 108328,
+    "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "language": "Rust",
+    "tag": "Developer Tools",
+    "pushed_at": "2026-08-16"
+  },
+  {
     "name": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "stars": 187614,
-    "forks": 45977,
+    "stars": 187618,
+    "forks": 45978,
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on w...",
     "language": "Python",
     "tag": "Foundation Models",
@@ -42,9 +62,9 @@
   {
     "name": "firecrawl/firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 186521,
-    "forks": 9982,
-    "description": "The web data API to search, scrape, and interact at scale. 🔥",
+    "stars": 186626,
+    "forks": 9984,
+    "description": "🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
     "pushed_at": "2026-09-29"
@@ -52,30 +72,10 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "stars": 181923,
-    "forks": 18042,
+    "stars": 181928,
+    "forks": 18044,
     "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
-    "tag": "DeepSeek Ecosystem",
-    "pushed_at": "2026-09-29"
-  },
-  {
-    "name": "deepseek-ai/DeepSeek-V3",
-    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-    "stars": 104503,
-    "forks": 16724,
-    "description": "Open-source artificial intelligence framework.",
-    "language": "Python",
-    "tag": "DeepSeek Ecosystem",
-    "pushed_at": "2025-08-28"
-  },
-  {
-    "name": "nexu-io/open-design",
-    "url": "https://github.com/nexu-io/open-design",
-    "stars": 98690,
-    "forks": 11437,
-    "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes t...",
-    "language": "TypeScript",
     "tag": "DeepSeek Ecosystem",
     "pushed_at": "2026-09-29"
   }
