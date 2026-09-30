@@ -1,42 +1,42 @@
 [
   {
-    "name": "jin-bo/agentao",
-    "url": "https://github.com/jin-bo/agentao",
-    "stars": 307,
-    "forks": 13,
-    "description": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and aud...",
+    "name": "Vigil-SOC/vigil",
+    "url": "https://github.com/Vigil-SOC/vigil",
+    "stars": 331,
+    "forks": 83,
+    "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
     "language": "Python",
     "tag": "Local AI",
     "pushed_at": "2026-09-30"
   },
   {
-    "name": "xorbitsai/xagent",
-    "url": "https://github.com/xorbitsai/xagent",
-    "stars": 302,
-    "forks": 69,
-    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 284,
+    "forks": 160,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-30"
+  },
+  {
+    "name": "Protocol-Lattice/go-agent",
+    "url": "https://github.com/Protocol-Lattice/go-agent",
+    "stars": 257,
+    "forks": 33,
+    "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for production.",
+    "language": "Go",
     "tag": "Indie Tool",
     "pushed_at": "2026-09-30"
   },
   {
-    "name": "ncoevoet/facet",
-    "url": "https://github.com/ncoevoet/facet",
-    "stars": 248,
-    "forks": 28,
-    "description": "Local AI photo scoring, culling, and gallery — score, organise, and explore your library with face recognition and semantic search. No cloud...",
-    "language": "Python",
+    "name": "See-Sol-Lab/DeepSeekGUI",
+    "url": "https://github.com/See-Sol-Lab/DeepSeekGUI",
+    "stars": 251,
+    "forks": 13,
+    "description": "基于 DeepSeek Harness（DSH）的稳定桌面端，集成Git、内置浏览器与记忆功能 | DeepSeek Harness desktop GUI with local workspaces, Git, browser and memory.",
+    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-09-30"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 213,
-    "forks": 35,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
     "pushed_at": "2026-09-30"
   },
   {
@@ -50,6 +50,26 @@
     "pushed_at": "2026-09-30"
   },
   {
+    "name": "NVIDIA/elements",
+    "url": "https://github.com/NVIDIA/elements",
+    "stars": 91,
+    "forks": 19,
+    "description": "NVIDIA Design System and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-09-30"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 90,
+    "forks": 34,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-09-30"
+  },
+  {
     "name": "thefalconry/talon",
     "url": "https://github.com/thefalconry/talon",
     "stars": 83,
@@ -57,26 +77,6 @@
     "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
     "language": "TypeScript",
     "tag": "Indie Tool",
-    "pushed_at": "2026-09-30"
-  },
-  {
-    "name": "linny006/trending-claude-skills",
-    "url": "https://github.com/linny006/trending-claude-skills",
-    "stars": 50,
-    "forks": 4,
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-09-30"
-  },
-  {
-    "name": "Mftrferdinand/Zeline",
-    "url": "https://github.com/Mftrferdinand/Zeline",
-    "stars": 46,
-    "forks": 15,
-    "description": "Zeline — an open-source agentic AI framework developed by Zerolinear.",
-    "language": "Python",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-09-30"
   }
 ]

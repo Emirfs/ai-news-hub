@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-30 14:15 UTC` | **Source-linked stories:** `67`
+> **Index generated:** `2026-09-30 19:28 UTC` | **Source-linked stories:** `69`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 240.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 241.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,20 +32,22 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [jin-bo/agentao](https://github.com/jin-bo/agentao) | `★ 307` | `2026-09-30` | Local AI | `Python` | Local-first, governed AI agent runtime for Python — embed it in your app, or run it a... |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-09-30` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [ncoevoet/facet](https://github.com/ncoevoet/facet) | `★ 248` | `2026-09-30` | Local AI | `Python` | Local AI photo scoring, culling, and gallery — score, organise, and explore your libr... |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 213` | `2026-09-30` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 331` | `2026-09-30` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 284` | `2026-09-30` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [Protocol-Lattice/go-agent](https://github.com/Protocol-Lattice/go-agent) | `★ 257` | `2026-09-30` | Indie Tool | `Go` | An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent... |
+| [See-Sol-Lab/DeepSeekGUI](https://github.com/See-Sol-Lab/DeepSeekGUI) | `★ 251` | `2026-09-30` | Local AI | `TypeScript` | 基于 DeepSeek Harness（DSH）的稳定桌面端，集成Git、内置浏览器与记忆功能 | DeepSeek Harness desktop GUI with l... |
 | [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 164` | `2026-09-30` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-30` | AI Research | [Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?](src/content/news/2026-09-30-self-discovering-rl-in-the-era-of.md) | The pursuit of recursive self | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-self-discovering-rl-in-the-era-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35897) |
 | `2026-09-30` | AI Research | [Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training](src/content/news/2026-09-30-representational-simplicity-and-circuit-size-dissociate.md) | Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-representational-simplicity-and-circuit-size-dissociate/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35890) |
 | `2026-09-30` | AI Research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](src/content/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment.md) | In July | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35799) |
 | `2026-09-30` | AI Research | [More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses](src/content/news/2026-09-30-more-programs-or-more-rolls-separating.md) | Automated generation of LLM harnesses promises to improve inference through task specialization. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-more-programs-or-more-rolls-separating/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35873) |
 | `2026-09-30` | AI Research | [Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?](src/content/news/2026-09-30-is-human-readable-text-necessary-for-effective.md) | Is human readability necessary for effective fine-tuning of large language models? | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-is-human-readable-text-necessary-for-effective/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35868) |
+| `2026-09-30` | Robotics & Hardware | [From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI](src/content/news/2026-09-30-from-training-to-production-nvidia-and.md) | CoreWeave has built | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-from-training-to-production-nvidia-and/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin) |
 | `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
 | `2026-09-29` | AI Research | [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](src/content/news/2026-09-30-the-price-of-thought-does-test-time.md) | While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computat... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-the-price-of-thought-does-test-time/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30705) |
 | `2026-09-29` | AI Research | [T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](src/content/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for.md) | Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30576) |
@@ -116,7 +118,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-30 14:15 UTC` | **Yayımlanan haber:** `67`
+> **Dizin oluşturma:** `2026-09-30 19:28 UTC` | **Yayımlanan haber:** `69`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -126,10 +128,12 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-30` | AI Research | [Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?](src/content/news/2026-09-30-self-discovering-rl-in-the-era-of.md) | The pursuit of recursive self | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-self-discovering-rl-in-the-era-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35897) |
 | `2026-09-30` | AI Research | [Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training](src/content/news/2026-09-30-representational-simplicity-and-circuit-size-dissociate.md) | Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-representational-simplicity-and-circuit-size-dissociate/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35890) |
 | `2026-09-30` | AI Research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](src/content/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment.md) | In July | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35799) |
 | `2026-09-30` | AI Research | [More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses](src/content/news/2026-09-30-more-programs-or-more-rolls-separating.md) | Automated generation of LLM harnesses promises to improve inference through task specialization. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-more-programs-or-more-rolls-separating/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35873) |
 | `2026-09-30` | AI Research | [Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?](src/content/news/2026-09-30-is-human-readable-text-necessary-for-effective.md) | Is human readability necessary for effective fine-tuning of large language models? | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-is-human-readable-text-necessary-for-effective/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35868) |
+| `2026-09-30` | Robotics & Hardware | [From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI](src/content/news/2026-09-30-from-training-to-production-nvidia-and.md) | CoreWeave has built | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-from-training-to-production-nvidia-and/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin) |
 | `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
 | `2026-09-29` | AI Research | [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](src/content/news/2026-09-30-the-price-of-thought-does-test-time.md) | While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computat... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-the-price-of-thought-does-test-time/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30705) |
 | `2026-09-29` | AI Research | [T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](src/content/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for.md) | Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30576) |
