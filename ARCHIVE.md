@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-30 07:30 UTC` | **Source-linked stories:** `65`
+> **Index generated:** `2026-09-30 14:15 UTC` | **Source-linked stories:** `67`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 269.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 240.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.3k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 240.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,17 +32,19 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [ZhuoyangLiu2005/last0](https://github.com/ZhuoyangLiu2005/last0) | `★ 91` | `2026-09-30` | Embodied AI | `Python` | [ICML 2026] LaST​$_0$​: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-La... |
-| [boxabirds/awesome-local-ai](https://github.com/boxabirds/awesome-local-ai) | `★ 44` | `2026-09-30` | Local AI | `TypeScript` | Various configurations for optimal Local AI usage.  |
-| [quazardous/aiball](https://github.com/quazardous/aiball) | `★ 43` | `2026-09-30` | Local AI | `TypeScript` | Local backlog for inter-agent coordination — Manage tickets between turns and stay in... |
-| [jmrplens/gitlab-mcp-server](https://github.com/jmrplens/gitlab-mcp-server) | `★ 42` | `2026-09-30` | Indie Tool | `Go` | Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850... |
-| [lightspeed-core/lightspeed-stack](https://github.com/lightspeed-core/lightspeed-stack) | `★ 40` | `2026-09-30` | Indie Tool | `Python` | LLM tooling stack |
+| [jin-bo/agentao](https://github.com/jin-bo/agentao) | `★ 307` | `2026-09-30` | Local AI | `Python` | Local-first, governed AI agent runtime for Python — embed it in your app, or run it a... |
+| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-09-30` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
+| [ncoevoet/facet](https://github.com/ncoevoet/facet) | `★ 248` | `2026-09-30` | Local AI | `Python` | Local AI photo scoring, culling, and gallery — score, organise, and explore your libr... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 213` | `2026-09-30` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 164` | `2026-09-30` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-30` | AI Research | [Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training](src/content/news/2026-09-30-representational-simplicity-and-circuit-size-dissociate.md) | Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-representational-simplicity-and-circuit-size-dissociate/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35890) |
 | `2026-09-30` | AI Research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](src/content/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment.md) | In July | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35799) |
+| `2026-09-30` | AI Research | [More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses](src/content/news/2026-09-30-more-programs-or-more-rolls-separating.md) | Automated generation of LLM harnesses promises to improve inference through task specialization. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-more-programs-or-more-rolls-separating/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35873) |
 | `2026-09-30` | AI Research | [Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?](src/content/news/2026-09-30-is-human-readable-text-necessary-for-effective.md) | Is human readability necessary for effective fine-tuning of large language models? | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-is-human-readable-text-necessary-for-effective/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35868) |
 | `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
 | `2026-09-29` | AI Research | [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](src/content/news/2026-09-30-the-price-of-thought-does-test-time.md) | While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computat... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-the-price-of-thought-does-test-time/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30705) |
@@ -114,7 +116,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-30 07:30 UTC` | **Yayımlanan haber:** `65`
+> **Dizin oluşturma:** `2026-09-30 14:15 UTC` | **Yayımlanan haber:** `67`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -124,7 +126,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-30` | AI Research | [Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training](src/content/news/2026-09-30-representational-simplicity-and-circuit-size-dissociate.md) | Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-representational-simplicity-and-circuit-size-dissociate/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35890) |
 | `2026-09-30` | AI Research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](src/content/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment.md) | In July | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35799) |
+| `2026-09-30` | AI Research | [More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses](src/content/news/2026-09-30-more-programs-or-more-rolls-separating.md) | Automated generation of LLM harnesses promises to improve inference through task specialization. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-more-programs-or-more-rolls-separating/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35873) |
 | `2026-09-30` | AI Research | [Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?](src/content/news/2026-09-30-is-human-readable-text-necessary-for-effective.md) | Is human readability necessary for effective fine-tuning of large language models? | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-is-human-readable-text-necessary-for-effective/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35868) |
 | `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
 | `2026-09-29` | AI Research | [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](src/content/news/2026-09-30-the-price-of-thought-does-test-time.md) | While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computat... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-the-price-of-thought-does-test-time/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30705) |
