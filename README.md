@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-30 01:37 UTC` | **Source-linked stories:** `63`
+> **Index generated:** `2026-09-30 07:30 UTC` | **Source-linked stories:** `65`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 269.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 240.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 269.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 240.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [fitchmultz/pi-posthorse](https://github.com/fitchmultz/pi-posthorse) | `★ 252` | `2026-09-30` | Indie Tool | `TypeScript` | Posthorse: fresh context, same journey. Native no-summary context windows for the fit... |
-| [dat999zx/knowl](https://github.com/dat999zx/knowl) | `★ 121` | `2026-09-30` | Local AI | `TypeScript` | Persistent memory for Claude Code, Cursor and Codex. Facts are typed, sourced, and re... |
-| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 95` | `2026-09-30` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
-| [Egv2/awesome-agentos](https://github.com/Egv2/awesome-agentos) | `★ 85` | `2026-09-30` | Indie Tool | `Python` | A curated list of awesome open source projects for creating agentic operating systems... |
-| [dtkmn/mcp-zap-server](https://github.com/dtkmn/mcp-zap-server) | `★ 67` | `2026-09-30` | Experimental Agent | `Java` | Give AI agents a safe, self-hosted ZAP operator for guided web security scans, findin... |
+| [ZhuoyangLiu2005/last0](https://github.com/ZhuoyangLiu2005/last0) | `★ 91` | `2026-09-30` | Embodied AI | `Python` | [ICML 2026] LaST​$_0$​: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-La... |
+| [boxabirds/awesome-local-ai](https://github.com/boxabirds/awesome-local-ai) | `★ 44` | `2026-09-30` | Local AI | `TypeScript` | Various configurations for optimal Local AI usage.  |
+| [quazardous/aiball](https://github.com/quazardous/aiball) | `★ 43` | `2026-09-30` | Local AI | `TypeScript` | Local backlog for inter-agent coordination — Manage tickets between turns and stay in... |
+| [jmrplens/gitlab-mcp-server](https://github.com/jmrplens/gitlab-mcp-server) | `★ 42` | `2026-09-30` | Indie Tool | `Go` | Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850... |
+| [lightspeed-core/lightspeed-stack](https://github.com/lightspeed-core/lightspeed-stack) | `★ 40` | `2026-09-30` | Indie Tool | `Python` | LLM tooling stack |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-30` | AI Research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](src/content/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment.md) | In July | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35799) |
+| `2026-09-30` | AI Research | [Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?](src/content/news/2026-09-30-is-human-readable-text-necessary-for-effective.md) | Is human readability necessary for effective fine-tuning of large language models? | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-is-human-readable-text-necessary-for-effective/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35868) |
 | `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
 | `2026-09-29` | AI Research | [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](src/content/news/2026-09-30-the-price-of-thought-does-test-time.md) | While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computat... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-the-price-of-thought-does-test-time/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30705) |
 | `2026-09-29` | AI Research | [T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](src/content/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for.md) | Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30576) |
@@ -112,7 +114,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-30 01:37 UTC` | **Yayımlanan haber:** `63`
+> **Dizin oluşturma:** `2026-09-30 07:30 UTC` | **Yayımlanan haber:** `65`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -122,6 +124,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-09-30` | AI Research | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](src/content/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment.md) | In July | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-openai-huggingface-a-reproduction-lessons-for-alignment/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35799) |
+| `2026-09-30` | AI Research | [Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?](src/content/news/2026-09-30-is-human-readable-text-necessary-for-effective.md) | Is human readability necessary for effective fine-tuning of large language models? | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-is-human-readable-text-necessary-for-effective/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35868) |
 | `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
 | `2026-09-29` | AI Research | [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](src/content/news/2026-09-30-the-price-of-thought-does-test-time.md) | While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computat... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-the-price-of-thought-does-test-time/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30705) |
 | `2026-09-29` | AI Research | [T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](src/content/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for.md) | Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30576) |
