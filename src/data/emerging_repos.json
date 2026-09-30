@@ -1,15 +1,5 @@
 [
   {
-    "name": "Vigil-SOC/vigil",
-    "url": "https://github.com/Vigil-SOC/vigil",
-    "stars": 331,
-    "forks": 83,
-    "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-09-30"
-  },
-  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 284,
@@ -20,29 +10,29 @@
     "pushed_at": "2026-09-30"
   },
   {
-    "name": "Protocol-Lattice/go-agent",
-    "url": "https://github.com/Protocol-Lattice/go-agent",
-    "stars": 257,
-    "forks": 33,
-    "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for production.",
+    "name": "speakeasy-api/gram",
+    "url": "https://github.com/speakeasy-api/gram",
+    "stars": 271,
+    "forks": 35,
+    "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within ...",
     "language": "Go",
-    "tag": "Indie Tool",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-09-30"
   },
   {
-    "name": "See-Sol-Lab/DeepSeekGUI",
-    "url": "https://github.com/See-Sol-Lab/DeepSeekGUI",
-    "stars": 251,
-    "forks": 13,
-    "description": "基于 DeepSeek Harness（DSH）的稳定桌面端，集成Git、内置浏览器与记忆功能 | DeepSeek Harness desktop GUI with local workspaces, Git, browser and memory.",
-    "language": "TypeScript",
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 216,
+    "forks": 35,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
+    "language": "Python",
     "tag": "Local AI",
     "pushed_at": "2026-09-30"
   },
   {
     "name": "prime-radiant-inc/evener",
     "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 164,
+    "stars": 166,
     "forks": 13,
     "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
     "language": "Go",
@@ -50,13 +40,23 @@
     "pushed_at": "2026-09-30"
   },
   {
-    "name": "NVIDIA/elements",
-    "url": "https://github.com/NVIDIA/elements",
-    "stars": 91,
-    "forks": 19,
-    "description": "NVIDIA Design System and UI Agent Harness for AI/ML Factories, Robotics, and Autonomous Vehicles",
-    "language": "TypeScript",
+    "name": "antropos17/Aegis",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 152,
+    "forks": 24,
+    "description": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; ...",
+    "language": "JavaScript",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-09-30"
+  },
+  {
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 95,
+    "forks": 33,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-09-30"
   },
   {
@@ -70,13 +70,13 @@
     "pushed_at": "2026-09-30"
   },
   {
-    "name": "thefalconry/talon",
-    "url": "https://github.com/thefalconry/talon",
-    "stars": 83,
+    "name": "alibaba-damo-academy/RynnValue",
+    "url": "https://github.com/alibaba-damo-academy/RynnValue",
+    "stars": 67,
     "forks": 4,
-    "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
+    "description": "RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-09-30"
   }
 ]
