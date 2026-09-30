@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-09-29 22:40 UTC` | **Source-linked stories:** `61`
+> **Index generated:** `2026-09-30 01:37 UTC` | **Source-linked stories:** `63`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 269.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 269.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 240.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 240.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 210.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,20 +32,22 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [devsy-org/devsy](https://github.com/devsy-org/devsy) | `★ 105` | `2026-09-29` | Local AI | `Go` | Deploy secure local and cloud environments for developers and agents |
-| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 91` | `2026-09-29` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
-| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | `★ 89` | `2026-09-29` | Local AI | `TypeScript` | The open-core AI workbench — notebooks, agents, RAG, voice, and images across any mod... |
-| [MCERQUA/OpenVoiceUI](https://github.com/MCERQUA/OpenVoiceUI) | `★ 77` | `2026-09-29` | Experimental Agent | `HTML` | Voice-powered AI assistant platform — connect any LLM, any TTS, with a live web canva... |
-| [patrick-tssn/Awesome-Multimodal-Memory](https://github.com/patrick-tssn/Awesome-Multimodal-Memory) | `★ 70` | `2026-09-29` | Embodied AI | `Python` | [TMLR 2025] Reading List of Memory Augmented Multimodal Research, including multimoda... |
+| [fitchmultz/pi-posthorse](https://github.com/fitchmultz/pi-posthorse) | `★ 252` | `2026-09-30` | Indie Tool | `TypeScript` | Posthorse: fresh context, same journey. Native no-summary context windows for the fit... |
+| [dat999zx/knowl](https://github.com/dat999zx/knowl) | `★ 121` | `2026-09-30` | Local AI | `TypeScript` | Persistent memory for Claude Code, Cursor and Codex. Facts are typed, sourced, and re... |
+| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 95` | `2026-09-30` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
+| [Egv2/awesome-agentos](https://github.com/Egv2/awesome-agentos) | `★ 85` | `2026-09-30` | Indie Tool | `Python` | A curated list of awesome open source projects for creating agentic operating systems... |
+| [dtkmn/mcp-zap-server](https://github.com/dtkmn/mcp-zap-server) | `★ 67` | `2026-09-30` | Experimental Agent | `Java` | Give AI agents a safe, self-hosted ZAP operator for guided web security scans, findin... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
+| `2026-09-29` | AI Research | [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](src/content/news/2026-09-30-the-price-of-thought-does-test-time.md) | While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computat... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-the-price-of-thought-does-test-time/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30705) |
 | `2026-09-29` | AI Research | [T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](src/content/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for.md) | Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30576) |
 | `2026-09-29` | AI Research | [LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents](src/content/news/2026-09-29-llm-parkinsonism-executive-control-failure-token-inefficient-persistence.md) | Large language models (LL | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-llm-parkinsonism-executive-control-failure-token-inefficient-persistence/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30662) |
 | `2026-09-29` | AI Research | [Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework](src/content/news/2026-09-29-do-llms-understand-context-a-knowledge.md) | While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-do-llms-understand-context-a-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30484) |
+| `2026-09-29` | AI Research | [CRC-Router: Risk-Constrained Routing for Medical Agentic AI Systems](src/content/news/2026-09-30-crc-router-risk-constrained-routing-for-medical-agentic.md) | Agentic AI systems are increasingly being explored in medical imaging to improve throughput and reduce clinician wo... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-crc-router-risk-constrained-routing-for-medical-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30714) |
 | `2026-09-29` | AI Research | [BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering](src/content/news/2026-09-29-bioeval-a-global-multi-institutional-benchmark-of.md) | Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-bioeval-a-global-multi-institutional-benchmark-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30489) |
 | `2026-09-29` | AI Research | [Benchy: towards a universal language for task-oriented AI benchmarks](src/content/news/2026-09-29-benchy-towards-a-universal-language-for.md) | Benchy is a semantic language and execution engine for benchmarking AI programs. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-benchy-towards-a-universal-language-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30550) |
 | `2026-09-29` | AI Research | [Audio LLMs Know When They Can't Hear You](src/content/news/2026-09-29-audio-llms-know-when-they-cant.md) | Audio large language models | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-29-audio-llms-know-when-they-cant/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30625) |
@@ -110,7 +112,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-09-29 22:40 UTC` | **Yayımlanan haber:** `61`
+> **Dizin oluşturma:** `2026-09-30 01:37 UTC` | **Yayımlanan haber:** `63`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -121,9 +123,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-09-29` | AI Research | [Thinking Less to Simulate Better: Intuitive Prompting Improves LLM Agents Simulating Individual Social Media Reactions, Including Unfamiliar Content](src/content/news/2026-09-29-thinking-less-to-simulate-better-intuitive.md) | Platform policies are increasingly tested on artificial users, making agent fidelity important. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-thinking-less-to-simulate-better-intuitive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30563) |
+| `2026-09-29` | AI Research | [The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?](src/content/news/2026-09-30-the-price-of-thought-does-test-time.md) | While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computat... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-the-price-of-thought-does-test-time/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30705) |
 | `2026-09-29` | AI Research | [T-RoPE: Time-Aware Rotary Position Embedding for Sequential Recommendation](src/content/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for.md) | Large-scale recommenders increasingly adopt the sequential generative recipe behind large language models, bringing... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-t-rope-time-aware-rotary-position-embedding-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30576) |
 | `2026-09-29` | AI Research | [LLM Parkinsonism: Executive-Control Failure, Token-Inefficient Persistence, and an Uncertainty-Aware Global Executive Control Architecture for Autonomous Language-Model Agents](src/content/news/2026-09-29-llm-parkinsonism-executive-control-failure-token-inefficient-persistence.md) | Large language models (LL | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-llm-parkinsonism-executive-control-failure-token-inefficient-persistence/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30662) |
 | `2026-09-29` | AI Research | [Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework](src/content/news/2026-09-29-do-llms-understand-context-a-knowledge.md) | While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-do-llms-understand-context-a-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30484) |
+| `2026-09-29` | AI Research | [CRC-Router: Risk-Constrained Routing for Medical Agentic AI Systems](src/content/news/2026-09-30-crc-router-risk-constrained-routing-for-medical-agentic.md) | Agentic AI systems are increasingly being explored in medical imaging to improve throughput and reduce clinician wo... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-crc-router-risk-constrained-routing-for-medical-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30714) |
 | `2026-09-29` | AI Research | [BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering](src/content/news/2026-09-29-bioeval-a-global-multi-institutional-benchmark-of.md) | Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-bioeval-a-global-multi-institutional-benchmark-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30489) |
 | `2026-09-29` | AI Research | [Benchy: towards a universal language for task-oriented AI benchmarks](src/content/news/2026-09-29-benchy-towards-a-universal-language-for.md) | Benchy is a semantic language and execution engine for benchmarking AI programs. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-benchy-towards-a-universal-language-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30550) |
 | `2026-09-29` | AI Research | [Audio LLMs Know When They Can't Hear You](src/content/news/2026-09-29-audio-llms-know-when-they-cant.md) | Audio large language models | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-29-audio-llms-know-when-they-cant/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.30625) |
