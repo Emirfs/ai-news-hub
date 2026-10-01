@@ -1,22 +1,12 @@
 [
   {
-    "name": "gbasin/agentboard",
-    "url": "https://github.com/gbasin/agentboard",
-    "stars": 416,
-    "forks": 47,
-    "description": "Web GUI for tmux optimized for AI agent TUIs, with support for iOS safari and mac w/ keyboard shortcuts",
+    "name": "WrongStack/WrongStack",
+    "url": "https://github.com/WrongStack/WrongStack",
+    "stars": 356,
+    "forks": 40,
+    "description": "An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, a...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-01"
-  },
-  {
-    "name": "xorbitsai/xagent",
-    "url": "https://github.com/xorbitsai/xagent",
-    "stars": 302,
-    "forks": 69,
-    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
-    "language": "Python",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-01"
   },
   {
@@ -30,53 +20,63 @@
     "pushed_at": "2026-10-01"
   },
   {
-    "name": "agentdesktop-dev/agentdesktop",
-    "url": "https://github.com/agentdesktop-dev/agentdesktop",
-    "stars": 116,
-    "forks": 20,
-    "description": "An open-source visibility and management layer for AI tools across a desktop fleet",
-    "language": "Rust",
+    "name": "awkoy/notion-mcp-server",
+    "url": "https://github.com/awkoy/notion-mcp-server",
+    "stars": 172,
+    "forks": 38,
+    "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, b...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-01"
   },
   {
-    "name": "amicalhq/prismical",
-    "url": "https://github.com/amicalhq/prismical",
-    "stars": 96,
-    "forks": 16,
-    "description": "✏️ Open-source AI note taker - 🎙️ Transcribe meetings, lectures, and voice notes — with local AI and without invasive bots. AI keeps everyth...",
-    "language": "TypeScript",
-    "tag": "Local AI",
+    "name": "GetBusbar/busbar",
+    "url": "https://github.com/GetBusbar/busbar",
+    "stars": 163,
+    "forks": 11,
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream action—while keeping yo...",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-01"
   },
   {
     "name": "mstar-project/mstar",
     "url": "https://github.com/mstar-project/mstar",
     "stars": 90,
-    "forks": 34,
+    "forks": 35,
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-01"
   },
   {
-    "name": "PersonalJarvis/PersonalJarvis",
-    "url": "https://github.com/PersonalJarvis/PersonalJarvis",
-    "stars": 80,
-    "forks": 37,
-    "description": "Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and...",
+    "name": "codeofaxel/Kiln",
+    "url": "https://github.com/codeofaxel/Kiln",
+    "stars": 82,
+    "forks": 16,
+    "description": "Describe it or draw it — Kiln makes it real. The open-source MCP server for 3D printing: AI agents (Claude, Codex, Cursor, or any MCP client...",
     "language": "Python",
-    "tag": "Local AI",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-01"
   },
   {
-    "name": "RobotLocomotion/models",
-    "url": "https://github.com/RobotLocomotion/models",
-    "stars": 57,
-    "forks": 32,
-    "description": "Shareable model files (urdf/sdf + meshes, etc) for our robotics projects",
-    "language": "Starlark",
+    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "stars": 62,
+    "forks": 7,
+    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
+    "language": "Python",
     "tag": "Embodied AI",
+    "pushed_at": "2026-10-01"
+  },
+  {
+    "name": "boxabirds/awesome-local-ai",
+    "url": "https://github.com/boxabirds/awesome-local-ai",
+    "stars": 47,
+    "forks": 3,
+    "description": "Various configurations for optimal Local AI usage. ",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-01"
   }
 ]
