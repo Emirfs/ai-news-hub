@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-01 02:12 UTC` | **Source-linked stories:** `73`
+> **Index generated:** `2026-10-01 09:02 UTC` | **Source-linked stories:** `75`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 241.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | `★ 187.6k` | Foundation Models | `Python` | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission i... |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 187.2k` | Autonomous Agents | `TypeScript` | 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, ... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 241.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 284` | `2026-10-01` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 216` | `2026-10-01` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
+| [jztan/pdf-mcp](https://github.com/jztan/pdf-mcp) | `★ 147` | `2026-10-01` | Experimental Agent | `Python` | MCP server that lets Claude Code and other AI agents read and search large PDFs, one ... |
+| [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | `★ 117` | `2026-10-01` | Experimental Agent | `Kotlin` | Helping the Agents Compose the Things |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 90` | `2026-10-01` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
+| `2026-10-01` | AI Research | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](src/content/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon.md) | We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38288) |
 | `2026-09-30` | AI Research | [Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?](src/content/news/2026-09-30-self-discovering-rl-in-the-era-of.md) | The pursuit of recursive self | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-self-discovering-rl-in-the-era-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35897) |
 | `2026-09-30` | AI Research | [SAGE: A Statistical Acceptance Gate for Self-Evolving Agents](src/content/news/2026-09-30-sage-a-statistical-acceptance-gate-for.md) | Large Language Model (LLM)-based agents increasingly self-evolve by editing a persistent skill document that encode... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-sage-a-statistical-acceptance-gate-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.36043) |
 | `2026-09-30` | AI Research | [Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT](src/content/news/2026-09-30-right-words-wrong-moment-a-clinician-grounded.md) | Young people increasingly turn to General-Purpose Conversational Agents (GPCAs), such as ChatGPT, in moments of dis... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-right-words-wrong-moment-a-clinician-grounded/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35953) |
@@ -117,7 +124,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-01 02:12 UTC` | **Yayımlanan haber:** `73`
+> **Dizin oluşturma:** `2026-10-01 09:02 UTC` | **Yayımlanan haber:** `75`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -127,6 +134,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
+| `2026-10-01` | AI Research | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](src/content/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon.md) | We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38288) |
 | `2026-09-30` | AI Research | [Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?](src/content/news/2026-09-30-self-discovering-rl-in-the-era-of.md) | The pursuit of recursive self | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-self-discovering-rl-in-the-era-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35897) |
 | `2026-09-30` | AI Research | [SAGE: A Statistical Acceptance Gate for Self-Evolving Agents](src/content/news/2026-09-30-sage-a-statistical-acceptance-gate-for.md) | Large Language Model (LLM)-based agents increasingly self-evolve by editing a persistent skill document that encode... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-sage-a-statistical-acceptance-gate-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.36043) |
 | `2026-09-30` | AI Research | [Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT](src/content/news/2026-09-30-right-words-wrong-moment-a-clinician-grounded.md) | Young people increasingly turn to General-Purpose Conversational Agents (GPCAs), such as ChatGPT, in moments of dis... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-right-words-wrong-moment-a-clinician-grounded/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35953) |

@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 284,
+    "forks": 160,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-01"
+  },
+  {
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 216,
+    "forks": 35,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-01"
+  },
+  {
+    "name": "jztan/pdf-mcp",
+    "url": "https://github.com/jztan/pdf-mcp",
+    "stars": 147,
+    "forks": 14,
+    "description": "MCP server that lets Claude Code and other AI agents read and search large PDFs, one file or a whole folder: agentic RAG with hybrid semanti...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-01"
+  },
+  {
+    "name": "yschimke/compose-ai-tools",
+    "url": "https://github.com/yschimke/compose-ai-tools",
+    "stars": 117,
+    "forks": 5,
+    "description": "Helping the Agents Compose the Things",
+    "language": "Kotlin",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-01"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 90,
+    "forks": 34,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-01"
+  },
+  {
+    "name": "mrpulor-gh/nuphus",
+    "url": "https://github.com/mrpulor-gh/nuphus",
+    "stars": 81,
+    "forks": 16,
+    "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-01"
+  },
+  {
+    "name": "yarenty/kowalski",
+    "url": "https://github.com/yarenty/kowalski",
+    "stars": 65,
+    "forks": 15,
+    "description": "A Rust multi-agent framework: agents with MCP tools and memory, and hordes (step pipelines with cron, watch and webhook triggers) over Ollam...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-01"
+  },
+  {
+    "name": "ROCm/rocm-cli",
+    "url": "https://github.com/ROCm/rocm-cli",
+    "stars": 40,
+    "forks": 10,
+    "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model s...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-01"
+  }
+]
