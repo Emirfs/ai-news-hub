@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-01 09:02 UTC` | **Source-linked stories:** `75`
+> **Index generated:** `2026-10-01 16:29 UTC` | **Source-linked stories:** `77`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 241.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 241.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [gbasin/agentboard](https://github.com/gbasin/agentboard) | `★ 416` | `2026-10-01` | Experimental Agent | `TypeScript` | Web GUI for tmux optimized for AI agent TUIs, with support for iOS safari and mac w/ ... |
+| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 302` | `2026-10-01` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
 | [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 284` | `2026-10-01` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 216` | `2026-10-01` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [jztan/pdf-mcp](https://github.com/jztan/pdf-mcp) | `★ 147` | `2026-10-01` | Experimental Agent | `Python` | MCP server that lets Claude Code and other AI agents read and search large PDFs, one ... |
-| [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | `★ 117` | `2026-10-01` | Experimental Agent | `Kotlin` | Helping the Agents Compose the Things |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 90` | `2026-10-01` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [agentdesktop-dev/agentdesktop](https://github.com/agentdesktop-dev/agentdesktop) | `★ 116` | `2026-10-01` | Experimental Agent | `Rust` | An open-source visibility and management layer for AI tools across a desktop fleet |
+| [amicalhq/prismical](https://github.com/amicalhq/prismical) | `★ 96` | `2026-10-01` | Local AI | `TypeScript` | ✏️ Open-source AI note taker - 🎙️ Transcribe meetings, lectures, and voice notes — wi... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-01` | Robotics & Hardware | [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](src/content/news/2026-10-01-productive-durable-fungible-how-nvidia-ai.md) | AI factories are | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-productive-durable-fungible-how-nvidia-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories) |
+| `2026-10-01` | AI Research | [MoFlow: Multi-Objective Agentic Workflow Generation](src/content/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation.md) | MoFlow | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38294) |
 | `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
 | `2026-10-01` | AI Research | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](src/content/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon.md) | We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38288) |
 | `2026-09-30` | AI Research | [Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?](src/content/news/2026-09-30-self-discovering-rl-in-the-era-of.md) | The pursuit of recursive self | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-09-30-self-discovering-rl-in-the-era-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35897) |
@@ -124,7 +126,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-01 09:02 UTC` | **Yayımlanan haber:** `75`
+> **Dizin oluşturma:** `2026-10-01 16:29 UTC` | **Yayımlanan haber:** `77`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -134,6 +136,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-01` | Robotics & Hardware | [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](src/content/news/2026-10-01-productive-durable-fungible-how-nvidia-ai.md) | AI factories are | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-productive-durable-fungible-how-nvidia-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories) |
+| `2026-10-01` | AI Research | [MoFlow: Multi-Objective Agentic Workflow Generation](src/content/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation.md) | MoFlow | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38294) |
 | `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
 | `2026-10-01` | AI Research | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](src/content/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon.md) | We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38288) |
 | `2026-09-30` | AI Research | [Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?](src/content/news/2026-09-30-self-discovering-rl-in-the-era-of.md) | The pursuit of recursive self | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-09-30-self-discovering-rl-in-the-era-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.35897) |
