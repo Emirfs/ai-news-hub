@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-02 13:55 UTC` | **Source-linked stories:** `85`
+> **Index generated:** `2026-10-02 19:22 UTC` | **Source-linked stories:** `87`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 271.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 271.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 242.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 242.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | `★ 393` | `2026-10-02` | Local AI | `TypeScript` | Local AI song generator with an editable score — YuE2 on your GPU: full songs with vo... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 284` | `2026-10-02` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) | `★ 146` | `2026-10-02` | Local AI | `TypeScript` | Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, know... |
-| [black-forest-labs/flux-action](https://github.com/black-forest-labs/flux-action) | `★ 118` | `2026-10-02` | Embodied AI | `Python` | FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine... |
-| [hjxwz123/Aivory](https://github.com/hjxwz123/Aivory) | `★ 112` | `2026-10-02` | Indie Tool | `Go` | Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, R... |
+| [TNY-Robotics/TNY-360](https://github.com/TNY-Robotics/TNY-360) | `★ 304` | `2026-10-02` | Embodied AI | `C++` | TNY - 360 Robot source code and 3d models |
+| [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 263` | `2026-10-02` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
+| [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) | `★ 240` | `2026-10-02` | Indie Tool | `Python` | Provide AI agents with full Tor network access and dark web data through a zero-confi... |
+| [gary23w/nl-veil](https://github.com/gary23w/nl-veil) | `★ 215` | `2026-10-02` | Experimental Agent | `Zig` | Open-source AI coding desktop app with parallel agents and persistent project memory.... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 215` | `2026-10-02` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -45,7 +45,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-02` | AI Research | [When Do Causal World Models Help Modular LLM Agents](src/content/news/2026-10-02-when-do-causal-world-models-help.md) | LLM agents | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-when-do-causal-world-models-help/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00012) |
 | `2026-10-02` | AI Research | [What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA](src/content/news/2026-10-02-what-do-rationales-communicate-a-message-intervention.md) | On 40 | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-what-do-rationales-communicate-a-message-intervention/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00018) |
 | `2026-10-02` | Robotics & Hardware | [NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI](src/content/news/2026-10-02-nvidia-dgx-spark-64gb-gives-developers.md) | NVIDIA DGX | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-nvidia-dgx-spark-64gb-gives-developers/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync) |
+| `2026-10-02` | AI Research | [Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?](src/content/news/2026-10-02-measuring-the-microtask-eligibility-gap-when.md) | Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large lan... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-measuring-the-microtask-eligibility-gap-when/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00025) |
 | `2026-10-02` | AI Research | [Heavy-Tailed Memory Traces in Long-Horizon Language Agents](src/content/news/2026-10-02-heavy-tailed-memory-traces-in-long-horizon-language.md) | Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory syste... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-heavy-tailed-memory-traces-in-long-horizon-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00010) |
+| `2026-10-02` | AI Research | [Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs](src/content/news/2026-10-02-characterizing-a-configuration-where-inference-time-prm-pruned.md) | PRM- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-characterizing-a-configuration-where-inference-time-prm-pruned/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00047) |
 | `2026-10-01` | Robotics & Hardware | [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](src/content/news/2026-10-01-productive-durable-fungible-how-nvidia-ai.md) | AI factories are | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-productive-durable-fungible-how-nvidia-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories) |
 | `2026-10-01` | AI Research | [MoFlow: Multi-Objective Agentic Workflow Generation](src/content/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation.md) | MoFlow | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38294) |
 | `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
@@ -134,7 +136,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-02 13:55 UTC` | **Yayımlanan haber:** `85`
+> **Dizin oluşturma:** `2026-10-02 19:22 UTC` | **Yayımlanan haber:** `87`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -147,7 +149,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-02` | AI Research | [When Do Causal World Models Help Modular LLM Agents](src/content/news/2026-10-02-when-do-causal-world-models-help.md) | LLM agents | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-when-do-causal-world-models-help/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00012) |
 | `2026-10-02` | AI Research | [What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA](src/content/news/2026-10-02-what-do-rationales-communicate-a-message-intervention.md) | On 40 | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-what-do-rationales-communicate-a-message-intervention/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00018) |
 | `2026-10-02` | Robotics & Hardware | [NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI](src/content/news/2026-10-02-nvidia-dgx-spark-64gb-gives-developers.md) | NVIDIA DGX | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-nvidia-dgx-spark-64gb-gives-developers/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync) |
+| `2026-10-02` | AI Research | [Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?](src/content/news/2026-10-02-measuring-the-microtask-eligibility-gap-when.md) | Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large lan... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-measuring-the-microtask-eligibility-gap-when/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00025) |
 | `2026-10-02` | AI Research | [Heavy-Tailed Memory Traces in Long-Horizon Language Agents](src/content/news/2026-10-02-heavy-tailed-memory-traces-in-long-horizon-language.md) | Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory syste... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-heavy-tailed-memory-traces-in-long-horizon-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00010) |
+| `2026-10-02` | AI Research | [Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs](src/content/news/2026-10-02-characterizing-a-configuration-where-inference-time-prm-pruned.md) | PRM- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-characterizing-a-configuration-where-inference-time-prm-pruned/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00047) |
 | `2026-10-01` | Robotics & Hardware | [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](src/content/news/2026-10-01-productive-durable-fungible-how-nvidia-ai.md) | AI factories are | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-productive-durable-fungible-how-nvidia-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories) |
 | `2026-10-01` | AI Research | [MoFlow: Multi-Objective Agentic Workflow Generation](src/content/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation.md) | MoFlow | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38294) |
 | `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
