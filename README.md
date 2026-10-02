@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-01 21:24 UTC` | **Source-linked stories:** `79`
+> **Index generated:** `2026-10-02 01:05 UTC` | **Source-linked stories:** `81`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 270.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 241.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 241.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.3k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) | `★ 356` | `2026-10-01` | Experimental Agent | `TypeScript` | An AI coding agent that reads your code, edits files, runs commands, and reasons thro... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 284` | `2026-10-01` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [awkoy/notion-mcp-server](https://github.com/awkoy/notion-mcp-server) | `★ 172` | `2026-10-01` | Experimental Agent | `TypeScript` | Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to ... |
-| [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | `★ 163` | `2026-10-01` | Indie Tool | `Rust` | The execution control plane for AI agents. Govern every model request, MCP tool call,... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 90` | `2026-10-01` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 334` | `2026-10-02` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
+| [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) | `★ 254` | `2026-10-02` | Local AI | `TypeScript` | Local dashboards and physical controls for AI coding agents — native 3D aquariums, St... |
+| [Mintplex-Labs/anythingllm-mobile](https://github.com/Mintplex-Labs/anythingllm-mobile) | `★ 114` | `2026-10-02` | Experimental Agent | `TypeScript` | An AI Agent that lives in your pocket. Local-first and privacy focused. |
+| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 95` | `2026-10-02` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
+| [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) | `★ 55` | `2026-10-02` | Indie Tool | `JavaScript` | Bilingual catalog of public Grok Bot shares, field cases and tools. Browse by job and... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -45,6 +45,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-01` | Robotics & Hardware | [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](src/content/news/2026-10-01-productive-durable-fungible-how-nvidia-ai.md) | AI factories are | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-productive-durable-fungible-how-nvidia-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories) |
 | `2026-10-01` | AI Research | [MoFlow: Multi-Objective Agentic Workflow Generation](src/content/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation.md) | MoFlow | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38294) |
 | `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
+| `2026-10-01` | Robotics & Hardware | [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](src/content/news/2026-10-02-how-nvidia-gpus-help-accelerate-openais.md) | GPT- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-how-nvidia-gpus-help-accelerate-openais/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast) |
+| `2026-10-01` | AI Research | [Examining Variation in How Guided AI Tutors Resolve Student Impasses](src/content/news/2026-10-02-examining-variation-in-how-guided-ai.md) | When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle,... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-examining-variation-in-how-guided-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38346) |
 | `2026-10-01` | AI Research | [CARAT: Do Materials LLMs Reason or Recite?](src/content/news/2026-10-01-carat-do-materials-llms-reason-or.md) | When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answe... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-carat-do-materials-llms-reason-or/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38340) |
 | `2026-10-01` | AI Research | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](src/content/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon.md) | We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38288) |
 | `2026-10-01` | AI Research | [AI Agents are Vulnerable to Radicalization](src/content/news/2026-10-01-ai-agents-are-vulnerable-to-radicalization.md) | Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can man... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-ai-agents-are-vulnerable-to-radicalization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38296) |
@@ -128,7 +130,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-01 21:24 UTC` | **Yayımlanan haber:** `79`
+> **Dizin oluşturma:** `2026-10-02 01:05 UTC` | **Yayımlanan haber:** `81`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -141,6 +143,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-01` | Robotics & Hardware | [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](src/content/news/2026-10-01-productive-durable-fungible-how-nvidia-ai.md) | AI factories are | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-productive-durable-fungible-how-nvidia-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories) |
 | `2026-10-01` | AI Research | [MoFlow: Multi-Objective Agentic Workflow Generation](src/content/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation.md) | MoFlow | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38294) |
 | `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
+| `2026-10-01` | Robotics & Hardware | [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](src/content/news/2026-10-02-how-nvidia-gpus-help-accelerate-openais.md) | GPT- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-how-nvidia-gpus-help-accelerate-openais/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast) |
+| `2026-10-01` | AI Research | [Examining Variation in How Guided AI Tutors Resolve Student Impasses](src/content/news/2026-10-02-examining-variation-in-how-guided-ai.md) | When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle,... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-examining-variation-in-how-guided-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38346) |
 | `2026-10-01` | AI Research | [CARAT: Do Materials LLMs Reason or Recite?](src/content/news/2026-10-01-carat-do-materials-llms-reason-or.md) | When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answe... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-carat-do-materials-llms-reason-or/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38340) |
 | `2026-10-01` | AI Research | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](src/content/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon.md) | We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-arex-2-advancing-self-improving-agents-through-long-horizon/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38288) |
 | `2026-10-01` | AI Research | [AI Agents are Vulnerable to Radicalization](src/content/news/2026-10-01-ai-agents-are-vulnerable-to-radicalization.md) | Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can man... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-ai-agents-are-vulnerable-to-radicalization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38296) |

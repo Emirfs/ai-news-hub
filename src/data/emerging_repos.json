@@ -1,82 +1,82 @@
 [
   {
-    "name": "WrongStack/WrongStack",
-    "url": "https://github.com/WrongStack/WrongStack",
-    "stars": 356,
-    "forks": 40,
-    "description": "An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, a...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-01"
-  },
-  {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 284,
-    "forks": 159,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "Vigil-SOC/vigil",
+    "url": "https://github.com/Vigil-SOC/vigil",
+    "stars": 334,
+    "forks": 84,
+    "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-01"
+    "tag": "Local AI",
+    "pushed_at": "2026-10-02"
   },
   {
-    "name": "awkoy/notion-mcp-server",
-    "url": "https://github.com/awkoy/notion-mcp-server",
-    "stars": 172,
-    "forks": 38,
-    "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, b...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-01"
-  },
-  {
-    "name": "GetBusbar/busbar",
-    "url": "https://github.com/GetBusbar/busbar",
-    "stars": 163,
-    "forks": 11,
-    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream action—while keeping yo...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-01"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 90,
-    "forks": 35,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-01"
-  },
-  {
-    "name": "codeofaxel/Kiln",
-    "url": "https://github.com/codeofaxel/Kiln",
-    "stars": 82,
-    "forks": 16,
-    "description": "Describe it or draw it — Kiln makes it real. The open-source MCP server for 3D printing: AI agents (Claude, Codex, Cursor, or any MCP client...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-01"
-  },
-  {
-    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "stars": 62,
-    "forks": 7,
-    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-01"
-  },
-  {
-    "name": "boxabirds/awesome-local-ai",
-    "url": "https://github.com/boxabirds/awesome-local-ai",
-    "stars": 47,
-    "forks": 3,
-    "description": "Various configurations for optimal Local AI usage. ",
+    "name": "puritysb/AgentDeck",
+    "url": "https://github.com/puritysb/AgentDeck",
+    "stars": 254,
+    "forks": 52,
+    "description": "Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED dis...",
     "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-01"
+    "pushed_at": "2026-10-02"
+  },
+  {
+    "name": "Mintplex-Labs/anythingllm-mobile",
+    "url": "https://github.com/Mintplex-Labs/anythingllm-mobile",
+    "stars": 114,
+    "forks": 32,
+    "description": "An AI Agent that lives in your pocket. Local-first and privacy focused.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-02"
+  },
+  {
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 95,
+    "forks": 34,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-02"
+  },
+  {
+    "name": "majiayu000/awesome-grok-bot",
+    "url": "https://github.com/majiayu000/awesome-grok-bot",
+    "stars": 55,
+    "forks": 10,
+    "description": "Bilingual catalog of public Grok Bot shares, field cases and tools. Browse by job and shelf, preview on x.ai, then Add.",
+    "language": "JavaScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-02"
+  },
+  {
+    "name": "KongFangXun/sofagent",
+    "url": "https://github.com/KongFangXun/sofagent",
+    "stars": 51,
+    "forks": 9,
+    "description": "sofagent is an open-source FDE Harness for AI coding agents — on entry, write your business judgment into files (workflows, ontology, AI nod...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-02"
+  },
+  {
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 44,
+    "forks": 3,
+    "description": "LLM server for one RTX 5090. Runs Qwen3.8-Flash-Next (512-expert MoE) on a single 32 GB card at 75-80 tok/s. Decodes 17-191 % faster than ll...",
+    "language": "C++",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-02"
+  },
+  {
+    "name": "AtomiJD/jdBasic",
+    "url": "https://github.com/AtomiJD/jdBasic",
+    "stars": 18,
+    "forks": 1,
+    "description": "BASIC reborn for the AI era: APL-style arrays, SDL3 games, native LLVM compile, Win32 forms, local LLMs, and a built-in MCP server your AI a...",
+    "language": "C++",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-02"
   }
 ]
