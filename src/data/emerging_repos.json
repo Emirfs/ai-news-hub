@@ -1,82 +1,82 @@
 [
   {
-    "name": "VasiHemanth/tokentelemetry",
-    "url": "https://github.com/VasiHemanth/tokentelemetry",
-    "stars": 375,
-    "forks": 64,
-    "description": "Token telemetry dashboard for AI autonomous and coding agents — tracks tokens, sessions, tool calls & reasoning across Hermes agent, Claude ...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 216,
-    "forks": 36,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "oryx-labs/oryxos",
-    "url": "https://github.com/oryx-labs/oryxos",
-    "stars": 183,
-    "forks": 115,
-    "description": "OryxOS is an open-source Distributed AI Agent OS",
-    "language": "Java",
+    "name": "lambda-symbolics/autolith",
+    "url": "https://github.com/lambda-symbolics/autolith",
+    "stars": 380,
+    "forks": 28,
+    "description": "Autolith is a self-modifiable general purpose Lisp AI agent",
+    "language": "Common Lisp",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-03"
   },
   {
-    "name": "ColinGPT9/clips-studio",
-    "url": "https://github.com/ColinGPT9/clips-studio",
-    "stars": 81,
-    "forks": 17,
-    "description": "Clips Kitty: Free open-source AI video clipper. Local Opus Clip alternative (also Klap & Vizard) that turns Twitch, Kick & YouTube streams i...",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 283,
+    "forks": 160,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "michellzappa/headroom",
+    "url": "https://github.com/michellzappa/headroom",
+    "stars": 265,
+    "forks": 18,
+    "description": "Local-first AI coding quotas and ship status, on your menu bar, iPhone, Watch and an ESP32 desk display.",
     "language": "Python",
     "tag": "Local AI",
     "pushed_at": "2026-10-03"
   },
   {
-    "name": "WilliamSmithEdward/xlide_vscode",
-    "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-    "stars": 67,
+    "name": "yologdev/yoagent",
+    "url": "https://github.com/yologdev/yoagent",
+    "stars": 263,
+    "forks": 38,
+    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done.",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "Oleafly/Oleafly",
+    "url": "https://github.com/Oleafly/Oleafly",
+    "stars": 195,
+    "forks": 21,
+    "description": "The local-first AI assisted research workspace for scientific writing & publishing. Research, Write, Compile, Verify and Publish in LaTeX • ...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 93,
+    "forks": 12,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "Gaurox/FrameShift",
+    "url": "https://github.com/Gaurox/FrameShift",
+    "stars": 93,
     "forks": 5,
-    "description": "Excel VBA integration for VS Code - Tree View / Full Direct VBA Read+Write / LiveShare Compatible / Direct Agentic AI Integrations",
-    "language": "TypeScript",
+    "description": "Offline media processing utility powered by FFmpeg, local AI, and fast right-click workflows.",
+    "language": "C#",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "paveldevyatov/refund-anything-ai-prompt",
+    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+    "stars": 84,
+    "forks": 4,
+    "description": "AI prompt & agent skill that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second...",
+    "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "BLACKIELF/AgentHub-AiGoodBro",
-    "url": "https://github.com/BLACKIELF/AgentHub-AiGoodBro",
-    "stars": 63,
-    "forks": 0,
-    "description": "AiGoodBro 2.2 · AgentHub：个人自用的 macOS AI 工作台，查看多账号额度、Token 用量、本机 CLI 与重置提醒，并提供可选本地反代。代码来源与许可证有据可查。",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "openmake/openmake_llm",
-    "url": "https://github.com/openmake/openmake_llm",
-    "stars": 43,
-    "forks": 7,
-    "description": "Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifa...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "AgentsKit-io/agentskit",
-    "url": "https://github.com/AgentsKit-io/agentskit",
-    "stars": 34,
-    "forks": 3,
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, tools, skills, memory...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-03"
   }
 ]
