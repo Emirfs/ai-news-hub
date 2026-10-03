@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-03 13:56 UTC` | **Source-linked stories:** `95`
+> **Index generated:** `2026-10-03 18:00 UTC` | **Source-linked stories:** `97`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 271.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 272.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 242.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 242.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [lambda-symbolics/autolith](https://github.com/lambda-symbolics/autolith) | `★ 380` | `2026-10-03` | Experimental Agent | `Common Lisp` | Autolith is a self-modifiable general purpose Lisp AI agent |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 283` | `2026-10-03` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [ChristopherKahler/base](https://github.com/ChristopherKahler/base) | `★ 282` | `2026-10-03` | Indie Tool | `Rust` | AI builder operating system. Turn Claude Code from a per-session tool into a workspac... |
-| [xiayu1987/noobot](https://github.com/xiayu1987/noobot) | `★ 197` | `2026-10-03` | Indie Tool | `JavaScript` | Cheapest Money-Saving Self-hosted AI agent workspace with tool calling, MCP, multi-mo... |
-| [looptroop-ai/LoopTroop](https://github.com/looptroop-ai/LoopTroop) | `★ 155` | `2026-10-03` | Local AI | `TypeScript` | Local AI coding orchestration for repo-scale work: LLM-council planning, Ralph-loop r... |
+| [VasiHemanth/tokentelemetry](https://github.com/VasiHemanth/tokentelemetry) | `★ 375` | `2026-10-03` | Indie Tool | `Python` | Token telemetry dashboard for AI autonomous and coding agents — tracks tokens, sessio... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 216` | `2026-10-03` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [oryx-labs/oryxos](https://github.com/oryx-labs/oryxos) | `★ 183` | `2026-10-03` | Experimental Agent | `Java` | OryxOS is an open-source Distributed AI Agent OS |
+| [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | `★ 81` | `2026-10-03` | Local AI | `Python` | Clips Kitty: Free open-source AI video clipper. Local Opus Clip alternative (also Kla... |
+| [WilliamSmithEdward/xlide_vscode](https://github.com/WilliamSmithEdward/xlide_vscode) | `★ 67` | `2026-10-03` | Experimental Agent | `TypeScript` | Excel VBA integration for VS Code - Tree View / Full Direct VBA Read+Write / LiveShar... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-03` | AI Research | [\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](src/content/news/2026-10-03-very-likely-means-uncertain-how-llms.md) | Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantifi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-very-likely-means-uncertain-how-llms/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00083) |
+| `2026-10-03` | AI Research | [Uncertainty-Aware Learning from Multi-Expert Interval Targets](src/content/news/2026-10-03-uncertainty-aware-learning-from-multi-expert-interval-targets.md) | Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plau... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-uncertainty-aware-learning-from-multi-expert-interval-targets/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00102) |
 | `2026-10-03` | AI Research | [SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials](src/content/news/2026-10-03-sw-kan-kolmogorov-arnold-networks-with-stieltjes-wigert-q-orthogonal.md) | Kolmogorov-Arnold Networks | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-sw-kan-kolmogorov-arnold-networks-with-stieltjes-wigert-q-orthogonal/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00050) |
 | `2026-10-03` | AI Research | [How Far is Adam from Natural Gradient Descent?](src/content/news/2026-10-03-how-far-is-adam-from-natural.md) | Adam's geometric | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-how-far-is-adam-from-natural/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00004) |
 | `2026-10-03` | AI Research | [Format-Aware Fusion for Fast FP4 Pretraining](src/content/news/2026-10-03-format-aware-fusion-for-fast-fp4-pretraining.md) | Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-format-aware-fusion-for-fast-fp4-pretraining/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00053) |
@@ -144,7 +146,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-03 13:56 UTC` | **Yayımlanan haber:** `95`
+> **Dizin oluşturma:** `2026-10-03 18:00 UTC` | **Yayımlanan haber:** `97`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -154,6 +156,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-03` | AI Research | [\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](src/content/news/2026-10-03-very-likely-means-uncertain-how-llms.md) | Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantifi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-very-likely-means-uncertain-how-llms/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00083) |
+| `2026-10-03` | AI Research | [Uncertainty-Aware Learning from Multi-Expert Interval Targets](src/content/news/2026-10-03-uncertainty-aware-learning-from-multi-expert-interval-targets.md) | Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plau... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-uncertainty-aware-learning-from-multi-expert-interval-targets/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00102) |
 | `2026-10-03` | AI Research | [SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials](src/content/news/2026-10-03-sw-kan-kolmogorov-arnold-networks-with-stieltjes-wigert-q-orthogonal.md) | Kolmogorov-Arnold Networks | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-sw-kan-kolmogorov-arnold-networks-with-stieltjes-wigert-q-orthogonal/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00050) |
 | `2026-10-03` | AI Research | [How Far is Adam from Natural Gradient Descent?](src/content/news/2026-10-03-how-far-is-adam-from-natural.md) | Adam's geometric | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-how-far-is-adam-from-natural/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00004) |
 | `2026-10-03` | AI Research | [Format-Aware Fusion for Fast FP4 Pretraining](src/content/news/2026-10-03-format-aware-fusion-for-fast-fp4-pretraining.md) | Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-format-aware-fusion-for-fast-fp4-pretraining/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00053) |
