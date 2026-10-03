@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-02 23:17 UTC` | **Source-linked stories:** `89`
+> **Index generated:** `2026-10-03 02:21 UTC` | **Source-linked stories:** `91`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 271.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 271.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.8k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 242.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 242.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | `★ 411` | `2026-10-02` | Local AI | `TypeScript` | Local AI song generator with an editable score — YuE2 on your GPU: full songs with vo... |
-| [microsoft/agent-host-protocol](https://github.com/microsoft/agent-host-protocol) | `★ 384` | `2026-10-02` | Experimental Agent | `TypeScript` | Synchronized multi-client state for AI agent sessions |
-| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 338` | `2026-10-02` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 283` | `2026-10-02` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 221` | `2026-10-02` | Indie Tool | `Rust` | Local-first MCP gateway. One port for every tool and every AI client: lazy discovery ... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 283` | `2026-10-03` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) | `★ 240` | `2026-10-03` | Indie Tool | `Python` | Provide AI agents with full Tor network access and dark web data through a zero-confi... |
+| [roy-tong/AgentMeasure](https://github.com/roy-tong/AgentMeasure) | `★ 218` | `2026-10-03` | Indie Tool | `Python` | Open measurement infrastructure for AI agents. Our audit of 110+ usage tools found 45... |
+| [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | `★ 168` | `2026-10-03` | Indie Tool | `Rust` | The execution control plane for AI agents. Govern every model request, MCP tool call,... |
+| [saihhold-zhao/polox_ai](https://github.com/saihhold-zhao/polox_ai) | `★ 85` | `2026-10-03` | Experimental Agent | `TypeScript` | An open-source, agent-native platform for multimodal AI generation, built on DeepSeek... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -49,7 +49,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-02` | AI Research | [Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?](src/content/news/2026-10-02-measuring-the-microtask-eligibility-gap-when.md) | Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large lan... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-measuring-the-microtask-eligibility-gap-when/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00025) |
 | `2026-10-02` | AI Research | [K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook](src/content/news/2026-10-02-k-dense-byok-an-open-source-ai-research.md) | K-Dense BYOK | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-k-dense-byok-an-open-source-ai-research/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00074) |
 | `2026-10-02` | AI Research | [Heavy-Tailed Memory Traces in Long-Horizon Language Agents](src/content/news/2026-10-02-heavy-tailed-memory-traces-in-long-horizon-language.md) | Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory syste... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-heavy-tailed-memory-traces-in-long-horizon-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00010) |
+| `2026-10-02` | AI Research | [EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs](src/content/news/2026-10-03-evigraph-proof-carrying-selective-recommendation-over-temporal.md) | Public-service recommendations require evidence that matches the requested service, scope, and date. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-evigraph-proof-carrying-selective-recommendation-over-temporal/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00212) |
 | `2026-10-02` | AI Research | [Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs](src/content/news/2026-10-02-characterizing-a-configuration-where-inference-time-prm-pruned.md) | PRM- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-characterizing-a-configuration-where-inference-time-prm-pruned/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00047) |
+| `2026-10-02` | AI Research | [Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying](src/content/news/2026-10-03-build2sparql-a-large-scale-text-to-sparql-benchmark-dataset.md) | Build2SPARQL | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-build2sparql-a-large-scale-text-to-sparql-benchmark-dataset/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00224) |
 | `2026-10-01` | Robotics & Hardware | [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](src/content/news/2026-10-01-productive-durable-fungible-how-nvidia-ai.md) | AI factories are | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-productive-durable-fungible-how-nvidia-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories) |
 | `2026-10-01` | AI Research | [MoFlow: Multi-Objective Agentic Workflow Generation](src/content/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation.md) | MoFlow | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38294) |
 | `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |
@@ -138,7 +140,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-02 23:17 UTC` | **Yayımlanan haber:** `89`
+> **Dizin oluşturma:** `2026-10-03 02:21 UTC` | **Yayımlanan haber:** `91`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -155,7 +157,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-02` | AI Research | [Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?](src/content/news/2026-10-02-measuring-the-microtask-eligibility-gap-when.md) | Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large lan... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-measuring-the-microtask-eligibility-gap-when/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00025) |
 | `2026-10-02` | AI Research | [K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook](src/content/news/2026-10-02-k-dense-byok-an-open-source-ai-research.md) | K-Dense BYOK | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-k-dense-byok-an-open-source-ai-research/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00074) |
 | `2026-10-02` | AI Research | [Heavy-Tailed Memory Traces in Long-Horizon Language Agents](src/content/news/2026-10-02-heavy-tailed-memory-traces-in-long-horizon-language.md) | Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory syste... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-heavy-tailed-memory-traces-in-long-horizon-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00010) |
+| `2026-10-02` | AI Research | [EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs](src/content/news/2026-10-03-evigraph-proof-carrying-selective-recommendation-over-temporal.md) | Public-service recommendations require evidence that matches the requested service, scope, and date. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-evigraph-proof-carrying-selective-recommendation-over-temporal/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00212) |
 | `2026-10-02` | AI Research | [Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs](src/content/news/2026-10-02-characterizing-a-configuration-where-inference-time-prm-pruned.md) | PRM- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-characterizing-a-configuration-where-inference-time-prm-pruned/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00047) |
+| `2026-10-02` | AI Research | [Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying](src/content/news/2026-10-03-build2sparql-a-large-scale-text-to-sparql-benchmark-dataset.md) | Build2SPARQL | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-build2sparql-a-large-scale-text-to-sparql-benchmark-dataset/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00224) |
 | `2026-10-01` | Robotics & Hardware | [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](src/content/news/2026-10-01-productive-durable-fungible-how-nvidia-ai.md) | AI factories are | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-productive-durable-fungible-how-nvidia-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories) |
 | `2026-10-01` | AI Research | [MoFlow: Multi-Objective Agentic Workflow Generation](src/content/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation.md) | MoFlow | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-moflow-multi-objective-agentic-workflow-generation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38294) |
 | `2026-10-01` | AI Research | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](src/content/news/2026-10-01-improving-ocr-faithfulness-via-gated-and.md) | Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-01-improving-ocr-faithfulness-via-gated-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2609.38282) |

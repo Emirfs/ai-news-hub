@@ -1,35 +1,5 @@
 [
   {
-    "name": "timoncool/YuE2-Studio",
-    "url": "https://github.com/timoncool/YuE2-Studio",
-    "stars": 411,
-    "forks": 36,
-    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-02"
-  },
-  {
-    "name": "microsoft/agent-host-protocol",
-    "url": "https://github.com/microsoft/agent-host-protocol",
-    "stars": 384,
-    "forks": 136,
-    "description": "Synchronized multi-client state for AI agent sessions",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-02"
-  },
-  {
-    "name": "Vigil-SOC/vigil",
-    "url": "https://github.com/Vigil-SOC/vigil",
-    "stars": 338,
-    "forks": 84,
-    "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-02"
-  },
-  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 283,
@@ -37,46 +7,76 @@
     "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-02"
+    "pushed_at": "2026-10-03"
   },
   {
-    "name": "btsouth/toolport",
-    "url": "https://github.com/btsouth/toolport",
-    "stars": 221,
-    "forks": 60,
-    "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secr...",
+    "name": "christinminor459/OnionClaw",
+    "url": "https://github.com/christinminor459/OnionClaw",
+    "stars": 240,
+    "forks": 66,
+    "description": "Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "roy-tong/AgentMeasure",
+    "url": "https://github.com/roy-tong/AgentMeasure",
+    "stars": 218,
+    "forks": 4,
+    "description": "Open measurement infrastructure for AI agents. Our audit of 110+ usage tools found 45+ verified billing bugs, with 23 fixes merged or accept...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "GetBusbar/busbar",
+    "url": "https://github.com/GetBusbar/busbar",
+    "stars": 168,
+    "forks": 11,
+    "description": "The execution control plane for AI agents. Govern every model request, MCP tool call, A2A delegation, and downstream action—while keeping yo...",
     "language": "Rust",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-02"
+    "pushed_at": "2026-10-03"
   },
   {
-    "name": "NVIDIA/NeMo-Relay",
-    "url": "https://github.com/NVIDIA/NeMo-Relay",
-    "stars": 188,
-    "forks": 78,
-    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-02"
-  },
-  {
-    "name": "edgehero/pi-dispatch",
-    "url": "https://github.com/edgehero/pi-dispatch",
-    "stars": 178,
-    "forks": 10,
-    "description": "Run the pi coding agent as a self-hosted service: jobs from cron, the CLI, or GitHub, GitLab, Forgejo and Azure DevOps events, each in a loc...",
-    "language": "JavaScript",
+    "name": "saihhold-zhao/polox_ai",
+    "url": "https://github.com/saihhold-zhao/polox_ai",
+    "stars": 85,
+    "forks": 8,
+    "description": "An open-source, agent-native platform for multimodal AI generation, built on DeepSeek Harness. Every interaction lives in agent conversation...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-02"
+    "pushed_at": "2026-10-03"
   },
   {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 90,
-    "forks": 35,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "name": "Skyltliu/LocoAgent",
+    "url": "https://github.com/Skyltliu/LocoAgent",
+    "stars": 48,
+    "forks": 1,
+    "description": "A lightweight coding agent 🧑‍💻 built from scratch, with tool calling, session persistence, workspace context, memory, and multi-provider LLM...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "hanjianhua44/Awesome-VLA-Papers",
+    "url": "https://github.com/hanjianhua44/Awesome-VLA-Papers",
+    "stars": 29,
+    "forks": 2,
+    "description": "A curated collection of papers on Vision-Language-Action (VLA) models for autonomous driving and robotics",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-02"
+    "pushed_at": "2026-10-03"
+  },
+  {
+    "name": "SuperdeMan/cockpit-agent",
+    "url": "https://github.com/SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "forks": 1,
+    "description": "面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行。",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-03"
   }
 ]
