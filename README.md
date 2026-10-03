@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-03 02:21 UTC` | **Source-linked stories:** `91`
+> **Index generated:** `2026-10-03 08:34 UTC` | **Source-linked stories:** `93`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 271.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 271.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 250.8k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 242.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 242.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Lyellr88/marm-memory](https://github.com/Lyellr88/marm-memory) | `★ 411` | `2026-10-03` | Local AI | `Python` | Local-first 3-in-1 AI memory layer & MCP server for Claude Code, Codex, Grok, Gemini,... |
 | [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 283` | `2026-10-03` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) | `★ 240` | `2026-10-03` | Indie Tool | `Python` | Provide AI agents with full Tor network access and dark web data through a zero-confi... |
-| [roy-tong/AgentMeasure](https://github.com/roy-tong/AgentMeasure) | `★ 218` | `2026-10-03` | Indie Tool | `Python` | Open measurement infrastructure for AI agents. Our audit of 110+ usage tools found 45... |
-| [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | `★ 168` | `2026-10-03` | Indie Tool | `Rust` | The execution control plane for AI agents. Govern every model request, MCP tool call,... |
-| [saihhold-zhao/polox_ai](https://github.com/saihhold-zhao/polox_ai) | `★ 85` | `2026-10-03` | Experimental Agent | `TypeScript` | An open-source, agent-native platform for multimodal AI generation, built on DeepSeek... |
+| [ChristopherKahler/base](https://github.com/ChristopherKahler/base) | `★ 282` | `2026-10-03` | Indie Tool | `Rust` | AI builder operating system. Turn Claude Code from a per-session tool into a workspac... |
+| [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | `★ 262` | `2026-10-03` | Indie Tool | `Go` | AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memo... |
+| [zhaozijie2022/seqwm](https://github.com/zhaozijie2022/seqwm) | `★ 119` | `2026-10-03` | Embodied AI | `Python` | Offical implementation of ICLR'26 paper "Empowering Multi-Robot Cooperation via Seque... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-03` | AI Research | [How Far is Adam from Natural Gradient Descent?](src/content/news/2026-10-03-how-far-is-adam-from-natural.md) | Adam's geometric | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-how-far-is-adam-from-natural/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00004) |
+| `2026-10-03` | AI Research | [Fast Polynomial Transcendentals for LLMs](src/content/news/2026-10-03-fast-polynomial-transcendentals-for-llms.md) | Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates,... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-fast-polynomial-transcendentals-for-llms/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00049) |
 | `2026-10-02` | AI Research | [When Do Causal World Models Help Modular LLM Agents](src/content/news/2026-10-02-when-do-causal-world-models-help.md) | LLM agents | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-when-do-causal-world-models-help/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00012) |
 | `2026-10-02` | AI Research | [What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA](src/content/news/2026-10-02-what-do-rationales-communicate-a-message-intervention.md) | On 40 | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-what-do-rationales-communicate-a-message-intervention/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00018) |
 | `2026-10-02` | AI Research | [Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks](src/content/news/2026-10-02-scientific-agents-evaluating-profession-specific-system-prompts.md) | Detailed profession- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-02-scientific-agents-evaluating-profession-specific-system-prompts/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00084) |
@@ -140,7 +142,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-03 02:21 UTC` | **Yayımlanan haber:** `91`
+> **Dizin oluşturma:** `2026-10-03 08:34 UTC` | **Yayımlanan haber:** `93`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -150,6 +152,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-03` | AI Research | [How Far is Adam from Natural Gradient Descent?](src/content/news/2026-10-03-how-far-is-adam-from-natural.md) | Adam's geometric | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-how-far-is-adam-from-natural/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00004) |
+| `2026-10-03` | AI Research | [Fast Polynomial Transcendentals for LLMs](src/content/news/2026-10-03-fast-polynomial-transcendentals-for-llms.md) | Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates,... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-fast-polynomial-transcendentals-for-llms/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00049) |
 | `2026-10-02` | AI Research | [When Do Causal World Models Help Modular LLM Agents](src/content/news/2026-10-02-when-do-causal-world-models-help.md) | LLM agents | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-when-do-causal-world-models-help/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00012) |
 | `2026-10-02` | AI Research | [What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA](src/content/news/2026-10-02-what-do-rationales-communicate-a-message-intervention.md) | On 40 | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-what-do-rationales-communicate-a-message-intervention/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00018) |
 | `2026-10-02` | AI Research | [Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks](src/content/news/2026-10-02-scientific-agents-evaluating-profession-specific-system-prompts.md) | Detailed profession- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-02-scientific-agents-evaluating-profession-specific-system-prompts/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.00084) |
