@@ -1,5 +1,15 @@
 [
   {
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 291,
+    "forks": 34,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-04"
+  },
+  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 284,
@@ -10,73 +20,63 @@
     "pushed_at": "2026-10-04"
   },
   {
-    "name": "wadeKeith/Awesome-Embodied-AI",
-    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 250,
-    "forks": 17,
-    "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
-    "language": "Python",
+    "name": "Jelatine/JellyCAD",
+    "url": "https://github.com/Jelatine/JellyCAD",
+    "stars": 179,
+    "forks": 49,
+    "description": "Modern open-source programmable CAD software designed for programmers, robotics developers, and parametric modeling enthusiasts.",
+    "language": "C++",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-04"
   },
   {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 216,
-    "forks": 35,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-04"
-  },
-  {
-    "name": "gollem-dev/gollem",
-    "url": "https://github.com/gollem-dev/gollem",
-    "stars": 199,
-    "forks": 13,
-    "description": "Go framework for agentic AI app with MCP and built-in tools",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-04"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 90,
-    "forks": 35,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-04"
-  },
-  {
-    "name": "magicnight/Mac-MLX",
-    "url": "https://github.com/magicnight/Mac-MLX",
-    "stars": 75,
-    "forks": 6,
-    "description": "macMLX brings local LLM inference to Apple Silicon with a first-class native macOS experience. No cloud, no telemetry, no Electron — just yo...",
+    "name": "canivel/dynolab",
+    "url": "https://github.com/canivel/dynolab",
+    "stars": 165,
+    "forks": 164,
+    "description": "Dyno Lab — an AI safety, alignment and interpretability research workbench for Apple Silicon. Explore activations, probes, SAEs and interven...",
     "language": "Swift",
     "tag": "Local AI",
     "pushed_at": "2026-10-04"
   },
   {
-    "name": "Bredrumb/TomoriBot",
-    "url": "https://github.com/Bredrumb/TomoriBot",
-    "stars": 53,
-    "forks": 12,
-    "description": "A highly customizable personal AI assistant for Discord featuring smart agentic AI features such as memory, personas, tool usage, and more! ...",
+    "name": "WilliamSmithEdward/xlide_vscode",
+    "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+    "stars": 67,
+    "forks": 5,
+    "description": "Excel VBA integration for VS Code - Tree View / Full Direct VBA Read+Write / LiveShare Compatible / Direct Agentic AI Integrations",
     "language": "TypeScript",
-    "tag": "Indie Tool",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-04"
   },
   {
-    "name": "zhixuli0406/DuDuClaw",
-    "url": "https://github.com/zhixuli0406/DuDuClaw",
-    "stars": 49,
-    "forks": 5,
-    "description": "Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Claude/GPT alternative...",
-    "language": "Rust",
-    "tag": "Indie Tool",
+    "name": "LunarWerxs/AgentHydra",
+    "url": "https://github.com/LunarWerxs/AgentHydra",
+    "stars": 55,
+    "forks": 3,
+    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedule and isolated Claud...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "Nurkan1/Anatria-3D",
+    "url": "https://github.com/Nurkan1/Anatria-3D",
+    "stars": 50,
+    "forks": 15,
+    "description": "Local-first 3D anatomy atlas with an AI tutor that drives the viewport. Male and female atlases, 3,697 structures, works offline. Free for s...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "trafficflowhq/ohmail",
+    "url": "https://github.com/trafficflowhq/ohmail",
+    "stars": 40,
+    "forks": 1,
+    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-04"
   }
 ]
