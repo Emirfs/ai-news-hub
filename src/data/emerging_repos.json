@@ -1,12 +1,12 @@
 [
   {
-    "name": "bex-co/beancount-io",
-    "url": "https://github.com/bex-co/beancount-io",
-    "stars": 291,
-    "forks": 34,
-    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "name": "yologdev/yoagent",
+    "url": "https://github.com/yologdev/yoagent",
+    "stars": 284,
+    "forks": 40,
+    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done.",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-04"
   },
   {
@@ -30,53 +30,53 @@
     "pushed_at": "2026-10-04"
   },
   {
-    "name": "canivel/dynolab",
-    "url": "https://github.com/canivel/dynolab",
-    "stars": 165,
-    "forks": 164,
-    "description": "Dyno Lab — an AI safety, alignment and interpretability research workbench for Apple Silicon. Explore activations, probes, SAEs and interven...",
-    "language": "Swift",
+    "name": "heypandax/pairlet",
+    "url": "https://github.com/heypandax/pairlet",
+    "stars": 140,
+    "forks": 25,
+    "description": "Pairlet (formerly CC Pocket / cc-pocket) — Continue your local AI coding tasks from phone, tablet, or desktop.",
+    "language": "Kotlin",
     "tag": "Local AI",
     "pushed_at": "2026-10-04"
   },
   {
-    "name": "WilliamSmithEdward/xlide_vscode",
-    "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-    "stars": 67,
-    "forks": 5,
-    "description": "Excel VBA integration for VS Code - Tree View / Full Direct VBA Read+Write / LiveShare Compatible / Direct Agentic AI Integrations",
+    "name": "mjasnikovs/pi-task",
+    "url": "https://github.com/mjasnikovs/pi-task",
+    "stars": 139,
+    "forks": 12,
+    "description": "Deterministic spec-orchestration for local LLMs in the pi coding agent — drives prompts through refine→research→grill→compose→critique, with...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 96,
+    "forks": 35,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "daintreehq/daintree",
+    "url": "https://github.com/daintreehq/daintree",
+    "stars": 75,
+    "forks": 10,
+    "description": "A delegation environment for orchestrating AI coding agents. Manage Claude, Gemini, and Codex sessions across git   worktrees with integrate...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-04"
   },
   {
-    "name": "LunarWerxs/AgentHydra",
-    "url": "https://github.com/LunarWerxs/AgentHydra",
-    "stars": 55,
-    "forks": 3,
-    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedule and isolated Claud...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-04"
-  },
-  {
-    "name": "Nurkan1/Anatria-3D",
-    "url": "https://github.com/Nurkan1/Anatria-3D",
+    "name": "egosteer/robot-stack",
+    "url": "https://github.com/egosteer/robot-stack",
     "stars": 50,
-    "forks": 15,
-    "description": "Local-first 3D anatomy atlas with an AI tutor that drives the viewport. Male and female atlases, 3,697 structures, works offline. Free for s...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-04"
-  },
-  {
-    "name": "trafficflowhq/ohmail",
-    "url": "https://github.com/trafficflowhq/ohmail",
-    "stars": 40,
-    "forks": 1,
-    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
-    "language": "TypeScript",
-    "tag": "Local AI",
+    "forks": 3,
+    "description": "A unified stack for teleoperation, model inference, and human-in-the-loop correction on a bimanual dexterous robot platform.",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-04"
   }
 ]
