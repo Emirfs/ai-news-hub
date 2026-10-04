@@ -1,82 +1,82 @@
 [
   {
-    "name": "lambda-symbolics/autolith",
-    "url": "https://github.com/lambda-symbolics/autolith",
-    "stars": 380,
-    "forks": 28,
-    "description": "Autolith is a self-modifiable general purpose Lisp AI agent",
-    "language": "Common Lisp",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 283,
-    "forks": 160,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "jasoncheng7115/jt-doc-tools",
+    "url": "https://github.com/jasoncheng7115/jt-doc-tools",
+    "stars": 225,
+    "forks": 55,
+    "description": "An all-in-one PDF and Office document platform: self-hosted, open source, under your control. 整合式 PDF / Office 文件處理平台，自架、開源、可控。",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "michellzappa/headroom",
-    "url": "https://github.com/michellzappa/headroom",
-    "stars": 265,
-    "forks": 18,
-    "description": "Local-first AI coding quotas and ship status, on your menu bar, iPhone, Watch and an ESP32 desk display.",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "yologdev/yoagent",
-    "url": "https://github.com/yologdev/yoagent",
-    "stars": 263,
-    "forks": 38,
-    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done.",
-    "language": "Rust",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-03"
+    "pushed_at": "2026-10-04"
   },
   {
-    "name": "Oleafly/Oleafly",
-    "url": "https://github.com/Oleafly/Oleafly",
-    "stars": 195,
-    "forks": 21,
-    "description": "The local-first AI assisted research workspace for scientific writing & publishing. Research, Write, Compile, Verify and Publish in LaTeX • ...",
+    "name": "uw-syfi/vibesys",
+    "url": "https://github.com/uw-syfi/vibesys",
+    "stars": 101,
+    "forks": 33,
+    "description": "Can AI Agents Build Bespoke Systems?",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 79,
+    "forks": 7,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "CambrianTech/continuum",
+    "url": "https://github.com/CambrianTech/continuum",
+    "stars": 32,
+    "forks": 8,
+    "description": "Local-first AI citizens on your own hardware. Teams of continuously-learning personas (Rust core, llama.cpp fork, LoRA genomes) that collabo...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "maida-ai/maida",
+    "url": "https://github.com/maida-ai/maida",
+    "stars": 31,
+    "forks": 8,
+    "description": "Your agent still returns the right answer -- but now it calls 3x the tools. Maida is the pre-merge behavioral regression gate for AI agents:...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "JustLucyHQ/lucy",
+    "url": "https://github.com/JustLucyHQ/lucy",
+    "stars": 22,
+    "forks": 18,
+    "description": "Lucy — open-core, self-hosted AI chat platform. Multi-provider (Claude/OpenAI/Gemini/local), memory, connectors, workflows. Local-first stan...",
     "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-03"
+    "pushed_at": "2026-10-04"
   },
   {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 93,
-    "forks": 12,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "Gaurox/FrameShift",
-    "url": "https://github.com/Gaurox/FrameShift",
-    "stars": 93,
-    "forks": 5,
-    "description": "Offline media processing utility powered by FFmpeg, local AI, and fast right-click workflows.",
-    "language": "C#",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-03"
-  },
-  {
-    "name": "paveldevyatov/refund-anything-ai-prompt",
-    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
-    "stars": 84,
-    "forks": 4,
-    "description": "AI prompt & agent skill that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second...",
+    "name": "SuperdeMan/cockpit-agent",
+    "url": "https://github.com/SuperdeMan/cockpit-agent",
+    "stars": 21,
+    "forks": 1,
+    "description": "面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、HMI和Android双端；LLM 只负责理解与规划，VAL 负责确定性安全执行。",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-03"
+    "pushed_at": "2026-10-04"
+  },
+  {
+    "name": "onmax/vite-doctor",
+    "url": "https://github.com/onmax/vite-doctor",
+    "stars": 20,
+    "forks": 0,
+    "description": " Catch the AI slop your agents ship. ",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-04"
   }
 ]
