@@ -1,43 +1,43 @@
 [
   {
-    "name": "timoncool/YuE2-Studio",
-    "url": "https://github.com/timoncool/YuE2-Studio",
-    "stars": 443,
-    "forks": 39,
-    "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-04"
-  },
-  {
-    "name": "TNY-Robotics/TNY-360",
-    "url": "https://github.com/TNY-Robotics/TNY-360",
-    "stars": 323,
-    "forks": 24,
-    "description": "TNY - 360 Robot source code and 3d models",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-04"
-  },
-  {
-    "name": "Bino5150/lumina",
-    "url": "https://github.com/Bino5150/lumina",
-    "stars": 181,
-    "forks": 22,
-    "description": "A full featured, powerful, and efficient AI Agentic Harness/Desktop Agent app designed from the ground up with local inference on consumer h...",
-    "language": "Python",
+    "name": "IvanWng97/pixtuoid",
+    "url": "https://github.com/IvanWng97/pixtuoid",
+    "stars": 485,
+    "forks": 33,
+    "description": "Terminal pixel-art office for AI coding agents",
+    "language": "Rust",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-04"
+    "pushed_at": "2026-10-05"
   },
   {
-    "name": "Jelatine/JellyCAD",
-    "url": "https://github.com/Jelatine/JellyCAD",
-    "stars": 179,
-    "forks": 49,
-    "description": "Modern open-source programmable CAD software designed for programmers, robotics developers, and parametric modeling enthusiasts.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-04"
+    "name": "cisco-open/network-sketcher",
+    "url": "https://github.com/cisco-open/network-sketcher",
+    "stars": 400,
+    "forks": 24,
+    "description": "Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offline editions for creating network designs and exporting ...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-05"
+  },
+  {
+    "name": "acryldev/acryl",
+    "url": "https://github.com/acryldev/acryl",
+    "stars": 256,
+    "forks": 35,
+    "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-05"
+  },
+  {
+    "name": "NVIDIA/NeMo-Relay",
+    "url": "https://github.com/NVIDIA/NeMo-Relay",
+    "stars": 191,
+    "forks": 78,
+    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-05"
   },
   {
     "name": "grandgaming9321-prog/reality-engine",
@@ -47,36 +47,36 @@
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "language": "HTML",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-04"
+    "pushed_at": "2026-10-05"
   },
   {
-    "name": "flazouh/atelier",
-    "url": "https://github.com/flazouh/atelier",
-    "stars": 90,
-    "forks": 7,
-    "description": "A native code editor for work with coding agents: sessions next to your code, review of each turn, and pull requests.",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-04"
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 113,
+    "forks": 18,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-05"
   },
   {
-    "name": "ALH477/Oligarchy",
-    "url": "https://github.com/ALH477/Oligarchy",
-    "stars": 50,
-    "forks": 3,
-    "description": "Oligarchy is a reproducible NixOS computing platform developed as a daily-driver operating system by its author ALH477, evolving from a pers...",
-    "language": "Nix",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-04"
-  },
-  {
-    "name": "AutomatosAI/automatos-ai",
-    "url": "https://github.com/AutomatosAI/automatos-ai",
-    "stars": 48,
-    "forks": 12,
-    "description": "The open-source AI Operating System — run a workforce of AI agents on your own machine. Any model, 1,000+ tools, a Knowledge Graph, and your...",
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 96,
+    "forks": 35,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
     "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-04"
+    "pushed_at": "2026-10-05"
+  },
+  {
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 79,
+    "forks": 7,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-05"
   }
 ]

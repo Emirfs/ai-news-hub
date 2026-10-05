@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-04 23:15 UTC` | **Source-linked stories:** `101`
+> **Index generated:** `2026-10-05 02:06 UTC` | **Source-linked stories:** `101`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,7 +20,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 272.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 273.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.2k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 243.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | `★ 443` | `2026-10-04` | Local AI | `TypeScript` | Local AI song generator with an editable score — YuE2 on your GPU: full songs with vo... |
-| [TNY-Robotics/TNY-360](https://github.com/TNY-Robotics/TNY-360) | `★ 323` | `2026-10-04` | Embodied AI | `C++` | TNY - 360 Robot source code and 3d models |
-| [Bino5150/lumina](https://github.com/Bino5150/lumina) | `★ 181` | `2026-10-04` | Experimental Agent | `Python` | A full featured, powerful, and efficient AI Agentic Harness/Desktop Agent app designe... |
-| [Jelatine/JellyCAD](https://github.com/Jelatine/JellyCAD) | `★ 179` | `2026-10-04` | Embodied AI | `C++` | Modern open-source programmable CAD software designed for programmers, robotics devel... |
-| [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | `★ 129` | `2026-10-04` | Indie Tool | `HTML` | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) | `★ 485` | `2026-10-05` | Experimental Agent | `Rust` | Terminal pixel-art office for AI coding agents |
+| [cisco-open/network-sketcher](https://github.com/cisco-open/network-sketcher) | `★ 400` | `2026-10-05` | Local AI | `Python` | Network Sketcher is an AI-ready network design tool with Local MCP, Online, and Offli... |
+| [acryldev/acryl](https://github.com/acryldev/acryl) | `★ 256` | `2026-10-05` | Experimental Agent | `TypeScript` | ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canoni... |
+| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 191` | `2026-10-05` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
+| [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | `★ 129` | `2026-10-05` | Indie Tool | `HTML` | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -150,7 +150,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-04 23:15 UTC` | **Yayımlanan haber:** `101`
+> **Dizin oluşturma:** `2026-10-05 02:06 UTC` | **Yayımlanan haber:** `101`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
