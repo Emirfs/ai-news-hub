@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-06 06:53 UTC` | **Source-linked stories:** `107`
+> **Index generated:** `2026-10-06 14:14 UTC` | **Source-linked stories:** `108`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 273.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.5k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 274.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.6k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 169` | `2026-10-06` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [antropos17/Aegis](https://github.com/antropos17/Aegis) | `★ 154` | `2026-10-06` | Experimental Agent | `JavaScript` | Desktop monitoring and local security reviews for AI agents, with opt-in policy-contr... |
-| [PersonalJarvis/PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis) | `★ 99` | `2026-10-06` | Local AI | `Python` | Your AI assistant, built for the agentic era. Open source and local: talk to it, and ... |
-| [Frank-ZY-Dou/awesome-ai-3d-modeling-robotics](https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics) | `★ 65` | `2026-10-06` | Embodied AI | `Python` | Source-linked examples of AI models used for 3D modeling, industrial design and CAD, ... |
-| [ROCm/rocm-cli](https://github.com/ROCm/rocm-cli) | `★ 41` | `2026-10-06` | Local AI | `Rust` | ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with... |
+| [labsai/EDDI](https://github.com/labsai/EDDI) | `★ 384` | `2026-10-06` | Experimental Agent | `Java` | Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orc... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 286` | `2026-10-06` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [jentic/jentic-public-apis](https://github.com/jentic/jentic-public-apis) | `★ 260` | `2026-10-06` | Experimental Agent | `Python` | Directory of OpenAPI specifications for thousands of public APIs. Every API is machin... |
+| [murray17/rovai-ai](https://github.com/murray17/rovai-ai) | `★ 130` | `2026-10-06` | Experimental Agent | `Rust` | Desktop and web workspace for lasting teams of coding agents, with shared conversatio... |
+| [lucidrains/mimic-video](https://github.com/lucidrains/mimic-video) | `★ 125` | `2026-10-06` | Embodied AI | `Python` | Implementation of Mimic-Video, Video-Action Models for SOTA Generalizable Robot Contr... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-06` | Robotics & Hardware | [Why Telecom Operators Are Building Their AI Strategy on Open Models](src/content/news/2026-10-06-why-telecom-operators-are-building-their.md) | Telecom operators are | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-06-why-telecom-operators-are-building-their/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/telecom-operators-open-models) |
 | `2026-10-05` | AI Research | [World Editing: Intervening on Executable Worlds at Increasing Depth](src/content/news/2026-10-06-world-editing-intervening-on-executable-worlds.md) | Interactive world models are increasingly capable of generating environments and acting within them, yet deliberate... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-06-world-editing-intervening-on-executable-worlds/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02331) |
 | `2026-10-05` | AI Research | [The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?](src/content/news/2026-10-05-the-ai-risk-observatory-what-can.md) | Societal resilience research relies on access to useful and actionable data, which motivates our main research ques... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-05-the-ai-risk-observatory-what-can/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02281) |
 | `2026-10-05` | Robotics & Hardware | [From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps](src/content/news/2026-10-05-from-scan-to-treatment-plan-ai.md) | Breast cancer is the most | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-05-from-scan-to-treatment-plan-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-breast-cancer-startups) |
@@ -156,7 +157,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-06 06:53 UTC` | **Yayımlanan haber:** `107`
+> **Dizin oluşturma:** `2026-10-06 14:14 UTC` | **Yayımlanan haber:** `108`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -166,6 +167,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-06` | Robotics & Hardware | [Why Telecom Operators Are Building Their AI Strategy on Open Models](src/content/news/2026-10-06-why-telecom-operators-are-building-their.md) | Telecom operators are | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-06-why-telecom-operators-are-building-their/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/telecom-operators-open-models) |
 | `2026-10-05` | AI Research | [World Editing: Intervening on Executable Worlds at Increasing Depth](src/content/news/2026-10-06-world-editing-intervening-on-executable-worlds.md) | Interactive world models are increasingly capable of generating environments and acting within them, yet deliberate... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-06-world-editing-intervening-on-executable-worlds/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02331) |
 | `2026-10-05` | AI Research | [The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?](src/content/news/2026-10-05-the-ai-risk-observatory-what-can.md) | Societal resilience research relies on access to useful and actionable data, which motivates our main research ques... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-05-the-ai-risk-observatory-what-can/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02281) |
 | `2026-10-05` | Robotics & Hardware | [From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps](src/content/news/2026-10-05-from-scan-to-treatment-plan-ai.md) | Breast cancer is the most | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-05-from-scan-to-treatment-plan-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-breast-cancer-startups) |

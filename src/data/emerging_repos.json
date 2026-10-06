@@ -1,81 +1,81 @@
 [
   {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 169,
-    "forks": 15,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
+    "name": "labsai/EDDI",
+    "url": "https://github.com/labsai/EDDI",
+    "stars": 384,
+    "forks": 129,
+    "description": "Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orchestration, 12+ LLM providers, MCP/A2A protocols, RAG, ...",
+    "language": "Java",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 286,
+    "forks": 160,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "jentic/jentic-public-apis",
+    "url": "https://github.com/jentic/jentic-public-apis",
+    "stars": 260,
+    "forks": 36,
+    "description": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "murray17/rovai-ai",
+    "url": "https://github.com/murray17/rovai-ai",
+    "stars": 130,
+    "forks": 19,
+    "description": "Desktop and web workspace for lasting teams of coding agents, with shared conversations, task delegation, and collaborative memory.",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "lucidrains/mimic-video",
+    "url": "https://github.com/lucidrains/mimic-video",
+    "stars": 125,
+    "forks": 8,
+    "description": "Implementation of Mimic-Video, Video-Action Models for SOTA Generalizable Robot Control Beyond VLAs",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 119,
+    "forks": 18,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "templetongroup/radiant",
+    "url": "https://github.com/templetongroup/radiant",
+    "stars": 113,
+    "forks": 23,
+    "description": "A local coding harness for Mac. Chat with coding agents across cloud and local models, watch every tool call in a live activity feed, and dr...",
+    "language": "JavaScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-06"
   },
   {
-    "name": "antropos17/Aegis",
-    "url": "https://github.com/antropos17/Aegis",
-    "stars": 154,
-    "forks": 24,
-    "description": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; ...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "PersonalJarvis/PersonalJarvis",
-    "url": "https://github.com/PersonalJarvis/PersonalJarvis",
-    "stars": 99,
-    "forks": 45,
-    "description": "Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "stars": 65,
-    "forks": 8,
-    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "ROCm/rocm-cli",
-    "url": "https://github.com/ROCm/rocm-cli",
-    "stars": 41,
-    "forks": 10,
-    "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model s...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "HyperbolicCurve/Awesome-World-Action-Model",
-    "url": "https://github.com/HyperbolicCurve/Awesome-World-Action-Model",
-    "stars": 36,
-    "forks": 3,
-    "description": "A curated list of academic papers and resources on Vision-Language-Action (VLA) and World Action Models (WAM)",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "Moeeryani/Vibe-Coding-Production-Kit",
-    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-    "stars": 35,
-    "forks": 0,
-    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and battle-tested workflo...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "haileyok/victrola",
-    "url": "https://github.com/haileyok/victrola",
-    "stars": 29,
-    "forks": 1,
-    "description": "A self-modifying, TUI and Discord-facing, AI agent harness with parallel tool calling",
-    "language": "Python",
+    "name": "Bredrumb/TomoriBot",
+    "url": "https://github.com/Bredrumb/TomoriBot",
+    "stars": 53,
+    "forks": 12,
+    "description": "A highly customizable personal AI assistant for Discord featuring smart agentic AI features such as memory, personas, tool usage, and more! ...",
+    "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-06"
   }
