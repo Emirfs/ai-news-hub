@@ -1,82 +1,82 @@
 [
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 286,
-    "forks": 160,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-05"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 216,
-    "forks": 38,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-05"
-  },
-  {
-    "name": "NVIDIA/NeMo-Relay",
-    "url": "https://github.com/NVIDIA/NeMo-Relay",
-    "stars": 190,
-    "forks": 77,
-    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-05"
-  },
-  {
-    "name": "Changan-Su/Forsion",
-    "url": "https://github.com/Changan-Su/Forsion",
-    "stars": 147,
-    "forks": 0,
-    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 271,
+    "forks": 17,
+    "description": "The website QA tool for your coding agent. 295+ audit rules across SEO, performance, security, accessibility and agent experience.",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-05"
-  },
-  {
-    "name": "johnxie/awesome-code-docs",
-    "url": "https://github.com/johnxie/awesome-code-docs",
-    "stars": 63,
-    "forks": 10,
-    "description": "203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-source developer platforms",
-    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-05"
+    "pushed_at": "2026-10-06"
   },
   {
-    "name": "umr-xiaomai/SeekClaw",
-    "url": "https://github.com/umr-xiaomai/SeekClaw",
-    "stars": 58,
-    "forks": 12,
-    "description": "一个基于 .NET 10 构建的现代化 AI Agent CLI，采用 Runtime First、Plugin First 架构，支持多模型、MCP、Skill、Tool、流式终端交互和可扩展插件系统。",
-    "language": "C#",
+    "name": "speakeasy-api/gram",
+    "url": "https://github.com/speakeasy-api/gram",
+    "stars": 270,
+    "forks": 35,
+    "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within ...",
+    "language": "Go",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-05"
+    "pushed_at": "2026-10-06"
   },
   {
-    "name": "boxabirds/awesome-local-ai",
-    "url": "https://github.com/boxabirds/awesome-local-ai",
-    "stars": 51,
-    "forks": 4,
-    "description": "Various configurations for optimal Local AI usage. ",
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 169,
+    "forks": 15,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "Bike4Mind/bike4mind",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 88,
+    "forks": 15,
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
     "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-05"
+    "pushed_at": "2026-10-06"
   },
   {
-    "name": "dfrostar/neuralmind",
-    "url": "https://github.com/dfrostar/neuralmind",
-    "stars": 34,
+    "name": "jmrplens/gitlab-mcp-server",
+    "url": "https://github.com/jmrplens/gitlab-mcp-server",
+    "stars": 43,
+    "forks": 5,
+    "description": "Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850+ GitLab actions (1,000+ Enterprise), stdio/HTTP/OAuth,...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "cogitator-ai/Cogitator-AI",
+    "url": "https://github.com/cogitator-ai/Cogitator-AI",
+    "stars": 39,
     "forks": 4,
-    "description": "Persistent memory for AI coding agents. Your agent learns your codebase the way a senior engineer would — what files go together, what you u...",
-    "language": "Python",
+    "description": "AI agents that survive production. Self-hosted TypeScript runtime: multi-provider LLMs, tools with approvals, memory & RAG, durable workflow...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "tale-project/tale",
+    "url": "https://github.com/tale-project/tale",
+    "stars": 31,
+    "forks": 5,
+    "description": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together....",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "damianvtran/local-operator-ui",
+    "url": "https://github.com/damianvtran/local-operator-ui",
+    "stars": 26,
+    "forks": 11,
+    "description": "User interface for the Local Operator on-device agent environment.  Local Operator is an AI agents platform that gives you an integrated tea...",
+    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-05"
+    "pushed_at": "2026-10-06"
   }
 ]

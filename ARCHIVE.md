@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-05 18:32 UTC` | **Source-linked stories:** `105`
+> **Index generated:** `2026-10-06 00:22 UTC` | **Source-linked stories:** `107`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 273.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 273.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 243.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,19 +32,21 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 286` | `2026-10-05` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 216` | `2026-10-05` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
-| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 190` | `2026-10-05` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
-| [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) | `★ 147` | `2026-10-05` | Local AI | `TypeScript` | Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, know... |
-| [johnxie/awesome-code-docs](https://github.com/johnxie/awesome-code-docs) | `★ 63` | `2026-10-05` | Indie Tool | `Python` | 203 deep-dive tutorials for AI agents, LLM frameworks, coding tools, MCP, and open-so... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 271` | `2026-10-06` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 295+ audit rules across SEO, performance, ... |
+| [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | `★ 270` | `2026-10-06` | Experimental Agent | `Go` | Securely scale AI usage across your organization. A single stack to Connect, Secure, ... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 169` | `2026-10-06` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | `★ 88` | `2026-10-06` | Local AI | `TypeScript` | The open-core AI workbench — notebooks, agents, RAG, voice, and images across any mod... |
+| [jmrplens/gitlab-mcp-server](https://github.com/jmrplens/gitlab-mcp-server) | `★ 43` | `2026-10-06` | Indie Tool | `Go` | Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-05` | AI Research | [World Editing: Intervening on Executable Worlds at Increasing Depth](src/content/news/2026-10-06-world-editing-intervening-on-executable-worlds.md) | Interactive world models are increasingly capable of generating environments and acting within them, yet deliberate... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-06-world-editing-intervening-on-executable-worlds/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02331) |
 | `2026-10-05` | AI Research | [The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?](src/content/news/2026-10-05-the-ai-risk-observatory-what-can.md) | Societal resilience research relies on access to useful and actionable data, which motivates our main research ques... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-05-the-ai-risk-observatory-what-can/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02281) |
 | `2026-10-05` | Robotics & Hardware | [From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps](src/content/news/2026-10-05-from-scan-to-treatment-plan-ai.md) | Breast cancer is the most | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-05-from-scan-to-treatment-plan-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-breast-cancer-startups) |
 | `2026-10-05` | AI Research | [Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses](src/content/news/2026-10-05-fast-models-slow-evidence-a-paired.md) | Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieve... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-05-fast-models-slow-evidence-a-paired/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02267) |
+| `2026-10-05` | AI Research | [DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents](src/content/news/2026-10-06-dereact-decomposed-reasoning-and-acting-for.md) | DeRe | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-06-dereact-decomposed-reasoning-and-acting-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02351) |
 | `2026-10-05` | AI Research | [Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](src/content/news/2026-10-05-choosing-before-acting-comparative-value-estimation.md) | Large language models ( | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-05-choosing-before-acting-comparative-value-estimation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02330) |
 | `2026-10-03` | AI Research | [\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](src/content/news/2026-10-03-very-likely-means-uncertain-how-llms.md) | Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantifi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-very-likely-means-uncertain-how-llms/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00083) |
 | `2026-10-03` | AI Research | [Uncertainty-Aware Learning from Multi-Expert Interval Targets](src/content/news/2026-10-03-uncertainty-aware-learning-from-multi-expert-interval-targets.md) | Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plau... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-03-uncertainty-aware-learning-from-multi-expert-interval-targets/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00102) |
@@ -154,7 +156,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-05 18:32 UTC` | **Yayımlanan haber:** `105`
+> **Dizin oluşturma:** `2026-10-06 00:22 UTC` | **Yayımlanan haber:** `107`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -164,9 +166,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-05` | AI Research | [World Editing: Intervening on Executable Worlds at Increasing Depth](src/content/news/2026-10-06-world-editing-intervening-on-executable-worlds.md) | Interactive world models are increasingly capable of generating environments and acting within them, yet deliberate... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-06-world-editing-intervening-on-executable-worlds/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02331) |
 | `2026-10-05` | AI Research | [The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?](src/content/news/2026-10-05-the-ai-risk-observatory-what-can.md) | Societal resilience research relies on access to useful and actionable data, which motivates our main research ques... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-05-the-ai-risk-observatory-what-can/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02281) |
 | `2026-10-05` | Robotics & Hardware | [From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps](src/content/news/2026-10-05-from-scan-to-treatment-plan-ai.md) | Breast cancer is the most | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-05-from-scan-to-treatment-plan-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-breast-cancer-startups) |
 | `2026-10-05` | AI Research | [Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses](src/content/news/2026-10-05-fast-models-slow-evidence-a-paired.md) | Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieve... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-05-fast-models-slow-evidence-a-paired/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02267) |
+| `2026-10-05` | AI Research | [DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents](src/content/news/2026-10-06-dereact-decomposed-reasoning-and-acting-for.md) | DeRe | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-06-dereact-decomposed-reasoning-and-acting-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02351) |
 | `2026-10-05` | AI Research | [Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](src/content/news/2026-10-05-choosing-before-acting-comparative-value-estimation.md) | Large language models ( | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-05-choosing-before-acting-comparative-value-estimation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.02330) |
 | `2026-10-03` | AI Research | [\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](src/content/news/2026-10-03-very-likely-means-uncertain-how-llms.md) | Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantifi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-very-likely-means-uncertain-how-llms/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00083) |
 | `2026-10-03` | AI Research | [Uncertainty-Aware Learning from Multi-Expert Interval Targets](src/content/news/2026-10-03-uncertainty-aware-learning-from-multi-expert-interval-targets.md) | Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plau... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-03-uncertainty-aware-learning-from-multi-expert-interval-targets/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.00102) |
