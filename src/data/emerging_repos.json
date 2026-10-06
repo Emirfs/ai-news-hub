@@ -1,25 +1,5 @@
 [
   {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 271,
-    "forks": 17,
-    "description": "The website QA tool for your coding agent. 295+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "speakeasy-api/gram",
-    "url": "https://github.com/speakeasy-api/gram",
-    "stars": 270,
-    "forks": 35,
-    "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within ...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-06"
-  },
-  {
     "name": "prime-radiant-inc/evener",
     "url": "https://github.com/prime-radiant-inc/evener",
     "stars": 169,
@@ -30,53 +10,73 @@
     "pushed_at": "2026-10-06"
   },
   {
-    "name": "Bike4Mind/bike4mind",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 88,
-    "forks": 15,
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "jmrplens/gitlab-mcp-server",
-    "url": "https://github.com/jmrplens/gitlab-mcp-server",
-    "stars": 43,
-    "forks": 5,
-    "description": "Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850+ GitLab actions (1,000+ Enterprise), stdio/HTTP/OAuth,...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "cogitator-ai/Cogitator-AI",
-    "url": "https://github.com/cogitator-ai/Cogitator-AI",
-    "stars": 39,
-    "forks": 4,
-    "description": "AI agents that survive production. Self-hosted TypeScript runtime: multi-provider LLMs, tools with approvals, memory & RAG, durable workflow...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "tale-project/tale",
-    "url": "https://github.com/tale-project/tale",
-    "stars": 31,
-    "forks": 5,
-    "description": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together....",
-    "language": "TypeScript",
+    "name": "antropos17/Aegis",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 154,
+    "forks": 24,
+    "description": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; ...",
+    "language": "JavaScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-06"
   },
   {
-    "name": "damianvtran/local-operator-ui",
-    "url": "https://github.com/damianvtran/local-operator-ui",
-    "stars": 26,
-    "forks": 11,
-    "description": "User interface for the Local Operator on-device agent environment.  Local Operator is an AI agents platform that gives you an integrated tea...",
-    "language": "TypeScript",
+    "name": "PersonalJarvis/PersonalJarvis",
+    "url": "https://github.com/PersonalJarvis/PersonalJarvis",
+    "stars": 99,
+    "forks": 45,
+    "description": "Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and...",
+    "language": "Python",
     "tag": "Local AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "stars": 65,
+    "forks": 8,
+    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "ROCm/rocm-cli",
+    "url": "https://github.com/ROCm/rocm-cli",
+    "stars": 41,
+    "forks": 10,
+    "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model s...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "HyperbolicCurve/Awesome-World-Action-Model",
+    "url": "https://github.com/HyperbolicCurve/Awesome-World-Action-Model",
+    "stars": 36,
+    "forks": 3,
+    "description": "A curated list of academic papers and resources on Vision-Language-Action (VLA) and World Action Models (WAM)",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "Moeeryani/Vibe-Coding-Production-Kit",
+    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
+    "stars": 35,
+    "forks": 0,
+    "description": "Production-grade vibe coding framework with specs, architecture, AI agents, testing, security, code review, CI/CD, and battle-tested workflo...",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "haileyok/victrola",
+    "url": "https://github.com/haileyok/victrola",
+    "stars": 29,
+    "forks": 1,
+    "description": "A self-modifying, TUI and Discord-facing, AI agent harness with parallel tool calling",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-06"
   }
 ]

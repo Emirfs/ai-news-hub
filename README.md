@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-06 00:22 UTC` | **Source-linked stories:** `107`
+> **Index generated:** `2026-10-06 06:53 UTC` | **Source-linked stories:** `107`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 273.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 273.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 211.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 271` | `2026-10-06` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 295+ audit rules across SEO, performance, ... |
-| [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | `★ 270` | `2026-10-06` | Experimental Agent | `Go` | Securely scale AI usage across your organization. A single stack to Connect, Secure, ... |
 | [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 169` | `2026-10-06` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | `★ 88` | `2026-10-06` | Local AI | `TypeScript` | The open-core AI workbench — notebooks, agents, RAG, voice, and images across any mod... |
-| [jmrplens/gitlab-mcp-server](https://github.com/jmrplens/gitlab-mcp-server) | `★ 43` | `2026-10-06` | Indie Tool | `Go` | Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850... |
+| [antropos17/Aegis](https://github.com/antropos17/Aegis) | `★ 154` | `2026-10-06` | Experimental Agent | `JavaScript` | Desktop monitoring and local security reviews for AI agents, with opt-in policy-contr... |
+| [PersonalJarvis/PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis) | `★ 99` | `2026-10-06` | Local AI | `Python` | Your AI assistant, built for the agentic era. Open source and local: talk to it, and ... |
+| [Frank-ZY-Dou/awesome-ai-3d-modeling-robotics](https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics) | `★ 65` | `2026-10-06` | Embodied AI | `Python` | Source-linked examples of AI models used for 3D modeling, industrial design and CAD, ... |
+| [ROCm/rocm-cli](https://github.com/ROCm/rocm-cli) | `★ 41` | `2026-10-06` | Local AI | `Rust` | ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -156,7 +156,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-06 00:22 UTC` | **Yayımlanan haber:** `107`
+> **Dizin oluşturma:** `2026-10-06 06:53 UTC` | **Yayımlanan haber:** `107`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
