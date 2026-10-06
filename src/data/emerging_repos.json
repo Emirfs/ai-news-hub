@@ -1,81 +1,81 @@
 [
   {
-    "name": "Dicklesworthstone/ntm",
-    "url": "https://github.com/Dicklesworthstone/ntm",
-    "stars": 452,
-    "forks": 70,
-    "description": "Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palet...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "vivekchand/clawmetry",
-    "url": "https://github.com/vivekchand/clawmetry",
-    "stars": 424,
-    "forks": 71,
-    "description": "See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "schmitech/orbit",
-    "url": "https://github.com/schmitech/orbit",
-    "stars": 352,
-    "forks": 58,
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "name": "SeraphimSerapis/tool-eval-bench",
+    "url": "https://github.com/SeraphimSerapis/tool-eval-bench",
+    "stars": 374,
+    "forks": 48,
+    "description": "Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and ...",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-06"
   },
   {
-    "name": "CatCatUncle/openworkbuddy",
-    "url": "https://github.com/CatCatUncle/openworkbuddy",
-    "stars": 264,
-    "forks": 65,
-    "description": "Open-source Claude Cowork / Codex alternative — a local-first AI office agent that turns one request into real PPTX, DOCX, XLSX and HTML fil...",
-    "language": "JavaScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 230,
-    "forks": 31,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "hamedgitty/bloks",
-    "url": "https://github.com/hamedgitty/bloks",
-    "stars": 154,
-    "forks": 30,
-    "description": "A local-first desktop workspace for personal AI agents",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 90,
-    "forks": 35,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 286,
+    "forks": 160,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-06"
   },
   {
-    "name": "cacheplane/threadplane",
-    "url": "https://github.com/cacheplane/threadplane",
-    "stars": 65,
-    "forks": 4,
-    "description": "The open-source thread-plane for agents: chat, durable threads, persistence, human approvals, and generative UI for Angular, on LangGraph an...",
+    "name": "HilbertraumAI/HilbertRaum",
+    "url": "https://github.com/HilbertraumAI/HilbertRaum",
+    "stars": 136,
+    "forks": 11,
+    "description": "AI, fully local on your computer.",
     "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "fazer-ai/agents",
+    "url": "https://github.com/fazer-ai/agents",
+    "stars": 118,
+    "forks": 83,
+    "description": "fazer.ai agents. Apache 2.0.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "OpenWAM/OpenWAM",
+    "url": "https://github.com/OpenWAM/OpenWAM",
+    "stars": 108,
+    "forks": 6,
+    "description": "Extensible video-action world models for robot learning",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "takeshy/obsidian-local-llm-hub",
+    "url": "https://github.com/takeshy/obsidian-local-llm-hub",
+    "stars": 84,
+    "forks": 7,
+    "description": "All-in-one local AI hub for Obsidian — LLM chat with vault tools, MCP servers, RAG, workflow automation, encryption, and edit history. Fully...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "stars": 65,
+    "forks": 8,
+    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-06"
+  },
+  {
+    "name": "hivecommons/hive",
+    "url": "https://github.com/hivecommons/hive",
+    "stars": 64,
+    "forks": 44,
+    "description": "AI agent orchestration for open and closed source — a fully customizable fleet of AI agents covering every level of project maintenance, fro...",
+    "language": "Go",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-06"
   }
