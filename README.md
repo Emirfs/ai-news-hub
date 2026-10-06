@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-06 14:14 UTC` | **Source-linked stories:** `108`
+> **Index generated:** `2026-10-06 19:36 UTC` | **Source-linked stories:** `108`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 274.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 274.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [labsai/EDDI](https://github.com/labsai/EDDI) | `★ 384` | `2026-10-06` | Experimental Agent | `Java` | Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orc... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 286` | `2026-10-06` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [jentic/jentic-public-apis](https://github.com/jentic/jentic-public-apis) | `★ 260` | `2026-10-06` | Experimental Agent | `Python` | Directory of OpenAPI specifications for thousands of public APIs. Every API is machin... |
-| [murray17/rovai-ai](https://github.com/murray17/rovai-ai) | `★ 130` | `2026-10-06` | Experimental Agent | `Rust` | Desktop and web workspace for lasting teams of coding agents, with shared conversatio... |
-| [lucidrains/mimic-video](https://github.com/lucidrains/mimic-video) | `★ 125` | `2026-10-06` | Embodied AI | `Python` | Implementation of Mimic-Video, Video-Action Models for SOTA Generalizable Robot Contr... |
+| [Dicklesworthstone/ntm](https://github.com/Dicklesworthstone/ntm) | `★ 452` | `2026-10-06` | Experimental Agent | `Go` | Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Co... |
+| [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry) | `★ 424` | `2026-10-06` | Experimental Agent | `Python` | See your agent think. Zero-config observability & governance for 30 AI agent runtimes... |
+| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 352` | `2026-10-06` | Indie Tool | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
+| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | `★ 264` | `2026-10-06` | Local AI | `JavaScript` | Open-source Claude Cowork / Codex alternative — a local-first AI office agent that tu... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 230` | `2026-10-06` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -157,7 +157,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-06 14:14 UTC` | **Yayımlanan haber:** `108`
+> **Dizin oluşturma:** `2026-10-06 19:36 UTC` | **Yayımlanan haber:** `108`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
