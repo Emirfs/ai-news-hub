@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-07 09:23 UTC` | **Source-linked stories:** `110`
+> **Index generated:** `2026-10-07 17:02 UTC` | **Source-linked stories:** `112`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 274.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.8k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 274.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.9k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 245.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [gameworkerkim/vibe-investing](https://github.com/gameworkerkim/vibe-investing) | `★ 341` | `2026-10-07` | Indie Tool | `HTML` | AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi... |
-| [yologdev/yoagent](https://github.com/yologdev/yoagent) | `★ 330` | `2026-10-07` | Indie Tool | `Rust` | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 287` | `2026-10-07` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 121` | `2026-10-07` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [OpenWAM/OpenWAM](https://github.com/OpenWAM/OpenWAM) | `★ 116` | `2026-10-07` | Embodied AI | `Python` | Official code for "OpenWAM: An Open Framework for Composable World-Action Models" (St... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 272` | `2026-10-07` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 295+ audit rules across SEO, performance, ... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 230` | `2026-10-07` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [bennyjo/phil](https://github.com/bennyjo/phil) | `★ 198` | `2026-10-07` | Experimental Agent | `Python` | Phil is a self-improving trader: an AI agent that trades short-term prediction market... |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 122` | `2026-10-07` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
+| [devsy-org/devsy](https://github.com/devsy-org/devsy) | `★ 109` | `2026-10-07` | Experimental Agent | `Go` | Deploy secure local and cloud environments for developers and agents |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-07` | AI Research | [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](src/content/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai.md) | Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06923) |
+| `2026-10-07` | AI Research | [Metonymic Circuits for Abstract Concept Grounding in Vision Transformers](src/content/news/2026-10-07-metonymic-circuits-for-abstract-concept-grounding.md) | We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct r... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-07-metonymic-circuits-for-abstract-concept-grounding/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06928) |
 | `2026-10-07` | AI Research | [GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets](src/content/news/2026-10-07-gamego-training-game-dev-agents-with-synthetic.md) | Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end executio... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-07-gamego-training-game-dev-agents-with-synthetic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06910) |
 | `2026-10-07` | AI Research | [FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving](src/content/news/2026-10-07-fluidpd-in-place-elasticity-for-slo-aware-prefill-decode.md) | Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases wit... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-07-fluidpd-in-place-elasticity-for-slo-aware-prefill-decode/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06917) |
 | `2026-10-06` | Robotics & Hardware | [Why Telecom Operators Are Building Their AI Strategy on Open Models](src/content/news/2026-10-06-why-telecom-operators-are-building-their.md) | Telecom operators are | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-06-why-telecom-operators-are-building-their/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/telecom-operators-open-models) |
@@ -159,7 +161,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-07 09:23 UTC` | **Yayımlanan haber:** `110`
+> **Dizin oluşturma:** `2026-10-07 17:02 UTC` | **Yayımlanan haber:** `112`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -169,6 +171,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-07` | AI Research | [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](src/content/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai.md) | Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06923) |
+| `2026-10-07` | AI Research | [Metonymic Circuits for Abstract Concept Grounding in Vision Transformers](src/content/news/2026-10-07-metonymic-circuits-for-abstract-concept-grounding.md) | We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct r... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-07-metonymic-circuits-for-abstract-concept-grounding/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06928) |
 | `2026-10-07` | AI Research | [GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets](src/content/news/2026-10-07-gamego-training-game-dev-agents-with-synthetic.md) | Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end executio... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-07-gamego-training-game-dev-agents-with-synthetic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06910) |
 | `2026-10-07` | AI Research | [FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving](src/content/news/2026-10-07-fluidpd-in-place-elasticity-for-slo-aware-prefill-decode.md) | Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases wit... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-07-fluidpd-in-place-elasticity-for-slo-aware-prefill-decode/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06917) |
 | `2026-10-06` | Robotics & Hardware | [Why Telecom Operators Are Building Their AI Strategy on Open Models](src/content/news/2026-10-06-why-telecom-operators-are-building-their.md) | Telecom operators are | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-06-why-telecom-operators-are-building-their/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/telecom-operators-open-models) |
