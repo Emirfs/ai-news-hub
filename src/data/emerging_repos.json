@@ -1,63 +1,43 @@
 [
   {
-    "name": "SeraphimSerapis/tool-eval-bench",
-    "url": "https://github.com/SeraphimSerapis/tool-eval-bench",
-    "stars": 374,
-    "forks": 48,
-    "description": "Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and ...",
+    "name": "gioblu/NPC-Forge",
+    "url": "https://github.com/gioblu/NPC-Forge",
+    "stars": 256,
+    "forks": 16,
+    "description": "The world's first neuro-symbolic AI agent framework that runs on the CPU even on obsolete hardware.",
     "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-06"
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-07"
   },
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 286,
-    "forks": 160,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 216,
+    "forks": 38,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-06"
+    "pushed_at": "2026-10-07"
   },
   {
-    "name": "HilbertraumAI/HilbertRaum",
-    "url": "https://github.com/HilbertraumAI/HilbertRaum",
-    "stars": 136,
-    "forks": 11,
-    "description": "AI, fully local on your computer.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-06"
+    "name": "gazebosim/gz-sensors",
+    "url": "https://github.com/gazebosim/gz-sensors",
+    "stars": 174,
+    "forks": 105,
+    "description": "Provides numerous sensor models designed to generate realistic data from simulation environments.",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-07"
   },
   {
-    "name": "fazer-ai/agents",
-    "url": "https://github.com/fazer-ai/agents",
-    "stars": 118,
-    "forks": 83,
-    "description": "fazer.ai agents. Apache 2.0.",
+    "name": "sleep2agi/agent-network",
+    "url": "https://github.com/sleep2agi/agent-network",
+    "stars": 84,
+    "forks": 12,
+    "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / Mini...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "OpenWAM/OpenWAM",
-    "url": "https://github.com/OpenWAM/OpenWAM",
-    "stars": 108,
-    "forks": 6,
-    "description": "Extensible video-action world models for robot learning",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-06"
-  },
-  {
-    "name": "takeshy/obsidian-local-llm-hub",
-    "url": "https://github.com/takeshy/obsidian-local-llm-hub",
-    "stars": 84,
-    "forks": 7,
-    "description": "All-in-one local AI hub for Obsidian — LLM chat with vault tools, MCP servers, RAG, workflow automation, encryption, and edit history. Fully...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-06"
+    "pushed_at": "2026-10-07"
   },
   {
     "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
@@ -67,16 +47,36 @@
     "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-06"
+    "pushed_at": "2026-10-07"
   },
   {
-    "name": "hivecommons/hive",
-    "url": "https://github.com/hivecommons/hive",
-    "stars": 64,
-    "forks": 44,
-    "description": "AI agent orchestration for open and closed source — a fully customizable fleet of AI agents covering every level of project maintenance, fro...",
+    "name": "boxabirds/awesome-local-ai",
+    "url": "https://github.com/boxabirds/awesome-local-ai",
+    "stars": 51,
+    "forks": 4,
+    "description": "Various configurations for optimal Local AI usage. ",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-07"
+  },
+  {
+    "name": "trip2g/trip2g",
+    "url": "https://github.com/trip2g/trip2g",
+    "stars": 39,
+    "forks": 2,
+    "description": "Open-source MCP knowledge mesh - self-host your second brain, expose it to AI agents, federate with peers.",
     "language": "Go",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-06"
+    "pushed_at": "2026-10-07"
+  },
+  {
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "forks": 14,
+    "description": "A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-07"
   }
 ]

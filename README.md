@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-06 23:20 UTC` | **Source-linked stories:** `108`
+> **Index generated:** `2026-10-07 02:43 UTC` | **Source-linked stories:** `108`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -22,8 +22,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 274.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 251.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 244.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) | `★ 374` | `2026-10-06` | Indie Tool | `Python` | Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios te... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 286` | `2026-10-06` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [HilbertraumAI/HilbertRaum](https://github.com/HilbertraumAI/HilbertRaum) | `★ 136` | `2026-10-06` | Local AI | `TypeScript` | AI, fully local on your computer. |
-| [fazer-ai/agents](https://github.com/fazer-ai/agents) | `★ 118` | `2026-10-06` | Experimental Agent | `TypeScript` | fazer.ai agents. Apache 2.0. |
-| [OpenWAM/OpenWAM](https://github.com/OpenWAM/OpenWAM) | `★ 108` | `2026-10-06` | Embodied AI | `Python` | Extensible video-action world models for robot learning |
+| [gioblu/NPC-Forge](https://github.com/gioblu/NPC-Forge) | `★ 256` | `2026-10-07` | Experimental Agent | `Python` | The world's first neuro-symbolic AI agent framework that runs on the CPU even on obso... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 216` | `2026-10-07` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors) | `★ 174` | `2026-10-07` | Embodied AI | `C++` | Provides numerous sensor models designed to generate realistic data from simulation e... |
+| [sleep2agi/agent-network](https://github.com/sleep2agi/agent-network) | `★ 84` | `2026-10-07` | Experimental Agent | `TypeScript` | 助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Bui... |
+| [Frank-ZY-Dou/awesome-ai-3d-modeling-robotics](https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics) | `★ 65` | `2026-10-07` | Embodied AI | `Python` | Source-linked examples of AI models used for 3D modeling, industrial design and CAD, ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -157,7 +157,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-06 23:20 UTC` | **Yayımlanan haber:** `108`
+> **Dizin oluşturma:** `2026-10-07 02:43 UTC` | **Yayımlanan haber:** `108`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
