@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-08 16:34 UTC` | **Source-linked stories:** `120`
+> **Index generated:** `2026-10-08 21:33 UTC` | **Source-linked stories:** `122`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -21,10 +21,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 275.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 245.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.0k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 245.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.0k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [AAswordman/Operit2](https://github.com/AAswordman/Operit2) | `★ 435` | `2026-10-08` | Experimental Agent | `Rust` | 全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步 |
+| [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) | `★ 380` | `2026-10-08` | Indie Tool | `Python` | Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios te... |
+| [yologdev/yoagent](https://github.com/yologdev/yoagent) | `★ 341` | `2026-10-08` | Indie Tool | `Rust` | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 272` | `2026-10-08` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 297+ audit rules across SEO, performance, ... |
+| [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) | `★ 129` | `2026-10-08` | Local AI | `Rust` | Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step us... |
 | [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 124` | `2026-10-08` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) | `★ 122` | `2026-10-08` | Experimental Agent | `JavaScript` | 安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 90` | `2026-10-08` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [kiycoh/silica-core](https://github.com/kiycoh/silica-core) | `★ 66` | `2026-10-08` | Indie Tool | `Python` | Retrieval tools for coding agents, no model in the loop: SOTA-competitive files, sear... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -44,6 +44,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-08` | AI Research | [When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models](src/content/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification.md) | Vision-language models ( | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07018) |
 | `2026-10-08` | AI Research | [Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents](src/content/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow.md) | Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07004) |
+| `2026-10-08` | AI Research | [Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking](src/content/news/2026-10-08-offline-ai-modules-voice-first-offline-architecture.md) | The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-offline-ai-modules-voice-first-offline-architecture/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07026) |
+| `2026-10-08` | Robotics & Hardware | [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](src/content/news/2026-10-08-into-the-omniverse-how-developers-turn.md) | Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-into-the-omniverse-how-developers-turn/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents) |
 | `2026-10-08` | AI Research | [EPOCH: Reliable Discovery through Evidence-Governed Search](src/content/news/2026-10-08-epoch-reliable-discovery-through-evidence-governed-search.md) | AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-epoch-reliable-discovery-through-evidence-governed-search/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06986) |
 | `2026-10-08` | AI Research | [Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment](src/content/news/2026-10-08-beyond-refusal-patterns-safe-role-internalization-for.md) | Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-beyond-refusal-patterns-safe-role-internalization-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07023) |
 | `2026-10-07` | AI Research | [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](src/content/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai.md) | Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06923) |
@@ -169,7 +171,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-08 16:34 UTC` | **Yayımlanan haber:** `120`
+> **Dizin oluşturma:** `2026-10-08 21:33 UTC` | **Yayımlanan haber:** `122`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -181,6 +183,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-08` | AI Research | [When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models](src/content/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification.md) | Vision-language models ( | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07018) |
 | `2026-10-08` | AI Research | [Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents](src/content/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow.md) | Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07004) |
+| `2026-10-08` | AI Research | [Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking](src/content/news/2026-10-08-offline-ai-modules-voice-first-offline-architecture.md) | The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-offline-ai-modules-voice-first-offline-architecture/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07026) |
+| `2026-10-08` | Robotics & Hardware | [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](src/content/news/2026-10-08-into-the-omniverse-how-developers-turn.md) | Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-into-the-omniverse-how-developers-turn/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents) |
 | `2026-10-08` | AI Research | [EPOCH: Reliable Discovery through Evidence-Governed Search](src/content/news/2026-10-08-epoch-reliable-discovery-through-evidence-governed-search.md) | AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-epoch-reliable-discovery-through-evidence-governed-search/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06986) |
 | `2026-10-08` | AI Research | [Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment](src/content/news/2026-10-08-beyond-refusal-patterns-safe-role-internalization-for.md) | Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-beyond-refusal-patterns-safe-role-internalization-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07023) |
 | `2026-10-07` | AI Research | [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](src/content/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai.md) | Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06923) |
