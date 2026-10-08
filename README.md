@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-08 09:04 UTC` | **Source-linked stories:** `118`
+> **Index generated:** `2026-10-08 16:34 UTC` | **Source-linked stories:** `120`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 275.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 245.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 275.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 245.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.2k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,18 +32,20 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 354` | `2026-10-08` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 304` | `2026-10-08` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [jentic/jentic-public-apis](https://github.com/jentic/jentic-public-apis) | `★ 261` | `2026-10-08` | Experimental Agent | `Python` | Directory of OpenAPI specifications for thousands of public APIs. Every API is machin... |
-| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 96` | `2026-10-08` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
+| [AAswordman/Operit2](https://github.com/AAswordman/Operit2) | `★ 435` | `2026-10-08` | Experimental Agent | `Rust` | 全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步 |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 124` | `2026-10-08` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
+| [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) | `★ 122` | `2026-10-08` | Experimental Agent | `JavaScript` | 安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 90` | `2026-10-08` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [kiycoh/silica-core](https://github.com/kiycoh/silica-core) | `★ 66` | `2026-10-08` | Indie Tool | `Python` | Retrieval tools for coding agents, no model in the loop: SOTA-competitive files, sear... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-08` | AI Research | [When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models](src/content/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification.md) | Vision-language models ( | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07018) |
 | `2026-10-08` | AI Research | [Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents](src/content/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow.md) | Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07004) |
 | `2026-10-08` | AI Research | [EPOCH: Reliable Discovery through Evidence-Governed Search](src/content/news/2026-10-08-epoch-reliable-discovery-through-evidence-governed-search.md) | AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-epoch-reliable-discovery-through-evidence-governed-search/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06986) |
+| `2026-10-08` | AI Research | [Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment](src/content/news/2026-10-08-beyond-refusal-patterns-safe-role-internalization-for.md) | Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-beyond-refusal-patterns-safe-role-internalization-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07023) |
 | `2026-10-07` | AI Research | [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](src/content/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai.md) | Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06923) |
 | `2026-10-07` | AI Research | [Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction](src/content/news/2026-10-08-principles-that-guide-actions-that-inform.md) | Large language model | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-principles-that-guide-actions-that-inform/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06964) |
 | `2026-10-07` | Robotics & Hardware | [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](src/content/news/2026-10-07-nvidia-microsoft-kick-off-a-new.md) | At a | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-07-nvidia-microsoft-kick-off-a-new/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event) |
@@ -167,7 +169,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-08 09:04 UTC` | **Yayımlanan haber:** `118`
+> **Dizin oluşturma:** `2026-10-08 16:34 UTC` | **Yayımlanan haber:** `120`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -177,8 +179,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-08` | AI Research | [When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models](src/content/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification.md) | Vision-language models ( | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07018) |
 | `2026-10-08` | AI Research | [Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents](src/content/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow.md) | Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07004) |
 | `2026-10-08` | AI Research | [EPOCH: Reliable Discovery through Evidence-Governed Search](src/content/news/2026-10-08-epoch-reliable-discovery-through-evidence-governed-search.md) | AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-epoch-reliable-discovery-through-evidence-governed-search/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06986) |
+| `2026-10-08` | AI Research | [Beyond Refusal Patterns: Safe-Role Internalization for Robust and Generalizable LLM Safety Alignment](src/content/news/2026-10-08-beyond-refusal-patterns-safe-role-internalization-for.md) | Large Language Models (LLMs) have achieved remarkable capabilities but remain vulnerable to jailbreak attacks that ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-beyond-refusal-patterns-safe-role-internalization-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07023) |
 | `2026-10-07` | AI Research | [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](src/content/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai.md) | Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-07-radonc-agent-an-llm-orchestrated-framework-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06923) |
 | `2026-10-07` | AI Research | [Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction](src/content/news/2026-10-08-principles-that-guide-actions-that-inform.md) | Large language model | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-principles-that-guide-actions-that-inform/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.06964) |
 | `2026-10-07` | Robotics & Hardware | [NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents](src/content/news/2026-10-07-nvidia-microsoft-kick-off-a-new.md) | At a | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-07-nvidia-microsoft-kick-off-a-new/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event) |

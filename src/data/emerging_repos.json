@@ -1,42 +1,32 @@
 [
   {
-    "name": "Vigil-SOC/vigil",
-    "url": "https://github.com/Vigil-SOC/vigil",
-    "stars": 354,
-    "forks": 86,
-    "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-08"
-  },
-  {
-    "name": "xorbitsai/xagent",
-    "url": "https://github.com/xorbitsai/xagent",
-    "stars": 304,
-    "forks": 73,
-    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-08"
-  },
-  {
-    "name": "jentic/jentic-public-apis",
-    "url": "https://github.com/jentic/jentic-public-apis",
-    "stars": 261,
-    "forks": 36,
-    "description": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
-    "language": "Python",
+    "name": "AAswordman/Operit2",
+    "url": "https://github.com/AAswordman/Operit2",
+    "stars": 435,
+    "forks": 75,
+    "description": "全平台的AI Agent智能体，在各个平台都有极强的适配性，支持跨平台数据同步",
+    "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-08"
   },
   {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 96,
-    "forks": 12,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 124,
+    "forks": 22,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
     "language": "Python",
-    "tag": "Indie Tool",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-08"
+  },
+  {
+    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
+    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
+    "stars": 122,
+    "forks": 11,
+    "description": "安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感...",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-08"
   },
   {
@@ -50,33 +40,43 @@
     "pushed_at": "2026-10-08"
   },
   {
-    "name": "KanJieTeam/kjdraw",
-    "url": "https://github.com/KanJieTeam/kjdraw",
-    "stars": 68,
-    "forks": 2,
-    "description": "The open-source CAD engine for AI agents. One-line MCP setup for Kimi Code, TraeCode, WorkBuddy and ZCode. Stable object IDs, undoable trans...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-08"
-  },
-  {
-    "name": "nexscope-ai/ecommerce-ai-tools",
-    "url": "https://github.com/nexscope-ai/ecommerce-ai-tools",
-    "stars": 64,
-    "forks": 3,
-    "description": "Open ecommerce AI tools and guides for Amazon review analysis, listing optimization, keyword research, SEO audits, AI image/video generation...",
+    "name": "kiycoh/silica-core",
+    "url": "https://github.com/kiycoh/silica-core",
+    "stars": 66,
+    "forks": 7,
+    "description": "Retrieval tools for coding agents, no model in the loop: SOTA-competitive files, search, read, code_pack and write_note over the folder your...",
     "language": "Python",
-    "tag": "Experimental Agent",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-08"
   },
   {
-    "name": "LunarWerxs/AgentHydra",
-    "url": "https://github.com/LunarWerxs/AgentHydra",
-    "stars": 43,
-    "forks": 2,
-    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedule and isolated Claud...",
+    "name": "boxabirds/awesome-local-ai",
+    "url": "https://github.com/boxabirds/awesome-local-ai",
+    "stars": 51,
+    "forks": 4,
+    "description": "Various configurations for optimal Local AI usage. ",
     "language": "TypeScript",
     "tag": "Local AI",
+    "pushed_at": "2026-10-08"
+  },
+  {
+    "name": "spring-ai-community/spring-ai-a2a",
+    "url": "https://github.com/spring-ai-community/spring-ai-a2a",
+    "stars": 50,
+    "forks": 11,
+    "description": "Spring Boot and Spring integration for building AI agent servers using the A2A Protocol.",
+    "language": "Java",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-08"
+  },
+  {
+    "name": "jmrplens/gitlab-mcp-server",
+    "url": "https://github.com/jmrplens/gitlab-mcp-server",
+    "stars": 43,
+    "forks": 5,
+    "description": "Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850+ GitLab actions (1,000+ Enterprise), stdio/HTTP/OAuth,...",
+    "language": "Go",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-08"
   }
 ]
