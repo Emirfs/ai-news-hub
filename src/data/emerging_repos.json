@@ -1,62 +1,42 @@
 [
   {
-    "name": "agentgg-dev/agentgg",
-    "url": "https://github.com/agentgg-dev/agentgg",
-    "stars": 436,
-    "forks": 50,
-    "description": "Open source agentic SAST. The engine behind hundreds of disclosed zero-days. 100+ AI security agents, any repo or PR diff, bring your own mo...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "name": "Vigil-SOC/vigil",
+    "url": "https://github.com/Vigil-SOC/vigil",
+    "stars": 354,
+    "forks": 86,
+    "description": "Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
+    "language": "Python",
+    "tag": "Local AI",
     "pushed_at": "2026-10-08"
   },
   {
-    "name": "Cotal-AI/Cotal",
-    "url": "https://github.com/Cotal-AI/Cotal",
-    "stars": 311,
-    "forks": 41,
-    "description": "The open standard for agent coordination",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-08"
-  },
-  {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 272,
-    "forks": 19,
-    "description": "The website QA tool for your coding agent. 295+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 304,
+    "forks": 73,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-08"
   },
   {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 216,
-    "forks": 35,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-08"
-  },
-  {
-    "name": "GuyMannDude/mnemo-cortex",
-    "url": "https://github.com/GuyMannDude/mnemo-cortex",
-    "stars": 157,
-    "forks": 38,
-    "description": "Open-source cognitive coprocessor with active memory for AI agents — persistent recall, semantic search, overnight dreaming, verified facts,...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-08"
-  },
-  {
-    "name": "linny006/trending-claude-skills",
-    "url": "https://github.com/linny006/trending-claude-skills",
-    "stars": 123,
-    "forks": 8,
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "name": "jentic/jentic-public-apis",
+    "url": "https://github.com/jentic/jentic-public-apis",
+    "stars": 261,
+    "forks": 36,
+    "description": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
     "language": "Python",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-08"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 96,
+    "forks": 12,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-08"
   },
   {
@@ -70,11 +50,31 @@
     "pushed_at": "2026-10-08"
   },
   {
-    "name": "boxabirds/awesome-local-ai",
-    "url": "https://github.com/boxabirds/awesome-local-ai",
-    "stars": 51,
-    "forks": 4,
-    "description": "Various configurations for optimal Local AI usage. ",
+    "name": "KanJieTeam/kjdraw",
+    "url": "https://github.com/KanJieTeam/kjdraw",
+    "stars": 68,
+    "forks": 2,
+    "description": "The open-source CAD engine for AI agents. One-line MCP setup for Kimi Code, TraeCode, WorkBuddy and ZCode. Stable object IDs, undoable trans...",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-08"
+  },
+  {
+    "name": "nexscope-ai/ecommerce-ai-tools",
+    "url": "https://github.com/nexscope-ai/ecommerce-ai-tools",
+    "stars": 64,
+    "forks": 3,
+    "description": "Open ecommerce AI tools and guides for Amazon review analysis, listing optimization, keyword research, SEO audits, AI image/video generation...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-08"
+  },
+  {
+    "name": "LunarWerxs/AgentHydra",
+    "url": "https://github.com/LunarWerxs/AgentHydra",
+    "stars": 43,
+    "forks": 2,
+    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedule and isolated Claud...",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-08"
