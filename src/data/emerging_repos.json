@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "gbasin/agentboard",
+    "url": "https://github.com/gbasin/agentboard",
+    "stars": 420,
+    "forks": 47,
+    "description": "Web GUI for tmux optimized for AI agent TUIs, with support for iOS safari and mac w/ keyboard shortcuts",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-09"
+  },
+  {
+    "name": "ozgurcd/gograph",
+    "url": "https://github.com/ozgurcd/gograph",
+    "stars": 228,
+    "forks": 16,
+    "description": "Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, imp...",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-09"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 128,
+    "forks": 22,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-09"
+  },
+  {
+    "name": "abacusai/abacusai-bot",
+    "url": "https://github.com/abacusai/abacusai-bot",
+    "stars": 112,
+    "forks": 16,
+    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-09"
+  },
+  {
+    "name": "vulture-s/arkiv",
+    "url": "https://github.com/vulture-s/arkiv",
+    "stars": 78,
+    "forks": 8,
+    "description": "Local-first media asset manager with AI semantic search — reads pro-camera metadata (Sony XAVC sidecar, FX-series) and 360 footage (Insta360...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-09"
+  },
+  {
+    "name": "vbcherepanov/total-agent-memory",
+    "url": "https://github.com/vbcherepanov/total-agent-memory",
+    "stars": 72,
+    "forks": 18,
+    "description": "Persistent local memory for AI coding agents — Claude Code, Codex CLI, Cursor, any MCP client. Temporal knowledge graph, procedural memory, ...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-09"
+  },
+  {
+    "name": "techysy/10router",
+    "url": "https://github.com/techysy/10router",
+    "stars": 60,
+    "forks": 13,
+    "description": "10Router — local AI routing gateway & dashboard (9Router 精简优化版) · npm i -g @techysy/10router",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-09"
+  },
+  {
+    "name": "michielhdoteth/awesome-ai-agent-tools",
+    "url": "https://github.com/michielhdoteth/awesome-ai-agent-tools",
+    "stars": 39,
+    "forks": 72,
+    "description": "AI agent tools for coding assistants: skills, MCP servers, agent loops, subagents, hooks, plugins, and CLI tools. Machine-readable catalogs....",
+    "language": "JavaScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-09"
+  }
+]
