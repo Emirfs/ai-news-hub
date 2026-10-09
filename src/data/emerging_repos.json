@@ -1,5 +1,15 @@
 [
   {
+    "name": "openJiuwen-ai/agent-core",
+    "url": "https://github.com/openJiuwen-ai/agent-core",
+    "stars": 444,
+    "forks": 124,
+    "description": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-09"
+  },
+  {
     "name": "SeraphimSerapis/tool-eval-bench",
     "url": "https://github.com/SeraphimSerapis/tool-eval-bench",
     "stars": 380,
@@ -7,76 +17,66 @@
     "description": "Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and ...",
     "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-08"
+    "pushed_at": "2026-10-09"
   },
   {
-    "name": "yologdev/yoagent",
-    "url": "https://github.com/yologdev/yoagent",
-    "stars": 341,
-    "forks": 47,
-    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done.",
-    "language": "Rust",
+    "name": "gameworkerkim/vibe-investing",
+    "url": "https://github.com/gameworkerkim/vibe-investing",
+    "stars": 342,
+    "forks": 99,
+    "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNA...",
+    "language": "HTML",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-08"
+    "pushed_at": "2026-10-09"
   },
   {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 272,
-    "forks": 20,
-    "description": "The website QA tool for your coding agent. 297+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-08"
-  },
-  {
-    "name": "Dicklesworthstone/skillranker",
-    "url": "https://github.com/Dicklesworthstone/skillranker",
-    "stars": 129,
-    "forks": 10,
-    "description": "Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, s...",
-    "language": "Rust",
+    "name": "jin-bo/agentao",
+    "url": "https://github.com/jin-bo/agentao",
+    "stars": 307,
+    "forks": 14,
+    "description": "Local-first, governed AI agent runtime for Python — embed it in your app, or run it as a CLI or ACP server. Permissions, MCP, memory and aud...",
+    "language": "Python",
     "tag": "Local AI",
-    "pushed_at": "2026-10-08"
+    "pushed_at": "2026-10-09"
   },
   {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 124,
-    "forks": 22,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-08"
+    "name": "antropos17/Aegis",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 154,
+    "forks": 24,
+    "description": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tools. Windows primary; ...",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-09"
   },
   {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 96,
-    "forks": 12,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
-    "language": "Python",
+    "name": "mamawai/wtfibought",
+    "url": "https://github.com/mamawai/wtfibought",
+    "stars": 140,
+    "forks": 23,
+    "description": "A live arena where LLM agents trade real market data with virtual money — every thought, tool call, thesis and post-mortem is public. Bring ...",
+    "language": "Java",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-08"
+    "pushed_at": "2026-10-09"
   },
   {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
+    "name": "zhou2030109-glitch/Remit",
+    "url": "https://github.com/zhou2030109-glitch/Remit",
     "stars": 90,
-    "forks": 36,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "forks": 15,
+    "description": "数模Agent（数模 Agent）/ 数学建模 AI 助手：多智能体协作完成题意分析、文献检索、建模、代码执行与论文写作，支持人工审核和断点恢复。Local-first multi-agent workbench for mathematical modeling.",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-08"
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-09"
   },
   {
-    "name": "objectstack-ai/objectstack",
-    "url": "https://github.com/objectstack-ai/objectstack",
-    "stars": 70,
-    "forks": 16,
-    "description": "The ontology is the software. One executable business ontology: AI writes it, the runtime runs it, agents operate it, you own it. Open proto...",
+    "name": "nakafaai/nakafa.com",
+    "url": "https://github.com/nakafaai/nakafa.com",
+    "stars": 79,
+    "forks": 18,
+    "description": "AI Native Free High-Quality Learning Platform (K-12 to University)",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-08"
+    "pushed_at": "2026-10-09"
   }
 ]
