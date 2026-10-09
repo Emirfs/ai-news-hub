@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-09 01:29 UTC` | **Source-linked stories:** `124`
+> **Index generated:** `2026-10-09 08:02 UTC` | **Source-linked stories:** `126`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,6 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 275.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.0k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 245.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.0k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +27,13 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [openJiuwen-ai/agent-core](https://github.com/openJiuwen-ai/agent-core) | `★ 444` | `2026-10-09` | Experimental Agent | `Python` | openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent... |
-| [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) | `★ 380` | `2026-10-09` | Indie Tool | `Python` | Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios te... |
-| [gameworkerkim/vibe-investing](https://github.com/gameworkerkim/vibe-investing) | `★ 342` | `2026-10-09` | Indie Tool | `HTML` | AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi... |
-| [jin-bo/agentao](https://github.com/jin-bo/agentao) | `★ 307` | `2026-10-09` | Local AI | `Python` | Local-first, governed AI agent runtime for Python — embed it in your app, or run it a... |
-| [antropos17/Aegis](https://github.com/antropos17/Aegis) | `★ 154` | `2026-10-09` | Local AI | `JavaScript` | Desktop monitoring and local security reviews for AI agents, with opt-in policy-contr... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-09` | AI Research | [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](src/content/news/2026-10-09-synthesis-through-simulation-generating-coherent-enterprise.md) | Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severel... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-synthesis-through-simulation-generating-coherent-enterprise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10549) |
+| `2026-10-09` | AI Research | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment](src/content/news/2026-10-09-an-explainable-header-centric-framework-for-large-scale.md) | Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular me... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-an-explainable-header-centric-framework-for-large-scale/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10541) |
 | `2026-10-08` | AI Research | [When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models](src/content/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification.md) | Vision-language models ( | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07018) |
 | `2026-10-08` | AI Research | [Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents](src/content/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow.md) | Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07004) |
 | `2026-10-08` | AI Research | [Smart Content Ingestion for Generative AI Workloads](src/content/news/2026-10-09-smart-content-ingestion-for-generative-ai.md) | The evolution of machine learning has progressively changed where intelligence resides in an AI system. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-smart-content-ingestion-for-generative-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07091) |
@@ -173,7 +165,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-09 01:29 UTC` | **Yayımlanan haber:** `124`
+> **Dizin oluşturma:** `2026-10-09 08:02 UTC` | **Yayımlanan haber:** `126`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -183,6 +175,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-09` | AI Research | [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](src/content/news/2026-10-09-synthesis-through-simulation-generating-coherent-enterprise.md) | Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severel... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-synthesis-through-simulation-generating-coherent-enterprise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10549) |
+| `2026-10-09` | AI Research | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment](src/content/news/2026-10-09-an-explainable-header-centric-framework-for-large-scale.md) | Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular me... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-an-explainable-header-centric-framework-for-large-scale/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10541) |
 | `2026-10-08` | AI Research | [When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models](src/content/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification.md) | Vision-language models ( | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07018) |
 | `2026-10-08` | AI Research | [Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents](src/content/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow.md) | Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-topology-consistent-task-planning-over-cellular-workflow/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07004) |
 | `2026-10-08` | AI Research | [Smart Content Ingestion for Generative AI Workloads](src/content/news/2026-10-09-smart-content-ingestion-for-generative-ai.md) | The evolution of machine learning has progressively changed where intelligence resides in an AI system. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-smart-content-ingestion-for-generative-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07091) |
