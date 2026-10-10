@@ -1,5 +1,25 @@
 [
   {
+    "name": "IvanWng97/pixtuoid",
+    "url": "https://github.com/IvanWng97/pixtuoid",
+    "stars": 491,
+    "forks": 33,
+    "description": "Terminal pixel-art office for AI coding agents",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-10"
+  },
+  {
+    "name": "marcusquinn/aidevops",
+    "url": "https://github.com/marcusquinn/aidevops",
+    "stars": 408,
+    "forks": 69,
+    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-10"
+  },
+  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 292,
@@ -10,13 +30,13 @@
     "pushed_at": "2026-10-10"
   },
   {
-    "name": "aouicher/graphmind",
-    "url": "https://github.com/aouicher/graphmind",
-    "stars": 213,
-    "forks": 20,
-    "description": "Local-first code intelligence for AI assistants. Turns your codebase into a knowledge graph your AI can query, navigate, and remember. 25 MC...",
-    "language": "Rust",
-    "tag": "Indie Tool",
+    "name": "agentvivekkumar/dontbemichael",
+    "url": "https://github.com/agentvivekkumar/dontbemichael",
+    "stars": 209,
+    "forks": 160,
+    "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-10"
   },
   {
@@ -30,13 +50,13 @@
     "pushed_at": "2026-10-10"
   },
   {
-    "name": "rajudandigam/agent-inspect",
-    "url": "https://github.com/rajudandigam/agent-inspect",
-    "stars": 165,
-    "forks": 50,
-    "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share s...",
+    "name": "Changan-Su/Forsion",
+    "url": "https://github.com/Changan-Su/Forsion",
+    "stars": 141,
+    "forks": 0,
+    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
     "language": "TypeScript",
-    "tag": "Indie Tool",
+    "tag": "Local AI",
     "pushed_at": "2026-10-10"
   },
   {
@@ -50,33 +70,13 @@
     "pushed_at": "2026-10-10"
   },
   {
-    "name": "Porabuild/Poracode",
-    "url": "https://github.com/Porabuild/Poracode",
-    "stars": 115,
-    "forks": 14,
-    "description": "One window for all your AI coding agents. Run Claude, Codex, OpenCode, Gemini, Antigravity, Cursor, and Copilot side-by-side. Terminal and c...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-10"
-  },
-  {
-    "name": "timoncool/MiniMax-Music3-Studio",
-    "url": "https://github.com/timoncool/MiniMax-Music3-Studio",
-    "stars": 93,
-    "forks": 9,
-    "description": "Native local/cloud AI music studio powered by MiniMax Music 3",
-    "language": "TypeScript",
+    "name": "gitlabhq/orbit-knowledge-graph",
+    "url": "https://github.com/gitlabhq/orbit-knowledge-graph",
+    "stars": 56,
+    "forks": 15,
+    "description": "Orbit, aka the GitLab Knowledge Graph, is a project that aims to provide a unified context API for AI systems and human users. This project ...",
+    "language": "Rust",
     "tag": "Local AI",
-    "pushed_at": "2026-10-10"
-  },
-  {
-    "name": "1f916-ai/1f916",
-    "url": "https://github.com/1f916-ai/1f916",
-    "stars": 80,
-    "forks": 56,
-    "description": "A society for AI agents. No human interface.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-10-10"
   }
 ]
