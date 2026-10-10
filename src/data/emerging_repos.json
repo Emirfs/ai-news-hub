@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "yan-labs/yan-skills",
+    "url": "https://github.com/yan-labs/yan-skills",
+    "stars": 213,
+    "forks": 93,
+    "description": "Yan's agent skills collection — Google Trends SEO workflows, AI news, autopilot, and more. For Claude Code / Codex / Cursor.",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-10"
+  },
+  {
+    "name": "aouicher/graphmind",
+    "url": "https://github.com/aouicher/graphmind",
+    "stars": 213,
+    "forks": 20,
+    "description": "Local-first code intelligence for AI assistants. Turns your codebase into a knowledge graph your AI can query, navigate, and remember. 25 MC...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-10"
+  },
+  {
+    "name": "zju3dv/INTACT-JEPA",
+    "url": "https://github.com/zju3dv/INTACT-JEPA",
+    "stars": 206,
+    "forks": 11,
+    "description": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-10"
+  },
+  {
+    "name": "mingti-org/phyai",
+    "url": "https://github.com/mingti-org/phyai",
+    "stars": 131,
+    "forks": 29,
+    "description": "PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-devi...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-10"
+  },
+  {
+    "name": "Dicklesworthstone/frankenterm",
+    "url": "https://github.com/Dicklesworthstone/frankenterm",
+    "stars": 121,
+    "forks": 19,
+    "description": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of ...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-10"
+  },
+  {
+    "name": "carey-bk/LiveCopilot",
+    "url": "https://github.com/carey-bk/LiveCopilot",
+    "stars": 81,
+    "forks": 1,
+    "description": "Native macOS AI copilot with live transcription, local knowledge retrieval, Chinese/English UI and configurable analysis providers. Built wi...",
+    "language": "Swift",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-10"
+  },
+  {
+    "name": "thefalconry/talon",
+    "url": "https://github.com/thefalconry/talon",
+    "stars": 78,
+    "forks": 4,
+    "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-10"
+  },
+  {
+    "name": "VyomKulshrestha/Heliox-OS",
+    "url": "https://github.com/VyomKulshrestha/Heliox-OS",
+    "stars": 66,
+    "forks": 98,
+    "description": "Open-source, local-first desktop AI agent for voice, gesture, gaze, browser and system automation with permission gates and verification.",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-10"
+  }
+]
