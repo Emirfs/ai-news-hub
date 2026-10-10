@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-09 20:20 UTC` | **Source-linked stories:** `130`
+> **Index generated:** `2026-10-10 00:20 UTC` | **Source-linked stories:** `132`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,6 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 275.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 246.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.0k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,20 +27,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | `★ 314` | `2026-10-09` | Experimental Agent | `TypeScript` | The open standard for agent coordination |
-| [ad-si/cai](https://github.com/ad-si/cai) | `★ 203` | `2026-10-09` | Indie Tool | `Rust` | User friendly CLI tool for AI tasks. Stop thinking about LLMs and prompts, start gett... |
-| [GetBusbar/busbar](https://github.com/GetBusbar/busbar) | `★ 176` | `2026-10-09` | Indie Tool | `Rust` | The execution control plane for AI agents. Govern every model request, MCP tool call,... |
-| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 128` | `2026-10-09` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [devsy-org/devsy](https://github.com/devsy-org/devsy) | `★ 112` | `2026-10-09` | Local AI | `Go` | Deploy secure local and cloud environments for developers and agents |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-09` | AI Research | [Whose Ground Truth? Embracing Ambiguity in Human-Centered AI](src/content/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in.md) | As AI systems increasingly interact with people and make decisions about them, understanding human interpretations ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10805) |
 | `2026-10-09` | AI Research | [Verification and Self-Improvement in Agentic AI: Foundations and Limits](src/content/news/2026-10-09-verification-and-self-improvement-in-agentic-ai.md) | Agentic | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-verification-and-self-improvement-in-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10611) |
 | `2026-10-09` | AI Research | [The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate](src/content/news/2026-10-09-the-harness-as-the-only-mutable.md) | Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-the-harness-as-the-only-mutable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10629) |
 | `2026-10-09` | AI Research | [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](src/content/news/2026-10-09-synthesis-through-simulation-generating-coherent-enterprise.md) | Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severel... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-synthesis-through-simulation-generating-coherent-enterprise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10549) |
 | `2026-10-09` | AI Research | [Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents](src/content/news/2026-10-09-speaking-the-navigators-language-trajectory-grounded-instruction.md) | Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned command... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-speaking-the-navigators-language-trajectory-grounded-instruction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10635) |
+| `2026-10-09` | AI Research | [Plan-and-Patch: Diffusion Language Models for Agentic Planning](src/content/news/2026-10-10-plan-and-patch-diffusion-language-models-for-agentic.md) | Plan-and- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-10-plan-and-patch-diffusion-language-models-for-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10786) |
 | `2026-10-09` | AI Research | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment](src/content/news/2026-10-09-an-explainable-header-centric-framework-for-large-scale.md) | Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular me... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-an-explainable-header-centric-framework-for-large-scale/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10541) |
 | `2026-10-09` | AI Research | [Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice](src/content/news/2026-10-09-agent-controlled-forgetting-for-tool-using-agents-reversible.md) | Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payloa... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-agent-controlled-forgetting-for-tool-using-agents-reversible/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10590) |
 | `2026-10-08` | AI Research | [When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models](src/content/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification.md) | Vision-language models ( | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07018) |
@@ -179,7 +171,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-09 20:20 UTC` | **Yayımlanan haber:** `130`
+> **Dizin oluşturma:** `2026-10-10 00:20 UTC` | **Yayımlanan haber:** `132`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -189,10 +181,12 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-09` | AI Research | [Whose Ground Truth? Embracing Ambiguity in Human-Centered AI](src/content/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in.md) | As AI systems increasingly interact with people and make decisions about them, understanding human interpretations ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10805) |
 | `2026-10-09` | AI Research | [Verification and Self-Improvement in Agentic AI: Foundations and Limits](src/content/news/2026-10-09-verification-and-self-improvement-in-agentic-ai.md) | Agentic | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-verification-and-self-improvement-in-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10611) |
 | `2026-10-09` | AI Research | [The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate](src/content/news/2026-10-09-the-harness-as-the-only-mutable.md) | Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-the-harness-as-the-only-mutable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10629) |
 | `2026-10-09` | AI Research | [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](src/content/news/2026-10-09-synthesis-through-simulation-generating-coherent-enterprise.md) | Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severel... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-synthesis-through-simulation-generating-coherent-enterprise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10549) |
 | `2026-10-09` | AI Research | [Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents](src/content/news/2026-10-09-speaking-the-navigators-language-trajectory-grounded-instruction.md) | Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned command... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-speaking-the-navigators-language-trajectory-grounded-instruction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10635) |
+| `2026-10-09` | AI Research | [Plan-and-Patch: Diffusion Language Models for Agentic Planning](src/content/news/2026-10-10-plan-and-patch-diffusion-language-models-for-agentic.md) | Plan-and- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-10-plan-and-patch-diffusion-language-models-for-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10786) |
 | `2026-10-09` | AI Research | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment](src/content/news/2026-10-09-an-explainable-header-centric-framework-for-large-scale.md) | Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular me... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-an-explainable-header-centric-framework-for-large-scale/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10541) |
 | `2026-10-09` | AI Research | [Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice](src/content/news/2026-10-09-agent-controlled-forgetting-for-tool-using-agents-reversible.md) | Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payloa... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-agent-controlled-forgetting-for-tool-using-agents-reversible/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10590) |
 | `2026-10-08` | AI Research | [When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models](src/content/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification.md) | Vision-language models ( | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-08-when-to-rethink-learning-multi-perspective-self-verification/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.07018) |
