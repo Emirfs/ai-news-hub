@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-10 13:05 UTC` | **Source-linked stories:** `132`
+> **Index generated:** `2026-10-10 17:53 UTC` | **Source-linked stories:** `132`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 276.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 246.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 276.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 246.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.0k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [yan-labs/yan-skills](https://github.com/yan-labs/yan-skills) | `★ 213` | `2026-10-10` | Experimental Agent | `JavaScript` | Yan's agent skills collection — Google Trends SEO workflows, AI news, autopilot, and ... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 292` | `2026-10-10` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
 | [aouicher/graphmind](https://github.com/aouicher/graphmind) | `★ 213` | `2026-10-10` | Indie Tool | `Rust` | Local-first code intelligence for AI assistants. Turns your codebase into a knowledge... |
-| [zju3dv/INTACT-JEPA](https://github.com/zju3dv/INTACT-JEPA) | `★ 206` | `2026-10-10` | Embodied AI | `Python` | INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models. |
-| [mingti-org/phyai](https://github.com/mingti-org/phyai) | `★ 131` | `2026-10-10` | Embodied AI | `Python` | PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and b... |
-| [Dicklesworthstone/frankenterm](https://github.com/Dicklesworthstone/frankenterm) | `★ 121` | `2026-10-10` | Experimental Agent | `Rust` | Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine patter... |
+| [OpenWAM/OpenWAM](https://github.com/OpenWAM/OpenWAM) | `★ 173` | `2026-10-10` | Embodied AI | `Python` | Official code for "OpenWAM: An Open Framework for Composable World-Action Models" (St... |
+| [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) | `★ 165` | `2026-10-10` | Indie Tool | `TypeScript` | Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect... |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 130` | `2026-10-10` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -181,7 +181,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-10 13:05 UTC` | **Yayımlanan haber:** `132`
+> **Dizin oluşturma:** `2026-10-10 17:53 UTC` | **Yayımlanan haber:** `132`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
