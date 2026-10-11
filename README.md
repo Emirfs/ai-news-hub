@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-11 14:10 UTC` | **Source-linked stories:** `132`
+> **Index generated:** `2026-10-11 18:58 UTC` | **Source-linked stories:** `132`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,8 +20,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 276.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 277.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.8k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 247.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.0k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Epistates/pmetal](https://github.com/Epistates/pmetal) | `★ 327` | `2026-10-11` | Local AI | `Rust` | PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA ... |
-| [magicapple123/ResumeForge](https://github.com/magicapple123/ResumeForge) | `★ 259` | `2026-10-11` | Local AI | `Python` | 简历通 ResumeForge —— 本地优先的 AI 简历工作台：岗位管理、事实台账防虚构、AI 定制/手写简历、多格式导出、模拟面试与面试深挖、自动投递台、求职进度与... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 217` | `2026-10-11` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [RapierCraftStudios/ForgeDock](https://github.com/RapierCraftStudios/ForgeDock) | `★ 117` | `2026-10-11` | Experimental Agent | `JavaScript` | ForgeDock — autonomous AI dev pipeline for Claude Code. GitHub as agent memory: issue... |
-| [hjxwz123/Aivory](https://github.com/hjxwz123/Aivory) | `★ 114` | `2026-10-11` | Indie Tool | `Go` | Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, R... |
+| [mlhher/late-cli](https://github.com/mlhher/late-cli) | `★ 443` | `2026-10-11` | Local AI | `Go` | High-performance AI agent for long-horizon tasks and local models. Built on empirical... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 293` | `2026-10-11` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 225` | `2026-10-11` | Indie Tool | `Rust` | Local-first MCP gateway. One port for every tool and every AI client: lazy discovery ... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 171` | `2026-10-11` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [Frank-ZY-Dou/awesome-ai-3d-modeling-robotics](https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics) | `★ 77` | `2026-10-11` | Embodied AI | `Python` | Source-linked examples of AI models used for 3D modeling, industrial design and CAD, ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -181,7 +181,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-11 14:10 UTC` | **Yayımlanan haber:** `132`
+> **Dizin oluşturma:** `2026-10-11 18:58 UTC` | **Yayımlanan haber:** `132`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

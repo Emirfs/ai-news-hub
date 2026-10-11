@@ -1,82 +1,82 @@
 [
   {
-    "name": "Epistates/pmetal",
-    "url": "https://github.com/Epistates/pmetal",
-    "stars": 327,
-    "forks": 26,
-    "description": "PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal accel...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-11"
-  },
-  {
-    "name": "magicapple123/ResumeForge",
-    "url": "https://github.com/magicapple123/ResumeForge",
-    "stars": 259,
-    "forks": 11,
-    "description": "简历通 ResumeForge —— 本地优先的 AI 简历工作台：岗位管理、事实台账防虚构、AI 定制/手写简历、多格式导出、模拟面试与面试深挖、自动投递台、求职进度与数据看板。FastAPI + React + SQLite，单机运行、数据不出本机。 | AI resume ...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-11"
-  },
-  {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 217,
-    "forks": 35,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-11"
-  },
-  {
-    "name": "RapierCraftStudios/ForgeDock",
-    "url": "https://github.com/RapierCraftStudios/ForgeDock",
-    "stars": 117,
-    "forks": 13,
-    "description": "ForgeDock — autonomous AI dev pipeline for Claude Code. GitHub as agent memory: issue in, PR out.",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-11"
-  },
-  {
-    "name": "hjxwz123/Aivory",
-    "url": "https://github.com/hjxwz123/Aivory",
-    "stars": 114,
-    "forks": 14,
-    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
+    "name": "mlhher/late-cli",
+    "url": "https://github.com/mlhher/late-cli",
+    "stars": 443,
+    "forks": 46,
+    "description": "High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context wi...",
     "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-11"
-  },
-  {
-    "name": "ScriptedAlchemy/tracedecay",
-    "url": "https://github.com/ScriptedAlchemy/tracedecay",
-    "stars": 80,
-    "forks": 7,
-    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
-    "language": "Rust",
     "tag": "Local AI",
     "pushed_at": "2026-10-11"
   },
   {
-    "name": "Qxy661/UAV-WM-VLA-Learning",
-    "url": "https://github.com/Qxy661/UAV-WM-VLA-Learning",
-    "stars": 47,
-    "forks": 6,
-    "description": "World model / VLA / VLM learning library, with aerial robotics as a running thread. 世界模型 / VLA / VLM 学习库（无人机视角）：59 篇文档 · 195 篇论文 · 24 个纯 CPU...",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 293,
+    "forks": 161,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-11"
   },
   {
-    "name": "Sanne/incus-spawn",
-    "url": "https://github.com/Sanne/incus-spawn",
-    "stars": 42,
-    "forks": 24,
-    "description": "Give your AI coding agents their own machines — not your credentials. Isolated Linux workstations with full autonomy, on Linux and macOS.",
-    "language": "Java",
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 225,
+    "forks": 58,
+    "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secr...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 171,
+    "forks": 15,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "stars": 77,
+    "forks": 11,
+    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "thrashr888/agentkernel",
+    "url": "https://github.com/thrashr888/agentkernel",
+    "stars": 59,
+    "forks": 6,
+    "description": "Run AI coding agents in secure, isolated microVMs. Sub-125ms boot times, real hardware isolation.",
+    "language": "Rust",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "regnull/openbot",
+    "url": "https://github.com/regnull/openbot",
+    "stars": 29,
+    "forks": 12,
+    "description": "Open-source, self-hosted platform for running a team of AI bots that use tools, keep long-term memory, and hand work to each other.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "nextime/coderai",
+    "url": "https://github.com/nextime/coderai",
+    "stars": 29,
+    "forks": 0,
+    "description": "Local and cloud GPU interference model orchestrator exposing OpenAI-compatible API  from different engines",
+    "language": "Python",
+    "tag": "Local AI",
     "pushed_at": "2026-10-11"
   }
 ]
