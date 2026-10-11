@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-11 01:02 UTC` | **Source-linked stories:** `132`
+> **Index generated:** `2026-10-11 07:16 UTC` | **Source-linked stories:** `132`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 276.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 276.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 247.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 247.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.0k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 354` | `2026-10-11` | Indie Tool | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
-| [epilande/ccmux](https://github.com/epilande/ccmux) | `★ 219` | `2026-10-11` | Experimental Agent | `TypeScript` | 🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them i... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 171` | `2026-10-11` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [antropos17/Aegis](https://github.com/antropos17/Aegis) | `★ 154` | `2026-10-11` | Local AI | `JavaScript` | Local-first desktop monitoring for AI agents. Inspect processes, files, network activ... |
-| [oooscoos/Benzi](https://github.com/oooscoos/Benzi) | `★ 146` | `2026-10-11` | Experimental Agent | `HTML` | Compiler-backed coding agent that compiles your codebase into a resolved, queryable m... |
+| [jin-bo/agentao](https://github.com/jin-bo/agentao) | `★ 309` | `2026-10-11` | Local AI | `Python` | Local-first, governed AI agent runtime for Python — embed it in your app, or run it a... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 272` | `2026-10-11` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 301+ audit rules across SEO, performance, ... |
+| [benseverndev-oss/goldenmatch](https://github.com/benseverndev-oss/goldenmatch) | `★ 132` | `2026-10-11` | Indie Tool | `Python` | Zero-config entity resolution feeding a durable identity layer: messy records from an... |
+| [ScriptedAlchemy/tracedecay](https://github.com/ScriptedAlchemy/tracedecay) | `★ 80` | `2026-10-11` | Local AI | `Rust` | Local semantic code intelligence, project memory, and workflow context for AI coding ... |
+| [systempromptio/awesome-ai-agent-governance](https://github.com/systempromptio/awesome-ai-agent-governance) | `★ 51` | `2026-10-11` | Indie Tool | `Python` | The curated list of tools, standards, and resources for governing AI agents in produc... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -181,7 +181,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-11 01:02 UTC` | **Yayımlanan haber:** `132`
+> **Dizin oluşturma:** `2026-10-11 07:16 UTC` | **Yayımlanan haber:** `132`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
