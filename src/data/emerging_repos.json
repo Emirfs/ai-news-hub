@@ -1,15 +1,5 @@
 [
   {
-    "name": "mlhher/late-cli",
-    "url": "https://github.com/mlhher/late-cli",
-    "stars": 443,
-    "forks": 46,
-    "description": "High-performance AI agent for long-horizon tasks and local models. Built on empirical research. 200k+ tokens of work inside a 64k context wi...",
-    "language": "Go",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-11"
-  },
-  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 293,
@@ -20,23 +10,53 @@
     "pushed_at": "2026-10-11"
   },
   {
-    "name": "btsouth/toolport",
-    "url": "https://github.com/btsouth/toolport",
-    "stars": 225,
-    "forks": 58,
-    "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secr...",
-    "language": "Rust",
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 272,
+    "forks": 22,
+    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-11"
   },
   {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 171,
-    "forks": 15,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
+    "name": "jasoncheng7115/jt-doc-tools",
+    "url": "https://github.com/jasoncheng7115/jt-doc-tools",
+    "stars": 232,
+    "forks": 57,
+    "description": "An all-in-one PDF and Office document platform: self-hosted, open source, under your control. 整合式 PDF / Office 文件處理平台，自架、開源、可控。",
+    "language": "Python",
     "tag": "Indie Tool",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "KyaniteLabs/kinocut",
+    "url": "https://github.com/KyaniteLabs/kinocut",
+    "stars": 201,
+    "forks": 44,
+    "description": "Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurposing tools, Python client, and CLI. Local, fast, free.",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 97,
+    "forks": 12,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "sleep2agi/agent-network",
+    "url": "https://github.com/sleep2agi/agent-network",
+    "stars": 91,
+    "forks": 15,
+    "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / Mini...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-11"
   },
   {
@@ -50,33 +70,13 @@
     "pushed_at": "2026-10-11"
   },
   {
-    "name": "thrashr888/agentkernel",
-    "url": "https://github.com/thrashr888/agentkernel",
-    "stars": 59,
-    "forks": 6,
-    "description": "Run AI coding agents in secure, isolated microVMs. Sub-125ms boot times, real hardware isolation.",
-    "language": "Rust",
+    "name": "objectstack-ai/objectstack",
+    "url": "https://github.com/objectstack-ai/objectstack",
+    "stars": 71,
+    "forks": 17,
+    "description": "The ontology is the software. One executable business ontology: AI writes it, the runtime runs it, agents operate it, you own it. Open proto...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-11"
-  },
-  {
-    "name": "regnull/openbot",
-    "url": "https://github.com/regnull/openbot",
-    "stars": 29,
-    "forks": 12,
-    "description": "Open-source, self-hosted platform for running a team of AI bots that use tools, keep long-term memory, and hand work to each other.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-11"
-  },
-  {
-    "name": "nextime/coderai",
-    "url": "https://github.com/nextime/coderai",
-    "stars": 29,
-    "forks": 0,
-    "description": "Local and cloud GPU interference model orchestrator exposing OpenAI-compatible API  from different engines",
-    "language": "Python",
-    "tag": "Local AI",
     "pushed_at": "2026-10-11"
   }
 ]
