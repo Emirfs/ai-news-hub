@@ -1,82 +1,82 @@
 [
   {
-    "name": "IvanWng97/pixtuoid",
-    "url": "https://github.com/IvanWng97/pixtuoid",
-    "stars": 491,
-    "forks": 33,
-    "description": "Terminal pixel-art office for AI coding agents",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-10"
-  },
-  {
-    "name": "marcusquinn/aidevops",
-    "url": "https://github.com/marcusquinn/aidevops",
-    "stars": 408,
-    "forks": 69,
-    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
-    "language": "Shell",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-10"
-  },
-  {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 292,
-    "forks": 161,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "schmitech/orbit",
+    "url": "https://github.com/schmitech/orbit",
+    "stars": 354,
+    "forks": 56,
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-10"
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-11"
   },
   {
-    "name": "agentvivekkumar/dontbemichael",
-    "url": "https://github.com/agentvivekkumar/dontbemichael",
-    "stars": 209,
-    "forks": 160,
-    "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+    "name": "epilande/ccmux",
+    "url": "https://github.com/epilande/ccmux",
+    "stars": 219,
+    "forks": 36,
+    "description": "🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-10"
+    "pushed_at": "2026-10-11"
   },
   {
-    "name": "OpenWAM/OpenWAM",
-    "url": "https://github.com/OpenWAM/OpenWAM",
-    "stars": 173,
-    "forks": 8,
-    "description": "Official code for \"OpenWAM: An Open Framework for Composable World-Action Models\" (Stanford University)",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-10"
-  },
-  {
-    "name": "Changan-Su/Forsion",
-    "url": "https://github.com/Changan-Su/Forsion",
-    "stars": 141,
-    "forks": 0,
-    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-10"
-  },
-  {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 130,
-    "forks": 22,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-10"
-  },
-  {
-    "name": "gitlabhq/orbit-knowledge-graph",
-    "url": "https://github.com/gitlabhq/orbit-knowledge-graph",
-    "stars": 56,
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 171,
     "forks": 15,
-    "description": "Orbit, aka the GitLab Knowledge Graph, is a project that aims to provide a unified context API for AI systems and human users. This project ...",
-    "language": "Rust",
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "antropos17/Aegis",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 154,
+    "forks": 24,
+    "description": "Local-first desktop monitoring for AI agents. Inspect processes, files, network activity and evidence; review selected actions through opt-i...",
+    "language": "JavaScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-10"
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "oooscoos/Benzi",
+    "url": "https://github.com/oooscoos/Benzi",
+    "stars": 146,
+    "forks": 8,
+    "description": "Compiler-backed coding agent that compiles your codebase into a resolved, queryable map of calls, data flow, control flow, and class hierarc...",
+    "language": "HTML",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "ackness/covel",
+    "url": "https://github.com/ackness/covel",
+    "stars": 55,
+    "forks": 20,
+    "description": "[Agentic AI-RPG] Agentic AI role-playing game framework — narration, NPCs, lore, and character creation are autonomous plugin agents. Build ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "Tort1k558/Camouflow",
+    "url": "https://github.com/Tort1k558/Camouflow",
+    "stars": 53,
+    "forks": 10,
+    "description": "Local-first browser automation with Camoufox and CloakBrowser: reviewed AI workflows, structured extraction, deterministic replay and local ...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-11"
+  },
+  {
+    "name": "hushh-labs/hushh-research",
+    "url": "https://github.com/hushh-labs/hushh-research",
+    "stars": 37,
+    "forks": 86,
+    "description": "Research and product workspace for Hussh personal AI experiences, consent flows, and applied agent systems.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-11"
   }
 ]
