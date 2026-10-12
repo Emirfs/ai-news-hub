@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-12 02:27 UTC` | **Source-linked stories:** `132`
+> **Index generated:** `2026-10-12 09:48 UTC` | **Source-linked stories:** `134`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 277.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.8k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 247.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 277.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.9k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 247.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.0k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
@@ -32,11 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [caura-ai/caura](https://github.com/caura-ai/caura) | `★ 498` | `2026-10-12` | Experimental Agent | `Python` | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, m... |
+| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 303` | `2026-10-12` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
+| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 158` | `2026-10-12` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
+| [off-grid-ai/OGAD](https://github.com/off-grid-ai/OGAD) | `★ 125` | `2026-10-12` | Indie Tool | `TypeScript` | Your private, on-device personal AI assistant for macOS and Windows. Chat, create, se... |
+| [everruns/everruns](https://github.com/everruns/everruns) | `★ 56` | `2026-10-12` | Experimental Agent | `Rust` | Headless durable agentic harness engine. Run durable AI agents reliably and scalably. |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-12` | AI Research | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance](src/content/news/2026-10-12-faithfulness-without-anchors-a-position-paper.md) | Explainable | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-12-faithfulness-without-anchors-a-position-paper/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12493) |
+| `2026-10-12` | AI Research | [EliteTable: Self-Improving Program Search for Executable Control Policies](src/content/news/2026-10-12-elitetable-self-improving-program-search-for-executable.md) | EliteTable is a self | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-12-elitetable-self-improving-program-search-for-executable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12536) |
 | `2026-10-09` | AI Research | [Whose Ground Truth? Embracing Ambiguity in Human-Centered AI](src/content/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in.md) | As AI systems increasingly interact with people and make decisions about them, understanding human interpretations ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10805) |
 | `2026-10-09` | AI Research | [Verification and Self-Improvement in Agentic AI: Foundations and Limits](src/content/news/2026-10-09-verification-and-self-improvement-in-agentic-ai.md) | Agentic | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-verification-and-self-improvement-in-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10611) |
 | `2026-10-09` | AI Research | [The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate](src/content/news/2026-10-09-the-harness-as-the-only-mutable.md) | Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-09-the-harness-as-the-only-mutable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10629) |
@@ -176,7 +183,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-12 02:27 UTC` | **Yayımlanan haber:** `132`
+> **Dizin oluşturma:** `2026-10-12 09:48 UTC` | **Yayımlanan haber:** `134`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -186,6 +193,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-12` | AI Research | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance](src/content/news/2026-10-12-faithfulness-without-anchors-a-position-paper.md) | Explainable | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-12-faithfulness-without-anchors-a-position-paper/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12493) |
+| `2026-10-12` | AI Research | [EliteTable: Self-Improving Program Search for Executable Control Policies](src/content/news/2026-10-12-elitetable-self-improving-program-search-for-executable.md) | EliteTable is a self | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-12-elitetable-self-improving-program-search-for-executable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12536) |
 | `2026-10-09` | AI Research | [Whose Ground Truth? Embracing Ambiguity in Human-Centered AI](src/content/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in.md) | As AI systems increasingly interact with people and make decisions about them, understanding human interpretations ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10805) |
 | `2026-10-09` | AI Research | [Verification and Self-Improvement in Agentic AI: Foundations and Limits](src/content/news/2026-10-09-verification-and-self-improvement-in-agentic-ai.md) | Agentic | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-verification-and-self-improvement-in-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10611) |
 | `2026-10-09` | AI Research | [The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate](src/content/news/2026-10-09-the-harness-as-the-only-mutable.md) | Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-09-the-harness-as-the-only-mutable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10629) |

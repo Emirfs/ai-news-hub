@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "caura-ai/caura",
+    "url": "https://github.com/caura-ai/caura",
+    "stars": 498,
+    "forks": 93,
+    "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-12"
+  },
+  {
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 303,
+    "forks": 76,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-12"
+  },
+  {
+    "name": "abacusai/abacusai-bot",
+    "url": "https://github.com/abacusai/abacusai-bot",
+    "stars": 158,
+    "forks": 20,
+    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-12"
+  },
+  {
+    "name": "off-grid-ai/OGAD",
+    "url": "https://github.com/off-grid-ai/OGAD",
+    "stars": 125,
+    "forks": 25,
+    "description": "Your private, on-device personal AI assistant for macOS and Windows. Chat, create, search files, and connect tools with local models. Includ...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-12"
+  },
+  {
+    "name": "everruns/everruns",
+    "url": "https://github.com/everruns/everruns",
+    "stars": 56,
+    "forks": 6,
+    "description": "Headless durable agentic harness engine. Run durable AI agents reliably and scalably.",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-12"
+  },
+  {
+    "name": "Minglink/hark-agent-mobile",
+    "url": "https://github.com/Minglink/hark-agent-mobile",
+    "stars": 25,
+    "forks": 6,
+    "description": "Hark Agent Mobile — 拥有自定义系统提示词注入的独立 Linux 终端运行环境与任务规划引擎的手机端自主 AI 智能体，求个星星收藏",
+    "language": "Swift",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-12"
+  },
+  {
+    "name": "okandemirel/Strada.Brain",
+    "url": "https://github.com/okandemirel/Strada.Brain",
+    "stars": 25,
+    "forks": 2,
+    "description": "AI-powered autonomous coding agent for Unity/Strada.Core — PAOR agent loop, 40+ tools, RAG over C# codebases, persistent HNSW memory, multi-...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-12"
+  },
+  {
+    "name": "Menaelz/Tapnow-Studio--",
+    "url": "https://github.com/Menaelz/Tapnow-Studio--",
+    "stars": 21,
+    "forks": 4,
+    "description": "🎨 Create visual AI workflows with Tapnow Studio, a browser-based tool that combines powerful AI capabilities in a single, interactive node e...",
+    "language": "HTML",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-12"
+  }
+]
