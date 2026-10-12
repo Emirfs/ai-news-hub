@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-12 09:48 UTC` | **Source-linked stories:** `134`
+> **Index generated:** `2026-10-12 19:50 UTC` | **Source-linked stories:** `136`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 277.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 252.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 247.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 277.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.1k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 248.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 212.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 195.0k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [caura-ai/caura](https://github.com/caura-ai/caura) | `★ 498` | `2026-10-12` | Experimental Agent | `Python` | Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, m... |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 303` | `2026-10-12` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 158` | `2026-10-12` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
-| [off-grid-ai/OGAD](https://github.com/off-grid-ai/OGAD) | `★ 125` | `2026-10-12` | Indie Tool | `TypeScript` | Your private, on-device personal AI assistant for macOS and Windows. Chat, create, se... |
-| [everruns/everruns](https://github.com/everruns/everruns) | `★ 56` | `2026-10-12` | Experimental Agent | `Rust` | Headless durable agentic harness engine. Run durable AI agents reliably and scalably. |
+| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 354` | `2026-10-12` | Indie Tool | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
+| [Dodaios/Dodaios](https://github.com/Dodaios/Dodaios) | `★ 188` | `2026-10-12` | Local AI | `Python` | Your AI assistant, built for the agentic era. Open source and local: talk to it, and ... |
+| [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors) | `★ 175` | `2026-10-12` | Embodied AI | `C++` | Provides numerous sensor models designed to generate realistic data from simulation e... |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 136` | `2026-10-12` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
+| [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | `★ 117` | `2026-10-12` | Experimental Agent | `Kotlin` | Helping the Agents Compose the Things |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-12` | Robotics & Hardware | [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](src/content/news/2026-10-12-ocp-global-summit-amid-ecosystem-adoption.md) | At the Open Compute Project | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-12-ocp-global-summit-amid-ecosystem-adoption/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories) |
+| `2026-10-12` | AI Research | [Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning](src/content/news/2026-10-12-know-what-you-dont-know-agentic.md) | The continued improvement of large language models increasingly depends on synthetic experience, yet effective data... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-12-know-what-you-dont-know-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12593) |
 | `2026-10-12` | AI Research | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance](src/content/news/2026-10-12-faithfulness-without-anchors-a-position-paper.md) | Explainable | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-12-faithfulness-without-anchors-a-position-paper/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12493) |
 | `2026-10-12` | AI Research | [EliteTable: Self-Improving Program Search for Executable Control Policies](src/content/news/2026-10-12-elitetable-self-improving-program-search-for-executable.md) | EliteTable is a self | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-12-elitetable-self-improving-program-search-for-executable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12536) |
 | `2026-10-09` | AI Research | [Whose Ground Truth? Embracing Ambiguity in Human-Centered AI](src/content/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in.md) | As AI systems increasingly interact with people and make decisions about them, understanding human interpretations ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10805) |
@@ -183,7 +185,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-12 09:48 UTC` | **Yayımlanan haber:** `134`
+> **Dizin oluşturma:** `2026-10-12 19:50 UTC` | **Yayımlanan haber:** `136`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -193,6 +195,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-12` | Robotics & Hardware | [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](src/content/news/2026-10-12-ocp-global-summit-amid-ecosystem-adoption.md) | At the Open Compute Project | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-12-ocp-global-summit-amid-ecosystem-adoption/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories) |
+| `2026-10-12` | AI Research | [Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning](src/content/news/2026-10-12-know-what-you-dont-know-agentic.md) | The continued improvement of large language models increasingly depends on synthetic experience, yet effective data... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-12-know-what-you-dont-know-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12593) |
 | `2026-10-12` | AI Research | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance](src/content/news/2026-10-12-faithfulness-without-anchors-a-position-paper.md) | Explainable | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-12-faithfulness-without-anchors-a-position-paper/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12493) |
 | `2026-10-12` | AI Research | [EliteTable: Self-Improving Program Search for Executable Control Policies](src/content/news/2026-10-12-elitetable-self-improving-program-search-for-executable.md) | EliteTable is a self | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-12-elitetable-self-improving-program-search-for-executable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12536) |
 | `2026-10-09` | AI Research | [Whose Ground Truth? Embracing Ambiguity in Human-Centered AI](src/content/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in.md) | As AI systems increasingly interact with people and make decisions about them, understanding human interpretations ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-10-whose-ground-truth-embracing-ambiguity-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.10805) |
