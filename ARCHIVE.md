@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-13 09:30 UTC` | **Source-linked stories:** `140`
+> **Index generated:** `2026-10-13 17:09 UTC` | **Source-linked stories:** `142`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 278.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 248.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | `★ 194.9k` | Developer Tools | `Rust` | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 278.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.4k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 248.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 198.0k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,18 +32,20 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 294` | `2026-10-13` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [Dodaios/Dodaios](https://github.com/Dodaios/Dodaios) | `★ 192` | `2026-10-13` | Experimental Agent | `Python` | Your AI assistant, built for the agentic era. Open source and local: talk to it, and ... |
-| [echoVic/blade-code](https://github.com/echoVic/blade-code) | `★ 181` | `2026-10-13` | Indie Tool | `TypeScript` | AI-powered CLI coding agent with 20+ built-in tools, MCP support, and multi-model pro... |
-| [stephnangue/warden](https://github.com/stephnangue/warden) | `★ 176` | `2026-10-13` | Experimental Agent | `Go` | The secure gateway connecting AI agents to enterprise systems. |
-| [timoncool/dub-studio](https://github.com/timoncool/dub-studio) | `★ 161` | `2026-10-13` | Local AI | `Rust` | Free offline AI video dubbing studio for Windows — voice cloning, translation, subtit... |
+| [Avdpro/ai2apps](https://github.com/Avdpro/ai2apps) | `★ 431` | `2026-10-13` | Local AI | `Python` | Setup AI2Apps at local system so you can use your own OpenAI key or make more back-en... |
+| [Dodaios/Dodaios](https://github.com/Dodaios/Dodaios) | `★ 199` | `2026-10-13` | Local AI | `Python` | Your AI assistant, built for the agentic era. Open source and local: talk to it, and ... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 178` | `2026-10-13` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 138` | `2026-10-13` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
+| [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research) | `★ 37` | `2026-10-13` | Experimental Agent | `TypeScript` | Research and product workspace for Hussh personal AI experiences, consent flows, and ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-13` | AI Research | [MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](src/content/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage.md) | Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12659) |
 | `2026-10-13` | Robotics & Hardware | [From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA](src/content/news/2026-10-13-from-earth-to-orbit-frances-ecosystem.md) | Companies in France are deploying | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-from-earth-to-orbit-frances-ecosystem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing) |
 | `2026-10-13` | AI Research | [CLEAT: Learning Value-Guided Clarification for Interactive Agents](src/content/news/2026-10-13-cleat-learning-value-guided-clarification-for-interactive.md) | LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions wi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-cleat-learning-value-guided-clarification-for-interactive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12655) |
+| `2026-10-13` | Robotics & Hardware | [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](src/content/news/2026-10-13-all-systems-go-global-pc-app.md) | NVIDIA RTX Spark is | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-all-systems-go-global-pc-app/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates) |
 | `2026-10-12` | AI Research | [SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire](src/content/news/2026-10-13-spirebench-evaluating-long-horizon-strategic-play-of.md) | Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-spirebench-evaluating-long-horizon-strategic-play-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12596) |
 | `2026-10-12` | Robotics & Hardware | [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](src/content/news/2026-10-12-ocp-global-summit-amid-ecosystem-adoption.md) | At the Open Compute Project | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-12-ocp-global-summit-amid-ecosystem-adoption/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories) |
 | `2026-10-12` | AI Research | [Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning](src/content/news/2026-10-12-know-what-you-dont-know-agentic.md) | The continued improvement of large language models increasingly depends on synthetic experience, yet effective data... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-12-know-what-you-dont-know-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12593) |
@@ -189,7 +191,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-13 09:30 UTC` | **Yayımlanan haber:** `140`
+> **Dizin oluşturma:** `2026-10-13 17:09 UTC` | **Yayımlanan haber:** `142`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -199,8 +201,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-13` | AI Research | [MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](src/content/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage.md) | Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12659) |
 | `2026-10-13` | Robotics & Hardware | [From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA](src/content/news/2026-10-13-from-earth-to-orbit-frances-ecosystem.md) | Companies in France are deploying | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-from-earth-to-orbit-frances-ecosystem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing) |
 | `2026-10-13` | AI Research | [CLEAT: Learning Value-Guided Clarification for Interactive Agents](src/content/news/2026-10-13-cleat-learning-value-guided-clarification-for-interactive.md) | LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions wi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-cleat-learning-value-guided-clarification-for-interactive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12655) |
+| `2026-10-13` | Robotics & Hardware | [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](src/content/news/2026-10-13-all-systems-go-global-pc-app.md) | NVIDIA RTX Spark is | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-all-systems-go-global-pc-app/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates) |
 | `2026-10-12` | AI Research | [SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire](src/content/news/2026-10-13-spirebench-evaluating-long-horizon-strategic-play-of.md) | Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-spirebench-evaluating-long-horizon-strategic-play-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12596) |
 | `2026-10-12` | Robotics & Hardware | [OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide](src/content/news/2026-10-12-ocp-global-summit-amid-ecosystem-adoption.md) | At the Open Compute Project | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-12-ocp-global-summit-amid-ecosystem-adoption/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories) |
 | `2026-10-12` | AI Research | [Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning](src/content/news/2026-10-12-know-what-you-dont-know-agentic.md) | The continued improvement of large language models increasingly depends on synthetic experience, yet effective data... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-12-know-what-you-dont-know-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12593) |
