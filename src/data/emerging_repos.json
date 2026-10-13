@@ -1,82 +1,42 @@
 [
   {
-    "name": "Avdpro/ai2apps",
-    "url": "https://github.com/Avdpro/ai2apps",
-    "stars": 431,
-    "forks": 82,
-    "description": "Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "Dodaios/Dodaios",
-    "url": "https://github.com/Dodaios/Dodaios",
-    "stars": 199,
-    "forks": 73,
-    "description": "Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 178,
-    "forks": 15,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 138,
-    "forks": 22,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "hushh-labs/hushh-research",
-    "url": "https://github.com/hushh-labs/hushh-research",
-    "stars": 37,
-    "forks": 86,
-    "description": "Research and product workspace for Hussh personal AI experiences, consent flows, and applied agent systems.",
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 299,
+    "forks": 37,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-13"
   },
   {
-    "name": "HyperbolicCurve/Awesome-World-Action-Model",
-    "url": "https://github.com/HyperbolicCurve/Awesome-World-Action-Model",
-    "stars": 37,
+    "name": "yschimke/compose-ai-tools",
+    "url": "https://github.com/yschimke/compose-ai-tools",
+    "stars": 118,
+    "forks": 5,
+    "description": "Helping the Agents Compose the Things",
+    "language": "Kotlin",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-13"
+  },
+  {
+    "name": "Dicklesworthstone/frankensonos",
+    "url": "https://github.com/Dicklesworthstone/frankensonos",
+    "stars": 87,
+    "forks": 6,
+    "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-13"
+  },
+  {
+    "name": "851-labs/codevisor",
+    "url": "https://github.com/851-labs/codevisor",
+    "stars": 17,
     "forks": 3,
-    "description": "A curated list of academic papers and resources on Vision-Language-Action (VLA) and World Action Models (WAM)",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "NimbleBrainInc/nimblebrain",
-    "url": "https://github.com/NimbleBrainInc/nimblebrain",
-    "stars": 25,
-    "forks": 15,
-    "description": "Self-hosted platform for MCP Apps and agent automations — tools, interactive UIs, scheduled runs, multi-agent delegation.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "postmill-ai/postmill-app",
-    "url": "https://github.com/postmill-ai/postmill-app",
-    "stars": 22,
-    "forks": 8,
-    "description": "Open-source, AI-native social media management & scheduling platform for 45+ channels. BYOK AI across 30+ providers with governance guardrai...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
+    "description": "The fastest native app for agentic engineering.",
+    "language": "Swift",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-13"
   }
 ]

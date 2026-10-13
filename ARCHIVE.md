@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-13 17:09 UTC` | **Source-linked stories:** `142`
+> **Index generated:** `2026-10-13 21:52 UTC` | **Source-linked stories:** `144`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 278.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.4k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 278.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.5k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 248.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 198.0k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 204.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Avdpro/ai2apps](https://github.com/Avdpro/ai2apps) | `★ 431` | `2026-10-13` | Local AI | `Python` | Setup AI2Apps at local system so you can use your own OpenAI key or make more back-en... |
-| [Dodaios/Dodaios](https://github.com/Dodaios/Dodaios) | `★ 199` | `2026-10-13` | Local AI | `Python` | Your AI assistant, built for the agentic era. Open source and local: talk to it, and ... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 178` | `2026-10-13` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 138` | `2026-10-13` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [hushh-labs/hushh-research](https://github.com/hushh-labs/hushh-research) | `★ 37` | `2026-10-13` | Experimental Agent | `TypeScript` | Research and product workspace for Hussh personal AI experiences, consent flows, and ... |
+| [bex-co/beancount-io](https://github.com/bex-co/beancount-io) | `★ 299` | `2026-10-13` | Experimental Agent | `TypeScript` | 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents... |
+| [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | `★ 118` | `2026-10-13` | Experimental Agent | `Kotlin` | Helping the Agents Compose the Things |
+| [Dicklesworthstone/frankensonos](https://github.com/Dicklesworthstone/frankensonos) | `★ 87` | `2026-10-13` | Experimental Agent | `Rust` | Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SS... |
+| [851-labs/codevisor](https://github.com/851-labs/codevisor) | `★ 17` | `2026-10-13` | Experimental Agent | `Swift` | The fastest native app for agentic engineering. |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -44,6 +43,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-13` | AI Research | [MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](src/content/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage.md) | Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12659) |
 | `2026-10-13` | Robotics & Hardware | [From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA](src/content/news/2026-10-13-from-earth-to-orbit-frances-ecosystem.md) | Companies in France are deploying | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-from-earth-to-orbit-frances-ecosystem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing) |
+| `2026-10-13` | AI Research | [Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs](src/content/news/2026-10-13-faithful-and-complete-llm-assisted-automated-construction.md) | Hardware datasheets contain engineering specifications essential for component selection, system integration, and h... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-faithful-and-complete-llm-assisted-automated-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12762) |
+| `2026-10-13` | AI Research | [EvoBelief: Falsifiable World Models for Self-Improving LLM Agents](src/content/news/2026-10-13-evobelief-falsifiable-world-models-for-self-improving.md) | Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-evobelief-falsifiable-world-models-for-self-improving/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12789) |
 | `2026-10-13` | AI Research | [CLEAT: Learning Value-Guided Clarification for Interactive Agents](src/content/news/2026-10-13-cleat-learning-value-guided-clarification-for-interactive.md) | LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions wi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-cleat-learning-value-guided-clarification-for-interactive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12655) |
 | `2026-10-13` | Robotics & Hardware | [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](src/content/news/2026-10-13-all-systems-go-global-pc-app.md) | NVIDIA RTX Spark is | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-all-systems-go-global-pc-app/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates) |
 | `2026-10-12` | AI Research | [SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire](src/content/news/2026-10-13-spirebench-evaluating-long-horizon-strategic-play-of.md) | Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-spirebench-evaluating-long-horizon-strategic-play-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12596) |
@@ -191,7 +192,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-13 17:09 UTC` | **Yayımlanan haber:** `142`
+> **Dizin oluşturma:** `2026-10-13 21:52 UTC` | **Yayımlanan haber:** `144`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -203,6 +204,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-13` | AI Research | [MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](src/content/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage.md) | Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12659) |
 | `2026-10-13` | Robotics & Hardware | [From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA](src/content/news/2026-10-13-from-earth-to-orbit-frances-ecosystem.md) | Companies in France are deploying | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-from-earth-to-orbit-frances-ecosystem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing) |
+| `2026-10-13` | AI Research | [Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs](src/content/news/2026-10-13-faithful-and-complete-llm-assisted-automated-construction.md) | Hardware datasheets contain engineering specifications essential for component selection, system integration, and h... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-faithful-and-complete-llm-assisted-automated-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12762) |
+| `2026-10-13` | AI Research | [EvoBelief: Falsifiable World Models for Self-Improving LLM Agents](src/content/news/2026-10-13-evobelief-falsifiable-world-models-for-self-improving.md) | Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-evobelief-falsifiable-world-models-for-self-improving/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12789) |
 | `2026-10-13` | AI Research | [CLEAT: Learning Value-Guided Clarification for Interactive Agents](src/content/news/2026-10-13-cleat-learning-value-guided-clarification-for-interactive.md) | LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions wi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-cleat-learning-value-guided-clarification-for-interactive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12655) |
 | `2026-10-13` | Robotics & Hardware | [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](src/content/news/2026-10-13-all-systems-go-global-pc-app.md) | NVIDIA RTX Spark is | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-all-systems-go-global-pc-app/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates) |
 | `2026-10-12` | AI Research | [SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire](src/content/news/2026-10-13-spirebench-evaluating-long-horizon-strategic-play-of.md) | Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-spirebench-evaluating-long-horizon-strategic-play-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12596) |
