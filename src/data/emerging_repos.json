@@ -1,82 +1,82 @@
 [
   {
-    "name": "xorbitsai/xagent",
-    "url": "https://github.com/xorbitsai/xagent",
-    "stars": 303,
-    "forks": 75,
-    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 224,
-    "forks": 39,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "rrrrrredy/research-toolkit",
-    "url": "https://github.com/rrrrrredy/research-toolkit",
-    "stars": 204,
-    "forks": 0,
-    "description": "Research methods, workflow tools, and independent review for AI agents, packaged as a Skill, plugin, and local MCP server.",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "KyaniteLabs/kinocut",
-    "url": "https://github.com/KyaniteLabs/kinocut",
-    "stars": 202,
-    "forks": 46,
-    "description": "Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurposing tools, Python client, and CLI. Local, fast, free.",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 172,
-    "forks": 15,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "zqc3117/Spotter",
-    "url": "https://github.com/zqc3117/Spotter",
-    "stars": 152,
-    "forks": 19,
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 294,
+    "forks": 162,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-13"
   },
   {
-    "name": "Tort1k558/Camouflow",
-    "url": "https://github.com/Tort1k558/Camouflow",
-    "stars": 93,
-    "forks": 10,
-    "description": "Local-first browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Powered by Camo...",
+    "name": "Dodaios/Dodaios",
+    "url": "https://github.com/Dodaios/Dodaios",
+    "stars": 192,
+    "forks": 71,
+    "description": "Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and...",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-13"
   },
   {
-    "name": "vulture-s/arkiv",
-    "url": "https://github.com/vulture-s/arkiv",
-    "stars": 78,
+    "name": "echoVic/blade-code",
+    "url": "https://github.com/echoVic/blade-code",
+    "stars": 181,
+    "forks": 29,
+    "description": "AI-powered CLI coding agent with 20+ built-in tools, MCP support, and multi-model providers",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-13"
+  },
+  {
+    "name": "stephnangue/warden",
+    "url": "https://github.com/stephnangue/warden",
+    "stars": 176,
     "forks": 8,
-    "description": "Local-first media asset manager with AI semantic search — reads pro-camera metadata (Sony XAVC sidecar, FX-series) and 360 footage (Insta360...",
-    "language": "Python",
+    "description": "The secure gateway connecting AI agents to enterprise systems.",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-13"
+  },
+  {
+    "name": "timoncool/dub-studio",
+    "url": "https://github.com/timoncool/dub-studio",
+    "stars": 161,
+    "forks": 27,
+    "description": "Free offline AI video dubbing studio for Windows — voice cloning, translation, subtitles & on-screen-text localization. 100% local, one nati...",
+    "language": "Rust",
     "tag": "Local AI",
+    "pushed_at": "2026-10-13"
+  },
+  {
+    "name": "Bike4Mind/bike4mind",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 87,
+    "forks": 15,
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-13"
+  },
+  {
+    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
+    "stars": 79,
+    "forks": 11,
+    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-13"
+  },
+  {
+    "name": "modelship-ai/modelship",
+    "url": "https://github.com/modelship-ai/modelship",
+    "stars": 53,
+    "forks": 4,
+    "description": "Self-hosted, OpenAI-compatible inference for the agentic era: reasoning LLMs, universal tool calling, and the Responses API alongside embedd...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-13"
   }
 ]
