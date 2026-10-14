@@ -8,6 +8,7 @@ export interface TranslationDict {
   weeklyDigests: string;
   categories: string;
   about: string;
+  rumorsRadar: string;
   rss: string;
   
   // Status Bar
@@ -60,6 +61,7 @@ export interface TranslationDict {
   catOpenSource: string;
   catDigest: string;
   catIndustry: string;
+  catRumors: string;
 
   // Footer
   footerDesc: string;
@@ -76,6 +78,7 @@ export const translations: Record<Language, TranslationDict> = {
     emergingAi: 'Emerging AI',
     weeklyDigests: 'Weekly Digests',
     categories: 'Categories',
+    rumorsRadar: 'Rumor Radar',
     about: 'About',
     rss: 'RSS',
     wireStatus: 'News Desk:',
@@ -121,6 +124,7 @@ export const translations: Record<Language, TranslationDict> = {
     catOpenSource: 'Open Source AI',
     catDigest: 'Weekly Digest',
     catIndustry: 'Industry & Startups',
+    catRumors: 'Rumors & Leaks',
     footerDesc: 'The autonomous artificial intelligence journal. Monitoring frontier AI research, open-source model releases, and hardware scaling hourly. Distilled and published without human intervention.',
     footerRights: 'Neural Pulse. Autonomous news synthesis. All sources cited directly.',
     footerPublished: 'Published via GitHub Pages',
@@ -133,6 +137,7 @@ export const translations: Record<Language, TranslationDict> = {
     emergingAi: 'Yükselen AI',
     weeklyDigests: 'Haftalık Bültenler',
     categories: 'Kategoriler',
+    rumorsRadar: 'Söylenti Radarı',
     about: 'Hakkında',
     rss: 'RSS',
     wireStatus: 'Haber Masası:',
@@ -178,6 +183,7 @@ export const translations: Record<Language, TranslationDict> = {
     catOpenSource: 'Açık Kaynak Yapay Zeka',
     catDigest: 'Haftalık Bülten',
     catIndustry: 'Sektör ve Girişimler',
+    catRumors: 'Söylentiler & Sızıntılar',
     footerDesc: 'Otonom yapay zeka gazetesi. Frontier AI araştırmalarını, açık kaynak model sürümlerini ve donanım gelişmelerini saatlik takip eder.',
     footerRights: 'Neural Pulse. Otonom haber sentezi. Tüm kaynaklara doğrudan atıf yapılır.',
     footerPublished: 'GitHub Pages ile Yayınlanmaktadır',
@@ -190,6 +196,7 @@ export const translations: Record<Language, TranslationDict> = {
     emergingAi: 'IA Emergente',
     weeklyDigests: 'Resúmenes Semanales',
     categories: 'Categorías',
+    rumorsRadar: 'Radar de Rumores',
     about: 'Acerca de',
     rss: 'RSS',
     wireStatus: 'Mesa de Noticias:',
@@ -235,6 +242,7 @@ export const translations: Record<Language, TranslationDict> = {
     catOpenSource: 'IA de Código Abierto',
     catDigest: 'Resumen Semanal',
     catIndustry: 'Industria y Startups',
+    catRumors: 'Rumores y Filtraciones',
     footerDesc: 'El diario autónomo de inteligencia artificial. Monitoreo de investigación en IA de vanguardia y modelos abiertos cada hora.',
     footerRights: 'Neural Pulse. Síntesis autónoma de noticias. Todas las fuentes citadas directamente.',
     footerPublished: 'Publicado a través de GitHub Pages',
@@ -248,6 +256,7 @@ export const translations: Record<Language, TranslationDict> = {
     weeklyDigests: '每周简报',
     categories: '分类目录',
     about: '关于我们',
+    rumorsRadar: '传闻与情报',
     rss: 'RSS 订阅',
     wireStatus: '新闻台：',
     hourlyActive: '每小时自主更新中',
@@ -292,6 +301,7 @@ export const translations: Record<Language, TranslationDict> = {
     catOpenSource: '开源人工智能生态',
     catDigest: '每周情报特辑',
     catIndustry: '产业动态与创新生态',
+    catRumors: '传闻与爆料',
     footerDesc: '自主人工智能科技期刊。每小时跟踪全球前沿 AI 论文、开源权重与计算集群突破。',
     footerRights: 'Neural Pulse. 自主新闻综合报道。所有内容均严格标明原始出处。',
     footerPublished: '通过 GitHub Pages 托管发布',
@@ -305,6 +315,7 @@ export const translations: Record<Language, TranslationDict> = {
     weeklyDigests: 'Briefing Settimanali',
     categories: 'Categorie',
     about: 'Informazioni',
+    rumorsRadar: 'Radar Rumor',
     rss: 'RSS',
     wireStatus: 'Desk Notizie:',
     hourlyActive: 'Flusso Autonomo Orario Attivo',
@@ -350,6 +361,7 @@ export const translations: Record<Language, TranslationDict> = {
     catDigest: 'Briefing Settimanale',
     catIndustry: 'Industria e Startup',
     footerDesc: 'Il giornale autonomo di intelligenza artificiale. Monitoraggio continuo di modelli avanzati e hardware.',
+    catRumors: 'Rumor e Indiscrezioni',
     footerRights: 'Neural Pulse. Sintesi autonoma. Tutte le fonti citate direttamente.',
     footerPublished: 'Pubblicato tramite GitHub Pages',
     navigationHeading: 'Navigazione',
@@ -362,6 +374,7 @@ export const translations: Record<Language, TranslationDict> = {
     weeklyDigests: 'Wöchentliche Briefings',
     categories: 'Kategorien',
     about: 'Über uns',
+    rumorsRadar: 'Gerüchte-Radar',
     rss: 'RSS',
     wireStatus: 'Nachrichtenredaktion:',
     hourlyActive: 'Stündlicher Autonomer Ticker Aktiv',
@@ -407,6 +420,7 @@ export const translations: Record<Language, TranslationDict> = {
     catOpenSource: 'Open-Source-KI-Ökosystem',
     catDigest: 'Wöchentliches Briefing',
     catIndustry: 'Industrie & Startups',
+    catRumors: 'Gerüchte & Leaks',
     footerDesc: 'Das autonome Journal für künstliche Intelligenz. Stündliche Überwachung weltweiter Spitzenforschung und Open-Source-Modelle.',
     footerRights: 'Neural Pulse. Autonome Nachrichtensynthese. Alle Quellen direkt zitiert.',
     footerPublished: 'Veröffentlicht über GitHub Pages',
