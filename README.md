@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-14 12:05 UTC` | **Source-linked stories:** `148`
+> **Index generated:** `2026-10-14 17:17 UTC` | **Source-linked stories:** `148`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 278.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 249.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 226.6k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 279.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 249.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 234.8k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | `★ 393` | `2026-10-14` | Indie Tool | `Go` | AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memo... |
-| [Tenney95/AI-Canvas-tauri](https://github.com/Tenney95/AI-Canvas-tauri) | `★ 225` | `2026-10-14` | Local AI | `TypeScript` | Local-first AI canvas for visual workflows, AI short drama, image/video generation, s... |
-| [Dicklesworthstone/markdown_web_browser](https://github.com/Dicklesworthstone/markdown_web_browser) | `★ 187` | `2026-10-14` | Experimental Agent | `Python` | Renders any URL via headless Chrome, tiles screenshots into OCR slices, and streams s... |
-| [turantekin/Parrot](https://github.com/turantekin/Parrot) | `★ 107` | `2026-10-14` | Local AI | `Swift` | Meeting recorder for your Mac with a live AI assistant. On-device transcription, answ... |
-| [neutree-ai/agent-platform](https://github.com/neutree-ai/agent-platform) | `★ 75` | `2026-10-14` | Experimental Agent | `TypeScript` | The open-source agent platform to build, distribute, and optimize AI agents — on infr... |
+| [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | `★ 273` | `2026-10-14` | Experimental Agent | `Go` | Securely scale AI usage across your organization. A single stack to Connect, Secure, ... |
+| [jentic/jentic-public-apis](https://github.com/jentic/jentic-public-apis) | `★ 261` | `2026-10-14` | Experimental Agent | `Python` | Directory of OpenAPI specifications for thousands of public APIs. Every API is machin... |
+| [Dodaios/Dodaios](https://github.com/Dodaios/Dodaios) | `★ 208` | `2026-10-14` | Local AI | `Python` | Your AI assistant, built for the agentic era. Open source and local: talk to it, and ... |
+| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 192` | `2026-10-14` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
+| [scragnog/HOT-Step-CPP](https://github.com/scragnog/HOT-Step-CPP) | `★ 174` | `2026-10-14` | Local AI | `C++` | Turn dials. Summon bangers! NOW WITH MORE C++! Local AI music generation powered by G... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -197,7 +197,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-14 12:05 UTC` | **Yayımlanan haber:** `148`
+> **Dizin oluşturma:** `2026-10-14 17:17 UTC` | **Yayımlanan haber:** `148`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
