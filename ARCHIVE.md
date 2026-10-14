@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-14 01:16 UTC` | **Source-linked stories:** `146`
+> **Index generated:** `2026-10-14 06:14 UTC` | **Source-linked stories:** `148`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 278.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.5k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 249.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 278.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.6k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 249.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 217.2k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 208.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | `★ 360` | `2026-10-14` | Experimental Agent | `Go` | AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memo... |
-| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 139` | `2026-10-14` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [kekzl/imp](https://github.com/kekzl/imp) | `★ 44` | `2026-10-14` | Indie Tool | `C++` | LLM server for one RTX 5090. Runs Qwen3.8-Flash-Next (512-expert MoE) on a single 32 ... |
-| [pku-lemonade/TokenSim](https://github.com/pku-lemonade/TokenSim) | `★ 43` | `2026-10-14` | Indie Tool | `Python` | TokenSim is a tool for simulating the behavior of large language models (LLMs) in a d... |
-| [Aafff623/pane](https://github.com/Aafff623/pane) | `★ 36` | `2026-10-14` | Local AI | `Rust` | 本地优先的 AI 用量工作台：额度、余额、重置时间、多账号与 CLI Token 花费，一窗掌握。Local-first AI usage dashboard built... |
+| [magicapple123/ResumeForge](https://github.com/magicapple123/ResumeForge) | `★ 282` | `2026-10-14` | Local AI | `Python` | 简历通 ResumeForge —— 本地优先的 AI 简历工作台：岗位管理、事实台账防虚构、AI 定制/手写简历、多格式导出、模拟面试与面试深挖、自动投递台、求职进度与... |
+| [pqpo/pragma](https://github.com/pqpo/pragma) | `★ 249` | `2026-10-14` | Experimental Agent | `TypeScript` | Build portable agent teams across models and harnesses, with shared memory, skills, t... |
+| [fzn0x/watchtower](https://github.com/fzn0x/watchtower) | `★ 214` | `2026-10-14` | Indie Tool | `Python` | Watchtower is a simple AI-powered penetration testing automation CLI tool that levera... |
+| [mjasnikovs/pi-task](https://github.com/mjasnikovs/pi-task) | `★ 143` | `2026-10-14` | Indie Tool | `TypeScript` | Deterministic spec-orchestration for local LLMs in the pi coding agent — drives promp... |
+| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 98` | `2026-10-14` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-14` | Robotics & Hardware | [From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA](src/content/news/2026-10-14-from-enterprise-to-earthshot-uks-ecosystem.md) | Across industries, the U.K. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-14-from-enterprise-to-earthshot-uks-ecosystem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/uk-ecosystem-deployment) |
+| `2026-10-14` | Robotics & Hardware | [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](src/content/news/2026-10-14-european-cities-deploy-nvidia-powered-ai-agents.md) | Keeping a city running means making decisions that affect residents every day — from when to repair a road to how t... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-14-european-cities-deploy-nvidia-powered-ai-agents/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations) |
 | `2026-10-13` | AI Research | [VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails](src/content/news/2026-10-14-vepa-verified-evolving-formal-policy-for.md) | LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, whic... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-14-vepa-verified-evolving-formal-policy-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12813) |
 | `2026-10-13` | AI Research | [Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems](src/content/news/2026-10-14-reward-hacking-as-a-transmissible-strategy.md) | Multi-agent systems are increasingly used to solve coding tasks by coordinating agents that share code and plans. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-14-reward-hacking-as-a-transmissible-strategy/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12822) |
 | `2026-10-13` | AI Research | [MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](src/content/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage.md) | Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12659) |
@@ -195,7 +197,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-14 01:16 UTC` | **Yayımlanan haber:** `146`
+> **Dizin oluşturma:** `2026-10-14 06:14 UTC` | **Yayımlanan haber:** `148`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -205,6 +207,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-14` | Robotics & Hardware | [From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA](src/content/news/2026-10-14-from-enterprise-to-earthshot-uks-ecosystem.md) | Across industries, the U.K. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-14-from-enterprise-to-earthshot-uks-ecosystem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/uk-ecosystem-deployment) |
+| `2026-10-14` | Robotics & Hardware | [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](src/content/news/2026-10-14-european-cities-deploy-nvidia-powered-ai-agents.md) | Keeping a city running means making decisions that affect residents every day — from when to repair a road to how t... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-14-european-cities-deploy-nvidia-powered-ai-agents/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations) |
 | `2026-10-13` | AI Research | [VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails](src/content/news/2026-10-14-vepa-verified-evolving-formal-policy-for.md) | LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, whic... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-14-vepa-verified-evolving-formal-policy-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12813) |
 | `2026-10-13` | AI Research | [Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems](src/content/news/2026-10-14-reward-hacking-as-a-transmissible-strategy.md) | Multi-agent systems are increasingly used to solve coding tasks by coordinating agents that share code and plans. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-14-reward-hacking-as-a-transmissible-strategy/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12822) |
 | `2026-10-13` | AI Research | [MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](src/content/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage.md) | Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-13-magicbeanstalk-escaping-the-rlvr-zero-advantage/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.12659) |
