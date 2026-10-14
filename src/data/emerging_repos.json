@@ -1,42 +1,82 @@
 [
   {
-    "name": "bex-co/beancount-io",
-    "url": "https://github.com/bex-co/beancount-io",
-    "stars": 299,
-    "forks": 37,
-    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "name": "liliang-cn/cortexdb",
+    "url": "https://github.com/liliang-cn/cortexdb",
+    "stars": 360,
+    "forks": 15,
+    "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP tools. Works without an...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-14"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 139,
+    "forks": 22,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-14"
+  },
+  {
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 44,
+    "forks": 4,
+    "description": "LLM server for one RTX 5090. Runs Qwen3.8-Flash-Next (512-expert MoE) on a single 32 GB card at 75-80 tok/s. Decodes 17-191 % faster than ll...",
+    "language": "C++",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-14"
+  },
+  {
+    "name": "pku-lemonade/TokenSim",
+    "url": "https://github.com/pku-lemonade/TokenSim",
+    "stars": 43,
+    "forks": 7,
+    "description": "TokenSim is a tool for simulating the behavior of large language models (LLMs) in a distributed environment.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-14"
+  },
+  {
+    "name": "Aafff623/pane",
+    "url": "https://github.com/Aafff623/pane",
+    "stars": 36,
+    "forks": 2,
+    "description": "本地优先的 AI 用量工作台：额度、余额、重置时间、多账号与 CLI Token 花费，一窗掌握。Local-first AI usage dashboard built with Tauri, Rust and TypeScript.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-14"
+  },
+  {
+    "name": "aaurelions/combicode",
+    "url": "https://github.com/aaurelions/combicode",
+    "stars": 35,
+    "forks": 1,
+    "description": "📦 A CLI tool to combine a project's codebase into a single file for LLM context.",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-14"
+  },
+  {
+    "name": "ihabkhaled/ClawAI",
+    "url": "https://github.com/ihabkhaled/ClawAI",
+    "stars": 23,
+    "forks": 1,
+    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers. It intelligently ro...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-14"
+  },
+  {
+    "name": "vixl-ai/vixl",
+    "url": "https://github.com/vixl-ai/vixl",
+    "stars": 22,
+    "forks": 4,
+    "description": "Local-first desktop coding agent with BYOK, MCP, and OpenAI-compatible / Ollama hosts",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "yschimke/compose-ai-tools",
-    "url": "https://github.com/yschimke/compose-ai-tools",
-    "stars": 118,
-    "forks": 5,
-    "description": "Helping the Agents Compose the Things",
-    "language": "Kotlin",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "Dicklesworthstone/frankensonos",
-    "url": "https://github.com/Dicklesworthstone/frankensonos",
-    "stars": 87,
-    "forks": 6,
-    "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-13"
-  },
-  {
-    "name": "851-labs/codevisor",
-    "url": "https://github.com/851-labs/codevisor",
-    "stars": 17,
-    "forks": 3,
-    "description": "The fastest native app for agentic engineering.",
-    "language": "Swift",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-13"
+    "pushed_at": "2026-10-14"
   }
 ]
