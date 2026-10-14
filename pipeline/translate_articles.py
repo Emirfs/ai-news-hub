@@ -30,7 +30,12 @@ TERMS = {
         "Benchmark": "Performans Testi",
         "Intelligence": "Zeka",
         "Models": "Modeller",
-        "Coding": "Yazılım Kodlama"
+        "Coding": "Yazılım Kodlama",
+        "Rumors": "Söylentiler",
+        "Leaks": "Sızıntılar",
+        "Limit": "Limit",
+        "Reset": "Sıfırlama",
+        "Speculation": "Spekülasyon"
     },
     "es": {
         "AI": "Inteligencia Artificial",
@@ -44,7 +49,12 @@ TERMS = {
         "Benchmark": "Puntos de Referencia",
         "Intelligence": "Inteligencia",
         "Models": "Modelos",
-        "Coding": "Codificación"
+        "Coding": "Codificación",
+        "Rumors": "Rumores",
+        "Leaks": "Filtraciones",
+        "Limit": "Límite",
+        "Reset": "Reinicio",
+        "Speculation": "Especulación"
     },
     "zh": {
         "AI": "人工智能",
@@ -58,7 +68,12 @@ TERMS = {
         "Benchmark": "基准评测",
         "Intelligence": "智能",
         "Models": "模型",
-        "Coding": "代码生成"
+        "Coding": "代码生成",
+        "Rumors": "传闻",
+        "Leaks": "爆料",
+        "Limit": "配额限制",
+        "Reset": "重置",
+        "Speculation": "行业推测"
     },
     "de": {
         "AI": "Künstliche Intelligenz",
@@ -72,7 +87,12 @@ TERMS = {
         "Benchmark": "Leistungsvergleich",
         "Intelligence": "Intelligenz",
         "Models": "Modelle",
-        "Coding": "Programmierung"
+        "Coding": "Programmierung",
+        "Rumors": "Gerüchte",
+        "Leaks": "Leaks",
+        "Limit": "Limit",
+        "Reset": "Reset",
+        "Speculation": "Spekulation"
     },
     "it": {
         "AI": "Intelligenza Artificiale",
@@ -86,7 +106,12 @@ TERMS = {
         "Benchmark": "Benchmark Prestazionali",
         "Intelligence": "Intelligenza",
         "Models": "Modelli",
-        "Coding": "Codifica"
+        "Coding": "Codifica",
+        "Rumors": "Rumor",
+        "Leaks": "Indiscrezioni",
+        "Limit": "Limite",
+        "Reset": "Ripristino",
+        "Speculation": "Speculazione"
     }
 }
 
