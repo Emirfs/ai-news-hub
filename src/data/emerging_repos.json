@@ -1,12 +1,22 @@
 [
   {
-    "name": "speakeasy-api/gram",
-    "url": "https://github.com/speakeasy-api/gram",
-    "stars": 273,
-    "forks": 35,
-    "description": "Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within ...",
-    "language": "Go",
-    "tag": "Experimental Agent",
+    "name": "receptron/mulmoclaude",
+    "url": "https://github.com/receptron/mulmoclaude",
+    "stars": 374,
+    "forks": 63,
+    "description": "Nurture your own AI assistant on your own computer. Local-first and MIT: memories, data and apps stay as plain files in your workspace. Chat...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-14"
+  },
+  {
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 274,
+    "forks": 23,
+    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-14"
   },
   {
@@ -20,33 +30,23 @@
     "pushed_at": "2026-10-14"
   },
   {
-    "name": "Dodaios/Dodaios",
-    "url": "https://github.com/Dodaios/Dodaios",
-    "stars": 208,
-    "forks": 74,
-    "description": "Your AI assistant, built for the agentic era. Open source and local: talk to it, and it runs your agents, your coding CLIs, your browser and...",
-    "language": "Python",
-    "tag": "Local AI",
+    "name": "cynative/cynative",
+    "url": "https://github.com/cynative/cynative",
+    "stars": 223,
+    "forks": 32,
+    "description": "Open-source AI agent framework for cloud security across AWS, Azure, GCP and Kubernetes: AI-powered cloud detection and response, and cloud ...",
+    "language": "Go",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-14"
   },
   {
-    "name": "abacusai/abacusai-bot",
-    "url": "https://github.com/abacusai/abacusai-bot",
-    "stars": 192,
-    "forks": 28,
-    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
-    "language": "TypeScript",
+    "name": "NVIDIA/NeMo-Relay",
+    "url": "https://github.com/NVIDIA/NeMo-Relay",
+    "stars": 193,
+    "forks": 83,
+    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
+    "language": "Rust",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-14"
-  },
-  {
-    "name": "scragnog/HOT-Step-CPP",
-    "url": "https://github.com/scragnog/HOT-Step-CPP",
-    "stars": 174,
-    "forks": 30,
-    "description": "Turn dials. Summon bangers! NOW WITH MORE C++! Local AI music generation powered by GGML",
-    "language": "C++",
-    "tag": "Local AI",
     "pushed_at": "2026-10-14"
   },
   {
@@ -60,23 +60,23 @@
     "pushed_at": "2026-10-14"
   },
   {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 141,
-    "forks": 22,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 95,
+    "forks": 40,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-14"
   },
   {
-    "name": "zhinjs/zhin",
-    "url": "https://github.com/zhinjs/zhin",
-    "stars": 136,
-    "forks": 19,
-    "description": "AI-native TypeScript bot framework — one codebase for 20+ chat platforms (QQ, Discord, Telegram, Slack, WeChat…). Opt-in AI agent with MCP, ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 44,
+    "forks": 4,
+    "description": "LLM server for one RTX 5090. Runs Qwen3.8-Flash-Next (512-expert MoE) on a single 32 GB card at 75-80 tok/s. Decodes 17-191 % faster than ll...",
+    "language": "C++",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-14"
   }
 ]
