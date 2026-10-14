@@ -47,7 +47,10 @@
     "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
     "https://discoveredmaterials.com/research/",
     "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-    "https://news.ycombinator.com/item?id=41590682"
+    "https://news.ycombinator.com/item?id=41590682",
+    "https://twitter.com/OpenAIDevs/status/2099418291034927104",
+    "https://twitter.com/AnthropicAI/status/2099482103819203840",
+    "https://twitter.com/sama/status/2099512349018471920"
   ],
   "published_articles": [
     {
@@ -294,6 +297,21 @@
       "slug": "2026-09-23-twitterx-dispatch-gemini-wont-return-c",
       "date": "2026-09-23",
       "title": "Twitter/X Dispatch: Gemini won't return C++ coding help if you're under 18 \"to preserve your safety\""
+    },
+    {
+      "slug": "2026-09-22-openai-codex-limit-resets-and",
+      "date": "2026-09-22",
+      "title": "OpenAI Codex Limit Resets and Extended Rate Caps Announced Across Developer Accounts"
+    },
+    {
+      "slug": "2026-09-22-anthropic-claude-opus-55-coding-leaks",
+      "date": "2026-09-22",
+      "title": "Anthropic Claude Opus 5.5 Coding Leaks: Speculation Mounts Around Next-Gen Agentic Frontier Model"
+    },
+    {
+      "slug": "2026-09-22-gpt-6-architectural-speculation-surges",
+      "date": "2026-09-22",
+      "title": "GPT-6 Architectural Speculation Surges Following Leaked Synthetic Reasoning Benchmarks"
     }
   ]
 }
