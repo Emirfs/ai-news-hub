@@ -1,31 +1,61 @@
 [
   {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 281,
-    "forks": 26,
-    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
+    "name": "ACDSLab/MPPI-Generic",
+    "url": "https://github.com/ACDSLab/MPPI-Generic",
+    "stars": 312,
+    "forks": 48,
+    "description": "Templated C++/CUDA implementation of Model Predictive Path Integral Control (MPPI)",
+    "language": "Cuda",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-15"
+  },
+  {
+    "name": "TheMorpheus407/RepoLens",
+    "url": "https://github.com/TheMorpheus407/RepoLens",
+    "stars": 299,
+    "forks": 34,
+    "description": "Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-15"
+  },
+  {
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 230,
+    "forks": 31,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-15"
   },
   {
-    "name": "llamastash/llamastash",
-    "url": "https://github.com/llamastash/llamastash",
-    "stars": 216,
-    "forks": 19,
-    "description": "Zero-overhead, terminal-native local-LLM runtime manager. Launches, supervises, and routes local models behind one OpenAI-compatible endpoin...",
-    "language": "Rust",
+    "name": "scenario-labs/blender-plugin",
+    "url": "https://github.com/scenario-labs/blender-plugin",
+    "stars": 207,
+    "forks": 30,
+    "description": "Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a local MCP server for agents. Blender 5.0+ extension, GP...",
+    "language": "Python",
     "tag": "Local AI",
     "pushed_at": "2026-10-15"
   },
   {
-    "name": "Dicklesworthstone/frankensonos",
-    "url": "https://github.com/Dicklesworthstone/frankensonos",
-    "stars": 89,
-    "forks": 6,
-    "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify...",
-    "language": "Rust",
+    "name": "black-forest-labs/flux-action",
+    "url": "https://github.com/black-forest-labs/flux-action",
+    "stars": 175,
+    "forks": 12,
+    "description": "FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-1...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-15"
+  },
+  {
+    "name": "linny006/trending-claude-skills",
+    "url": "https://github.com/linny006/trending-claude-skills",
+    "stars": 127,
+    "forks": 9,
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-15"
   },
@@ -40,43 +70,13 @@
     "pushed_at": "2026-10-15"
   },
   {
-    "name": "nullpointexception-i/agent-sphere",
-    "url": "https://github.com/nullpointexception-i/agent-sphere",
-    "stars": 75,
-    "forks": 10,
-    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
-    "language": "Java",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-15"
-  },
-  {
-    "name": "Dicklesworthstone/remote_compilation_helper",
-    "url": "https://github.com/Dicklesworthstone/remote_compilation_helper",
-    "stars": 67,
-    "forks": 4,
-    "description": "Intercepts cargo/gcc builds from AI coding agents via hooks and transparently routes them to remote worker machines, returning artifacts as ...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-15"
-  },
-  {
-    "name": "utensils/mold",
-    "url": "https://github.com/utensils/mold",
-    "stars": 54,
-    "forks": 2,
-    "description": "CLI-native local AI image and video generation for people, scripts, and agents — CUDA on Linux, Metal on macOS, plus desktop, web, iPhone, R...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-15"
-  },
-  {
-    "name": "opena2a-org/secretless-ai",
-    "url": "https://github.com/opena2a-org/secretless-ai",
-    "stars": 26,
-    "forks": 5,
-    "description": "One command to keep secrets out of AI (LLMs). Works with Claude Code, Cursor, Copilot, Windsurf, and any AI coding tool.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
+    "name": "aviaviavi/celorga",
+    "url": "https://github.com/aviaviavi/celorga",
+    "stars": 65,
+    "forks": 0,
+    "description": "A local-first workspace for your life, work, and AI agents. Built around plain-text Org files you own.",
+    "language": "Swift",
+    "tag": "Local AI",
     "pushed_at": "2026-10-15"
   }
 ]

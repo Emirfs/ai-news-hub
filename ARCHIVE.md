@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-15 19:13 UTC` | **Source-linked stories:** `156`
+> **Index generated:** `2026-10-15 22:25 UTC` | **Source-linked stories:** `158`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,8 +20,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 280.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 266.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 280.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 268.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.1k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 250.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
@@ -32,19 +32,21 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 281` | `2026-10-15` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 300+ audit rules across SEO, performance, ... |
-| [llamastash/llamastash](https://github.com/llamastash/llamastash) | `★ 216` | `2026-10-15` | Local AI | `Rust` | Zero-overhead, terminal-native local-LLM runtime manager. Launches, supervises, and r... |
-| [Dicklesworthstone/frankensonos](https://github.com/Dicklesworthstone/frankensonos) | `★ 89` | `2026-10-15` | Experimental Agent | `Rust` | Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SS... |
-| [Frank-ZY-Dou/awesome-ai-3d-modeling-robotics](https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics) | `★ 81` | `2026-10-15` | Embodied AI | `Python` | Source-linked examples of AI models used for 3D modeling, industrial design and CAD, ... |
-| [nullpointexception-i/agent-sphere](https://github.com/nullpointexception-i/agent-sphere) | `★ 75` | `2026-10-15` | Indie Tool | `Java` | This project is an AI Agent orchestration platform. It uses an LLM-driven decision en... |
+| [ACDSLab/MPPI-Generic](https://github.com/ACDSLab/MPPI-Generic) | `★ 312` | `2026-10-15` | Embodied AI | `Cuda` | Templated C++/CUDA implementation of Model Predictive Path Integral Control (MPPI) |
+| [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) | `★ 299` | `2026-10-15` | Experimental Agent | `Shell` | Multi-lens code audit tool — 280 expert AI agents for code review, security testing, ... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 230` | `2026-10-15` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [scenario-labs/blender-plugin](https://github.com/scenario-labs/blender-plugin) | `★ 207` | `2026-10-15` | Local AI | `Python` | Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a ... |
+| [black-forest-labs/flux-action](https://github.com/black-forest-labs/flux-action) | `★ 175` | `2026-10-15` | Embodied AI | `Python` | FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-15` | AI Research | [Visualizing the World Model in an Agent's Value Function](src/content/news/2026-10-15-visualizing-the-world-model-in-an.md) | Could model-free reinforcement learning algorithms actually be learning a model of the environment? | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-visualizing-the-world-model-in-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14186) |
 | `2026-10-15` | AI Research | [VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](src/content/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven.md) | VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-drive... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14149) |
 | `2026-10-15` | AI Research | [Unconstrained CTI-REALM with Open-Weights](src/content/news/2026-10-15-unconstrained-cti-realm-with-open-weights.md) | Organisations that want language-model agents for security work face a choice between open-weight models, which the... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-unconstrained-cti-realm-with-open-weights/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14180) |
 | `2026-10-15` | AI Research | [The Silent Failures in Agentic Data Science](src/content/news/2026-10-15-the-silent-failures-in-agentic-data.md) | Existing evaluations | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-the-silent-failures-in-agentic-data/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14115) |
+| `2026-10-15` | AI Research | [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](src/content/news/2026-10-15-should-slms-be-in-the-drivers.md) | The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them b... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-should-slms-be-in-the-drivers/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14209) |
 | `2026-10-15` | Robotics & Hardware | [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](src/content/news/2026-10-15-open-from-data-center-to-desktop.md) | NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task com... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-open-from-data-center-to-desktop/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl) |
 | `2026-10-15` | AI Research | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](src/content/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction.md) | Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with proc... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14146) |
 | `2026-10-15` | AI Research | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](src/content/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training.md) | The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness en... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14118) |
@@ -205,7 +207,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-15 19:13 UTC` | **Yayımlanan haber:** `156`
+> **Dizin oluşturma:** `2026-10-15 22:25 UTC` | **Yayımlanan haber:** `158`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -215,9 +217,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-15` | AI Research | [Visualizing the World Model in an Agent's Value Function](src/content/news/2026-10-15-visualizing-the-world-model-in-an.md) | Could model-free reinforcement learning algorithms actually be learning a model of the environment? | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-visualizing-the-world-model-in-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14186) |
 | `2026-10-15` | AI Research | [VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](src/content/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven.md) | VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-drive... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14149) |
 | `2026-10-15` | AI Research | [Unconstrained CTI-REALM with Open-Weights](src/content/news/2026-10-15-unconstrained-cti-realm-with-open-weights.md) | Organisations that want language-model agents for security work face a choice between open-weight models, which the... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-unconstrained-cti-realm-with-open-weights/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14180) |
 | `2026-10-15` | AI Research | [The Silent Failures in Agentic Data Science](src/content/news/2026-10-15-the-silent-failures-in-agentic-data.md) | Existing evaluations | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-the-silent-failures-in-agentic-data/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14115) |
+| `2026-10-15` | AI Research | [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](src/content/news/2026-10-15-should-slms-be-in-the-drivers.md) | The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them b... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-should-slms-be-in-the-drivers/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14209) |
 | `2026-10-15` | Robotics & Hardware | [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](src/content/news/2026-10-15-open-from-data-center-to-desktop.md) | NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task com... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-open-from-data-center-to-desktop/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl) |
 | `2026-10-15` | AI Research | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](src/content/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction.md) | Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with proc... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14146) |
 | `2026-10-15` | AI Research | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](src/content/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training.md) | The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness en... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14118) |
