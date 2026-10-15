@@ -1,82 +1,82 @@
 [
   {
-    "name": "schmitech/orbit",
-    "url": "https://github.com/schmitech/orbit",
-    "stars": 355,
-    "forks": 57,
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-14"
-  },
-  {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 224,
-    "forks": 34,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-14"
-  },
-  {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 142,
-    "forks": 23,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-14"
-  },
-  {
-    "name": "HilbertraumAI/HilbertRaum",
-    "url": "https://github.com/HilbertraumAI/HilbertRaum",
-    "stars": 141,
-    "forks": 11,
-    "description": "AI, fully local on your computer.",
+    "name": "iuliandita/digarr",
+    "url": "https://github.com/iuliandita/digarr",
+    "stars": 310,
+    "forks": 7,
+    "description": "Self-hosted music discovery for your library. Find artists and albums, review recommendations, and send them to Lidarr, slskd, or playlists....",
     "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-14"
+    "pushed_at": "2026-10-15"
   },
   {
-    "name": "airbytehq/airbyte-agent-sdk",
-    "url": "https://github.com/airbytehq/airbyte-agent-sdk",
-    "stars": 136,
-    "forks": 15,
-    "description": "🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.",
+    "name": "bennyjo/phil",
+    "url": "https://github.com/bennyjo/phil",
+    "stars": 224,
+    "forks": 126,
+    "description": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet...",
     "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-14"
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-15"
   },
   {
-    "name": "fazer-ai/agents",
-    "url": "https://github.com/fazer-ai/agents",
-    "stars": 118,
-    "forks": 84,
-    "description": "fazer.ai agents. Apache 2.0.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-14"
+    "name": "xinkyle/Voconly",
+    "url": "https://github.com/xinkyle/Voconly",
+    "stars": 144,
+    "forks": 7,
+    "description": "本地优先 AI 语音输入工具 | Local-first AI voice typing tool. 支持 Whisper/SenseVoice/Parakeet/Qwen asr，离线可用，LLM 智能润色. Open-source speech-to-text with LL...",
+    "language": "C++",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-15"
   },
   {
     "name": "0xWelt/Awesome-Vibe-Coding",
     "url": "https://github.com/0xWelt/Awesome-Vibe-Coding",
     "stars": 113,
-    "forks": 80,
+    "forks": 81,
     "description": "A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources",
     "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-14"
+    "pushed_at": "2026-10-15"
   },
   {
-    "name": "MarcoPorcellato/matryca-plumber",
-    "url": "https://github.com/MarcoPorcellato/matryca-plumber",
-    "stars": 100,
-    "forks": 17,
-    "description": "Local-first AI daemon for Logseq OG: background semantic indexing, link hygiene, and agent-ready CLI/MCP — edits Markdown on disk (no cloud,...",
+    "name": "RealManRobot/rm_models",
+    "url": "https://github.com/RealManRobot/rm_models",
+    "stars": 54,
+    "forks": 11,
+    "description": "Realman Robot Models and Simulation Files",
+    "language": "MATLAB",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-15"
+  },
+  {
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure",
+    "stars": 43,
+    "forks": 7,
+    "description": "RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-device agent: usage ledge...",
+    "language": "Kotlin",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-15"
+  },
+  {
+    "name": "HyperbolicCurve/Awesome-World-Action-Model",
+    "url": "https://github.com/HyperbolicCurve/Awesome-World-Action-Model",
+    "stars": 37,
+    "forks": 3,
+    "description": "A curated list of academic papers and resources on Vision-Language-Action (VLA) and World Action Models (WAM)",
     "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-15"
+  },
+  {
+    "name": "damianvtran/local-operator-ui",
+    "url": "https://github.com/damianvtran/local-operator-ui",
+    "stars": 26,
+    "forks": 11,
+    "description": "User interface for the Local Operator on-device agent environment.  Local Operator is an AI agents platform that gives you an integrated tea...",
+    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-14"
+    "pushed_at": "2026-10-15"
   }
 ]
