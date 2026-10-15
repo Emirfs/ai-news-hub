@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-15 04:48 UTC` | **Source-linked stories:** `150`
+> **Index generated:** `2026-10-15 10:00 UTC` | **Source-linked stories:** `152`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 279.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 279.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 255.9k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 249.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 248.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 250.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,17 +32,19 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 368` | `2026-10-15` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
 | [iuliandita/digarr](https://github.com/iuliandita/digarr) | `★ 310` | `2026-10-15` | Local AI | `TypeScript` | Self-hosted music discovery for your library. Find artists and albums, review recomme... |
-| [bennyjo/phil](https://github.com/bennyjo/phil) | `★ 224` | `2026-10-15` | Experimental Agent | `Python` | Phil is a self-improving trader: an AI agent that trades short-term prediction market... |
-| [xinkyle/Voconly](https://github.com/xinkyle/Voconly) | `★ 144` | `2026-10-15` | Indie Tool | `C++` | 本地优先 AI 语音输入工具 | Local-first AI voice typing tool. 支持 Whisper/SenseVoice/Parakeet/Qwe... |
-| [0xWelt/Awesome-Vibe-Coding](https://github.com/0xWelt/Awesome-Vibe-Coding) | `★ 113` | `2026-10-15` | Indie Tool | `Python` | A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources |
-| [RealManRobot/rm_models](https://github.com/RealManRobot/rm_models) | `★ 54` | `2026-10-15` | Embodied AI | `MATLAB` | Realman Robot Models and Simulation Files |
+| [nomifun/nomifun-desktop](https://github.com/nomifun/nomifun-desktop) | `★ 297` | `2026-10-15` | Experimental Agent | `Rust` | nomifun ai workstation. desc:A no-holds-barred, fully open-source, local-first super ... |
+| [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login) | `★ 274` | `2026-10-15` | Indie Tool | `JavaScript` | Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM ... |
+| [kuafuai/andee](https://github.com/kuafuai/andee) | `★ 171` | `2026-10-15` | Indie Tool | `Kotlin` | An agent that moves into your Android phone and becomes its soul — not an assistant, ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-15` | AI Research | [The Silent Failures in Agentic Data Science](src/content/news/2026-10-15-the-silent-failures-in-agentic-data.md) | Existing evaluations | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-the-silent-failures-in-agentic-data/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14115) |
+| `2026-10-15` | AI Research | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](src/content/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction.md) | Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with proc... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14146) |
+| `2026-10-15` | AI Research | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](src/content/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training.md) | The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness en... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14118) |
 | `2026-10-15` | AI Research | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](src/content/news/2026-10-15-artificialitys-first-exam-an-llm-referenced-c-test.md) | This paper presents | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-artificialitys-first-exam-an-llm-referenced-c-test/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14005) |
 | `2026-10-14` | Robotics & Hardware | [From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA](src/content/news/2026-10-14-from-enterprise-to-earthshot-uks-ecosystem.md) | Across industries, the U.K. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-14-from-enterprise-to-earthshot-uks-ecosystem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/uk-ecosystem-deployment) |
 | `2026-10-14` | Robotics & Hardware | [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](src/content/news/2026-10-14-european-cities-deploy-nvidia-powered-ai-agents.md) | Keeping a city running means making decisions that affect residents every day — from when to repair a road to how t... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-14-european-cities-deploy-nvidia-powered-ai-agents/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations) |
@@ -199,7 +201,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-15 04:48 UTC` | **Yayımlanan haber:** `150`
+> **Dizin oluşturma:** `2026-10-15 10:00 UTC` | **Yayımlanan haber:** `152`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -210,6 +212,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-15` | AI Research | [The Silent Failures in Agentic Data Science](src/content/news/2026-10-15-the-silent-failures-in-agentic-data.md) | Existing evaluations | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-the-silent-failures-in-agentic-data/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14115) |
+| `2026-10-15` | AI Research | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](src/content/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction.md) | Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with proc... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14146) |
+| `2026-10-15` | AI Research | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](src/content/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training.md) | The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness en... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14118) |
 | `2026-10-15` | AI Research | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](src/content/news/2026-10-15-artificialitys-first-exam-an-llm-referenced-c-test.md) | This paper presents | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-artificialitys-first-exam-an-llm-referenced-c-test/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14005) |
 | `2026-10-14` | Robotics & Hardware | [From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA](src/content/news/2026-10-14-from-enterprise-to-earthshot-uks-ecosystem.md) | Across industries, the U.K. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-14-from-enterprise-to-earthshot-uks-ecosystem/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/uk-ecosystem-deployment) |
 | `2026-10-14` | Robotics & Hardware | [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](src/content/news/2026-10-14-european-cities-deploy-nvidia-powered-ai-agents.md) | Keeping a city running means making decisions that affect residents every day — from when to repair a road to how t... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-14-european-cities-deploy-nvidia-powered-ai-agents/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations) |
