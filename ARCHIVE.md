@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-15 10:00 UTC` | **Source-linked stories:** `152`
+> **Index generated:** `2026-10-15 15:05 UTC` | **Source-linked stories:** `154`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 279.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 255.9k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 253.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 250.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 280.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 262.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.0k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 250.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 368` | `2026-10-15` | Local AI | `Python` | Vigil: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local o... |
-| [iuliandita/digarr](https://github.com/iuliandita/digarr) | `★ 310` | `2026-10-15` | Local AI | `TypeScript` | Self-hosted music discovery for your library. Find artists and albums, review recomme... |
-| [nomifun/nomifun-desktop](https://github.com/nomifun/nomifun-desktop) | `★ 297` | `2026-10-15` | Experimental Agent | `Rust` | nomifun ai workstation. desc:A no-holds-barred, fully open-source, local-first super ... |
-| [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login) | `★ 274` | `2026-10-15` | Indie Tool | `JavaScript` | Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM ... |
-| [kuafuai/andee](https://github.com/kuafuai/andee) | `★ 171` | `2026-10-15` | Indie Tool | `Kotlin` | An agent that moves into your Android phone and becomes its soul — not an assistant, ... |
+| [dsx-ai-factory/run-ai](https://github.com/dsx-ai-factory/run-ai) | `★ 378` | `2026-10-15` | Local AI | `Go` | Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contai... |
+| [ncoevoet/facet](https://github.com/ncoevoet/facet) | `★ 289` | `2026-10-15` | Local AI | `Python` | Local AI photo scoring, culling, and gallery — score, organise, and explore your libr... |
+| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 200` | `2026-10-15` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
+| [mingti-org/phyai](https://github.com/mingti-org/phyai) | `★ 133` | `2026-10-15` | Embodied AI | `Python` | PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and b... |
+| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 97` | `2026-10-15` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-15` | AI Research | [VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](src/content/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven.md) | VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-drive... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14149) |
+| `2026-10-15` | AI Research | [Unconstrained CTI-REALM with Open-Weights](src/content/news/2026-10-15-unconstrained-cti-realm-with-open-weights.md) | Organisations that want language-model agents for security work face a choice between open-weight models, which the... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-unconstrained-cti-realm-with-open-weights/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14180) |
 | `2026-10-15` | AI Research | [The Silent Failures in Agentic Data Science](src/content/news/2026-10-15-the-silent-failures-in-agentic-data.md) | Existing evaluations | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-the-silent-failures-in-agentic-data/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14115) |
 | `2026-10-15` | AI Research | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](src/content/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction.md) | Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with proc... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14146) |
 | `2026-10-15` | AI Research | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](src/content/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training.md) | The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness en... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14118) |
@@ -201,7 +203,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-15 10:00 UTC` | **Yayımlanan haber:** `152`
+> **Dizin oluşturma:** `2026-10-15 15:05 UTC` | **Yayımlanan haber:** `154`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -211,6 +213,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-15` | AI Research | [VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](src/content/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven.md) | VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-drive... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14149) |
+| `2026-10-15` | AI Research | [Unconstrained CTI-REALM with Open-Weights](src/content/news/2026-10-15-unconstrained-cti-realm-with-open-weights.md) | Organisations that want language-model agents for security work face a choice between open-weight models, which the... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-unconstrained-cti-realm-with-open-weights/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14180) |
 | `2026-10-15` | AI Research | [The Silent Failures in Agentic Data Science](src/content/news/2026-10-15-the-silent-failures-in-agentic-data.md) | Existing evaluations | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-the-silent-failures-in-agentic-data/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14115) |
 | `2026-10-15` | AI Research | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](src/content/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction.md) | Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with proc... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14146) |
 | `2026-10-15` | AI Research | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](src/content/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training.md) | The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness en... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14118) |
