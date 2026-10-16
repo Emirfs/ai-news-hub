@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "ANDRETRIPOL/OpenGhost",
+    "url": "https://github.com/ANDRETRIPOL/OpenGhost",
+    "stars": 267,
+    "forks": 21,
+    "description": "Open desktop AI agent for Windows, macOS and Linux, written from scratch: its own agent engine, its own browser tooling and its own drawing ...",
+    "language": "JavaScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-16"
+  },
+  {
+    "name": "rongxinzy/RongxinAI",
+    "url": "https://github.com/rongxinzy/RongxinAI",
+    "stars": 153,
+    "forks": 5,
+    "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, brows...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-16"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 148,
+    "forks": 23,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-16"
+  },
+  {
+    "name": "Bike4Mind/bike4mind",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 87,
+    "forks": 15,
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-16"
+  },
+  {
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 81,
+    "forks": 7,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-16"
+  },
+  {
+    "name": "chonghanqin/Awesome-Agentic-Robots",
+    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
+    "stars": 76,
+    "forks": 1,
+    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-16"
+  },
+  {
+    "name": "hivecommons/hive",
+    "url": "https://github.com/hivecommons/hive",
+    "stars": 67,
+    "forks": 45,
+    "description": "AI agent orchestration for open and closed source — a fully customizable fleet of AI agents covering every level of project maintenance, fro...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-16"
+  },
+  {
+    "name": "openmake/openmake_llm",
+    "url": "https://github.com/openmake/openmake_llm",
+    "stars": 43,
+    "forks": 7,
+    "description": "Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifa...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-16"
+  }
+]
