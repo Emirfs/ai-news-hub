@@ -1,18 +1,18 @@
 [
   {
-    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
-    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
-    "stars": 157,
-    "forks": 14,
-    "description": "安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 283,
+    "forks": 27,
+    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-16"
   },
   {
     "name": "ThinkFlowLab/system1-agents",
     "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 148,
+    "stars": 149,
     "forks": 23,
     "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
     "language": "Python",
@@ -20,21 +20,11 @@
     "pushed_at": "2026-10-16"
   },
   {
-    "name": "0xWelt/Awesome-Vibe-Coding",
-    "url": "https://github.com/0xWelt/Awesome-Vibe-Coding",
-    "stars": 114,
-    "forks": 84,
-    "description": "A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-16"
-  },
-  {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 112,
-    "forks": 17,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "name": "benseverndev-oss/goldenmatch",
+    "url": "https://github.com/benseverndev-oss/goldenmatch",
+    "stars": 133,
+    "forks": 16,
+    "description": "Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 ...",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-16"
@@ -50,33 +40,43 @@
     "pushed_at": "2026-10-16"
   },
   {
-    "name": "gefsikatsinelou/MetaSearchMCP",
-    "url": "https://github.com/gefsikatsinelou/MetaSearchMCP",
-    "stars": 60,
-    "forks": 2,
-    "description": "Open-source metasearch backend, MCP server, and AI search API for LLM agents. Python FastAPI search gateway with Google search via SerpBase ...",
-    "language": "Python",
+    "name": "sambitcreate/aiden-agent",
+    "url": "https://github.com/sambitcreate/aiden-agent",
+    "stars": 84,
+    "forks": 4,
+    "description": "Pi based agent for Designers, Coders and Everyday users.",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-16"
   },
   {
-    "name": "jmrplens/gitlab-mcp-server",
-    "url": "https://github.com/jmrplens/gitlab-mcp-server",
-    "stars": 45,
-    "forks": 6,
-    "description": "Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850+ GitLab actions (1,000+ Enterprise), stdio/HTTP/OAuth,...",
-    "language": "Go",
+    "name": "LunarWerxs/AgentHydra",
+    "url": "https://github.com/LunarWerxs/AgentHydra",
+    "stars": 44,
+    "forks": 4,
+    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedule and isolated Claud...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-16"
+  },
+  {
+    "name": "postmill-ai/postmill-app",
+    "url": "https://github.com/postmill-ai/postmill-app",
+    "stars": 23,
+    "forks": 8,
+    "description": "Open-source, AI-native social media management & scheduling platform for 45+ channels. BYOK AI across 30+ providers with governance guardrai...",
+    "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-16"
   },
   {
-    "name": "inite-ai/inite-brain-service",
-    "url": "https://github.com/inite-ai/inite-brain-service",
-    "stars": 41,
-    "forks": 3,
-    "description": "Open-source bitemporal knowledge graph — long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR forget. REST + native...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "name": "petmal/MindTrial",
+    "url": "https://github.com/petmal/MindTrial",
+    "stars": 21,
+    "forks": 5,
+    "description": "MindTrial: Evaluate and compare AI language models (LLMs) on text-based tasks with optional file/image attachments and tool use. Supports mu...",
+    "language": "Go",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-16"
   }
 ]
