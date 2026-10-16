@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-16 15:34 UTC` | **Source-linked stories:** `166`
+> **Index generated:** `2026-10-16 19:02 UTC` | **Source-linked stories:** `168`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 285.8k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 281.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 251.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 214.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 288.2k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 281.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.4k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 251.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 214.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [ANDRETRIPOL/OpenGhost](https://github.com/ANDRETRIPOL/OpenGhost) | `★ 267` | `2026-10-16` | Indie Tool | `JavaScript` | Open desktop AI agent for Windows, macOS and Linux, written from scratch: its own age... |
-| [rongxinzy/RongxinAI](https://github.com/rongxinzy/RongxinAI) | `★ 153` | `2026-10-16` | Indie Tool | `TypeScript` | Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, d... |
+| [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) | `★ 157` | `2026-10-16` | Experimental Agent | `JavaScript` | 安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮... |
 | [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 148` | `2026-10-16` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | `★ 87` | `2026-10-16` | Local AI | `TypeScript` | The open-core AI workbench — notebooks, agents, RAG, voice, and images across any mod... |
-| [ScriptedAlchemy/tracedecay](https://github.com/ScriptedAlchemy/tracedecay) | `★ 81` | `2026-10-16` | Experimental Agent | `Rust` | Local semantic code intelligence, project memory, and workflow context for AI coding ... |
+| [0xWelt/Awesome-Vibe-Coding](https://github.com/0xWelt/Awesome-Vibe-Coding) | `★ 114` | `2026-10-16` | Indie Tool | `Python` | A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources |
+| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 112` | `2026-10-16` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 96` | `2026-10-16` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -44,10 +44,12 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-16` | AI Research | [When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence](src/content/news/2026-10-16-when-reality-outpaces-cognition-a-new.md) | This paper | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-when-reality-outpaces-cognition-a-new/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20764) |
 | `2026-10-16` | AI Research | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](src/content/news/2026-10-16-the-world-wont-wait-evaluating-and.md) | Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-the-world-wont-wait-evaluating-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20665) |
+| `2026-10-16` | AI Research | [Open-world AI: a Tale of Three Requirements](src/content/news/2026-10-16-open-world-ai-a-tale-of-three.md) | The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixe... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-open-world-ai-a-tale-of-three/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20782) |
 | `2026-10-16` | AI Research | [L2G-SR: Learning to Guide LLM-based Symbolic Regression](src/content/news/2026-10-16-l2g-sr-learning-to-guide-llm-based-symbolic.md) | L2G | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-l2g-sr-learning-to-guide-llm-based-symbolic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20685) |
 | `2026-10-16` | AI Research | [IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation](src/content/news/2026-10-16-ineqagent-agentic-inequality-proving-in-lean.md) | Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermedia... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-ineqagent-agentic-inequality-proving-in-lean/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20681) |
 | `2026-10-16` | AI Research | [Evaluating Model Capabilities After Benchmark Saturation](src/content/news/2026-10-16-evaluating-model-capabilities-after-benchmark-saturation.md) | Rapid advances in AI capabilities are causing benchmarks to saturate. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-evaluating-model-capabilities-after-benchmark-saturation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20667) |
 | `2026-10-16` | AI Research | [AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks](src/content/news/2026-10-16-alphadiana-a-measurement-system-for-agents.md) | Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-alphadiana-a-measurement-system-for-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20675) |
+| `2026-10-16` | AI Research | [ARIA: Runtime Inspection and Amendment for Multi-Agent Systems](src/content/news/2026-10-16-aria-runtime-inspection-and-amendment-for.md) | In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correc... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-aria-runtime-inspection-and-amendment-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20780) |
 | `2026-10-15` | AI Research | [Visualizing the World Model in an Agent's Value Function](src/content/news/2026-10-15-visualizing-the-world-model-in-an.md) | Could model-free reinforcement learning algorithms actually be learning a model of the environment? | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-visualizing-the-world-model-in-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14186) |
 | `2026-10-15` | AI Research | [VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](src/content/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven.md) | VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-drive... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14149) |
 | `2026-10-15` | AI Research | [Unconstrained CTI-REALM with Open-Weights](src/content/news/2026-10-15-unconstrained-cti-realm-with-open-weights.md) | Organisations that want language-model agents for security work face a choice between open-weight models, which the... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-unconstrained-cti-realm-with-open-weights/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14180) |
@@ -215,7 +217,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-16 15:34 UTC` | **Yayımlanan haber:** `166`
+> **Dizin oluşturma:** `2026-10-16 19:02 UTC` | **Yayımlanan haber:** `168`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -227,10 +229,12 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-16` | AI Research | [When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence](src/content/news/2026-10-16-when-reality-outpaces-cognition-a-new.md) | This paper | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-when-reality-outpaces-cognition-a-new/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20764) |
 | `2026-10-16` | AI Research | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](src/content/news/2026-10-16-the-world-wont-wait-evaluating-and.md) | Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-the-world-wont-wait-evaluating-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20665) |
+| `2026-10-16` | AI Research | [Open-world AI: a Tale of Three Requirements](src/content/news/2026-10-16-open-world-ai-a-tale-of-three.md) | The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixe... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-open-world-ai-a-tale-of-three/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20782) |
 | `2026-10-16` | AI Research | [L2G-SR: Learning to Guide LLM-based Symbolic Regression](src/content/news/2026-10-16-l2g-sr-learning-to-guide-llm-based-symbolic.md) | L2G | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-l2g-sr-learning-to-guide-llm-based-symbolic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20685) |
 | `2026-10-16` | AI Research | [IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation](src/content/news/2026-10-16-ineqagent-agentic-inequality-proving-in-lean.md) | Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermedia... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-ineqagent-agentic-inequality-proving-in-lean/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20681) |
 | `2026-10-16` | AI Research | [Evaluating Model Capabilities After Benchmark Saturation](src/content/news/2026-10-16-evaluating-model-capabilities-after-benchmark-saturation.md) | Rapid advances in AI capabilities are causing benchmarks to saturate. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-evaluating-model-capabilities-after-benchmark-saturation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20667) |
 | `2026-10-16` | AI Research | [AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks](src/content/news/2026-10-16-alphadiana-a-measurement-system-for-agents.md) | Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-alphadiana-a-measurement-system-for-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20675) |
+| `2026-10-16` | AI Research | [ARIA: Runtime Inspection and Amendment for Multi-Agent Systems](src/content/news/2026-10-16-aria-runtime-inspection-and-amendment-for.md) | In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correc... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-aria-runtime-inspection-and-amendment-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20780) |
 | `2026-10-15` | AI Research | [Visualizing the World Model in an Agent's Value Function](src/content/news/2026-10-15-visualizing-the-world-model-in-an.md) | Could model-free reinforcement learning algorithms actually be learning a model of the environment? | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-visualizing-the-world-model-in-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14186) |
 | `2026-10-15` | AI Research | [VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](src/content/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven.md) | VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-drive... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-vetnet-assembling-benchmark-datasets-for-ai-driven/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14149) |
 | `2026-10-15` | AI Research | [Unconstrained CTI-REALM with Open-Weights](src/content/news/2026-10-15-unconstrained-cti-realm-with-open-weights.md) | Organisations that want language-model agents for security work face a choice between open-weight models, which the... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-unconstrained-cti-realm-with-open-weights/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14180) |
