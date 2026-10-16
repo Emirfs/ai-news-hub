@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-15 22:25 UTC` | **Source-linked stories:** `158`
+> **Index generated:** `2026-10-16 00:48 UTC` | **Source-linked stories:** `160`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,8 +20,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 280.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 268.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 280.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 270.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.1k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 250.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 213.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [ACDSLab/MPPI-Generic](https://github.com/ACDSLab/MPPI-Generic) | `★ 312` | `2026-10-15` | Embodied AI | `Cuda` | Templated C++/CUDA implementation of Model Predictive Path Integral Control (MPPI) |
-| [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) | `★ 299` | `2026-10-15` | Experimental Agent | `Shell` | Multi-lens code audit tool — 280 expert AI agents for code review, security testing, ... |
-| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 230` | `2026-10-15` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
-| [scenario-labs/blender-plugin](https://github.com/scenario-labs/blender-plugin) | `★ 207` | `2026-10-15` | Local AI | `Python` | Scenario for Blender: AI images, video, 3D and PBR materials in the viewport, plus a ... |
-| [black-forest-labs/flux-action](https://github.com/black-forest-labs/flux-action) | `★ 175` | `2026-10-15` | Embodied AI | `Python` | FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine... |
+| [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) | `★ 311` | `2026-10-16` | Experimental Agent | `Python` | Static analysis tool that catches 1000+ bug patterns across all popular programming l... |
+| [iuliandita/digarr](https://github.com/iuliandita/digarr) | `★ 310` | `2026-10-16` | Local AI | `TypeScript` | Self-hosted music discovery for your library. Find artists and albums, review recomme... |
+| [jasoncheng7115/jt-doc-tools](https://github.com/jasoncheng7115/jt-doc-tools) | `★ 242` | `2026-10-16` | Indie Tool | `Python` | An all-in-one PDF and Office document platform: self-hosted, open source, under your ... |
+| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 228` | `2026-10-16` | Indie Tool | `Rust` | Local-first MCP gateway. One port for every tool and every AI client: lazy discovery ... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 182` | `2026-10-16` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -49,6 +49,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-15` | AI Research | [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](src/content/news/2026-10-15-should-slms-be-in-the-drivers.md) | The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them b... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-should-slms-be-in-the-drivers/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14209) |
 | `2026-10-15` | Robotics & Hardware | [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](src/content/news/2026-10-15-open-from-data-center-to-desktop.md) | NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task com... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-open-from-data-center-to-desktop/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl) |
 | `2026-10-15` | AI Research | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](src/content/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction.md) | Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with proc... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14146) |
+| `2026-10-15` | AI Research | [Harness^2: Recursive Agent Harnessing for an Open World](src/content/news/2026-10-16-harness2-recursive-agent-harnessing-for-an.md) | LLM agents | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-harness2-recursive-agent-harnessing-for-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14224) |
+| `2026-10-15` | AI Research | [Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference](src/content/news/2026-10-16-echo-error-compensated-4-bit-tensor-parallel-communication-for.md) | Echo is | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-echo-error-compensated-4-bit-tensor-parallel-communication-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14277) |
 | `2026-10-15` | AI Research | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](src/content/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training.md) | The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness en... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14118) |
 | `2026-10-15` | Robotics & Hardware | [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](src/content/news/2026-10-15-be-there-for-the-beginning-celebrate.md) | NVIDIA RTX Spark | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-be-there-for-the-beginning-celebrate/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite) |
 | `2026-10-15` | AI Research | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](src/content/news/2026-10-15-artificialitys-first-exam-an-llm-referenced-c-test.md) | This paper presents | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-15-artificialitys-first-exam-an-llm-referenced-c-test/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14005) |
@@ -207,7 +209,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-15 22:25 UTC` | **Yayımlanan haber:** `158`
+> **Dizin oluşturma:** `2026-10-16 00:48 UTC` | **Yayımlanan haber:** `160`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -224,6 +226,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-15` | AI Research | [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](src/content/news/2026-10-15-should-slms-be-in-the-drivers.md) | The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them b... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-should-slms-be-in-the-drivers/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14209) |
 | `2026-10-15` | Robotics & Hardware | [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](src/content/news/2026-10-15-open-from-data-center-to-desktop.md) | NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task com... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-open-from-data-center-to-desktop/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl) |
 | `2026-10-15` | AI Research | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](src/content/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction.md) | Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with proc... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-long-horizon-terminal-bench-20-automating-diverse-task-construction/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14146) |
+| `2026-10-15` | AI Research | [Harness^2: Recursive Agent Harnessing for an Open World](src/content/news/2026-10-16-harness2-recursive-agent-harnessing-for-an.md) | LLM agents | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-harness2-recursive-agent-harnessing-for-an/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14224) |
+| `2026-10-15` | AI Research | [Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference](src/content/news/2026-10-16-echo-error-compensated-4-bit-tensor-parallel-communication-for.md) | Echo is | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-echo-error-compensated-4-bit-tensor-parallel-communication-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14277) |
 | `2026-10-15` | AI Research | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](src/content/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training.md) | The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness en... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-clawloop-self-improving-agents-via-harness-native-training/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14118) |
 | `2026-10-15` | Robotics & Hardware | [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](src/content/news/2026-10-15-be-there-for-the-beginning-celebrate.md) | NVIDIA RTX Spark | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-be-there-for-the-beginning-celebrate/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite) |
 | `2026-10-15` | AI Research | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](src/content/news/2026-10-15-artificialitys-first-exam-an-llm-referenced-c-test.md) | This paper presents | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-15-artificialitys-first-exam-an-llm-referenced-c-test/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.14005) |
