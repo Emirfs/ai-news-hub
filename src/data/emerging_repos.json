@@ -1,21 +1,11 @@
 [
   {
-    "name": "yologdev/yoagent",
-    "url": "https://github.com/yologdev/yoagent",
-    "stars": 362,
-    "forks": 49,
-    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done.",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 282,
-    "forks": 27,
-    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 230,
+    "forks": 31,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   },
@@ -30,39 +20,9 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "timoncool/MiniMax-Music3-Studio",
-    "url": "https://github.com/timoncool/MiniMax-Music3-Studio",
-    "stars": 105,
-    "forks": 11,
-    "description": "Native local/cloud AI music studio powered by MiniMax Music 3",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "xlnfinance/xln",
-    "url": "https://github.com/xlnfinance/xln",
-    "stars": 103,
-    "forks": 24,
-    "description": "0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "tenuo-ai/tenuo",
-    "url": "https://github.com/tenuo-ai/tenuo",
-    "stars": 102,
-    "forks": 25,
-    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-17"
-  },
-  {
     "name": "mstar-project/mstar",
     "url": "https://github.com/mstar-project/mstar",
-    "stars": 96,
+    "stars": 97,
     "forks": 42,
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
@@ -70,13 +30,53 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "cranebeaker/coop-anything",
-    "url": "https://github.com/cranebeaker/coop-anything",
-    "stars": 93,
-    "forks": 10,
-    "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook...",
+    "name": "badhope/xiaoman",
+    "url": "https://github.com/badhope/xiaoman",
+    "stars": 77,
+    "forks": 8,
+    "description": "Xiaoman (小满) — a conversation-first, local-first personal finance AI agent · FastAPI + LangGraph + React · data 100% local · MIT",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "neatlogs/neatroots",
+    "url": "https://github.com/neatlogs/neatroots",
+    "stars": 73,
+    "forks": 47,
+    "description": "neatroots: see, check and replay your AI agent's runs on your machine while you build it. Local-first, by Neatlogs.",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "linny006/awesome-agent-skills",
+    "url": "https://github.com/linny006/awesome-agent-skills",
+    "stars": 39,
+    "forks": 3,
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "language": "Python",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "CambrianTech/continuum",
+    "url": "https://github.com/CambrianTech/continuum",
+    "stars": 34,
+    "forks": 8,
+    "description": "Local-first AI citizens on your own hardware. Teams of continuously-learning personas (Rust core, llama.cpp fork, LoRA genomes) that collabo...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "milisp/awesome-chatgpt-claude-agents",
+    "url": "https://github.com/milisp/awesome-chatgpt-claude-agents",
+    "stars": 32,
+    "forks": 17,
+    "description": "A curated collection of awesome ChatGPT & Claude agents, subagents, and AI-powered development tools",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   }
 ]

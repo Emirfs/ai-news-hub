@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-17 13:15 UTC` | **Source-linked stories:** `172`
+> **Index generated:** `2026-10-17 16:30 UTC` | **Source-linked stories:** `172`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 300.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 282.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 303.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 282.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 251.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 214.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 252.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 214.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [yologdev/yoagent](https://github.com/yologdev/yoagent) | `★ 362` | `2026-10-17` | Indie Tool | `Rust` | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 282` | `2026-10-17` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 300+ audit rules across SEO, performance, ... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 230` | `2026-10-17` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | `★ 127` | `2026-10-17` | Experimental Agent | `Python` | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed ever... |
-| [timoncool/MiniMax-Music3-Studio](https://github.com/timoncool/MiniMax-Music3-Studio) | `★ 105` | `2026-10-17` | Local AI | `TypeScript` | Native local/cloud AI music studio powered by MiniMax Music 3 |
-| [xlnfinance/xln](https://github.com/xlnfinance/xln) | `★ 103` | `2026-10-17` | Local AI | `TypeScript` | 0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and futu... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 97` | `2026-10-17` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [badhope/xiaoman](https://github.com/badhope/xiaoman) | `★ 77` | `2026-10-17` | Local AI | `Python` | Xiaoman (小满) — a conversation-first, local-first personal finance AI agent · FastAPI ... |
+| [neatlogs/neatroots](https://github.com/neatlogs/neatroots) | `★ 73` | `2026-10-17` | Local AI | `TypeScript` | neatroots: see, check and replay your AI agent's runs on your machine while you build... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -221,7 +221,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-17 13:15 UTC` | **Yayımlanan haber:** `172`
+> **Dizin oluşturma:** `2026-10-17 16:30 UTC` | **Yayımlanan haber:** `172`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
