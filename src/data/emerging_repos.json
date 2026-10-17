@@ -1,5 +1,15 @@
 [
   {
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 304,
+    "forks": 38,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-17"
+  },
+  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 299,
@@ -10,33 +20,33 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 231,
-    "forks": 31,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "agentuse/agentuse",
-    "url": "https://github.com/agentuse/agentuse",
-    "stars": 207,
-    "forks": 22,
-    "description": "🤖 AI agents on autopilot. Any model. Runs local, cron, CI/CD, or Docker.",
+    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
+    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
+    "stars": 162,
+    "forks": 14,
+    "description": "安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "xlnfinance/xln",
-    "url": "https://github.com/xlnfinance/xln",
-    "stars": 102,
-    "forks": 24,
-    "description": "0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped...",
-    "language": "TypeScript",
-    "tag": "Local AI",
+    "name": "linny006/trending-claude-skills",
+    "url": "https://github.com/linny006/trending-claude-skills",
+    "stars": 127,
+    "forks": 9,
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 118,
+    "forks": 18,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   },
   {
@@ -50,33 +60,23 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "diillson/chatcli",
-    "url": "https://github.com/diillson/chatcli",
-    "stars": 93,
-    "forks": 24,
-    "description": "ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic, OpenAI, and others—to facilitate interactive conversa...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "0xBakeer/TandemLLM",
-    "url": "https://github.com/0xBakeer/TandemLLM",
-    "stars": 56,
-    "forks": 6,
-    "description": "An environment where open models work as agents: a first-level harness with routing, skills, memory and sandboxed tools, on an engine that d...",
+    "name": "Veloresearch/velocity-local-services",
+    "url": "https://github.com/Veloresearch/velocity-local-services",
+    "stars": 34,
+    "forks": 4,
+    "description": "Velocity Local Services: an app for running LLMs locally on Windows and Linux. Load any GGUF model and chat with web search, tools and schem...",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "kekzl/imp",
-    "url": "https://github.com/kekzl/imp",
-    "stars": 45,
-    "forks": 4,
-    "description": "LLM server for one RTX 5090. Qwen3.8-27B at 91.0-93.7 tok/s (vLLM 68.9-70.0, llama.cpp 61.8-63.0). Runs Qwen3.8-Flash-Next (123.6 GiB) on a ...",
-    "language": "C++",
-    "tag": "Indie Tool",
+    "name": "w-xb/awesome-agentic-robotics",
+    "url": "https://github.com/w-xb/awesome-agentic-robotics",
+    "stars": 25,
+    "forks": 5,
+    "description": "A curated survey of embodied agents:robotic memory, planning, world models, verification, and failure recovery",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-17"
   }
 ]

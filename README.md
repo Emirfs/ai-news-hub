@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-17 18:52 UTC` | **Source-linked stories:** `172`
+> **Index generated:** `2026-10-17 21:30 UTC` | **Source-linked stories:** `173`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 304.8k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 282.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 252.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 215.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 306.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 282.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 252.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 215.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [bex-co/beancount-io](https://github.com/bex-co/beancount-io) | `★ 304` | `2026-10-17` | Experimental Agent | `TypeScript` | 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents... |
 | [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 299` | `2026-10-17` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 231` | `2026-10-17` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
-| [agentuse/agentuse](https://github.com/agentuse/agentuse) | `★ 207` | `2026-10-17` | Experimental Agent | `TypeScript` | 🤖 AI agents on autopilot. Any model. Runs local, cron, CI/CD, or Docker. |
-| [xlnfinance/xln](https://github.com/xlnfinance/xln) | `★ 102` | `2026-10-17` | Local AI | `TypeScript` | 0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and futu... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 97` | `2026-10-17` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) | `★ 162` | `2026-10-17` | Experimental Agent | `TypeScript` | 安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮... |
+| [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | `★ 127` | `2026-10-17` | Experimental Agent | `Python` | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed ever... |
+| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 118` | `2026-10-17` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-17` | Robotics & Hardware | [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](src/content/news/2026-10-17-rtx-spark-ignites-global-celebration-as.md) | NVIDIA | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-17-rtx-spark-ignites-global-celebration-as/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration) |
 | `2026-10-16` | AI Research | [When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following](src/content/news/2026-10-16-when-reasoning-traces-conflict-with-evidence.md) | A reasoning trace retained at answer time plays two roles: it can raise accuracy, and it can compete with the curre... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-when-reasoning-traces-conflict-with-evidence/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20805) |
 | `2026-10-16` | AI Research | [When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence](src/content/news/2026-10-16-when-reality-outpaces-cognition-a-new.md) | This paper | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-when-reality-outpaces-cognition-a-new/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20764) |
 | `2026-10-16` | AI Research | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](src/content/news/2026-10-16-the-world-wont-wait-evaluating-and.md) | Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-16-the-world-wont-wait-evaluating-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20665) |
@@ -221,7 +222,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-17 18:52 UTC` | **Yayımlanan haber:** `172`
+> **Dizin oluşturma:** `2026-10-17 21:30 UTC` | **Yayımlanan haber:** `173`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -231,6 +232,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-17` | Robotics & Hardware | [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](src/content/news/2026-10-17-rtx-spark-ignites-global-celebration-as.md) | NVIDIA | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-17-rtx-spark-ignites-global-celebration-as/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration) |
 | `2026-10-16` | AI Research | [When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following](src/content/news/2026-10-16-when-reasoning-traces-conflict-with-evidence.md) | A reasoning trace retained at answer time plays two roles: it can raise accuracy, and it can compete with the curre... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-when-reasoning-traces-conflict-with-evidence/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20805) |
 | `2026-10-16` | AI Research | [When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence](src/content/news/2026-10-16-when-reality-outpaces-cognition-a-new.md) | This paper | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-when-reality-outpaces-cognition-a-new/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20764) |
 | `2026-10-16` | AI Research | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](src/content/news/2026-10-16-the-world-wont-wait-evaluating-and.md) | Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-16-the-world-wont-wait-evaluating-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.20665) |
