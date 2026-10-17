@@ -1,12 +1,12 @@
 [
   {
-    "name": "bex-co/beancount-io",
-    "url": "https://github.com/bex-co/beancount-io",
-    "stars": 304,
-    "forks": 38,
-    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "name": "iuliandita/digarr",
+    "url": "https://github.com/iuliandita/digarr",
+    "stars": 310,
+    "forks": 7,
+    "description": "Self-hosted music discovery for your library. Find artists and albums, review recommendations, and send them to Lidarr, slskd, or playlists....",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "tag": "Local AI",
     "pushed_at": "2026-10-17"
   },
   {
@@ -20,32 +20,32 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
-    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
-    "stars": 162,
-    "forks": 14,
-    "description": "安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感...",
+    "name": "jmagly/aiwg",
+    "url": "https://github.com/jmagly/aiwg",
+    "stars": 224,
+    "forks": 34,
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "linny006/trending-claude-skills",
-    "url": "https://github.com/linny006/trending-claude-skills",
-    "stars": 127,
-    "forks": 9,
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "name": "AetherLabsAI/Video2World",
+    "url": "https://github.com/AetherLabsAI/Video2World",
+    "stars": 170,
+    "forks": 0,
+    "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Pe...",
     "language": "Python",
-    "tag": "Experimental Agent",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 118,
-    "forks": 18,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
-    "language": "Python",
+    "name": "chrisryugj/korean-dart-mcp",
+    "url": "https://github.com/chrisryugj/korean-dart-mcp",
+    "stars": 114,
+    "forks": 21,
+    "description": "OpenDART 전자공시MCP | 83개 API → 15 MCP 도구. 공시·재무·지분·XBRL + 버핏급 애널리스트 프레임(내부자 시그널·회계 리스크·퀄리티 체크리스트) + HWP/PDF 첨부 마크다운화 | 83 Korean DART disclosu...",
+    "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   },
@@ -60,23 +60,23 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "Veloresearch/velocity-local-services",
-    "url": "https://github.com/Veloresearch/velocity-local-services",
-    "stars": 34,
+    "name": "trafficflowhq/ohmail",
+    "url": "https://github.com/trafficflowhq/ohmail",
+    "stars": 83,
     "forks": 4,
-    "description": "Velocity Local Services: an app for running LLMs locally on Windows and Linux. Load any GGUF model and chat with web search, tools and schem...",
-    "language": "Python",
-    "tag": "Indie Tool",
+    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "w-xb/awesome-agentic-robotics",
-    "url": "https://github.com/w-xb/awesome-agentic-robotics",
-    "stars": 25,
-    "forks": 5,
-    "description": "A curated survey of embodied agents:robotic memory, planning, world models, verification, and failure recovery",
+    "name": "badhope/xiaoman",
+    "url": "https://github.com/badhope/xiaoman",
+    "stars": 77,
+    "forks": 8,
+    "description": "Xiaoman (小满) — a conversation-first, local-first personal finance AI agent · FastAPI + LangGraph + React · data 100% local · MIT",
     "language": "Python",
-    "tag": "Embodied AI",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-17"
   }
 ]
