@@ -1,12 +1,62 @@
 [
   {
-    "name": "AI-WorkDeck/aiworkdeck",
-    "url": "https://github.com/AI-WorkDeck/aiworkdeck",
-    "stars": 166,
-    "forks": 16,
-    "description": "Open-source workspace for professional document AI: reviewable agent edits, source-linked work, three-way document merges, and an extensible...",
-    "language": "Java",
+    "name": "yologdev/yoagent",
+    "url": "https://github.com/yologdev/yoagent",
+    "stars": 362,
+    "forks": 49,
+    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done.",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 282,
+    "forks": 27,
+    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "linny006/trending-claude-skills",
+    "url": "https://github.com/linny006/trending-claude-skills",
+    "stars": 127,
+    "forks": 9,
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "language": "Python",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "timoncool/MiniMax-Music3-Studio",
+    "url": "https://github.com/timoncool/MiniMax-Music3-Studio",
+    "stars": 105,
+    "forks": 11,
+    "description": "Native local/cloud AI music studio powered by MiniMax Music 3",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "xlnfinance/xln",
+    "url": "https://github.com/xlnfinance/xln",
+    "stars": 103,
+    "forks": 24,
+    "description": "0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "tenuo-ai/tenuo",
+    "url": "https://github.com/tenuo-ai/tenuo",
+    "stars": 102,
+    "forks": 25,
+    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   },
   {
@@ -20,63 +70,13 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "Bike4Mind/bike4mind",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 87,
-    "forks": 15,
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "TGYD-helige/pi",
-    "url": "https://github.com/TGYD-helige/pi",
-    "stars": 82,
-    "forks": 18,
-    "description": "Pluggable extension packages for the Pi AI-agent runtime. Each package exposes LLM-callable tools via MCP — covering IM workspace integratio...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "skillberry-ai/cap-evolve",
-    "url": "https://github.com/skillberry-ai/cap-evolve",
-    "stars": 65,
-    "forks": 17,
-    "description": "Optimize any AI agent’s skills, tools/MCP, and prompts against your own evals.",
+    "name": "cranebeaker/coop-anything",
+    "url": "https://github.com/cranebeaker/coop-anything",
+    "stars": 93,
+    "forks": 10,
+    "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook...",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "xopcai/xopc",
-    "url": "https://github.com/xopcai/xopc",
-    "stars": 39,
-    "forks": 7,
-    "description": "Open-source, local-first personal AI. Chat with Ada, delegate tasks, and work with files and projects using cloud or local models.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "HyperbolicCurve/Awesome-World-Action-Model",
-    "url": "https://github.com/HyperbolicCurve/Awesome-World-Action-Model",
-    "stars": 37,
-    "forks": 3,
-    "description": "A curated list of academic papers and resources on Vision-Language-Action (VLA) and World Action Models (WAM)",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "Veloresearch/velocity-local-services",
-    "url": "https://github.com/Veloresearch/velocity-local-services",
-    "stars": 33,
-    "forks": 4,
-    "description": "Velocity Local Services: an app for running LLMs locally on Windows and Linux. Load any GGUF model and chat with web search, tools and schem...",
-    "language": "Python",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   }
 ]
