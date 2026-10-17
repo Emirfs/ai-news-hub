@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-17 00:32 UTC` | **Source-linked stories:** `172`
+> **Index generated:** `2026-10-17 05:02 UTC` | **Source-linked stories:** `172`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 291.0k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 281.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 251.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 293.7k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 281.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 251.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 214.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [ever-works/ever-works](https://github.com/ever-works/ever-works) | `★ 170` | `2026-10-17` | Experimental Agent | `TypeScript` | Ever® Works™ - The Workshop for AI. An open agentic runtime that autonomously researc... |
-| [trafficflowhq/ohmail](https://github.com/trafficflowhq/ohmail) | `★ 83` | `2026-10-17` | Local AI | `TypeScript` | Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener wi... |
-| [wuyhong715/rikkahub-agent-pure](https://github.com/wuyhong715/rikkahub-agent-pure) | `★ 48` | `2026-10-17` | Indie Tool | `Kotlin` | RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hard... |
-| [kekzl/imp](https://github.com/kekzl/imp) | `★ 45` | `2026-10-17` | Indie Tool | `C++` | LLM server for one RTX 5090. Qwen3.8-27B at 91.0-93.7 tok/s (vLLM 68.9-70.0, llama.cp... |
-| [LunarWerxs/AgentHydra](https://github.com/LunarWerxs/AgentHydra) | `★ 44` | `2026-10-17` | Experimental Agent | `TypeScript` | Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single... |
+| [engasnm111/lnwjud](https://github.com/engasnm111/lnwjud) | `★ 205` | `2026-10-17` | Experimental Agent | `TypeScript` | lnwjud — local AI-agent runtime & MCP gateway |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 183` | `2026-10-17` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 98` | `2026-10-17` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
+| [jztan/redmine-mcp-server](https://github.com/jztan/redmine-mcp-server) | `★ 85` | `2026-10-17` | Experimental Agent | `Python` | MCP server connecting AI assistants to Redmine: issues, projects, wikis, time trackin... |
+| [ariffazil/arifOS](https://github.com/ariffazil/arifOS) | `★ 54` | `2026-10-17` | Experimental Agent | `Python` | Independent policy kernel for AI agents: judge before execute. F1–F13 floors, VAULT99... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -221,7 +221,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-17 00:32 UTC` | **Yayımlanan haber:** `172`
+> **Dizin oluşturma:** `2026-10-17 05:02 UTC` | **Yayımlanan haber:** `172`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
