@@ -1,53 +1,43 @@
 [
   {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 283,
-    "forks": 27,
-    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-16"
-  },
-  {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 149,
-    "forks": 23,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-16"
-  },
-  {
-    "name": "benseverndev-oss/goldenmatch",
-    "url": "https://github.com/benseverndev-oss/goldenmatch",
-    "stars": 133,
-    "forks": 16,
-    "description": "Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 ...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-16"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 96,
-    "forks": 42,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-16"
-  },
-  {
-    "name": "sambitcreate/aiden-agent",
-    "url": "https://github.com/sambitcreate/aiden-agent",
-    "stars": 84,
-    "forks": 4,
-    "description": "Pi based agent for Designers, Coders and Everyday users.",
+    "name": "ever-works/ever-works",
+    "url": "https://github.com/ever-works/ever-works",
+    "stars": 170,
+    "forks": 25,
+    "description": "Ever® Works™ - The Workshop for AI. An open agentic runtime that autonomously researches, ships, and maintains entire businesses, 24/7 - htt...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-16"
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "trafficflowhq/ohmail",
+    "url": "https://github.com/trafficflowhq/ohmail",
+    "stars": 83,
+    "forks": 4,
+    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure",
+    "stars": 48,
+    "forks": 7,
+    "description": "RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-device agent: usage ledge...",
+    "language": "Kotlin",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 45,
+    "forks": 4,
+    "description": "LLM server for one RTX 5090. Qwen3.8-27B at 91.0-93.7 tok/s (vLLM 68.9-70.0, llama.cpp 61.8-63.0). Runs Qwen3.8-Flash-Next (123.6 GiB) on a ...",
+    "language": "C++",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-17"
   },
   {
     "name": "LunarWerxs/AgentHydra",
@@ -57,26 +47,36 @@
     "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedule and isolated Claud...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-16"
+    "pushed_at": "2026-10-17"
   },
   {
-    "name": "postmill-ai/postmill-app",
-    "url": "https://github.com/postmill-ai/postmill-app",
-    "stars": 23,
-    "forks": 8,
-    "description": "Open-source, AI-native social media management & scheduling platform for 45+ channels. BYOK AI across 30+ providers with governance guardrai...",
+    "name": "openmake/openmake_llm",
+    "url": "https://github.com/openmake/openmake_llm",
+    "stars": 43,
+    "forks": 7,
+    "description": "Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifa...",
     "language": "TypeScript",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-16"
+    "pushed_at": "2026-10-17"
   },
   {
-    "name": "petmal/MindTrial",
-    "url": "https://github.com/petmal/MindTrial",
-    "stars": 21,
-    "forks": 5,
-    "description": "MindTrial: Evaluate and compare AI language models (LLMs) on text-based tasks with optional file/image attachments and tool use. Supports mu...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-16"
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI",
+    "stars": 30,
+    "forks": 8,
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 tables, RAG knowledge ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "Pixel-CLI/pixel",
+    "url": "https://github.com/Pixel-CLI/pixel",
+    "stars": 28,
+    "forks": 3,
+    "description": "A tool that replaces everything that can be deterministic in repository work: search, symbols, callers, task scope, history, review and Git ...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-17"
   }
 ]
