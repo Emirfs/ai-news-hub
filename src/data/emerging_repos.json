@@ -1,8 +1,18 @@
 [
   {
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 299,
+    "forks": 161,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-17"
+  },
+  {
     "name": "daniel3303/Equibles",
     "url": "https://github.com/daniel3303/Equibles",
-    "stars": 230,
+    "stars": 231,
     "forks": 31,
     "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
     "language": "C#",
@@ -10,13 +20,23 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "linny006/trending-claude-skills",
-    "url": "https://github.com/linny006/trending-claude-skills",
-    "stars": 127,
-    "forks": 9,
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "language": "Python",
+    "name": "agentuse/agentuse",
+    "url": "https://github.com/agentuse/agentuse",
+    "stars": 207,
+    "forks": 22,
+    "description": "🤖 AI agents on autopilot. Any model. Runs local, cron, CI/CD, or Docker.",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "xlnfinance/xln",
+    "url": "https://github.com/xlnfinance/xln",
+    "stars": 102,
+    "forks": 24,
+    "description": "0.1 - Q1 2026. DRAFT xln: a credit+collateral netting-account L2 for all EVM and future CBDC jurisdictions—unicast O(1) per hop, link-capped...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-17"
   },
   {
@@ -30,52 +50,32 @@
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "badhope/xiaoman",
-    "url": "https://github.com/badhope/xiaoman",
-    "stars": 77,
-    "forks": 8,
-    "description": "Xiaoman (小满) — a conversation-first, local-first personal finance AI agent · FastAPI + LangGraph + React · data 100% local · MIT",
+    "name": "diillson/chatcli",
+    "url": "https://github.com/diillson/chatcli",
+    "stars": 93,
+    "forks": 24,
+    "description": "ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic, OpenAI, and others—to facilitate interactive conversa...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-17"
+  },
+  {
+    "name": "0xBakeer/TandemLLM",
+    "url": "https://github.com/0xBakeer/TandemLLM",
+    "stars": 56,
+    "forks": 6,
+    "description": "An environment where open models work as agents: a first-level harness with routing, skills, memory and sandboxed tools, on an engine that d...",
     "language": "Python",
-    "tag": "Local AI",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   },
   {
-    "name": "neatlogs/neatroots",
-    "url": "https://github.com/neatlogs/neatroots",
-    "stars": 73,
-    "forks": 47,
-    "description": "neatroots: see, check and replay your AI agent's runs on your machine while you build it. Local-first, by Neatlogs.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "linny006/awesome-agent-skills",
-    "url": "https://github.com/linny006/awesome-agent-skills",
-    "stars": 39,
-    "forks": 3,
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "CambrianTech/continuum",
-    "url": "https://github.com/CambrianTech/continuum",
-    "stars": 34,
-    "forks": 8,
-    "description": "Local-first AI citizens on your own hardware. Teams of continuously-learning personas (Rust core, llama.cpp fork, LoRA genomes) that collabo...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "milisp/awesome-chatgpt-claude-agents",
-    "url": "https://github.com/milisp/awesome-chatgpt-claude-agents",
-    "stars": 32,
-    "forks": 17,
-    "description": "A curated collection of awesome ChatGPT & Claude agents, subagents, and AI-powered development tools",
-    "language": "Python",
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 45,
+    "forks": 4,
+    "description": "LLM server for one RTX 5090. Qwen3.8-27B at 91.0-93.7 tok/s (vLLM 68.9-70.0, llama.cpp 61.8-63.0). Runs Qwen3.8-Flash-Next (123.6 GiB) on a ...",
+    "language": "C++",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-17"
   }
