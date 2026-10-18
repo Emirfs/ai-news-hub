@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-18 20:50 UTC` | **Source-linked stories:** `173`
+> **Index generated:** `2026-10-18 23:18 UTC` | **Source-linked stories:** `173`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 320.8k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 283.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 321.7k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 283.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 253.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 216.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 253.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 216.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 224` | `2026-10-18` | Experimental Agent | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
-| [cynicalight/reader](https://github.com/cynicalight/reader) | `★ 219` | `2026-10-18` | Local AI | `TypeScript` | Local-first EPUB/PDF reader with annotations and AI assistance through Claude Code an... |
-| [slow-stack/mneme](https://github.com/slow-stack/mneme) | `★ 159` | `2026-10-18` | Indie Tool | `JavaScript` | 🧠 The memory that dreams — cross-session memory for DeepSeek Harness. Local SQLite + ... |
-| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 118` | `2026-10-18` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
+| [acryldev/acryl](https://github.com/acryldev/acryl) | `★ 257` | `2026-10-18` | Experimental Agent | `TypeScript` | ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canoni... |
+| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 116` | `2026-10-18` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 97` | `2026-10-18` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [Yokin-XY/Kite](https://github.com/Yokin-XY/Kite) | `★ 58` | `2026-10-18` | Local AI | `Kotlin` | Android card-based workbench for KF/KFShell: Ubuntu runtime, AI tool cards, local Web... |
+| [openmake/openmake_llm](https://github.com/openmake/openmake_llm) | `★ 43` | `2026-10-18` | Indie Tool | `TypeScript` | Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteL... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -222,7 +222,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-18 20:50 UTC` | **Yayımlanan haber:** `173`
+> **Dizin oluşturma:** `2026-10-18 23:18 UTC` | **Yayımlanan haber:** `173`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

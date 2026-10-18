@@ -1,41 +1,21 @@
 [
   {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 224,
-    "forks": 34,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
+    "name": "acryldev/acryl",
+    "url": "https://github.com/acryldev/acryl",
+    "stars": 257,
+    "forks": 36,
+    "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "cynicalight/reader",
-    "url": "https://github.com/cynicalight/reader",
-    "stars": 219,
-    "forks": 17,
-    "description": "Local-first EPUB/PDF reader with annotations and AI assistance through Claude Code and Codex CLI. Built with React, TypeScript, shadcn/ui, G...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "slow-stack/mneme",
-    "url": "https://github.com/slow-stack/mneme",
-    "stars": 159,
-    "forks": 22,
-    "description": "🧠 The memory that dreams — cross-session memory for DeepSeek Harness. Local SQLite + Markdown mirrors, autoDream consolidation, 4-way recall...",
-    "language": "JavaScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 118,
-    "forks": 18,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
-    "language": "Python",
+    "name": "bigfish1913/pi-rust",
+    "url": "https://github.com/bigfish1913/pi-rust",
+    "stars": 116,
+    "forks": 21,
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
+    "language": "Rust",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-18"
   },
@@ -43,19 +23,19 @@
     "name": "mstar-project/mstar",
     "url": "https://github.com/mstar-project/mstar",
     "stars": 97,
-    "forks": 42,
+    "forks": 43,
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "LunarWerxs/AgentHydra",
-    "url": "https://github.com/LunarWerxs/AgentHydra",
-    "stars": 44,
-    "forks": 4,
-    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedule and isolated Claud...",
-    "language": "TypeScript",
+    "name": "Yokin-XY/Kite",
+    "url": "https://github.com/Yokin-XY/Kite",
+    "stars": 58,
+    "forks": 9,
+    "description": "Android card-based workbench for KF/KFShell: Ubuntu runtime, AI tool cards, local Web Shell, and shareable recipes.",
+    "language": "Kotlin",
     "tag": "Local AI",
     "pushed_at": "2026-10-18"
   },
@@ -70,13 +50,33 @@
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "PINE-Lab-NTU/FACET",
-    "url": "https://github.com/PINE-Lab-NTU/FACET",
+    "name": "Navide-dev/Navide",
+    "url": "https://github.com/Navide-dev/Navide",
+    "stars": 38,
+    "forks": 5,
+    "description": "Navide is an open-source Agentic Development Environment (ADE) that orchestrates AI software teams across the software development lifecycle...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "telemetry-dev/telemetry",
+    "url": "https://github.com/telemetry-dev/telemetry",
+    "stars": 32,
+    "forks": 3,
+    "description": "Trace AI applications and agents, and monitor token usage, cost, latency, and errors with OpenTelemetry.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "akadeepesh/contextzip",
+    "url": "https://github.com/akadeepesh/contextzip",
     "stars": 28,
     "forks": 0,
-    "description": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation (arXiv 2609.01596)",
+    "description": "CLI tool for intelligent project packaging with framework detection, smart exclusions, and git-aware file selection.",
     "language": "Python",
-    "tag": "Embodied AI",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-18"
   }
 ]
