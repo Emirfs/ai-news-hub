@@ -1,5 +1,25 @@
 [
   {
+    "name": "VITASID57/bluntcore-intimacy-lab",
+    "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
+    "stars": 365,
+    "forks": 65,
+    "description": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 233,
+    "forks": 59,
+    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-18"
+  },
+  {
     "name": "zqc3117/Spotter",
     "url": "https://github.com/zqc3117/Spotter",
     "stars": 203,
@@ -10,73 +30,53 @@
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "AetherLabsAI/Video2World",
-    "url": "https://github.com/AetherLabsAI/Video2World",
-    "stars": 171,
-    "forks": 0,
-    "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Pe...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "iChristGit/OpenWebui-Tools",
-    "url": "https://github.com/iChristGit/OpenWebui-Tools",
-    "stars": 151,
-    "forks": 9,
-    "description": "Custom tools to enhance your Open-Webui Experience! 🚀",
-    "language": "Python",
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 185,
+    "forks": 17,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "linny006/trending-claude-skills",
-    "url": "https://github.com/linny006/trending-claude-skills",
-    "stars": 127,
-    "forks": 9,
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "language": "Python",
+    "name": "Affitor/open-affiliate",
+    "url": "https://github.com/Affitor/open-affiliate",
+    "stars": 117,
+    "forks": 120,
+    "description": "The open registry of affiliate programs. Built for developers and AI agents.",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 118,
-    "forks": 18,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "name": "bulutarkan/mac-mcp",
+    "url": "https://github.com/bulutarkan/mac-mcp",
+    "stars": 85,
+    "forks": 9,
+    "description": "Let your AI apps use your Mac: a local server and menu bar app that lets Claude, ChatGPT, Codex and other MCP apps work in your Mac's apps, ...",
     "language": "Python",
-    "tag": "Indie Tool",
+    "tag": "Local AI",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "ScriptedAlchemy/tracedecay",
-    "url": "https://github.com/ScriptedAlchemy/tracedecay",
-    "stars": 81,
-    "forks": 7,
-    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "name": "objectstack-ai/objectstack",
+    "url": "https://github.com/objectstack-ai/objectstack",
+    "stars": 73,
+    "forks": 18,
+    "description": "The ontology is the software. One executable business ontology: AI writes it, the runtime runs it, agents operate it, you own it. Open proto...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "OpenCoven/coven",
+    "url": "https://github.com/OpenCoven/coven",
+    "stars": 72,
+    "forks": 27,
+    "description": "Local-first runtime for project-scoped AI coding-agent sessions, with durable state, authority boundaries, and multi-harness interoperabilit...",
     "language": "Rust",
     "tag": "Local AI",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "Tort1k558/Camouflow",
-    "url": "https://github.com/Tort1k558/Camouflow",
-    "stars": 59,
-    "forks": 11,
-    "description": "Local-first anti-detect browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Pow...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "Bredrumb/TomoriBot",
-    "url": "https://github.com/Bredrumb/TomoriBot",
-    "stars": 58,
-    "forks": 15,
-    "description": "A highly customizable personal AI assistant for Discord featuring smart agentic AI features such as memory, personas, tool usage, and more! ...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-18"
   }
 ]
