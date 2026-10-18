@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-18 01:34 UTC` | **Source-linked stories:** `173`
+> **Index generated:** `2026-10-18 06:37 UTC` | **Source-linked stories:** `173`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 308.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 282.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 252.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 215.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 311.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 282.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.8k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 252.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 215.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [iuliandita/digarr](https://github.com/iuliandita/digarr) | `★ 310` | `2026-10-18` | Local AI | `TypeScript` | Self-hosted music discovery for your library. Find artists and albums, review recomme... |
-| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 229` | `2026-10-18` | Indie Tool | `Rust` | Local-first MCP gateway. One port for every tool and every AI client: lazy discovery ... |
-| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 224` | `2026-10-18` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
-| [oryx-labs/oryxos](https://github.com/oryx-labs/oryxos) | `★ 192` | `2026-10-18` | Experimental Agent | `Java` | OryxOS is an open-source Distributed AI Agent OS |
-| [NiceEval/NiceEval](https://github.com/NiceEval/NiceEval) | `★ 160` | `2026-10-18` | Experimental Agent | `TypeScript` | build eval for your agent in 10 mins |
+| [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) | `★ 365` | `2026-10-18` | Indie Tool | `Python` | AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例 |
+| [activeing123/mcptoon](https://github.com/activeing123/mcptoon) | `★ 286` | `2026-10-18` | Indie Tool | `Python` | One zero-dependency CLI for every MCP server and agent skill. Token optimization, too... |
+| [helixnow/deep-student](https://github.com/helixnow/deep-student) | `★ 284` | `2026-10-18` | Local AI | `TypeScript` | An open-source, local-first AI learning workbench |
+| [AetherLabsAI/Video2World](https://github.com/AetherLabsAI/Video2World) | `★ 171` | `2026-10-18` | Embodied AI | `Python` | Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Reth... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 97` | `2026-10-18` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -222,7 +222,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-18 01:34 UTC` | **Yayımlanan haber:** `173`
+> **Dizin oluşturma:** `2026-10-18 06:37 UTC` | **Yayımlanan haber:** `173`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

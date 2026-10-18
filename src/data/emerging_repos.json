@@ -1,62 +1,42 @@
 [
   {
-    "name": "iuliandita/digarr",
-    "url": "https://github.com/iuliandita/digarr",
-    "stars": 310,
-    "forks": 7,
-    "description": "Self-hosted music discovery for your library. Find artists and albums, review recommendations, and send them to Lidarr, slskd, or playlists....",
+    "name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+    "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+    "stars": 365,
+    "forks": 431,
+    "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "activeing123/mcptoon",
+    "url": "https://github.com/activeing123/mcptoon",
+    "stars": 286,
+    "forks": 18,
+    "description": "One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 toke...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "helixnow/deep-student",
+    "url": "https://github.com/helixnow/deep-student",
+    "stars": 284,
+    "forks": 56,
+    "description": "An open-source, local-first AI learning workbench",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "btsouth/toolport",
-    "url": "https://github.com/btsouth/toolport",
-    "stars": 229,
-    "forks": 59,
-    "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secr...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 224,
-    "forks": 34,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "oryx-labs/oryxos",
-    "url": "https://github.com/oryx-labs/oryxos",
-    "stars": 192,
-    "forks": 125,
-    "description": "OryxOS is an open-source Distributed AI Agent OS",
-    "language": "Java",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "NiceEval/NiceEval",
-    "url": "https://github.com/NiceEval/NiceEval",
-    "stars": 160,
-    "forks": 6,
-    "description": "build eval for your agent in 10 mins",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "WingedGuardian/GENesis-AGI",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI",
-    "stars": 98,
-    "forks": 41,
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "name": "AetherLabsAI/Video2World",
+    "url": "https://github.com/AetherLabsAI/Video2World",
+    "stars": 171,
+    "forks": 0,
+    "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Pe...",
     "language": "Python",
-    "tag": "Indie Tool",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-18"
   },
   {
@@ -70,13 +50,33 @@
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "ThalesGroup/fred",
-    "url": "https://github.com/ThalesGroup/fred",
-    "stars": 70,
-    "forks": 34,
-    "description": "Production-ready platform for building, deploying, and operating AI and agentic applications",
+    "name": "OpenBMB/SimpleMemVLA",
+    "url": "https://github.com/OpenBMB/SimpleMemVLA",
+    "stars": 90,
+    "forks": 10,
+    "description": "Native-video memory for vision-language-action models, using timestamped visual history and exact streaming inference for long-horizon robot...",
     "language": "Python",
-    "tag": "Experimental Agent",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "tobocop2/lilbee",
+    "url": "https://github.com/tobocop2/lilbee",
+    "stars": 65,
+    "forks": 8,
+    "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engine you can talk to, ...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "modelship-ai/modelship",
+    "url": "https://github.com/modelship-ai/modelship",
+    "stars": 53,
+    "forks": 4,
+    "description": "Self-hosted, OpenAI-compatible inference for the agentic era: reasoning LLMs, universal tool calling, and the Responses API alongside embedd...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-18"
   }
 ]
