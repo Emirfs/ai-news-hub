@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-18 14:53 UTC` | **Source-linked stories:** `173`
+> **Index generated:** `2026-10-18 18:10 UTC` | **Source-linked stories:** `173`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 317.2k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 283.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 319.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 283.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 252.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 216.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 253.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 216.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | `★ 365` | `2026-10-18` | Experimental Agent | `Python` | 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。 |
-| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 233` | `2026-10-18` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
+| [cortexkit/aft](https://github.com/cortexkit/aft) | `★ 325` | `2026-10-18` | Experimental Agent | `Rust` | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenC... |
+| [DobermanCore/Doberman-Core](https://github.com/DobermanCore/Doberman-Core) | `★ 282` | `2026-10-18` | Indie Tool | `Python` | Your AI's guard dog. Doberman sits at runtime, gating every input, output and tool ca... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 234` | `2026-10-18` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [cynicalight/reader](https://github.com/cynicalight/reader) | `★ 218` | `2026-10-18` | Local AI | `TypeScript` | Local-first EPUB/PDF reader with annotations and AI assistance through Claude Code an... |
 | [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | `★ 203` | `2026-10-18` | Embodied AI | `Python` | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for I... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 185` | `2026-10-18` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [Affitor/open-affiliate](https://github.com/Affitor/open-affiliate) | `★ 117` | `2026-10-18` | Experimental Agent | `TypeScript` | The open registry of affiliate programs. Built for developers and AI agents. |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -222,7 +222,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-18 14:53 UTC` | **Yayımlanan haber:** `173`
+> **Dizin oluşturma:** `2026-10-18 18:10 UTC` | **Yayımlanan haber:** `173`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

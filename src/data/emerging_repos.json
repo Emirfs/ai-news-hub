@@ -1,22 +1,42 @@
 [
   {
-    "name": "VITASID57/bluntcore-intimacy-lab",
-    "url": "https://github.com/VITASID57/bluntcore-intimacy-lab",
-    "stars": 365,
-    "forks": 65,
-    "description": "🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。",
-    "language": "Python",
+    "name": "cortexkit/aft",
+    "url": "https://github.com/cortexkit/aft",
+    "stars": 325,
+    "forks": 39,
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
+    "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "btsouth/toolport",
-    "url": "https://github.com/btsouth/toolport",
-    "stars": 233,
-    "forks": 59,
-    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
-    "language": "Rust",
+    "name": "DobermanCore/Doberman-Core",
+    "url": "https://github.com/DobermanCore/Doberman-Core",
+    "stars": 282,
+    "forks": 43,
+    "description": "Your AI's guard dog. Doberman sits at runtime, gating every input, output and tool call to stop unsafe or unintended actions before they exe...",
+    "language": "Python",
     "tag": "Indie Tool",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 234,
+    "forks": 31,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "cynicalight/reader",
+    "url": "https://github.com/cynicalight/reader",
+    "stars": 218,
+    "forks": 17,
+    "description": "Local-first EPUB/PDF reader with annotations and AI assistance through Claude Code and Codex CLI. Built with React, TypeScript, shadcn/ui, G...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-18"
   },
   {
@@ -30,53 +50,33 @@
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 185,
-    "forks": 17,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "Affitor/open-affiliate",
-    "url": "https://github.com/Affitor/open-affiliate",
-    "stars": 117,
-    "forks": 120,
-    "description": "The open registry of affiliate programs. Built for developers and AI agents.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "bulutarkan/mac-mcp",
-    "url": "https://github.com/bulutarkan/mac-mcp",
-    "stars": 85,
-    "forks": 9,
-    "description": "Let your AI apps use your Mac: a local server and menu bar app that lets Claude, ChatGPT, Codex and other MCP apps work in your Mac's apps, ...",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 97,
+    "forks": 42,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
-    "tag": "Local AI",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "objectstack-ai/objectstack",
-    "url": "https://github.com/objectstack-ai/objectstack",
-    "stars": 73,
-    "forks": 18,
-    "description": "The ontology is the software. One executable business ontology: AI writes it, the runtime runs it, agents operate it, you own it. Open proto...",
-    "language": "TypeScript",
+    "name": "bug-ops/zeph",
+    "url": "https://github.com/bug-ops/zeph",
+    "stars": 65,
+    "forks": 6,
+    "description": "A memory-first AI agent that remembers why decisions were made — not just the last message. Runs local (Ollama), cloud (Claude · OpenAI · Ge...",
+    "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "OpenCoven/coven",
-    "url": "https://github.com/OpenCoven/coven",
-    "stars": 72,
-    "forks": 27,
-    "description": "Local-first runtime for project-scoped AI coding-agent sessions, with durable state, authority boundaries, and multi-harness interoperabilit...",
-    "language": "Rust",
-    "tag": "Local AI",
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 45,
+    "forks": 4,
+    "description": "Fast LLM server for NVIDIA Blackwell: GeForce RTX 50 and RTX PRO. Qwen3.8-27B on one RTX 5090: 91-94 tok/s, 1.3x vLLM and 1.4x llama.cpp. Ru...",
+    "language": "C++",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-18"
   }
 ]
