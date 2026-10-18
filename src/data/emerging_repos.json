@@ -1,38 +1,18 @@
 [
   {
-    "name": "cortexkit/aft",
-    "url": "https://github.com/cortexkit/aft",
-    "stars": 325,
-    "forks": 39,
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
-    "language": "Rust",
+    "name": "jmagly/aiwg",
+    "url": "https://github.com/jmagly/aiwg",
+    "stars": 224,
+    "forks": 34,
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "DobermanCore/Doberman-Core",
-    "url": "https://github.com/DobermanCore/Doberman-Core",
-    "stars": 282,
-    "forks": 43,
-    "description": "Your AI's guard dog. Doberman sits at runtime, gating every input, output and tool call to stop unsafe or unintended actions before they exe...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-18"
-  },
-  {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 234,
-    "forks": 31,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-18"
   },
   {
     "name": "cynicalight/reader",
     "url": "https://github.com/cynicalight/reader",
-    "stars": 218,
+    "stars": 219,
     "forks": 17,
     "description": "Local-first EPUB/PDF reader with annotations and AI assistance through Claude Code and Codex CLI. Built with React, TypeScript, shadcn/ui, G...",
     "language": "TypeScript",
@@ -40,13 +20,23 @@
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "zqc3117/Spotter",
-    "url": "https://github.com/zqc3117/Spotter",
-    "stars": 203,
-    "forks": 24,
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+    "name": "slow-stack/mneme",
+    "url": "https://github.com/slow-stack/mneme",
+    "stars": 159,
+    "forks": 22,
+    "description": "🧠 The memory that dreams — cross-session memory for DeepSeek Harness. Local SQLite + Markdown mirrors, autoDream consolidation, 4-way recall...",
+    "language": "JavaScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 118,
+    "forks": 18,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
     "language": "Python",
-    "tag": "Embodied AI",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-18"
   },
   {
@@ -60,23 +50,33 @@
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "bug-ops/zeph",
-    "url": "https://github.com/bug-ops/zeph",
-    "stars": 65,
-    "forks": 6,
-    "description": "A memory-first AI agent that remembers why decisions were made — not just the last message. Runs local (Ollama), cloud (Claude · OpenAI · Ge...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
+    "name": "LunarWerxs/AgentHydra",
+    "url": "https://github.com/LunarWerxs/AgentHydra",
+    "stars": 44,
+    "forks": 4,
+    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedule and isolated Claud...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-18"
   },
   {
-    "name": "kekzl/imp",
-    "url": "https://github.com/kekzl/imp",
-    "stars": 45,
-    "forks": 4,
-    "description": "Fast LLM server for NVIDIA Blackwell: GeForce RTX 50 and RTX PRO. Qwen3.8-27B on one RTX 5090: 91-94 tok/s, 1.3x vLLM and 1.4x llama.cpp. Ru...",
-    "language": "C++",
+    "name": "openmake/openmake_llm",
+    "url": "https://github.com/openmake/openmake_llm",
+    "stars": 43,
+    "forks": 7,
+    "description": "Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifa...",
+    "language": "TypeScript",
     "tag": "Indie Tool",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "PINE-Lab-NTU/FACET",
+    "url": "https://github.com/PINE-Lab-NTU/FACET",
+    "stars": 28,
+    "forks": 0,
+    "description": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation (arXiv 2609.01596)",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-18"
   }
 ]
