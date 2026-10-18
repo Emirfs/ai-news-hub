@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-17 23:29 UTC` | **Source-linked stories:** `173`
+> **Index generated:** `2026-10-18 01:34 UTC` | **Source-linked stories:** `173`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 307.2k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 308.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 282.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 254.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 252.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 215.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 252.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 215.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [iuliandita/digarr](https://github.com/iuliandita/digarr) | `★ 310` | `2026-10-17` | Local AI | `TypeScript` | Self-hosted music discovery for your library. Find artists and albums, review recomme... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 299` | `2026-10-17` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 224` | `2026-10-17` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
-| [AetherLabsAI/Video2World](https://github.com/AetherLabsAI/Video2World) | `★ 170` | `2026-10-17` | Embodied AI | `Python` | Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Reth... |
-| [chrisryugj/korean-dart-mcp](https://github.com/chrisryugj/korean-dart-mcp) | `★ 114` | `2026-10-17` | Indie Tool | `TypeScript` | OpenDART 전자공시MCP | 83개 API → 15 MCP 도구. 공시·재무·지분·XBRL + 버핏급 애널리스트 프레임(내부자 시그널·회계 리스크·... |
+| [iuliandita/digarr](https://github.com/iuliandita/digarr) | `★ 310` | `2026-10-18` | Local AI | `TypeScript` | Self-hosted music discovery for your library. Find artists and albums, review recomme... |
+| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 229` | `2026-10-18` | Indie Tool | `Rust` | Local-first MCP gateway. One port for every tool and every AI client: lazy discovery ... |
+| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 224` | `2026-10-18` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
+| [oryx-labs/oryxos](https://github.com/oryx-labs/oryxos) | `★ 192` | `2026-10-18` | Experimental Agent | `Java` | OryxOS is an open-source Distributed AI Agent OS |
+| [NiceEval/NiceEval](https://github.com/NiceEval/NiceEval) | `★ 160` | `2026-10-18` | Experimental Agent | `TypeScript` | build eval for your agent in 10 mins |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -222,7 +222,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-17 23:29 UTC` | **Yayımlanan haber:** `173`
+> **Dizin oluşturma:** `2026-10-18 01:34 UTC` | **Yayımlanan haber:** `173`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

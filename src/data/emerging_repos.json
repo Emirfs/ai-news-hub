@@ -7,17 +7,17 @@
     "description": "Self-hosted music discovery for your library. Find artists and albums, review recommendations, and send them to Lidarr, slskd, or playlists....",
     "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-17"
+    "pushed_at": "2026-10-18"
   },
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 299,
-    "forks": 161,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-17"
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 229,
+    "forks": 59,
+    "description": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secr...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-18"
   },
   {
     "name": "jmagly/aiwg",
@@ -27,27 +27,37 @@
     "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
     "language": "TypeScript",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-17"
+    "pushed_at": "2026-10-18"
   },
   {
-    "name": "AetherLabsAI/Video2World",
-    "url": "https://github.com/AetherLabsAI/Video2World",
-    "stars": 170,
-    "forks": 0,
-    "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Pe...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-17"
+    "name": "oryx-labs/oryxos",
+    "url": "https://github.com/oryx-labs/oryxos",
+    "stars": 192,
+    "forks": 125,
+    "description": "OryxOS is an open-source Distributed AI Agent OS",
+    "language": "Java",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-18"
   },
   {
-    "name": "chrisryugj/korean-dart-mcp",
-    "url": "https://github.com/chrisryugj/korean-dart-mcp",
-    "stars": 114,
-    "forks": 21,
-    "description": "OpenDART 전자공시MCP | 83개 API → 15 MCP 도구. 공시·재무·지분·XBRL + 버핏급 애널리스트 프레임(내부자 시그널·회계 리스크·퀄리티 체크리스트) + HWP/PDF 첨부 마크다운화 | 83 Korean DART disclosu...",
+    "name": "NiceEval/NiceEval",
+    "url": "https://github.com/NiceEval/NiceEval",
+    "stars": 160,
+    "forks": 6,
+    "description": "build eval for your agent in 10 mins",
     "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-18"
+  },
+  {
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 98,
+    "forks": 41,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-17"
+    "pushed_at": "2026-10-18"
   },
   {
     "name": "mstar-project/mstar",
@@ -57,26 +67,16 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-17"
+    "pushed_at": "2026-10-18"
   },
   {
-    "name": "trafficflowhq/ohmail",
-    "url": "https://github.com/trafficflowhq/ohmail",
-    "stars": 83,
-    "forks": 4,
-    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-17"
-  },
-  {
-    "name": "badhope/xiaoman",
-    "url": "https://github.com/badhope/xiaoman",
-    "stars": 77,
-    "forks": 8,
-    "description": "Xiaoman (小满) — a conversation-first, local-first personal finance AI agent · FastAPI + LangGraph + React · data 100% local · MIT",
+    "name": "ThalesGroup/fred",
+    "url": "https://github.com/ThalesGroup/fred",
+    "stars": 70,
+    "forks": 34,
+    "description": "Production-ready platform for building, deploying, and operating AI and agentic applications",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-17"
+    "pushed_at": "2026-10-18"
   }
 ]
