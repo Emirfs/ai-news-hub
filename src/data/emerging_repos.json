@@ -1,82 +1,42 @@
 [
   {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 243,
-    "forks": 46,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-19"
-  },
-  {
-    "name": "zqc3117/Spotter",
-    "url": "https://github.com/zqc3117/Spotter",
-    "stars": 202,
-    "forks": 25,
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-19"
-  },
-  {
-    "name": "NVIDIA/NeMo-Relay",
-    "url": "https://github.com/NVIDIA/NeMo-Relay",
-    "stars": 200,
-    "forks": 86,
-    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-19"
-  },
-  {
-    "name": "forefy/.context",
-    "url": "https://github.com/forefy/.context",
-    "stars": 154,
-    "forks": 30,
-    "description": "AI Agent Skills, Goals and Dynamic Workflows for Security Auditing, Pentesting and Research",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-19"
-  },
-  {
-    "name": "off-grid-ai/OGAD",
-    "url": "https://github.com/off-grid-ai/OGAD",
-    "stars": 127,
-    "forks": 25,
-    "description": "Your private, on-device personal AI assistant for macOS and Windows. Chat, create, search files, and connect tools with local models. Includ...",
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 307,
+    "forks": 38,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
     "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-19"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 97,
-    "forks": 43,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-19"
-  },
-  {
-    "name": "mrpulor-gh/nuphus",
-    "url": "https://github.com/mrpulor-gh/nuphus",
-    "stars": 88,
-    "forks": 17,
-    "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
-    "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-19"
   },
   {
-    "name": "hanamorix/companion-emergence",
-    "url": "https://github.com/hanamorix/companion-emergence",
-    "stars": 59,
-    "forks": 11,
-    "description": "Local-first AI companion framework — persistent memory, emotional state, dreaming, embodied avatar. Desktop app + Python brain. macOS · Linu...",
+    "name": "sageox/ox",
+    "url": "https://github.com/sageox/ox",
+    "stars": 64,
+    "forks": 22,
+    "description": "The hivemind for AI coding agents — persistent team context recorded once and recalled across agents, machines, and teammates.",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-19"
+  },
+  {
+    "name": "cogitator-ai/Cogitator-AI",
+    "url": "https://github.com/cogitator-ai/Cogitator-AI",
+    "stars": 40,
+    "forks": 7,
+    "description": "AI agents that survive production. Self-hosted TypeScript runtime: multi-provider LLMs, tools with approvals, memory & RAG, durable workflow...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-19"
+  },
+  {
+    "name": "sudosubin/agents.nix",
+    "url": "https://github.com/sudosubin/agents.nix",
+    "stars": 17,
+    "forks": 2,
+    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
     "language": "Python",
-    "tag": "Local AI",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-19"
   }
 ]
