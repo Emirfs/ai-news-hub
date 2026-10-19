@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-19 20:43 UTC` | **Source-linked stories:** `179`
+> **Index generated:** `2026-10-19 23:57 UTC` | **Source-linked stories:** `181`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 335.5k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 284.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 336.5k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 284.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.3k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 254.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 217.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 217.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -33,9 +33,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [bex-co/beancount-io](https://github.com/bex-co/beancount-io) | `★ 307` | `2026-10-19` | Experimental Agent | `TypeScript` | 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents... |
-| [sageox/ox](https://github.com/sageox/ox) | `★ 64` | `2026-10-19` | Experimental Agent | `Go` | The hivemind for AI coding agents — persistent team context recorded once and recalle... |
-| [cogitator-ai/Cogitator-AI](https://github.com/cogitator-ai/Cogitator-AI) | `★ 40` | `2026-10-19` | Experimental Agent | `TypeScript` | AI agents that survive production. Self-hosted TypeScript runtime: multi-provider LLM... |
-| [sudosubin/agents.nix](https://github.com/sudosubin/agents.nix) | `★ 17` | `2026-10-19` | Experimental Agent | `Python` | Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 301` | `2026-10-19` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [initMAX/zabbix-mcp-server](https://github.com/initMAX/zabbix-mcp-server) | `★ 238` | `2026-10-19` | Indie Tool | `Python` | MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer ... |
+| [Hash-7777/HashCortX](https://github.com/Hash-7777/HashCortX) | `★ 169` | `2026-10-19` | Local AI | `JavaScript` | A local-first AI workspace : multi provider chat, a Full Harness in Hashcoder agent, ... |
+| [rongxinzy/RongxinAI](https://github.com/rongxinzy/RongxinAI) | `★ 157` | `2026-10-19` | Indie Tool | `TypeScript` | Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, d... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -43,8 +44,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-19` | AI Research | [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](src/content/news/2026-10-19-structured-authority-injection-persistent-human-control.md) | Structured Authority | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-structured-authority-injection-persistent-human-control/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22373) |
 | `2026-10-19` | AI Research | [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](src/content/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states.md) | Existing large | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22400) |
+| `2026-10-19` | AI Research | [PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents](src/content/news/2026-10-19-prime-towards-verifiable-evidence-grounded-reasoning-in.md) | LLM agents are used to check records against an organization's requirements, for example whether a vulnerability re... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-prime-towards-verifiable-evidence-grounded-reasoning-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22426) |
 | `2026-10-19` | Robotics & Hardware | [NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production](src/content/news/2026-10-19-nvidia-advances-agentic-security-for-media.md) | At a creative | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-nvidia-advances-agentic-security-for-media/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production) |
 | `2026-10-19` | Robotics & Hardware | [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](src/content/news/2026-10-19-germany-wants-to-lead-the-world.md) | German Chancellor Friedrich Merz | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-germany-wants-to-lead-the-world/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help) |
+| `2026-10-19` | AI Research | [From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems](src/content/news/2026-10-19-from-natural-language-intent-to-executable.md) | Large language | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-from-natural-language-intent-to-executable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22441) |
 | `2026-10-19` | AI Research | [From Events to Reasoning: Hierarchical Rule Composition over Explicit States](src/content/news/2026-10-19-from-events-to-reasoning-hierarchical-rule.md) | What a reasoning system emits is a conclusion; what it owes is a justification. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-from-events-to-reasoning-hierarchical-rule/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22403) |
 | `2026-10-19` | AI Research | [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](src/content/news/2026-10-19-echoes-seeing-beyond-the-current-image.md) | Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increa... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-echoes-seeing-beyond-the-current-image/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22408) |
 | `2026-10-17` | Robotics & Hardware | [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](src/content/news/2026-10-17-rtx-spark-ignites-global-celebration-as.md) | NVIDIA | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-17-rtx-spark-ignites-global-celebration-as/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration) |
@@ -227,7 +230,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-19 20:43 UTC` | **Yayımlanan haber:** `179`
+> **Dizin oluşturma:** `2026-10-19 23:57 UTC` | **Yayımlanan haber:** `181`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -239,8 +242,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-19` | AI Research | [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](src/content/news/2026-10-19-structured-authority-injection-persistent-human-control.md) | Structured Authority | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-structured-authority-injection-persistent-human-control/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22373) |
 | `2026-10-19` | AI Research | [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](src/content/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states.md) | Existing large | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22400) |
+| `2026-10-19` | AI Research | [PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents](src/content/news/2026-10-19-prime-towards-verifiable-evidence-grounded-reasoning-in.md) | LLM agents are used to check records against an organization's requirements, for example whether a vulnerability re... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-prime-towards-verifiable-evidence-grounded-reasoning-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22426) |
 | `2026-10-19` | Robotics & Hardware | [NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production](src/content/news/2026-10-19-nvidia-advances-agentic-security-for-media.md) | At a creative | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-nvidia-advances-agentic-security-for-media/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production) |
 | `2026-10-19` | Robotics & Hardware | [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](src/content/news/2026-10-19-germany-wants-to-lead-the-world.md) | German Chancellor Friedrich Merz | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-germany-wants-to-lead-the-world/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help) |
+| `2026-10-19` | AI Research | [From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems](src/content/news/2026-10-19-from-natural-language-intent-to-executable.md) | Large language | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-from-natural-language-intent-to-executable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22441) |
 | `2026-10-19` | AI Research | [From Events to Reasoning: Hierarchical Rule Composition over Explicit States](src/content/news/2026-10-19-from-events-to-reasoning-hierarchical-rule.md) | What a reasoning system emits is a conclusion; what it owes is a justification. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-from-events-to-reasoning-hierarchical-rule/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22403) |
 | `2026-10-19` | AI Research | [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](src/content/news/2026-10-19-echoes-seeing-beyond-the-current-image.md) | Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increa... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-echoes-seeing-beyond-the-current-image/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22408) |
 | `2026-10-17` | Robotics & Hardware | [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](src/content/news/2026-10-17-rtx-spark-ignites-global-celebration-as.md) | NVIDIA | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-17-rtx-spark-ignites-global-celebration-as/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration) |
