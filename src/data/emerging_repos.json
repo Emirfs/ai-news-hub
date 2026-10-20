@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 236,
+    "forks": 32,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "NVIDIA/NeMo-Relay",
+    "url": "https://github.com/NVIDIA/NeMo-Relay",
+    "stars": 200,
+    "forks": 88,
+    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "devsy-org/devsy",
+    "url": "https://github.com/devsy-org/devsy",
+    "stars": 122,
+    "forks": 11,
+    "description": "Deploy secure local and cloud environments for developers and agents",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 99,
+    "forks": 43,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "MikkoParkkola/mcp-gateway",
+    "url": "https://github.com/MikkoParkkola/mcp-gateway",
+    "stars": 84,
+    "forks": 19,
+    "description": "Unlimited MCP servers, tools and APIs. One fixed context cost. Plug every tool you own into Claude, Cursor, Codex or any MCP client: your ag...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "techysy/10router",
+    "url": "https://github.com/techysy/10router",
+    "stars": 82,
+    "forks": 16,
+    "description": "10Router — local AI routing gateway & dashboard · npm i -g @techysy/10router",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "alperhankendi/Ctxo",
+    "url": "https://github.com/alperhankendi/Ctxo",
+    "stars": 71,
+    "forks": 9,
+    "description": "MCP server for AI coding agents. Instead of reading files one by one, your agent gets dependency graphs, git intent, blast radius, and chang...",
+    "language": "HTML",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "phasespace-labs/palinode",
+    "url": "https://github.com/phasespace-labs/palinode",
+    "stars": 46,
+    "forks": 50,
+    "description": "The memory substrate for AI agents and developer tools. Git-versioned, file-native, MCP-first.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-20"
+  }
+]
