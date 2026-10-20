@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-20 15:08 UTC` | **Source-linked stories:** `182`
+> **Index generated:** `2026-10-20 19:20 UTC` | **Source-linked stories:** `182`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 344.7k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 284.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 255.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 346.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 284.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 255.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.5k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 218.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 218.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 236` | `2026-10-20` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
-| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 200` | `2026-10-20` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
-| [devsy-org/devsy](https://github.com/devsy-org/devsy) | `★ 122` | `2026-10-20` | Experimental Agent | `Go` | Deploy secure local and cloud environments for developers and agents |
+| [bex-co/beancount-io](https://github.com/bex-co/beancount-io) | `★ 309` | `2026-10-20` | Experimental Agent | `TypeScript` | 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents... |
+| [containers/podman-desktop-extension-ai-lab](https://github.com/containers/podman-desktop-extension-ai-lab) | `★ 301` | `2026-10-20` | Local AI | `TypeScript` | Work with LLMs on a local environment using containers |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 185` | `2026-10-20` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [airbytehq/airbyte-agent-sdk](https://github.com/airbytehq/airbyte-agent-sdk) | `★ 137` | `2026-10-20` | Experimental Agent | `Python` | 🐙 Drop-in tools that give AI agents reliable, permission-aware access to external sys... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 99` | `2026-10-20` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [MikkoParkkola/mcp-gateway](https://github.com/MikkoParkkola/mcp-gateway) | `★ 84` | `2026-10-20` | Indie Tool | `Rust` | Unlimited MCP servers, tools and APIs. One fixed context cost. Plug every tool you ow... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -231,7 +231,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-20 15:08 UTC` | **Yayımlanan haber:** `182`
+> **Dizin oluşturma:** `2026-10-20 19:20 UTC` | **Yayımlanan haber:** `182`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
