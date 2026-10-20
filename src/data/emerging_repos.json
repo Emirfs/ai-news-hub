@@ -1,42 +1,62 @@
 [
   {
-    "name": "bex-co/beancount-io",
-    "url": "https://github.com/bex-co/beancount-io",
-    "stars": 309,
-    "forks": 38,
-    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-20"
-  },
-  {
-    "name": "containers/podman-desktop-extension-ai-lab",
-    "url": "https://github.com/containers/podman-desktop-extension-ai-lab",
-    "stars": 301,
-    "forks": 84,
-    "description": "Work with LLMs on a local environment using containers",
+    "name": "AmrDab/clawdcursor",
+    "url": "https://github.com/AmrDab/clawdcursor",
+    "stars": 405,
+    "forks": 59,
+    "description": "Local MCP server that gives any AI agent safe desktop control on Windows, macOS and Linux. Reads the screen as text and structure (accessibi...",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-20"
   },
   {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 185,
-    "forks": 17,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "name": "kris-hansen/comanda",
+    "url": "https://github.com/kris-hansen/comanda",
+    "stars": 330,
+    "forks": 26,
+    "description": "The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the termin...",
     "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 236,
+    "forks": 32,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-20"
   },
   {
-    "name": "airbytehq/airbyte-agent-sdk",
-    "url": "https://github.com/airbytehq/airbyte-agent-sdk",
-    "stars": 137,
-    "forks": 15,
-    "description": "🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.",
+    "name": "cognizant-ai-lab/neuro-san",
+    "url": "https://github.com/cognizant-ai-lab/neuro-san",
+    "stars": 161,
+    "forks": 57,
+    "description": "Neuro AI System of Agent Networks",
     "language": "Python",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "antropos17/Aegis",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 157,
+    "forks": 24,
+    "description": "Windows-first desktop oversight for AI agents: live monitoring, local security reviews, token usage, audit reports and opt-in action policie...",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-20"
+  },
+  {
+    "name": "tenuo-ai/tenuo",
+    "url": "https://github.com/tenuo-ai/tenuo",
+    "stars": 101,
+    "forks": 25,
+    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-20"
   },
   {
@@ -50,33 +70,13 @@
     "pushed_at": "2026-10-20"
   },
   {
-    "name": "diillson/chatcli",
-    "url": "https://github.com/diillson/chatcli",
-    "stars": 93,
-    "forks": 24,
-    "description": "ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic, OpenAI, and others—to facilitate interactive conversa...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-20"
-  },
-  {
-    "name": "bulutarkan/mac-mcp",
-    "url": "https://github.com/bulutarkan/mac-mcp",
-    "stars": 87,
-    "forks": 9,
-    "description": "Let your AI apps use your Mac: a local server and menu bar app that lets Claude, ChatGPT, Codex and other MCP apps work in your Mac's apps, ...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-20"
-  },
-  {
-    "name": "trafficflowhq/ohmail",
-    "url": "https://github.com/trafficflowhq/ohmail",
-    "stars": 85,
-    "forks": 4,
-    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
-    "language": "TypeScript",
-    "tag": "Local AI",
+    "name": "respanai/respan-gateway",
+    "url": "https://github.com/respanai/respan-gateway",
+    "stars": 39,
+    "forks": 6,
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-20"
   }
 ]
