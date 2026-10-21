@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-20 22:43 UTC` | **Source-linked stories:** `182`
+> **Index generated:** `2026-10-21 01:02 UTC` | **Source-linked stories:** `182`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 347.5k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 348.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 284.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 255.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 255.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.6k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 218.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [AmrDab/clawdcursor](https://github.com/AmrDab/clawdcursor) | `★ 405` | `2026-10-20` | Local AI | `TypeScript` | Local MCP server that gives any AI agent safe desktop control on Windows, macOS and L... |
-| [kris-hansen/comanda](https://github.com/kris-hansen/comanda) | `★ 330` | `2026-10-20` | Experimental Agent | `Go` | The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CL... |
-| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 236` | `2026-10-20` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
-| [cognizant-ai-lab/neuro-san](https://github.com/cognizant-ai-lab/neuro-san) | `★ 161` | `2026-10-20` | Experimental Agent | `Python` | Neuro AI System of Agent Networks |
-| [antropos17/Aegis](https://github.com/antropos17/Aegis) | `★ 157` | `2026-10-20` | Local AI | `JavaScript` | Windows-first desktop oversight for AI agents: live monitoring, local security review... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 288` | `2026-10-21` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 300+ audit rules across SEO, performance, ... |
+| [codecoradev/uteke](https://github.com/codecoradev/uteke) | `★ 273` | `2026-10-21` | Local AI | `Rust` | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 236` | `2026-10-21` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 234` | `2026-10-21` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 99` | `2026-10-21` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -231,7 +231,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-20 22:43 UTC` | **Yayımlanan haber:** `182`
+> **Dizin oluşturma:** `2026-10-21 01:02 UTC` | **Yayımlanan haber:** `182`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

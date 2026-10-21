@@ -1,23 +1,23 @@
 [
   {
-    "name": "AmrDab/clawdcursor",
-    "url": "https://github.com/AmrDab/clawdcursor",
-    "stars": 405,
-    "forks": 59,
-    "description": "Local MCP server that gives any AI agent safe desktop control on Windows, macOS and Linux. Reads the screen as text and structure (accessibi...",
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 288,
+    "forks": 29,
+    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-20"
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-21"
   },
   {
-    "name": "kris-hansen/comanda",
-    "url": "https://github.com/kris-hansen/comanda",
-    "stars": 330,
-    "forks": 26,
-    "description": "The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the termin...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-20"
+    "name": "codecoradev/uteke",
+    "url": "https://github.com/codecoradev/uteke",
+    "stars": 273,
+    "forks": 31,
+    "description": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust ...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-21"
   },
   {
     "name": "daniel3303/Equibles",
@@ -27,37 +27,17 @@
     "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
     "language": "C#",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-20"
+    "pushed_at": "2026-10-21"
   },
   {
-    "name": "cognizant-ai-lab/neuro-san",
-    "url": "https://github.com/cognizant-ai-lab/neuro-san",
-    "stars": 161,
-    "forks": 57,
-    "description": "Neuro AI System of Agent Networks",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-20"
-  },
-  {
-    "name": "antropos17/Aegis",
-    "url": "https://github.com/antropos17/Aegis",
-    "stars": 157,
-    "forks": 24,
-    "description": "Windows-first desktop oversight for AI agents: live monitoring, local security reviews, token usage, audit reports and opt-in action policie...",
-    "language": "JavaScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-20"
-  },
-  {
-    "name": "tenuo-ai/tenuo",
-    "url": "https://github.com/tenuo-ai/tenuo",
-    "stars": 101,
-    "forks": 25,
-    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 234,
+    "forks": 60,
+    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
     "language": "Rust",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-20"
+    "pushed_at": "2026-10-21"
   },
   {
     "name": "mstar-project/mstar",
@@ -67,16 +47,36 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-20"
+    "pushed_at": "2026-10-21"
   },
   {
-    "name": "respanai/respan-gateway",
-    "url": "https://github.com/respanai/respan-gateway",
-    "stars": 39,
-    "forks": 6,
-    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
-    "language": "Rust",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure",
+    "stars": 55,
+    "forks": 8,
+    "description": "RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-device agent: usage ledge...",
+    "language": "Kotlin",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-20"
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "ali-ulu/huqan",
+    "url": "https://github.com/ali-ulu/huqan",
+    "stars": 34,
+    "forks": 2,
+    "description": "Local-first verification layer for AI agents: evidence, provenance, policy gates, human approval, and auditable Trust Receipts before a clai...",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "deftai/directive",
+    "url": "https://github.com/deftai/directive",
+    "stars": 31,
+    "forks": 14,
+    "description": "Best practices and guidelines for AI agents in software development",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-21"
   }
 ]
