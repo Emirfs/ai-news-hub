@@ -1,32 +1,42 @@
 [
   {
-    "name": "marcusquinn/aidevops",
-    "url": "https://github.com/marcusquinn/aidevops",
-    "stars": 420,
-    "forks": 72,
-    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
-    "language": "Shell",
+    "name": "decocms/studio",
+    "url": "https://github.com/decocms/studio",
+    "stars": 412,
+    "forks": 56,
+    "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "abacusai/abacusai-bot",
-    "url": "https://github.com/abacusai/abacusai-bot",
-    "stars": 268,
-    "forks": 39,
-    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
-    "language": "TypeScript",
+    "name": "cortexkit/aft",
+    "url": "https://github.com/cortexkit/aft",
+    "stars": 330,
+    "forks": 40,
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "DobermanCore/Doberman-Core",
+    "url": "https://github.com/DobermanCore/Doberman-Core",
+    "stars": 282,
+    "forks": 44,
+    "description": "Your AI's guard dog. Doberman sits at runtime, gating every input, output and tool call to stop unsafe or unintended actions before they exe...",
+    "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 247,
-    "forks": 47,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 236,
+    "forks": 33,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-21"
   },
   {
@@ -40,43 +50,33 @@
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "libra-tools/libra",
-    "url": "https://github.com/libra-tools/libra",
-    "stars": 98,
-    "forks": 160,
-    "description": "Libra is evolving into an AI agent–native version control tools",
-    "language": "Rust",
-    "tag": "Experimental Agent",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 101,
+    "forks": 43,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "thefalconry/talon",
-    "url": "https://github.com/thefalconry/talon",
-    "stars": 79,
-    "forks": 4,
-    "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "FoyonaCZY/AelionBot",
-    "url": "https://github.com/FoyonaCZY/AelionBot",
-    "stars": 64,
-    "forks": 9,
-    "description": "Local AI teammates with group chats, scheduled tasks, and a managed work computer.",
-    "language": "HTML",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "0xBakeer/TandemLLM",
-    "url": "https://github.com/0xBakeer/TandemLLM",
-    "stars": 58,
-    "forks": 8,
-    "description": "An environment where open models work as agents: a first-level harness with routing, skills, memory and sandboxed tools, on an engine that d...",
+    "name": "Oaklight/ToolRegistry",
+    "url": "https://github.com/Oaklight/ToolRegistry",
+    "stars": 66,
+    "forks": 10,
+    "description": "ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, LangChain, MCP)",
     "language": "Python",
     "tag": "Indie Tool",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "EastStarAI/sanad-agent",
+    "url": "https://github.com/EastStarAI/sanad-agent",
+    "stars": 47,
+    "forks": 8,
+    "description": "Open-source AI agent and cross-platform client for local and remote development workflows.",
+    "language": "Dart",
+    "tag": "Local AI",
     "pushed_at": "2026-10-21"
   }
 ]
