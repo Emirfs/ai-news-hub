@@ -1,82 +1,82 @@
 [
   {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 224,
-    "forks": 34,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
+    "name": "marcusquinn/aidevops",
+    "url": "https://github.com/marcusquinn/aidevops",
+    "stars": 420,
+    "forks": 72,
+    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "abacusai/abacusai-bot",
+    "url": "https://github.com/abacusai/abacusai-bot",
+    "stars": 268,
+    "forks": 39,
+    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
     "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "godot-fun/gai",
-    "url": "https://github.com/godot-fun/gai",
-    "stars": 190,
-    "forks": 19,
-    "description": "A lightweight AI agent and skill workflow framework built with Godot.",
-    "language": "GDScript",
-    "tag": "Experimental Agent",
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 247,
+    "forks": 47,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "hjxwz123/Aivory",
-    "url": "https://github.com/hjxwz123/Aivory",
-    "stars": 115,
-    "forks": 14,
-    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "nathaninline/ajean",
-    "url": "https://github.com/nathaninline/ajean",
-    "stars": 99,
-    "forks": 11,
-    "description": "Run your AI models at home in one binary: chat, persistent memory, web access, browser control, MCP tools, encryption at rest and end-to-end...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "IHUI-INF-AI/IHUI-AI",
-    "url": "https://github.com/IHUI-INF-AI/IHUI-AI",
-    "stars": 31,
-    "forks": 8,
-    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 tables, RAG knowledge ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "Indosaram/omo-gateway",
-    "url": "https://github.com/Indosaram/omo-gateway",
-    "stars": 28,
-    "forks": 4,
-    "description": "Ultra-fast, zero-GC async AI agent gateway and session multiplexer for Discord in 100% Rust",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "bigduu/Bamboo-agent",
-    "url": "https://github.com/bigduu/Bamboo-agent",
-    "stars": 21,
-    "forks": 2,
-    "description": "Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedules, and context assem...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "sudosubin/agents.nix",
-    "url": "https://github.com/sudosubin/agents.nix",
-    "stars": 17,
-    "forks": 2,
-    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 167,
+    "forks": 24,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
     "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "libra-tools/libra",
+    "url": "https://github.com/libra-tools/libra",
+    "stars": 98,
+    "forks": 160,
+    "description": "Libra is evolving into an AI agent–native version control tools",
+    "language": "Rust",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "thefalconry/talon",
+    "url": "https://github.com/thefalconry/talon",
+    "stars": 79,
+    "forks": 4,
+    "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams & Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, O...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "FoyonaCZY/AelionBot",
+    "url": "https://github.com/FoyonaCZY/AelionBot",
+    "stars": 64,
+    "forks": 9,
+    "description": "Local AI teammates with group chats, scheduled tasks, and a managed work computer.",
+    "language": "HTML",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "0xBakeer/TandemLLM",
+    "url": "https://github.com/0xBakeer/TandemLLM",
+    "stars": 58,
+    "forks": 8,
+    "description": "An environment where open models work as agents: a first-level harness with routing, skills, memory and sandboxed tools, on an engine that d...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-21"
   }
 ]

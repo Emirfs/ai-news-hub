@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-21 11:58 UTC` | **Source-linked stories:** `186`
+> **Index generated:** `2026-10-21 17:17 UTC` | **Source-linked stories:** `188`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 353.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 285.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 256.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 219.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 355.7k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 285.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 256.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.8k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 219.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 224` | `2026-10-21` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
-| [godot-fun/gai](https://github.com/godot-fun/gai) | `★ 190` | `2026-10-21` | Experimental Agent | `GDScript` | A lightweight AI agent and skill workflow framework built with Godot. |
-| [hjxwz123/Aivory](https://github.com/hjxwz123/Aivory) | `★ 115` | `2026-10-21` | Indie Tool | `Go` | Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, R... |
-| [nathaninline/ajean](https://github.com/nathaninline/ajean) | `★ 99` | `2026-10-21` | Indie Tool | `Go` | Run your AI models at home in one binary: chat, persistent memory, web access, browse... |
-| [IHUI-INF-AI/IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) | `★ 31` | `2026-10-21` | Experimental Agent | `TypeScript` | Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP ... |
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 420` | `2026-10-21` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
+| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 268` | `2026-10-21` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 247` | `2026-10-21` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 167` | `2026-10-21` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
+| [libra-tools/libra](https://github.com/libra-tools/libra) | `★ 98` | `2026-10-21` | Experimental Agent | `Rust` | Libra is evolving into an AI agent–native version control tools |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -45,7 +45,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-21` | AI Research | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](src/content/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable.md) | Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonom... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26887) |
 | `2026-10-21` | Robotics & Hardware | [NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries](src/content/news/2026-10-21-nvidia-open-models-advance-europes-sovereign.md) | NVIDIA is expanding | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-nvidia-open-models-advance-europes-sovereign/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-models-europe-industry) |
 | `2026-10-21` | Robotics & Hardware | [NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure](src/content/news/2026-10-21-nvidia-confidential-computing-expands-enabling-frontier.md) | NVIDIA builds | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-nvidia-confidential-computing-expands-enabling-frontier/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure) |
+| `2026-10-21` | Robotics & Hardware | [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](src/content/news/2026-10-21-nvidia-cloud-partners-scale-across-europe.md) | Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-nvidia-cloud-partners-scale-across-europe/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents) |
 | `2026-10-21` | AI Research | [Large language model and reinforcement learning based autonomous construction and progress updates](src/content/news/2026-10-21-large-language-model-and-reinforcement-learning.md) | Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-large-language-model-and-reinforcement-learning/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26899) |
+| `2026-10-21` | Robotics & Hardware | [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](src/content/news/2026-10-21-bringing-the-spark-to-europe-local.md) | At GTC Berlin | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-bringing-the-spark-to-europe-local/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync) |
 | `2026-10-20` | Robotics & Hardware | [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](src/content/news/2026-10-20-spain-based-startups-advance-regional-innovation-with.md) | The Barcelona | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-20-spain-based-startups-advance-regional-innovation-with/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center) |
 | `2026-10-19` | AI Research | [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](src/content/news/2026-10-19-structured-authority-injection-persistent-human-control.md) | Structured Authority | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-structured-authority-injection-persistent-human-control/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22373) |
 | `2026-10-19` | AI Research | [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](src/content/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states.md) | Existing large | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22400) |
@@ -235,7 +237,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-21 11:58 UTC` | **Yayımlanan haber:** `186`
+> **Dizin oluşturma:** `2026-10-21 17:17 UTC` | **Yayımlanan haber:** `188`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -248,7 +250,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-21` | AI Research | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](src/content/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable.md) | Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonom... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26887) |
 | `2026-10-21` | Robotics & Hardware | [NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries](src/content/news/2026-10-21-nvidia-open-models-advance-europes-sovereign.md) | NVIDIA is expanding | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-nvidia-open-models-advance-europes-sovereign/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-models-europe-industry) |
 | `2026-10-21` | Robotics & Hardware | [NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure](src/content/news/2026-10-21-nvidia-confidential-computing-expands-enabling-frontier.md) | NVIDIA builds | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-nvidia-confidential-computing-expands-enabling-frontier/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure) |
+| `2026-10-21` | Robotics & Hardware | [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](src/content/news/2026-10-21-nvidia-cloud-partners-scale-across-europe.md) | Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-nvidia-cloud-partners-scale-across-europe/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents) |
 | `2026-10-21` | AI Research | [Large language model and reinforcement learning based autonomous construction and progress updates](src/content/news/2026-10-21-large-language-model-and-reinforcement-learning.md) | Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-large-language-model-and-reinforcement-learning/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26899) |
+| `2026-10-21` | Robotics & Hardware | [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](src/content/news/2026-10-21-bringing-the-spark-to-europe-local.md) | At GTC Berlin | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-bringing-the-spark-to-europe-local/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync) |
 | `2026-10-20` | Robotics & Hardware | [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](src/content/news/2026-10-20-spain-based-startups-advance-regional-innovation-with.md) | The Barcelona | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-20-spain-based-startups-advance-regional-innovation-with/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center) |
 | `2026-10-19` | AI Research | [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](src/content/news/2026-10-19-structured-authority-injection-persistent-human-control.md) | Structured Authority | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-structured-authority-injection-persistent-human-control/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22373) |
 | `2026-10-19` | AI Research | [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](src/content/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states.md) | Existing large | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22400) |
