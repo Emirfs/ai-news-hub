@@ -1,35 +1,5 @@
 [
   {
-    "name": "bex-co/beancount-io",
-    "url": "https://github.com/bex-co/beancount-io",
-    "stars": 309,
-    "forks": 38,
-    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android",
-    "stars": 305,
-    "forks": 20,
-    "description": "Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termu...",
-    "language": "Kotlin",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "wadeKeith/Awesome-Embodied-AI",
-    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 253,
-    "forks": 21,
-    "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-21"
-  },
-  {
     "name": "jmagly/aiwg",
     "url": "https://github.com/jmagly/aiwg",
     "stars": 224,
@@ -40,43 +10,73 @@
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "Glade-tool/glade-mcp",
-    "url": "https://github.com/Glade-tool/glade-mcp",
-    "stars": 214,
-    "forks": 22,
-    "description": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 275+ granular tools, an editor aware system prompt, ...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "ethanhq/cc-fleet",
-    "url": "https://github.com/ethanhq/cc-fleet",
-    "stars": 182,
-    "forks": 33,
-    "description": "🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any third-party model — DeepSeek · GLM · Kimi · Qwen … or your Code...",
-    "language": "Go",
+    "name": "godot-fun/gai",
+    "url": "https://github.com/godot-fun/gai",
+    "stars": 190,
+    "forks": 19,
+    "description": "A lightweight AI agent and skill workflow framework built with Godot.",
+    "language": "GDScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "looptroop-ai/LoopTroop",
-    "url": "https://github.com/looptroop-ai/LoopTroop",
-    "stars": 164,
+    "name": "hjxwz123/Aivory",
+    "url": "https://github.com/hjxwz123/Aivory",
+    "stars": 115,
     "forks": 14,
-    "description": "Local AI coding orchestration for repo-scale work: LLM-council planning, Ralph-loop recovery, isolated OpenCode worktrees, and human-gated P...",
-    "language": "TypeScript",
-    "tag": "Local AI",
+    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
+    "language": "Go",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
+    "name": "nathaninline/ajean",
+    "url": "https://github.com/nathaninline/ajean",
     "stars": 99,
-    "forks": 43,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "forks": 11,
+    "description": "Run your AI models at home in one binary: chat, persistent memory, web access, browser control, MCP tools, encryption at rest and end-to-end...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "IHUI-INF-AI/IHUI-AI",
+    "url": "https://github.com/IHUI-INF-AI/IHUI-AI",
+    "stars": 31,
+    "forks": 8,
+    "description": "Eight-platform full-stack AI operating system - unifies 176 LLMs via LangGraph + MCP + A2A. Multi-tenant RLS over 340 tables, RAG knowledge ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "Indosaram/omo-gateway",
+    "url": "https://github.com/Indosaram/omo-gateway",
+    "stars": 28,
+    "forks": 4,
+    "description": "Ultra-fast, zero-GC async AI agent gateway and session multiplexer for Discord in 100% Rust",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "bigduu/Bamboo-agent",
+    "url": "https://github.com/bigduu/Bamboo-agent",
+    "stars": 21,
+    "forks": 2,
+    "description": "Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedules, and context assem...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "sudosubin/agents.nix",
+    "url": "https://github.com/sudosubin/agents.nix",
+    "stars": 17,
+    "forks": 2,
+    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
     "language": "Python",
-    "tag": "Embodied AI",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-21"
   }
 ]
