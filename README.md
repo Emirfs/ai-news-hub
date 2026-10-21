@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-21 01:02 UTC` | **Source-linked stories:** `182`
+> **Index generated:** `2026-10-21 06:05 UTC` | **Source-linked stories:** `184`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 348.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 284.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 255.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 218.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 350.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 285.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 256.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 219.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 288` | `2026-10-21` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 300+ audit rules across SEO, performance, ... |
-| [codecoradev/uteke](https://github.com/codecoradev/uteke) | `★ 273` | `2026-10-21` | Local AI | `Rust` | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and... |
-| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 236` | `2026-10-21` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
-| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 234` | `2026-10-21` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 99` | `2026-10-21` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [bex-co/beancount-io](https://github.com/bex-co/beancount-io) | `★ 309` | `2026-10-21` | Experimental Agent | `TypeScript` | 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents... |
+| [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | `★ 305` | `2026-10-21` | Local AI | `Kotlin` | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension... |
+| [wadeKeith/Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) | `★ 253` | `2026-10-21` | Embodied AI | `Python` | Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot... |
+| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 224` | `2026-10-21` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
+| [Glade-tool/glade-mcp](https://github.com/Glade-tool/glade-mcp) | `★ 214` | `2026-10-21` | Indie Tool | `C#` | Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godo... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-21` | AI Research | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](src/content/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable.md) | Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonom... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26887) |
+| `2026-10-21` | AI Research | [Large language model and reinforcement learning based autonomous construction and progress updates](src/content/news/2026-10-21-large-language-model-and-reinforcement-learning.md) | Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-large-language-model-and-reinforcement-learning/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26899) |
 | `2026-10-20` | Robotics & Hardware | [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](src/content/news/2026-10-20-spain-based-startups-advance-regional-innovation-with.md) | The Barcelona | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-20-spain-based-startups-advance-regional-innovation-with/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center) |
 | `2026-10-19` | AI Research | [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](src/content/news/2026-10-19-structured-authority-injection-persistent-human-control.md) | Structured Authority | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-structured-authority-injection-persistent-human-control/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22373) |
 | `2026-10-19` | AI Research | [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](src/content/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states.md) | Existing large | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22400) |
@@ -231,7 +233,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-21 01:02 UTC` | **Yayımlanan haber:** `182`
+> **Dizin oluşturma:** `2026-10-21 06:05 UTC` | **Yayımlanan haber:** `184`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -241,6 +243,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-21` | AI Research | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](src/content/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable.md) | Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonom... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26887) |
+| `2026-10-21` | AI Research | [Large language model and reinforcement learning based autonomous construction and progress updates](src/content/news/2026-10-21-large-language-model-and-reinforcement-learning.md) | Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-large-language-model-and-reinforcement-learning/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26899) |
 | `2026-10-20` | Robotics & Hardware | [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](src/content/news/2026-10-20-spain-based-startups-advance-regional-innovation-with.md) | The Barcelona | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-20-spain-based-startups-advance-regional-innovation-with/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center) |
 | `2026-10-19` | AI Research | [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](src/content/news/2026-10-19-structured-authority-injection-persistent-human-control.md) | Structured Authority | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-structured-authority-injection-persistent-human-control/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22373) |
 | `2026-10-19` | AI Research | [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](src/content/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states.md) | Existing large | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-19-rethinking-user-encoders-routing-diffusion-states/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.22400) |

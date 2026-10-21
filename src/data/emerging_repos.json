@@ -1,42 +1,72 @@
 [
   {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 288,
-    "forks": 29,
-    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 309,
+    "forks": 38,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android",
+    "stars": 305,
+    "forks": 20,
+    "description": "Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included | 手机本地运行 DeepSeek Agent，免 Root 免 Termu...",
+    "language": "Kotlin",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "wadeKeith/Awesome-Embodied-AI",
+    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
+    "stars": 253,
+    "forks": 21,
+    "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "jmagly/aiwg",
+    "url": "https://github.com/jmagly/aiwg",
+    "stars": 224,
+    "forks": 34,
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
     "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "codecoradev/uteke",
-    "url": "https://github.com/codecoradev/uteke",
-    "stars": 273,
-    "forks": 31,
-    "description": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust ...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 236,
-    "forks": 32,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "name": "Glade-tool/glade-mcp",
+    "url": "https://github.com/Glade-tool/glade-mcp",
+    "stars": 214,
+    "forks": 22,
+    "description": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 275+ granular tools, an editor aware system prompt, ...",
     "language": "C#",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-21"
   },
   {
-    "name": "btsouth/toolport",
-    "url": "https://github.com/btsouth/toolport",
-    "stars": 234,
-    "forks": 60,
-    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
-    "language": "Rust",
-    "tag": "Indie Tool",
+    "name": "ethanhq/cc-fleet",
+    "url": "https://github.com/ethanhq/cc-fleet",
+    "stars": 182,
+    "forks": 33,
+    "description": "🚢 Run Claude Code's ⚙️ Dynamic Workflows, 👥 Agent Teams & ⚡ Subagents on any third-party model — DeepSeek · GLM · Kimi · Qwen … or your Code...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-21"
+  },
+  {
+    "name": "looptroop-ai/LoopTroop",
+    "url": "https://github.com/looptroop-ai/LoopTroop",
+    "stars": 164,
+    "forks": 14,
+    "description": "Local AI coding orchestration for repo-scale work: LLM-council planning, Ralph-loop recovery, isolated OpenCode worktrees, and human-gated P...",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-21"
   },
   {
@@ -47,36 +77,6 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure",
-    "stars": 55,
-    "forks": 8,
-    "description": "RikkaHub Agent · Pure — an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-device agent: usage ledge...",
-    "language": "Kotlin",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "ali-ulu/huqan",
-    "url": "https://github.com/ali-ulu/huqan",
-    "stars": 34,
-    "forks": 2,
-    "description": "Local-first verification layer for AI agents: evidence, provenance, policy gates, human approval, and auditable Trust Receipts before a clai...",
-    "language": "JavaScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "deftai/directive",
-    "url": "https://github.com/deftai/directive",
-    "stars": 31,
-    "forks": 14,
-    "description": "Best practices and guidelines for AI agents in software development",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-10-21"
   }
 ]
