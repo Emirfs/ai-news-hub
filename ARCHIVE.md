@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-22 00:01 UTC` | **Source-linked stories:** `192`
+> **Index generated:** `2026-10-22 04:57 UTC` | **Source-linked stories:** `194`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 357.6k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 285.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 257.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 255.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 219.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 359.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 285.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 257.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.0k` | Autonomous Agents | `Python` | The agent that grows with you |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +31,13 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [bex-co/beancount-io](https://github.com/bex-co/beancount-io) | `★ 310` | `2026-10-22` | Experimental Agent | `TypeScript` | 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents... |
-| [movieclaw/MovieClaw](https://github.com/movieclaw/MovieClaw) | `★ 178` | `2026-10-22` | Experimental Agent | `Python` | Next-gen AI media server. One container replaces Sonarr, Radarr, Prowlarr, Bazarr, Je... |
-| [antropos17/Aegis](https://github.com/antropos17/Aegis) | `★ 157` | `2026-10-22` | Local AI | `JavaScript` | Windows-first desktop oversight for AI agents: live monitoring, local security review... |
-| [this-rs/project-orchestrator](https://github.com/this-rs/project-orchestrator) | `★ 140` | `2026-10-22` | Experimental Agent | `Rust` | A Rust-based AI agent orchestrator with Neo4j knowledge graph, Meilisearch semantic s... |
-| [0xWelt/Awesome-Vibe-Coding](https://github.com/0xWelt/Awesome-Vibe-Coding) | `★ 116` | `2026-10-22` | Indie Tool | `Python` | A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-22` | AI Research | [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](src/content/news/2026-10-22-medpao-assist-edge-deployable-modality-aware-agentic-ai-for.md) | MedPAO-Assist | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-medpao-assist-edge-deployable-modality-aware-agentic-ai-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26913) |
+| `2026-10-22` | AI Research | [Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing](src/content/news/2026-10-22-industrial-agentic-ai-llm-driven-new-generation-agents.md) | This article provides a | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-industrial-agentic-ai-llm-driven-new-generation-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26941) |
 | `2026-10-21` | AI Research | [Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models](src/content/news/2026-10-22-pareto-optimal-rtl-code-generation-via-multi-objective.md) | Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to gene... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-pareto-optimal-rtl-code-generation-via-multi-objective/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26904) |
 | `2026-10-21` | AI Research | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](src/content/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable.md) | Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonom... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26887) |
 | `2026-10-21` | Robotics & Hardware | [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](src/content/news/2026-10-21-nvidia-cudss-now-generally-available-to.md) | NVIDIA cu | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-21-nvidia-cudss-now-generally-available-to/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation) |
@@ -241,7 +237,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-22 00:01 UTC` | **Yayımlanan haber:** `192`
+> **Dizin oluşturma:** `2026-10-22 04:57 UTC` | **Yayımlanan haber:** `194`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -251,6 +247,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-22` | AI Research | [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](src/content/news/2026-10-22-medpao-assist-edge-deployable-modality-aware-agentic-ai-for.md) | MedPAO-Assist | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-medpao-assist-edge-deployable-modality-aware-agentic-ai-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26913) |
+| `2026-10-22` | AI Research | [Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing](src/content/news/2026-10-22-industrial-agentic-ai-llm-driven-new-generation-agents.md) | This article provides a | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-industrial-agentic-ai-llm-driven-new-generation-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26941) |
 | `2026-10-21` | AI Research | [Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models](src/content/news/2026-10-22-pareto-optimal-rtl-code-generation-via-multi-objective.md) | Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to gene... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-pareto-optimal-rtl-code-generation-via-multi-objective/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26904) |
 | `2026-10-21` | AI Research | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](src/content/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable.md) | Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonom... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-navalia-advancing-cowork-agents-through-verifiable/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26887) |
 | `2026-10-21` | Robotics & Hardware | [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](src/content/news/2026-10-21-nvidia-cudss-now-generally-available-to.md) | NVIDIA cu | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-21-nvidia-cudss-now-generally-available-to/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation) |
