@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "TheSyart/emperor-agent",
+    "url": "https://github.com/TheSyart/emperor-agent",
+    "stars": 203,
+    "forks": 47,
+    "description": "Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, tools, skills, memory, and token telemetry.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 102,
+    "forks": 43,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "thedavidweng/OpenKara",
+    "url": "https://github.com/thedavidweng/OpenKara",
+    "stars": 35,
+    "forks": 2,
+    "description": "A desktop karaoke app that transforms your local music library into sing-along tracks using on-device AI stem separation and online synced l...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "gumieri/nenya",
+    "url": "https://github.com/gumieri/nenya",
+    "stars": 35,
+    "forks": 0,
+    "description": "A lightweight, highly secure AI API Gateway/Proxy written in Go. Acts as transparent middleware between local AI coding clients (OpenCode/Pi...",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "cubxxw/blog",
+    "url": "https://github.com/cubxxw/blog",
+    "stars": 30,
+    "forks": 2,
+    "description": "顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "mrsladoje/sweet-search",
+    "url": "https://github.com/mrsladoje/sweet-search",
+    "stars": 30,
+    "forks": 1,
+    "description": "Local code search for AI agents: cheaper, faster and sweeter. Because maybe grep isn't all you need... 🍬",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "Renkunzhao/legged-daily",
+    "url": "https://github.com/Renkunzhao/legged-daily",
+    "stars": 29,
+    "forks": 0,
+    "description": "A research-oriented collection of code, papers, and resources for legged robotics and model- and learning-based control.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "lucasnevespereira/nevinho",
+    "url": "https://github.com/lucasnevespereira/nevinho",
+    "stars": 26,
+    "forks": 5,
+    "description": "Personal agent harness",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-22"
+  }
+]

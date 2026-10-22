@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-22 19:32 UTC` | **Source-linked stories:** `200`
+> **Index generated:** `2026-10-22 22:47 UTC` | **Source-linked stories:** `202`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 365.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 286.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 365.9k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 286.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 258.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 194.2k` | Foundation Models | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,15 +32,22 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [TheSyart/emperor-agent](https://github.com/TheSyart/emperor-agent) | `★ 203` | `2026-10-22` | Indie Tool | `TypeScript` | Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, too... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 102` | `2026-10-22` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [thedavidweng/OpenKara](https://github.com/thedavidweng/OpenKara) | `★ 35` | `2026-10-22` | Local AI | `Rust` | A desktop karaoke app that transforms your local music library into sing-along tracks... |
+| [gumieri/nenya](https://github.com/gumieri/nenya) | `★ 35` | `2026-10-22` | Local AI | `Go` | A lightweight, highly secure AI API Gateway/Proxy written in Go. Acts as transparent ... |
+| [cubxxw/blog](https://github.com/cubxxw/blog) | `★ 30` | `2026-10-22` | Experimental Agent | `JavaScript` | 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-22` | AI Research | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](src/content/news/2026-10-22-when-planning-problems-become-hard-for.md) | Large language | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-when-planning-problems-become-hard-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26964) |
 | `2026-10-22` | Robotics & Hardware | [NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories](src/content/news/2026-10-22-nvidia-unveils-minerva-to-bring-end-to-end.md) | NVIDIA Minerva | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-nvidia-unveils-minerva-to-bring-end-to-end/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/minerva-platform-infrastructure) |
 | `2026-10-22` | Robotics & Hardware | [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](src/content/news/2026-10-22-nvidia-cosmos-opens-new-tools-to.md) | NVIDIA | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-nvidia-cosmos-opens-new-tools-to/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models) |
 | `2026-10-22` | AI Research | [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](src/content/news/2026-10-22-medpao-assist-edge-deployable-modality-aware-agentic-ai-for.md) | MedPAO-Assist | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-medpao-assist-edge-deployable-modality-aware-agentic-ai-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26913) |
 | `2026-10-22` | AI Research | [MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning](src/content/news/2026-10-22-mamath-bench-process-aware-and-robust-evaluation-of.md) | MAMath- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-mamath-bench-process-aware-and-robust-evaluation-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26943) |
+| `2026-10-22` | AI Research | [LightCRS: Lightweight Multi-Domain Conversational Recommendation System](src/content/news/2026-10-22-lightcrs-lightweight-multi-domain-conversational-recommendation-system.md) | Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-lightcrs-lightweight-multi-domain-conversational-recommendation-system/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26948) |
 | `2026-10-22` | Robotics & Hardware | [Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence](src/content/news/2026-10-22-leading-european-financial-services-organizations-embrace.md) | At GTC Berlin, | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-leading-european-financial-services-organizations-embrace/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence) |
 | `2026-10-22` | AI Research | [Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing](src/content/news/2026-10-22-industrial-agentic-ai-llm-driven-new-generation-agents.md) | This article provides a | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-industrial-agentic-ai-llm-driven-new-generation-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26941) |
 | `2026-10-22` | Robotics & Hardware | [How Companies Are Using NVIDIA DSX to Break the Power Bottleneck](src/content/news/2026-10-22-how-companies-are-using-nvidia-dsx.md) | Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid an... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-how-companies-are-using-nvidia-dsx/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/dsx-power) |
@@ -244,7 +251,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-22 19:32 UTC` | **Yayımlanan haber:** `200`
+> **Dizin oluşturma:** `2026-10-22 22:47 UTC` | **Yayımlanan haber:** `202`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -254,10 +261,12 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-22` | AI Research | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](src/content/news/2026-10-22-when-planning-problems-become-hard-for.md) | Large language | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-when-planning-problems-become-hard-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26964) |
 | `2026-10-22` | Robotics & Hardware | [NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories](src/content/news/2026-10-22-nvidia-unveils-minerva-to-bring-end-to-end.md) | NVIDIA Minerva | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-nvidia-unveils-minerva-to-bring-end-to-end/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/minerva-platform-infrastructure) |
 | `2026-10-22` | Robotics & Hardware | [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](src/content/news/2026-10-22-nvidia-cosmos-opens-new-tools-to.md) | NVIDIA | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-nvidia-cosmos-opens-new-tools-to/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models) |
 | `2026-10-22` | AI Research | [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](src/content/news/2026-10-22-medpao-assist-edge-deployable-modality-aware-agentic-ai-for.md) | MedPAO-Assist | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-medpao-assist-edge-deployable-modality-aware-agentic-ai-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26913) |
 | `2026-10-22` | AI Research | [MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning](src/content/news/2026-10-22-mamath-bench-process-aware-and-robust-evaluation-of.md) | MAMath- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-mamath-bench-process-aware-and-robust-evaluation-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26943) |
+| `2026-10-22` | AI Research | [LightCRS: Lightweight Multi-Domain Conversational Recommendation System](src/content/news/2026-10-22-lightcrs-lightweight-multi-domain-conversational-recommendation-system.md) | Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-lightcrs-lightweight-multi-domain-conversational-recommendation-system/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26948) |
 | `2026-10-22` | Robotics & Hardware | [Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence](src/content/news/2026-10-22-leading-european-financial-services-organizations-embrace.md) | At GTC Berlin, | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-leading-european-financial-services-organizations-embrace/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence) |
 | `2026-10-22` | AI Research | [Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing](src/content/news/2026-10-22-industrial-agentic-ai-llm-driven-new-generation-agents.md) | This article provides a | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-industrial-agentic-ai-llm-driven-new-generation-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26941) |
 | `2026-10-22` | Robotics & Hardware | [How Companies Are Using NVIDIA DSX to Break the Power Bottleneck](src/content/news/2026-10-22-how-companies-are-using-nvidia-dsx.md) | Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid an... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-how-companies-are-using-nvidia-dsx/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/dsx-power) |
