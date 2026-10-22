@@ -1,82 +1,82 @@
 [
   {
-    "name": "decocms/studio",
-    "url": "https://github.com/decocms/studio",
-    "stars": 412,
-    "forks": 56,
-    "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 310,
+    "forks": 39,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-21"
+    "pushed_at": "2026-10-22"
   },
   {
-    "name": "cortexkit/aft",
-    "url": "https://github.com/cortexkit/aft",
-    "stars": 330,
-    "forks": 40,
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
+    "name": "movieclaw/MovieClaw",
+    "url": "https://github.com/movieclaw/MovieClaw",
+    "stars": 178,
+    "forks": 41,
+    "description": "Next-gen AI media server. One container replaces Sonarr, Radarr, Prowlarr, Bazarr, Jellyseerr and Jellyfin, with a web app, a native iPhone ...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "antropos17/Aegis",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 157,
+    "forks": 24,
+    "description": "Windows-first desktop oversight for AI agents: live monitoring, local security reviews, token usage, audit reports and opt-in action policie...",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "this-rs/project-orchestrator",
+    "url": "https://github.com/this-rs/project-orchestrator",
+    "stars": 140,
+    "forks": 20,
+    "description": "A Rust-based AI agent orchestrator with Neo4j knowledge graph, Meilisearch semantic search, and Tree-sitter code parsing.",
     "language": "Rust",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-21"
+    "pushed_at": "2026-10-22"
   },
   {
-    "name": "DobermanCore/Doberman-Core",
-    "url": "https://github.com/DobermanCore/Doberman-Core",
-    "stars": 282,
-    "forks": 44,
-    "description": "Your AI's guard dog. Doberman sits at runtime, gating every input, output and tool call to stop unsafe or unintended actions before they exe...",
+    "name": "0xWelt/Awesome-Vibe-Coding",
+    "url": "https://github.com/0xWelt/Awesome-Vibe-Coding",
+    "stars": 116,
+    "forks": 98,
+    "description": "A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources",
     "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
+    "pushed_at": "2026-10-22"
   },
   {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 236,
-    "forks": 33,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 167,
-    "forks": 24,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 101,
-    "forks": 43,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "Oaklight/ToolRegistry",
-    "url": "https://github.com/Oaklight/ToolRegistry",
-    "stars": 66,
-    "forks": 10,
-    "description": "ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, LangChain, MCP)",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-21"
-  },
-  {
-    "name": "EastStarAI/sanad-agent",
-    "url": "https://github.com/EastStarAI/sanad-agent",
-    "stars": 47,
-    "forks": 8,
-    "description": "Open-source AI agent and cross-platform client for local and remote development workflows.",
-    "language": "Dart",
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 81,
+    "forks": 7,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
     "tag": "Local AI",
-    "pushed_at": "2026-10-21"
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "linny006/awesome-agent-skills",
+    "url": "https://github.com/linny006/awesome-agent-skills",
+    "stars": 42,
+    "forks": 4,
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-22"
+  },
+  {
+    "name": "mbordash/DRADIS",
+    "url": "https://github.com/mbordash/DRADIS",
+    "stars": 30,
+    "forks": 14,
+    "description": "Low-latency Rust prediction-market trading bot for Kalshi & Polymarket (crypto, sports, politics). 12 autonomous strategies (Momentum, Maker...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-22"
   }
 ]
