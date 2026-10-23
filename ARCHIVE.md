@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-23 01:02 UTC` | **Source-linked stories:** `204`
+> **Index generated:** `2026-10-23 06:04 UTC` | **Source-linked stories:** `206`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 366.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 286.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 258.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 367.9k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 286.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 258.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 205` | `2026-10-23` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
-| [Hkshoonya/nvidia-broadcast-linux](https://github.com/Hkshoonya/nvidia-broadcast-linux) | `★ 198` | `2026-10-23` | Local AI | `Python` | Open-source AI camera and microphone effects for Linux and macOS: background effects,... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 184` | `2026-10-23` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 102` | `2026-10-23` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [Dicklesworthstone/frankensonos](https://github.com/Dicklesworthstone/frankensonos) | `★ 96` | `2026-10-23` | Experimental Agent | `Rust` | Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SS... |
+| [PrismorSec/prismor](https://github.com/PrismorSec/prismor) | `★ 424` | `2026-10-23` | Local AI | `Python` |  Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block ro... |
+| [JiangNanGenius/floe-agent](https://github.com/JiangNanGenius/floe-agent) | `★ 301` | `2026-10-23` | Indie Tool | `Swift` | Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux e... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 300` | `2026-10-23` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [hwdsl2/self-hosted-ai-stack](https://github.com/hwdsl2/self-hosted-ai-stack) | `★ 169` | `2026-10-23` | Indie Tool | `Shell` | Deploy a self-hosted AI stack with Docker Compose: local LLMs, chat, document parsing... |
+| [hjxwz123/Aivory](https://github.com/hjxwz123/Aivory) | `★ 115` | `2026-10-23` | Indie Tool | `Go` | Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, R... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-23` | AI Research | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](src/content/news/2026-10-23-specevo-speculative-evolution-with-large-language.md) | LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-specevo-speculative-evolution-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28706) |
+| `2026-10-23` | AI Research | [Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds](src/content/news/2026-10-23-scaling-in-games-continued-pre-training-for.md) | Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse e... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-scaling-in-games-continued-pre-training-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28698) |
 | `2026-10-22` | AI Research | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](src/content/news/2026-10-22-when-planning-problems-become-hard-for.md) | Large language | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-when-planning-problems-become-hard-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26964) |
 | `2026-10-22` | AI Research | [SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents](src/content/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient.md) | LLM-based agents increasingly rely on reusable skills. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26995) |
 | `2026-10-22` | Robotics & Hardware | [NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories](src/content/news/2026-10-22-nvidia-unveils-minerva-to-bring-end-to-end.md) | NVIDIA Minerva | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-nvidia-unveils-minerva-to-bring-end-to-end/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/minerva-platform-infrastructure) |
@@ -253,7 +255,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-23 01:02 UTC` | **Yayımlanan haber:** `204`
+> **Dizin oluşturma:** `2026-10-23 06:04 UTC` | **Yayımlanan haber:** `206`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -263,6 +265,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-23` | AI Research | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](src/content/news/2026-10-23-specevo-speculative-evolution-with-large-language.md) | LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-specevo-speculative-evolution-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28706) |
+| `2026-10-23` | AI Research | [Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds](src/content/news/2026-10-23-scaling-in-games-continued-pre-training-for.md) | Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse e... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-scaling-in-games-continued-pre-training-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28698) |
 | `2026-10-22` | AI Research | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](src/content/news/2026-10-22-when-planning-problems-become-hard-for.md) | Large language | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-when-planning-problems-become-hard-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26964) |
 | `2026-10-22` | AI Research | [SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents](src/content/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient.md) | LLM-based agents increasingly rely on reusable skills. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26995) |
 | `2026-10-22` | Robotics & Hardware | [NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories](src/content/news/2026-10-22-nvidia-unveils-minerva-to-bring-end-to-end.md) | NVIDIA Minerva | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-nvidia-unveils-minerva-to-bring-end-to-end/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/minerva-platform-infrastructure) |
