@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-23 11:46 UTC` | **Source-linked stories:** `208`
+> **Index generated:** `2026-10-23 15:56 UTC` | **Source-linked stories:** `210`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 370.0k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 286.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 258.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 371.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 287.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 259.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 308` | `2026-10-23` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
+| [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) | `★ 429` | `2026-10-23` | Experimental Agent | `TypeScript` | CAIPE is an open-source AI platform for building, governing, and operating AI agents ... |
+| [PrismorSec/prismor](https://github.com/PrismorSec/prismor) | `★ 424` | `2026-10-23` | Local AI | `Python` |  Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block ro... |
+| [synergycodes/workflowbuilder](https://github.com/synergycodes/workflowbuilder) | `★ 412` | `2026-10-23` | Experimental Agent | `TypeScript` | Workflow orchestration framework for your product, open source: a white-label React w... |
 | [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 305` | `2026-10-23` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [AlysisAi/AlysisCode](https://github.com/AlysisAi/AlysisCode) | `★ 182` | `2026-10-23` | Experimental Agent | `Python` | Everyone's coding agent |
-| [alexgreensh/outsourcerer](https://github.com/alexgreensh/outsourcerer) | `★ 181` | `2026-10-23` | Local AI | `Shell` | Make your AI coding tools work as one team. Orchestrate jobs across Claude, Codex, Cu... |
-| [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | `★ 123` | `2026-10-23` | Experimental Agent | `Kotlin` | Helping the Agents Compose the Things |
+| [aivrar/portable-hermes-agent](https://github.com/aivrar/portable-hermes-agent) | `★ 238` | `2026-10-23` | Indie Tool | `Python` | Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-23` | AI Research | [To Manipulate or Not: Opinion Dynamics in LLM Interactions](src/content/news/2026-10-23-to-manipulate-or-not-opinion-dynamics.md) | Large language models increasingly take part in extended conversations where they can both shape and be shaped by a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-to-manipulate-or-not-opinion-dynamics/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28875) |
+| `2026-10-23` | AI Research | [Speedrunning Relational Foundation Model Pretraining](src/content/news/2026-10-23-speedrunning-relational-foundation-model-pretraining.md) | modded-nano | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-speedrunning-relational-foundation-model-pretraining/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28855) |
 | `2026-10-23` | AI Research | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](src/content/news/2026-10-23-specevo-speculative-evolution-with-large-language.md) | LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-specevo-speculative-evolution-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28706) |
 | `2026-10-23` | AI Research | [Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds](src/content/news/2026-10-23-scaling-in-games-continued-pre-training-for.md) | Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse e... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-scaling-in-games-continued-pre-training-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28698) |
 | `2026-10-23` | AI Research | [Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing](src/content/news/2026-10-23-forging-more-tasks-into-better-harnesses.md) | Agentic harness evolution | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-forging-more-tasks-into-better-harnesses/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28815) |
@@ -257,7 +259,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-23 11:46 UTC` | **Yayımlanan haber:** `208`
+> **Dizin oluşturma:** `2026-10-23 15:56 UTC` | **Yayımlanan haber:** `210`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -267,6 +269,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-23` | AI Research | [To Manipulate or Not: Opinion Dynamics in LLM Interactions](src/content/news/2026-10-23-to-manipulate-or-not-opinion-dynamics.md) | Large language models increasingly take part in extended conversations where they can both shape and be shaped by a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-to-manipulate-or-not-opinion-dynamics/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28875) |
+| `2026-10-23` | AI Research | [Speedrunning Relational Foundation Model Pretraining](src/content/news/2026-10-23-speedrunning-relational-foundation-model-pretraining.md) | modded-nano | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-speedrunning-relational-foundation-model-pretraining/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28855) |
 | `2026-10-23` | AI Research | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](src/content/news/2026-10-23-specevo-speculative-evolution-with-large-language.md) | LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-specevo-speculative-evolution-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28706) |
 | `2026-10-23` | AI Research | [Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds](src/content/news/2026-10-23-scaling-in-games-continued-pre-training-for.md) | Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse e... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-scaling-in-games-continued-pre-training-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28698) |
 | `2026-10-23` | AI Research | [Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing](src/content/news/2026-10-23-forging-more-tasks-into-better-harnesses.md) | Agentic harness evolution | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-forging-more-tasks-into-better-harnesses/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28815) |

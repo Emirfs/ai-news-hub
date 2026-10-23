@@ -1,12 +1,32 @@
 [
   {
-    "name": "abacusai/abacusai-bot",
-    "url": "https://github.com/abacusai/abacusai-bot",
-    "stars": 308,
-    "forks": 43,
-    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
+    "name": "caipe-io/ai-platform-engineering",
+    "url": "https://github.com/caipe-io/ai-platform-engineering",
+    "stars": 429,
+    "forks": 91,
+    "description": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyo...",
     "language": "TypeScript",
-    "tag": "Indie Tool",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "PrismorSec/prismor",
+    "url": "https://github.com/PrismorSec/prismor",
+    "stars": 424,
+    "forks": 58,
+    "description": " Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "synergycodes/workflowbuilder",
+    "url": "https://github.com/synergycodes/workflowbuilder",
+    "stars": 412,
+    "forks": 75,
+    "description": "Workflow orchestration framework for your product, open source: a white-label React workflow builder, durable execution on your own Temporal...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-23"
   },
   {
@@ -20,63 +40,43 @@
     "pushed_at": "2026-10-23"
   },
   {
-    "name": "AlysisAi/AlysisCode",
-    "url": "https://github.com/AlysisAi/AlysisCode",
-    "stars": 182,
-    "forks": 23,
-    "description": "Everyone's coding agent",
+    "name": "aivrar/portable-hermes-agent",
+    "url": "https://github.com/aivrar/portable-hermes-agent",
+    "stars": 238,
+    "forks": 48,
+    "description": "Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM Studio, TTS, Music, ComfyUI, workflows, tool maker. No ...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "Yanyutin753/LambChat",
+    "url": "https://github.com/Yanyutin753/LambChat",
+    "stars": 222,
+    "forks": 47,
+    "description": "LambChat — Enterprise Agent Infra for governed AI agents. Skills + MCP powered, Loop Agent ready, multi-tenant by design.",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-23"
   },
   {
-    "name": "alexgreensh/outsourcerer",
-    "url": "https://github.com/alexgreensh/outsourcerer",
-    "stars": 181,
-    "forks": 14,
-    "description": "Make your AI coding tools work as one team. Orchestrate jobs across Claude, Codex, Cursor, Devin, local models and more, or run a software f...",
-    "language": "Shell",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "yschimke/compose-ai-tools",
-    "url": "https://github.com/yschimke/compose-ai-tools",
-    "stars": 123,
+    "name": "jayleaton/localrouter",
+    "url": "https://github.com/jayleaton/localrouter",
+    "stars": 63,
     "forks": 5,
-    "description": "Helping the Agents Compose the Things",
-    "language": "Kotlin",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "catalystbyzoho/agent-skills",
-    "url": "https://github.com/catalystbyzoho/agent-skills",
-    "stars": 69,
-    "forks": 17,
-    "description": "AI agent skills for Catalyst by Zoho — enables Claude, Gemini, Cursor, Copilot, and Windsurf to write deployment-ready Catalyst code, recomm...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "aimasteracc/tree-sitter-analyzer",
-    "url": "https://github.com/aimasteracc/tree-sitter-analyzer",
-    "stars": 61,
-    "forks": 17,
-    "description": "Cross-language-safe code-intelligence MCP for AI agents: 13 languages, family-gated call graph, blast radius, health grading, 8 facade tools...",
-    "language": "Python",
+    "description": "Fast & opinionated local AI routing: one MCP server that loads local image and video models on demand on your own GPU box (DGX Spark first)",
+    "language": "Zig",
     "tag": "Local AI",
     "pushed_at": "2026-10-23"
   },
   {
-    "name": "hanjianhua44/Awesome-VLA-Papers",
-    "url": "https://github.com/hanjianhua44/Awesome-VLA-Papers",
-    "stars": 32,
-    "forks": 4,
-    "description": "A curated collection of papers on Vision-Language-Action (VLA) models for autonomous driving and robotics",
-    "language": "Python",
-    "tag": "Embodied AI",
+    "name": "chetto1983/Aura",
+    "url": "https://github.com/chetto1983/Aura",
+    "stars": 33,
+    "forks": 3,
+    "description": "Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, M...",
+    "language": "Go",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-23"
   }
 ]
