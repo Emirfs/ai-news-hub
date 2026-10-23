@@ -1,13 +1,33 @@
 [
   {
-    "name": "TheSyart/emperor-agent",
-    "url": "https://github.com/TheSyart/emperor-agent",
-    "stars": 203,
-    "forks": 47,
-    "description": "Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, tools, skills, memory, and token telemetry.",
-    "language": "TypeScript",
+    "name": "NVIDIA/NeMo-Relay",
+    "url": "https://github.com/NVIDIA/NeMo-Relay",
+    "stars": 205,
+    "forks": 89,
+    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
+    "language": "Rust",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-22"
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "Hkshoonya/nvidia-broadcast-linux",
+    "url": "https://github.com/Hkshoonya/nvidia-broadcast-linux",
+    "stars": 198,
+    "forks": 20,
+    "description": "Open-source AI camera and microphone effects for Linux and macOS: background effects, auto framing, noise removal, recording, and local meet...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 184,
+    "forks": 17,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-23"
   },
   {
     "name": "mstar-project/mstar",
@@ -17,66 +37,46 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-22"
+    "pushed_at": "2026-10-23"
   },
   {
-    "name": "thedavidweng/OpenKara",
-    "url": "https://github.com/thedavidweng/OpenKara",
-    "stars": 35,
-    "forks": 2,
-    "description": "A desktop karaoke app that transforms your local music library into sing-along tracks using on-device AI stem separation and online synced l...",
+    "name": "Dicklesworthstone/frankensonos",
+    "url": "https://github.com/Dicklesworthstone/frankensonos",
+    "stars": 96,
+    "forks": 6,
+    "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify...",
     "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-22"
-  },
-  {
-    "name": "gumieri/nenya",
-    "url": "https://github.com/gumieri/nenya",
-    "stars": 35,
-    "forks": 0,
-    "description": "A lightweight, highly secure AI API Gateway/Proxy written in Go. Acts as transparent middleware between local AI coding clients (OpenCode/Pi...",
-    "language": "Go",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-22"
-  },
-  {
-    "name": "cubxxw/blog",
-    "url": "https://github.com/cubxxw/blog",
-    "stars": 30,
-    "forks": 2,
-    "description": "顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文",
-    "language": "JavaScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-22"
+    "pushed_at": "2026-10-23"
   },
   {
-    "name": "mrsladoje/sweet-search",
-    "url": "https://github.com/mrsladoje/sweet-search",
-    "stars": 30,
-    "forks": 1,
-    "description": "Local code search for AI agents: cheaper, faster and sweeter. Because maybe grep isn't all you need... 🍬",
+    "name": "sageox/ox",
+    "url": "https://github.com/sageox/ox",
+    "stars": 65,
+    "forks": 23,
+    "description": "The hivemind for AI coding agents — persistent team context recorded once and recalled across agents, machines, and teammates.",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "0xBakeer/TandemLLM",
+    "url": "https://github.com/0xBakeer/TandemLLM",
+    "stars": 58,
+    "forks": 8,
+    "description": "An environment where open models work as agents: a first-level harness with routing, skills, memory and sandboxed tools, on an engine that d...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "yamibk/Relatum",
+    "url": "https://github.com/yamibk/Relatum",
+    "stars": 45,
+    "forks": 3,
+    "description": "Open-source, local-first knowledge canvas for Windows — freeform visual notes, one-click mind maps, study tools and optional AI.",
     "language": "JavaScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-22"
-  },
-  {
-    "name": "Renkunzhao/legged-daily",
-    "url": "https://github.com/Renkunzhao/legged-daily",
-    "stars": 29,
-    "forks": 0,
-    "description": "A research-oriented collection of code, papers, and resources for legged robotics and model- and learning-based control.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-22"
-  },
-  {
-    "name": "lucasnevespereira/nevinho",
-    "url": "https://github.com/lucasnevespereira/nevinho",
-    "stars": 26,
-    "forks": 5,
-    "description": "Personal agent harness",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-22"
+    "pushed_at": "2026-10-23"
   }
 ]
