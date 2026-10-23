@@ -1,82 +1,82 @@
 [
   {
-    "name": "PrismorSec/prismor",
-    "url": "https://github.com/PrismorSec/prismor",
-    "stars": 424,
-    "forks": 58,
-    "description": " Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "JiangNanGenius/floe-agent",
-    "url": "https://github.com/JiangNanGenius/floe-agent",
-    "stars": 301,
-    "forks": 42,
-    "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and sup...",
-    "language": "Swift",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 300,
-    "forks": 162,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "hwdsl2/self-hosted-ai-stack",
-    "url": "https://github.com/hwdsl2/self-hosted-ai-stack",
-    "stars": 169,
-    "forks": 34,
-    "description": "Deploy a self-hosted AI stack with Docker Compose: local LLMs, chat, document parsing, embeddings, transcription, text-to-speech and MCP too...",
-    "language": "Shell",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "hjxwz123/Aivory",
-    "url": "https://github.com/hjxwz123/Aivory",
-    "stars": 115,
-    "forks": 14,
-    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "TGYD-helige/pi",
-    "url": "https://github.com/TGYD-helige/pi",
-    "stars": 85,
-    "forks": 19,
-    "description": "Pluggable extension packages for the Pi AI-agent runtime. Each package exposes LLM-callable tools via MCP — covering IM workspace integratio...",
+    "name": "abacusai/abacusai-bot",
+    "url": "https://github.com/abacusai/abacusai-bot",
+    "stars": 308,
+    "forks": 43,
+    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
     "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-23"
   },
   {
-    "name": "christiandoxa/prodex",
-    "url": "https://github.com/christiandoxa/prodex",
-    "stars": 60,
-    "forks": 8,
-    "description": "Prodex is a multi-account, multi-provider Codex wrapper with auto-rotation, Super mode, Smart Context, and token saving for Codex CLI and Cl...",
-    "language": "Rust",
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 305,
+    "forks": 76,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "AlysisAi/AlysisCode",
+    "url": "https://github.com/AlysisAi/AlysisCode",
+    "stars": 182,
+    "forks": 23,
+    "description": "Everyone's coding agent",
+    "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-23"
   },
   {
-    "name": "rjmurillo/ai-agents",
-    "url": "https://github.com/rjmurillo/ai-agents",
-    "stars": 49,
-    "forks": 15,
-    "description": "Open source multi agent toolkit for Claude Code and GitHub Copilot CLI: 30 agents, plan to ship workflows, review and security gates, plugin...",
-    "language": "Python",
+    "name": "alexgreensh/outsourcerer",
+    "url": "https://github.com/alexgreensh/outsourcerer",
+    "stars": 181,
+    "forks": 14,
+    "description": "Make your AI coding tools work as one team. Orchestrate jobs across Claude, Codex, Cursor, Devin, local models and more, or run a software f...",
+    "language": "Shell",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "yschimke/compose-ai-tools",
+    "url": "https://github.com/yschimke/compose-ai-tools",
+    "stars": 123,
+    "forks": 5,
+    "description": "Helping the Agents Compose the Things",
+    "language": "Kotlin",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "catalystbyzoho/agent-skills",
+    "url": "https://github.com/catalystbyzoho/agent-skills",
+    "stars": 69,
+    "forks": 17,
+    "description": "AI agent skills for Catalyst by Zoho — enables Claude, Gemini, Cursor, Copilot, and Windsurf to write deployment-ready Catalyst code, recomm...",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "aimasteracc/tree-sitter-analyzer",
+    "url": "https://github.com/aimasteracc/tree-sitter-analyzer",
+    "stars": 61,
+    "forks": 17,
+    "description": "Cross-language-safe code-intelligence MCP for AI agents: 13 languages, family-gated call graph, blast radius, health grading, 8 facade tools...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-23"
+  },
+  {
+    "name": "hanjianhua44/Awesome-VLA-Papers",
+    "url": "https://github.com/hanjianhua44/Awesome-VLA-Papers",
+    "stars": 32,
+    "forks": 4,
+    "description": "A curated collection of papers on Vision-Language-Action (VLA) models for autonomous driving and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-23"
   }
 ]
