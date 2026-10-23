@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-23 15:56 UTC` | **Source-linked stories:** `210`
+> **Index generated:** `2026-10-23 19:58 UTC` | **Source-linked stories:** `212`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 371.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 287.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 259.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 372.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 287.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 259.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.5k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [caipe-io/ai-platform-engineering](https://github.com/caipe-io/ai-platform-engineering) | `★ 429` | `2026-10-23` | Experimental Agent | `TypeScript` | CAIPE is an open-source AI platform for building, governing, and operating AI agents ... |
-| [PrismorSec/prismor](https://github.com/PrismorSec/prismor) | `★ 424` | `2026-10-23` | Local AI | `Python` |  Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block ro... |
-| [synergycodes/workflowbuilder](https://github.com/synergycodes/workflowbuilder) | `★ 412` | `2026-10-23` | Experimental Agent | `TypeScript` | Workflow orchestration framework for your product, open source: a white-label React w... |
+| [agentclientprotocol/registry](https://github.com/agentclientprotocol/registry) | `★ 431` | `2026-10-23` | Experimental Agent | `Python` | Registry of agents implementing the Agent Client Protocol (ACP) |
+| [receptron/mulmoclaude](https://github.com/receptron/mulmoclaude) | `★ 383` | `2026-10-23` | Local AI | `TypeScript` | Nurture your own AI assistant on your own computer. Local-first and MIT: memories, da... |
+| [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | `★ 338` | `2026-10-23` | Experimental Agent | `TypeScript` | The open standard for agent coordination |
 | [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 305` | `2026-10-23` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [aivrar/portable-hermes-agent](https://github.com/aivrar/portable-hermes-agent) | `★ 238` | `2026-10-23` | Indie Tool | `Python` | Hermes Agent made portable desktop for Windows — 100 tools, GUI, local models via LM ... |
+| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 206` | `2026-10-23` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -46,7 +46,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-23` | AI Research | [Speedrunning Relational Foundation Model Pretraining](src/content/news/2026-10-23-speedrunning-relational-foundation-model-pretraining.md) | modded-nano | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-speedrunning-relational-foundation-model-pretraining/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28855) |
 | `2026-10-23` | AI Research | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](src/content/news/2026-10-23-specevo-speculative-evolution-with-large-language.md) | LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-specevo-speculative-evolution-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28706) |
 | `2026-10-23` | AI Research | [Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds](src/content/news/2026-10-23-scaling-in-games-continued-pre-training-for.md) | Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse e... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-scaling-in-games-continued-pre-training-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28698) |
+| `2026-10-23` | AI Research | [Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication](src/content/news/2026-10-23-hidden-messages-between-diffusion-language-model.md) | Diffusion language models form answers through a sequence of revisable continuous states, but multi-agent systems u... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-hidden-messages-between-diffusion-language-model/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28905) |
 | `2026-10-23` | AI Research | [Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing](src/content/news/2026-10-23-forging-more-tasks-into-better-harnesses.md) | Agentic harness evolution | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-forging-more-tasks-into-better-harnesses/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28815) |
+| `2026-10-23` | AI Research | [Fig: Automated Multiagent Behavior Elicitor](src/content/news/2026-10-23-fig-automated-multiagent-behavior-elicitor.md) | Fig (Finding | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-fig-automated-multiagent-behavior-elicitor/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28891) |
 | `2026-10-23` | AI Research | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](src/content/news/2026-10-23-automating-ml-for-science-can-frontier.md) | Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a dem... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-automating-ml-for-science-can-frontier/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28763) |
 | `2026-10-22` | AI Research | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](src/content/news/2026-10-22-when-planning-problems-become-hard-for.md) | Large language | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-when-planning-problems-become-hard-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26964) |
 | `2026-10-22` | AI Research | [SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents](src/content/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient.md) | LLM-based agents increasingly rely on reusable skills. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26995) |
@@ -259,7 +261,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-23 15:56 UTC` | **Yayımlanan haber:** `210`
+> **Dizin oluşturma:** `2026-10-23 19:58 UTC` | **Yayımlanan haber:** `212`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -273,7 +275,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-23` | AI Research | [Speedrunning Relational Foundation Model Pretraining](src/content/news/2026-10-23-speedrunning-relational-foundation-model-pretraining.md) | modded-nano | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-speedrunning-relational-foundation-model-pretraining/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28855) |
 | `2026-10-23` | AI Research | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](src/content/news/2026-10-23-specevo-speculative-evolution-with-large-language.md) | LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-specevo-speculative-evolution-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28706) |
 | `2026-10-23` | AI Research | [Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds](src/content/news/2026-10-23-scaling-in-games-continued-pre-training-for.md) | Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse e... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-scaling-in-games-continued-pre-training-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28698) |
+| `2026-10-23` | AI Research | [Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication](src/content/news/2026-10-23-hidden-messages-between-diffusion-language-model.md) | Diffusion language models form answers through a sequence of revisable continuous states, but multi-agent systems u... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-hidden-messages-between-diffusion-language-model/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28905) |
 | `2026-10-23` | AI Research | [Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing](src/content/news/2026-10-23-forging-more-tasks-into-better-harnesses.md) | Agentic harness evolution | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-forging-more-tasks-into-better-harnesses/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28815) |
+| `2026-10-23` | AI Research | [Fig: Automated Multiagent Behavior Elicitor](src/content/news/2026-10-23-fig-automated-multiagent-behavior-elicitor.md) | Fig (Finding | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-fig-automated-multiagent-behavior-elicitor/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28891) |
 | `2026-10-23` | AI Research | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](src/content/news/2026-10-23-automating-ml-for-science-can-frontier.md) | Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a dem... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-automating-ml-for-science-can-frontier/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28763) |
 | `2026-10-22` | AI Research | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](src/content/news/2026-10-22-when-planning-problems-become-hard-for.md) | Large language | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-when-planning-problems-become-hard-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26964) |
 | `2026-10-22` | AI Research | [SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents](src/content/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient.md) | LLM-based agents increasingly rely on reusable skills. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26995) |
