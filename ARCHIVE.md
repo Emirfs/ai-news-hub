@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-24 18:12 UTC` | **Source-linked stories:** `217`
+> **Index generated:** `2026-10-24 20:55 UTC` | **Source-linked stories:** `217`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 377.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 287.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 378.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 288.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 260.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.8k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 221.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 355` | `2026-10-24` | Indie Tool | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
-| [bennyjo/phil](https://github.com/bennyjo/phil) | `★ 236` | `2026-10-24` | Experimental Agent | `Python` | Phil is a self-improving trader: an AI agent that trades short-term prediction market... |
-| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 225` | `2026-10-24` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
-| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 176` | `2026-10-24` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 126` | `2026-10-24` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
+| [nirholas/three.ws](https://github.com/nirholas/three.ws) | `★ 249` | `2026-10-24` | Experimental Agent | `JavaScript` | Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated G... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 239` | `2026-10-24` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 234` | `2026-10-24` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
+| [HoldMyBeer-gg/blenderwright](https://github.com/HoldMyBeer-gg/blenderwright) | `★ 175` | `2026-10-24` | Indie Tool | `Python` | MCP server for Blender. 191 tools for modelling, materials, rendering and more, drive... |
+| [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | `★ 126` | `2026-10-24` | Indie Tool | `HTML` | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -266,7 +266,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-24 18:12 UTC` | **Yayımlanan haber:** `217`
+> **Dizin oluşturma:** `2026-10-24 20:55 UTC` | **Yayımlanan haber:** `217`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

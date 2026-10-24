@@ -1,42 +1,52 @@
 [
   {
-    "name": "schmitech/orbit",
-    "url": "https://github.com/schmitech/orbit",
-    "stars": 355,
-    "forks": 58,
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "bennyjo/phil",
-    "url": "https://github.com/bennyjo/phil",
-    "stars": 236,
-    "forks": 146,
-    "description": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet...",
-    "language": "Python",
+    "name": "nirholas/three.ws",
+    "url": "https://github.com/nirholas/three.ws",
+    "stars": 249,
+    "forks": 68,
+    "description": "Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain, memory and a wallet, a...",
+    "language": "JavaScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 225,
-    "forks": 34,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
-    "language": "TypeScript",
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 239,
+    "forks": 32,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "ThinkFlowLab/system1-agents",
-    "url": "https://github.com/ThinkFlowLab/system1-agents",
-    "stars": 176,
-    "forks": 24,
-    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 234,
+    "forks": 59,
+    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "HoldMyBeer-gg/blenderwright",
+    "url": "https://github.com/HoldMyBeer-gg/blenderwright",
+    "stars": 175,
+    "forks": 23,
+    "description": "MCP server for Blender. 191 tools for modelling, materials, rendering and more, driven by Claude, Cursor, Codex, Ollama, llama.cpp, or any M...",
     "language": "Python",
-    "tag": "Embodied AI",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
+    "stars": 126,
+    "forks": 1,
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "language": "HTML",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-24"
   },
   {
@@ -50,31 +60,21 @@
     "pushed_at": "2026-10-24"
   },
   {
+    "name": "fazer-ai/agents",
+    "url": "https://github.com/fazer-ai/agents",
+    "stars": 122,
+    "forks": 85,
+    "description": "fazer.ai agents. Apache 2.0.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-24"
+  },
+  {
     "name": "mstar-project/mstar",
     "url": "https://github.com/mstar-project/mstar",
     "stars": 104,
     "forks": 44,
     "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "lirantal/tokenu",
-    "url": "https://github.com/lirantal/tokenu",
-    "stars": 66,
-    "forks": 1,
-    "description": "a unix-like du command line tool to count token usage per files and directories",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "w-xb/awesome-agentic-robotics",
-    "url": "https://github.com/w-xb/awesome-agentic-robotics",
-    "stars": 26,
-    "forks": 6,
-    "description": "A curated survey of embodied agents:robotic memory, planning, world models, verification, and failure recovery",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-24"
