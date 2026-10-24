@@ -1,52 +1,12 @@
 [
   {
-    "name": "nirholas/three.ws",
-    "url": "https://github.com/nirholas/three.ws",
-    "stars": 249,
-    "forks": 68,
-    "description": "Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain, memory and a wallet, a...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 239,
-    "forks": 32,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "btsouth/toolport",
-    "url": "https://github.com/btsouth/toolport",
-    "stars": 234,
-    "forks": 59,
-    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "HoldMyBeer-gg/blenderwright",
-    "url": "https://github.com/HoldMyBeer-gg/blenderwright",
-    "stars": 175,
-    "forks": 23,
-    "description": "MCP server for Blender. 191 tools for modelling, materials, rendering and more, driven by Claude, Cursor, Codex, Ollama, llama.cpp, or any M...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
-    "stars": 126,
-    "forks": 1,
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "language": "HTML",
-    "tag": "Indie Tool",
+    "name": "clay-good/OpenLore",
+    "url": "https://github.com/clay-good/OpenLore",
+    "stars": 353,
+    "forks": 50,
+    "description": "Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-24"
   },
   {
@@ -60,13 +20,13 @@
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "fazer-ai/agents",
-    "url": "https://github.com/fazer-ai/agents",
-    "stars": 122,
-    "forks": 85,
-    "description": "fazer.ai agents. Apache 2.0.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 119,
+    "forks": 17,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-24"
   },
   {
@@ -77,6 +37,46 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "Adyansh04/grove-g1",
+    "url": "https://github.com/Adyansh04/grove-g1",
+    "stars": 83,
+    "forks": 10,
+    "description": "ROS 2 Jazzy autonomy stack for the Unitree G1 humanoid, developed in simulation first on unitree_mujoco: a learned walking policy in ros2_co...",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "preloop/preloop",
+    "url": "https://github.com/preloop/preloop",
+    "stars": 79,
+    "forks": 22,
+    "description": "The open-source AI agent control plane and software factory: govern every tool and model call.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "objectstack-ai/objectstack",
+    "url": "https://github.com/objectstack-ai/objectstack",
+    "stars": 76,
+    "forks": 20,
+    "description": "The ontology is the software. One executable business ontology: AI writes it, the runtime runs it, agents operate it, you own it. Open proto...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "AutomatosAI/automatos-ai",
+    "url": "https://github.com/AutomatosAI/automatos-ai",
+    "stars": 71,
+    "forks": 28,
+    "description": "The open-source AI Operating System — run a workforce of AI agents on your own machine. Any model, 1,000+ tools, a Knowledge Graph, and your...",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-24"
   }
 ]
