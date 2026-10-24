@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-23 23:11 UTC` | **Source-linked stories:** `214`
+> **Index generated:** `2026-10-24 01:39 UTC` | **Source-linked stories:** `216`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 373.0k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 287.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 259.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 373.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 287.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 259.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.5k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [The-AI-Republic/pi-dash](https://github.com/The-AI-Republic/pi-dash) | `★ 444` | `2026-10-23` | Experimental Agent | `TypeScript` | AI Agent Orchestration Platform |
-| [magicapple123/ResumeForge](https://github.com/magicapple123/ResumeForge) | `★ 348` | `2026-10-23` | Local AI | `Python` | 简历通 ResumeForge —— 本地优先的 AI 简历工作台：岗位管理、事实台账防虚构、AI 定制/手写简历、多格式导出、模拟面试与面试深挖、自动投递台、求职进度与... |
-| [fitchmultz/pi-cursor-sdk](https://github.com/fitchmultz/pi-cursor-sdk) | `★ 343` | `2026-10-23` | Local AI | `TypeScript` | Run Cursor's agent loop inside the pi coding agent via local Cursor SDK agents, with ... |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 295` | `2026-10-23` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 300+ audit rules across SEO, performance, ... |
-| [nirholas/three.ws](https://github.com/nirholas/three.ws) | `★ 247` | `2026-10-23` | Experimental Agent | `JavaScript` | Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated G... |
+| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 400` | `2026-10-24` | Local AI | `Python` | Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, loc... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 296` | `2026-10-24` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 300+ audit rules across SEO, performance, ... |
+| [Duecki1/CalibRaw](https://github.com/Duecki1/CalibRaw) | `★ 170` | `2026-10-24` | Local AI | `Rust` | Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, ... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 103` | `2026-10-24` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [The-AI-Alliance/semiont](https://github.com/The-AI-Alliance/semiont) | `★ 93` | `2026-10-24` | Experimental Agent | `TypeScript` | Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -51,6 +51,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-23` | AI Research | [Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing](src/content/news/2026-10-23-forging-more-tasks-into-better-harnesses.md) | Agentic harness evolution | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-forging-more-tasks-into-better-harnesses/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28815) |
 | `2026-10-23` | AI Research | [Fig: Automated Multiagent Behavior Elicitor](src/content/news/2026-10-23-fig-automated-multiagent-behavior-elicitor.md) | Fig (Finding | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-fig-automated-multiagent-behavior-elicitor/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28891) |
 | `2026-10-23` | AI Research | [DiffResearch: Accelerating Deep Research with Diffusion Language Models](src/content/news/2026-10-23-diffresearch-accelerating-deep-research-with-diffusion.md) | Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bo... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-diffresearch-accelerating-deep-research-with-diffusion/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28909) |
+| `2026-10-23` | AI Research | [D-Skill: Distilling Teacher Knowledge through Agent Skills](src/content/news/2026-10-24-d-skill-distilling-teacher-knowledge-through-agent.md) | Frontier language-model agents excel at complex tasks, but high inference costs make transferring their capabilitie... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-24-d-skill-distilling-teacher-knowledge-through-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28914) |
+| `2026-10-23` | AI Research | [Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents](src/content/news/2026-10-24-back-up-before-you-regret-measuring.md) | Coding agents now complete tasks autonomously, modifying real-world state such as artifacts, software environments,... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-24-back-up-before-you-regret-measuring/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28934) |
 | `2026-10-23` | AI Research | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](src/content/news/2026-10-23-automating-ml-for-science-can-frontier.md) | Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a dem... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-automating-ml-for-science-can-frontier/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28763) |
 | `2026-10-22` | AI Research | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](src/content/news/2026-10-22-when-planning-problems-become-hard-for.md) | Large language | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-22-when-planning-problems-become-hard-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26964) |
 | `2026-10-22` | AI Research | [SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents](src/content/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient.md) | LLM-based agents increasingly rely on reusable skills. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26995) |
@@ -263,7 +265,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-23 23:11 UTC` | **Yayımlanan haber:** `214`
+> **Dizin oluşturma:** `2026-10-24 01:39 UTC` | **Yayımlanan haber:** `216`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -282,6 +284,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-23` | AI Research | [Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing](src/content/news/2026-10-23-forging-more-tasks-into-better-harnesses.md) | Agentic harness evolution | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-forging-more-tasks-into-better-harnesses/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28815) |
 | `2026-10-23` | AI Research | [Fig: Automated Multiagent Behavior Elicitor](src/content/news/2026-10-23-fig-automated-multiagent-behavior-elicitor.md) | Fig (Finding | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-fig-automated-multiagent-behavior-elicitor/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28891) |
 | `2026-10-23` | AI Research | [DiffResearch: Accelerating Deep Research with Diffusion Language Models](src/content/news/2026-10-23-diffresearch-accelerating-deep-research-with-diffusion.md) | Deep research systems iteratively plan, gather evidence, synthesize, and revise, making end-to-end latency a key bo... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-diffresearch-accelerating-deep-research-with-diffusion/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28909) |
+| `2026-10-23` | AI Research | [D-Skill: Distilling Teacher Knowledge through Agent Skills](src/content/news/2026-10-24-d-skill-distilling-teacher-knowledge-through-agent.md) | Frontier language-model agents excel at complex tasks, but high inference costs make transferring their capabilitie... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-24-d-skill-distilling-teacher-knowledge-through-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28914) |
+| `2026-10-23` | AI Research | [Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents](src/content/news/2026-10-24-back-up-before-you-regret-measuring.md) | Coding agents now complete tasks autonomously, modifying real-world state such as artifacts, software environments,... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-24-back-up-before-you-regret-measuring/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28934) |
 | `2026-10-23` | AI Research | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](src/content/news/2026-10-23-automating-ml-for-science-can-frontier.md) | Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a dem... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-automating-ml-for-science-can-frontier/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28763) |
 | `2026-10-22` | AI Research | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](src/content/news/2026-10-22-when-planning-problems-become-hard-for.md) | Large language | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-22-when-planning-problems-become-hard-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26964) |
 | `2026-10-22` | AI Research | [SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents](src/content/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient.md) | LLM-based agents increasingly rely on reusable skills. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-spem-structure-aware-procedural-memory-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.26995) |

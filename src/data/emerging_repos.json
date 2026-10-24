@@ -1,82 +1,82 @@
 [
   {
-    "name": "The-AI-Republic/pi-dash",
-    "url": "https://github.com/The-AI-Republic/pi-dash",
-    "stars": 444,
-    "forks": 8,
-    "description": "AI Agent Orchestration Platform",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "magicapple123/ResumeForge",
-    "url": "https://github.com/magicapple123/ResumeForge",
-    "stars": 348,
-    "forks": 15,
-    "description": "简历通 ResumeForge —— 本地优先的 AI 简历工作台：岗位管理、事实台账防虚构、AI 定制/手写简历、多格式导出、模拟面试与面试深挖、自动投递台、求职进度与数据看板。FastAPI + React + SQLite，单机运行、数据不出本机。 | AI resume ...",
+    "name": "Vigil-SOC/vigil",
+    "url": "https://github.com/Vigil-SOC/vigil",
+    "stars": 400,
+    "forks": 93,
+    "description": "Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
     "language": "Python",
     "tag": "Local AI",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "fitchmultz/pi-cursor-sdk",
-    "url": "https://github.com/fitchmultz/pi-cursor-sdk",
-    "stars": 343,
-    "forks": 80,
-    "description": "Run Cursor's agent loop inside the pi coding agent via local Cursor SDK agents, with native model selection, thinking controls, fast/plan mo...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-23"
+    "pushed_at": "2026-10-24"
   },
   {
     "name": "squirrelscan/squirrelscan",
     "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 295,
+    "stars": 296,
     "forks": 32,
     "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
     "language": "TypeScript",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-23"
+    "pushed_at": "2026-10-24"
   },
   {
-    "name": "nirholas/three.ws",
-    "url": "https://github.com/nirholas/three.ws",
-    "stars": 247,
-    "forks": 69,
-    "description": "Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain, memory and a wallet, a...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 225,
-    "forks": 34,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-23"
-  },
-  {
-    "name": "hamedgitty/bloks",
-    "url": "https://github.com/hamedgitty/bloks",
-    "stars": 223,
-    "forks": 35,
-    "description": "A local-first desktop workspace for personal AI agents",
-    "language": "TypeScript",
+    "name": "Duecki1/CalibRaw",
+    "url": "https://github.com/Duecki1/CalibRaw",
+    "stars": 170,
+    "forks": 6,
+    "description": "Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI.",
+    "language": "Rust",
     "tag": "Local AI",
-    "pushed_at": "2026-10-23"
+    "pushed_at": "2026-10-24"
   },
   {
-    "name": "OpenWAM/OpenWAM",
-    "url": "https://github.com/OpenWAM/OpenWAM",
-    "stars": 218,
-    "forks": 11,
-    "description": "Official code for \"OpenWAM: An Open Framework for Composable World-Action Models\" (Stanford University)",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 103,
+    "forks": 44,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-23"
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "The-AI-Alliance/semiont",
+    "url": "https://github.com/The-AI-Alliance/semiont",
+    "stars": 93,
+    "forks": 11,
+    "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "NakliTechie/LocalMind",
+    "url": "https://github.com/NakliTechie/LocalMind",
+    "stars": 68,
+    "forks": 9,
+    "description": "Private AI in your browser tab: chat, images, voice and documents, with the models running on your own device. No server, no account.",
+    "language": "HTML",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "QWED-AI/qwed-verification",
+    "url": "https://github.com/QWED-AI/qwed-verification",
+    "stars": 61,
+    "forks": 13,
+    "description": "Open-source AI verification infrastructure for deterministic verification of LLM outputs, tool calls, code, schemas, and agent state before ...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "Bredrumb/TomoriBot",
+    "url": "https://github.com/Bredrumb/TomoriBot",
+    "stars": 58,
+    "forks": 15,
+    "description": "A highly customizable personal AI assistant for Discord featuring smart agentic AI features such as memory, personas, tool usage, and more! ...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-24"
   }
 ]
