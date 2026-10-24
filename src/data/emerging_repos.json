@@ -1,32 +1,42 @@
 [
   {
-    "name": "Cotal-AI/Cotal",
-    "url": "https://github.com/Cotal-AI/Cotal",
-    "stars": 341,
-    "forks": 44,
-    "description": "The open standard for agent coordination",
-    "language": "TypeScript",
+    "name": "cortexkit/aft",
+    "url": "https://github.com/cortexkit/aft",
+    "stars": 331,
+    "forks": 41,
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
+    "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "QuesmaOrg/awesome-ai-tokenomics",
-    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
-    "stars": 206,
-    "forks": 38,
-    "description": "A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-...",
-    "language": "Python",
+    "name": "rongxinzy/RongxinAI",
+    "url": "https://github.com/rongxinzy/RongxinAI",
+    "stars": 161,
+    "forks": 7,
+    "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, brows...",
+    "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "kstevica/captain-claw",
-    "url": "https://github.com/kstevica/captain-claw",
-    "stars": 176,
-    "forks": 21,
-    "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnost...",
+    "name": "zqc3117/Spotter",
+    "url": "https://github.com/zqc3117/Spotter",
+    "stars": 159,
+    "forks": 8,
+    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
     "language": "Python",
-    "tag": "Local AI",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "planetabhi/riseofmachine",
+    "url": "https://github.com/planetabhi/riseofmachine",
+    "stars": 114,
+    "forks": 70,
+    "description": "AI tools curated by autonomous agents for makers and SMBs",
+    "language": "Astro",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-24"
   },
   {
@@ -40,43 +50,33 @@
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "heddles/agent-orca",
-    "url": "https://github.com/heddles/agent-orca",
-    "stars": 88,
-    "forks": 6,
-    "description": "Agent-orca orchestrates and manages AI agent workloads in Kubernetes, providing distributed execution, model routing, knowledge integration,...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "RikyZ90/ShibaClaw",
-    "url": "https://github.com/RikyZ90/ShibaClaw",
-    "stars": 84,
-    "forks": 10,
-    "description": "Self-hosted personal AI agent with a WebUI, memory, tools, MCP, sub-agents and automations. Connect local or cloud LLMs.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "quazardous/aiball",
-    "url": "https://github.com/quazardous/aiball",
-    "stars": 45,
-    "forks": 2,
-    "description": "Local backlog for inter-agent coordination — Manage tickets between turns and stay in the Loop!",
+    "name": "Lebbitheplow/open-dungeon-master",
+    "url": "https://github.com/Lebbitheplow/open-dungeon-master",
+    "stars": 50,
+    "forks": 22,
+    "description": "Open Dungeon Master,  the first easy-to-use, fully local AI DND 5e app. Story and inline scene images generated 100% on your machine (or wit...",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "cogitator-ai/Cogitator-AI",
-    "url": "https://github.com/cogitator-ai/Cogitator-AI",
-    "stars": 43,
-    "forks": 14,
-    "description": "AI agents that survive production. Self-hosted TypeScript runtime: multi-provider LLMs, tools with approvals, memory & RAG, durable workflow...",
+    "name": "regrevia/Envoy",
+    "url": "https://github.com/regrevia/Envoy",
+    "stars": 39,
+    "forks": 0,
+    "description": "把链接分享给你的 AI：提取网页、视频与本地媒体中的可追溯材料。 / Share links with your AI: extract traceable material from web pages, videos, and local media.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "olostep/olostep-mcp-server",
+    "url": "https://github.com/olostep/olostep-mcp-server",
+    "stars": 24,
+    "forks": 10,
+    "description": "MCP server for Olostep — the web scraping, crawling, and search infrastructure used by top AI companies. Gives any MCP-compatible AI agent t...",
     "language": "TypeScript",
-    "tag": "Indie Tool",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-24"
   }
 ]
