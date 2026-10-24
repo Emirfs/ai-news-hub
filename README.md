@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-24 14:54 UTC` | **Source-linked stories:** `217`
+> **Index generated:** `2026-10-24 18:12 UTC` | **Source-linked stories:** `217`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 376.5k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 287.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 260.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 377.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 287.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 260.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 220.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 221.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [clay-good/OpenLore](https://github.com/clay-good/OpenLore) | `★ 352` | `2026-10-24` | Local AI | `TypeScript` | Deterministic, local-first memory and guardrails for AI coding agents with no LLM in ... |
-| [TerminalSkills/skills](https://github.com/TerminalSkills/skills) | `★ 178` | `2026-10-24` | Experimental Agent | `JavaScript` | Open-source library of AI agent skills — SKILL.md files for Claude Code, Codex, Gemin... |
-| [kukemc/bili-cli](https://github.com/kukemc/bili-cli) | `★ 140` | `2026-10-24` | Experimental Agent | `Python` | 为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出 |
-| [infranodus/skills](https://github.com/infranodus/skills) | `★ 121` | `2026-10-24` | Indie Tool | `Python` | Skills to augment LLM thinking process, integrated with InfraNodus insight generation... |
-| [diillson/chatcli](https://github.com/diillson/chatcli) | `★ 94` | `2026-10-24` | Indie Tool | `Go` | ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic... |
+| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 355` | `2026-10-24` | Indie Tool | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
+| [bennyjo/phil](https://github.com/bennyjo/phil) | `★ 236` | `2026-10-24` | Experimental Agent | `Python` | Phil is a self-improving trader: an AI agent that trades short-term prediction market... |
+| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 225` | `2026-10-24` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 176` | `2026-10-24` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
+| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 126` | `2026-10-24` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -266,7 +266,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-24 14:54 UTC` | **Yayımlanan haber:** `217`
+> **Dizin oluşturma:** `2026-10-24 18:12 UTC` | **Yayımlanan haber:** `217`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

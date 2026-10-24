@@ -1,82 +1,82 @@
 [
   {
-    "name": "clay-good/OpenLore",
-    "url": "https://github.com/clay-good/OpenLore",
-    "stars": 352,
-    "forks": 50,
-    "description": "Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.",
+    "name": "schmitech/orbit",
+    "url": "https://github.com/schmitech/orbit",
+    "stars": 355,
+    "forks": 58,
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "bennyjo/phil",
+    "url": "https://github.com/bennyjo/phil",
+    "stars": 236,
+    "forks": 146,
+    "description": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "jmagly/aiwg",
+    "url": "https://github.com/jmagly/aiwg",
+    "stars": 225,
+    "forks": 34,
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "TerminalSkills/skills",
-    "url": "https://github.com/TerminalSkills/skills",
-    "stars": 178,
-    "forks": 24,
-    "description": "Open-source library of AI agent skills — SKILL.md files for Claude Code, Codex, Gemini CLI, Cursor",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "kukemc/bili-cli",
-    "url": "https://github.com/kukemc/bili-cli",
-    "stars": 140,
-    "forks": 10,
-    "description": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "infranodus/skills",
-    "url": "https://github.com/infranodus/skills",
-    "stars": 121,
-    "forks": 31,
-    "description": "Skills to augment LLM thinking process, integrated with InfraNodus insight generation tool",
-    "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "diillson/chatcli",
-    "url": "https://github.com/diillson/chatcli",
-    "stars": 94,
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 176,
     "forks": 24,
-    "description": "ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic, OpenAI, and others—to facilitate interactive conversa...",
-    "language": "Go",
-    "tag": "Indie Tool",
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-24"
   },
   {
-    "name": "jayleaton/localrouter",
-    "url": "https://github.com/jayleaton/localrouter",
-    "stars": 68,
-    "forks": 5,
-    "description": "Fast & opinionated local AI routing: one MCP server that loads local image and video models on demand on your own GPU box (DGX Spark first)",
-    "language": "Zig",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "SKaiNET-developers/SKaiNET",
-    "url": "https://github.com/SKaiNET-developers/SKaiNET",
-    "stars": 57,
-    "forks": 16,
-    "description": "SKaiNET makes local AI practical for developers: simple to build with, multiplatform by design, and optimized for native performance without...",
-    "language": "Kotlin",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "eltmon/overdeck",
-    "url": "https://github.com/eltmon/overdeck",
-    "stars": 32,
+    "name": "chonghanqin/Awesome-Agentic-Robots",
+    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
+    "stars": 126,
     "forks": 1,
-    "description": "Multi-agent orchestration for AI coding assistants",
+    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 104,
+    "forks": 44,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "lirantal/tokenu",
+    "url": "https://github.com/lirantal/tokenu",
+    "stars": 66,
+    "forks": 1,
+    "description": "a unix-like du command line tool to count token usage per files and directories",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-24"
+  },
+  {
+    "name": "w-xb/awesome-agentic-robotics",
+    "url": "https://github.com/w-xb/awesome-agentic-robotics",
+    "stars": 26,
+    "forks": 6,
+    "description": "A curated survey of embodied agents:robotic memory, planning, world models, verification, and failure recovery",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-10-24"
   }
 ]
