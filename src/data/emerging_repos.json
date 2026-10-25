@@ -1,82 +1,82 @@
 [
   {
-    "name": "cocofhu/grasp",
-    "url": "https://github.com/cocofhu/grasp",
-    "stars": 362,
-    "forks": 34,
-    "description": "Grasp helps you manage multiple projects and parallel coding agents in one visual workflow, so humans can understand faster and ship more.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "rongxinzy/RongxinAI",
-    "url": "https://github.com/rongxinzy/RongxinAI",
-    "stars": 161,
-    "forks": 7,
-    "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, brows...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "AIObjectives/tttc-light-js",
-    "url": "https://github.com/AIObjectives/tttc-light-js",
-    "stars": 62,
-    "forks": 17,
-    "description": "An open-source LLM analysis tool to improve collective discourse and decision-making.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "dfrostar/neuralmind",
-    "url": "https://github.com/dfrostar/neuralmind",
-    "stars": 37,
-    "forks": 5,
-    "description": "Persistent memory for AI coding agents. Your agent learns your codebase the way a senior engineer would — what files go together, what you u...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "lizhiyao/oh-my-knowledge",
-    "url": "https://github.com/lizhiyao/oh-my-knowledge",
-    "stars": 23,
-    "forks": 5,
-    "description": "OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "raghavpillai/openteam",
-    "url": "https://github.com/raghavpillai/openteam",
-    "stars": 21,
-    "forks": 3,
-    "description": "Self-hosted AI agents with persistent memory, browser and computer access, and scheduled workflows.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "takashi-ohmoto-git/CyberRiskScape",
-    "url": "https://github.com/takashi-ohmoto-git/CyberRiskScape",
-    "stars": 21,
-    "forks": 1,
-    "description": "Visual threat modeling tool covering AI, LLM, agentic systems, and post-quantum cryptography",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "bigduu/Bamboo-agent",
-    "url": "https://github.com/bigduu/Bamboo-agent",
-    "stars": 21,
-    "forks": 2,
-    "description": "Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedules, and context assem...",
+    "name": "respanai/respan-gateway",
+    "url": "https://github.com/respanai/respan-gateway",
+    "stars": 268,
+    "forks": 27,
+    "description": "One endpoint for every LLM vendor. Any SDK, any model, any tool. One Rust binary.",
     "language": "Rust",
     "tag": "Indie Tool",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "arounamounchili/linkforge",
+    "url": "https://github.com/arounamounchili/linkforge",
+    "stars": 266,
+    "forks": 25,
+    "description": "The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "ash-project/usage_rules",
+    "url": "https://github.com/ash-project/usage_rules",
+    "stars": 227,
+    "forks": 40,
+    "description": "A tool for synchronizing LLM rules files with your dependencies.",
+    "language": "Elixir",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 184,
+    "forks": 17,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "Tomotsugu-dev/Hindsight",
+    "url": "https://github.com/Tomotsugu-dev/Hindsight",
+    "stars": 171,
+    "forks": 13,
+    "description": "Local-first desktop activity tracker — see where your hours go, with on-device AI daily summaries and optional multi-device sync",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "devsy-org/devsy",
+    "url": "https://github.com/devsy-org/devsy",
+    "stars": 124,
+    "forks": 12,
+    "description": "Deploy secure local and cloud environments for developers and agents",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "Dicklesworthstone/frankensonos",
+    "url": "https://github.com/Dicklesworthstone/frankensonos",
+    "stars": 106,
+    "forks": 6,
+    "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "mmm1712/Local_AI_esp32",
+    "url": "https://github.com/mmm1712/Local_AI_esp32",
+    "stars": 92,
+    "forks": 19,
+    "description": "A language model trained from scratch and running offline on an ESP32-S3 with a touchscreen chat interface.",
+    "language": "C",
+    "tag": "Local AI",
     "pushed_at": "2026-10-25"
   }
 ]
