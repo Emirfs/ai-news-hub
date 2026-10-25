@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-24 23:19 UTC` | **Source-linked stories:** `217`
+> **Index generated:** `2026-10-25 01:43 UTC` | **Source-linked stories:** `217`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,7 +20,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 378.5k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 378.9k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 288.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 260.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.8k` | Autonomous Agents | `Python` | The agent that grows with you |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [clay-good/OpenLore](https://github.com/clay-good/OpenLore) | `★ 353` | `2026-10-24` | Local AI | `TypeScript` | Deterministic, local-first memory and guardrails for AI coding agents with no LLM in ... |
-| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 126` | `2026-10-24` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
-| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 119` | `2026-10-24` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 104` | `2026-10-24` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [Adyansh04/grove-g1](https://github.com/Adyansh04/grove-g1) | `★ 83` | `2026-10-24` | Embodied AI | `C++` | ROS 2 Jazzy autonomy stack for the Unitree G1 humanoid, developed in simulation first... |
+| [cocofhu/grasp](https://github.com/cocofhu/grasp) | `★ 362` | `2026-10-25` | Experimental Agent | `TypeScript` | Grasp helps you manage multiple projects and parallel coding agents in one visual wor... |
+| [rongxinzy/RongxinAI](https://github.com/rongxinzy/RongxinAI) | `★ 161` | `2026-10-25` | Indie Tool | `TypeScript` | Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, d... |
+| [AIObjectives/tttc-light-js](https://github.com/AIObjectives/tttc-light-js) | `★ 62` | `2026-10-25` | Indie Tool | `TypeScript` | An open-source LLM analysis tool to improve collective discourse and decision-making. |
+| [dfrostar/neuralmind](https://github.com/dfrostar/neuralmind) | `★ 37` | `2026-10-25` | Experimental Agent | `Python` | Persistent memory for AI coding agents. Your agent learns your codebase the way a sen... |
+| [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) | `★ 23` | `2026-10-25` | Experimental Agent | `TypeScript` | OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -266,7 +266,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-24 23:19 UTC` | **Yayımlanan haber:** `217`
+> **Dizin oluşturma:** `2026-10-25 01:43 UTC` | **Yayımlanan haber:** `217`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

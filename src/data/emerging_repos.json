@@ -1,82 +1,82 @@
 [
   {
-    "name": "clay-good/OpenLore",
-    "url": "https://github.com/clay-good/OpenLore",
-    "stars": 353,
-    "forks": 50,
-    "description": "Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.",
+    "name": "cocofhu/grasp",
+    "url": "https://github.com/cocofhu/grasp",
+    "stars": 362,
+    "forks": 34,
+    "description": "Grasp helps you manage multiple projects and parallel coding agents in one visual workflow, so humans can understand faster and ship more.",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-24"
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-25"
   },
   {
-    "name": "chonghanqin/Awesome-Agentic-Robots",
-    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
-    "stars": 126,
-    "forks": 1,
-    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 119,
-    "forks": 17,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
-    "language": "Python",
+    "name": "rongxinzy/RongxinAI",
+    "url": "https://github.com/rongxinzy/RongxinAI",
+    "stars": 161,
+    "forks": 7,
+    "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, brows...",
+    "language": "TypeScript",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-24"
+    "pushed_at": "2026-10-25"
   },
   {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 104,
-    "forks": 44,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-24"
+    "name": "AIObjectives/tttc-light-js",
+    "url": "https://github.com/AIObjectives/tttc-light-js",
+    "stars": 62,
+    "forks": 17,
+    "description": "An open-source LLM analysis tool to improve collective discourse and decision-making.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-25"
   },
   {
-    "name": "Adyansh04/grove-g1",
-    "url": "https://github.com/Adyansh04/grove-g1",
-    "stars": 83,
-    "forks": 10,
-    "description": "ROS 2 Jazzy autonomy stack for the Unitree G1 humanoid, developed in simulation first on unitree_mujoco: a learned walking policy in ros2_co...",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-24"
-  },
-  {
-    "name": "preloop/preloop",
-    "url": "https://github.com/preloop/preloop",
-    "stars": 79,
-    "forks": 22,
-    "description": "The open-source AI agent control plane and software factory: govern every tool and model call.",
+    "name": "dfrostar/neuralmind",
+    "url": "https://github.com/dfrostar/neuralmind",
+    "stars": 37,
+    "forks": 5,
+    "description": "Persistent memory for AI coding agents. Your agent learns your codebase the way a senior engineer would — what files go together, what you u...",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-24"
+    "pushed_at": "2026-10-25"
   },
   {
-    "name": "objectstack-ai/objectstack",
-    "url": "https://github.com/objectstack-ai/objectstack",
-    "stars": 76,
-    "forks": 20,
-    "description": "The ontology is the software. One executable business ontology: AI writes it, the runtime runs it, agents operate it, you own it. Open proto...",
+    "name": "lizhiyao/oh-my-knowledge",
+    "url": "https://github.com/lizhiyao/oh-my-knowledge",
+    "stars": 23,
+    "forks": 5,
+    "description": "OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek ...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-24"
+    "pushed_at": "2026-10-25"
   },
   {
-    "name": "AutomatosAI/automatos-ai",
-    "url": "https://github.com/AutomatosAI/automatos-ai",
-    "stars": 71,
-    "forks": 28,
-    "description": "The open-source AI Operating System — run a workforce of AI agents on your own machine. Any model, 1,000+ tools, a Knowledge Graph, and your...",
-    "language": "Python",
+    "name": "raghavpillai/openteam",
+    "url": "https://github.com/raghavpillai/openteam",
+    "stars": 21,
+    "forks": 3,
+    "description": "Self-hosted AI agents with persistent memory, browser and computer access, and scheduled workflows.",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-24"
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "takashi-ohmoto-git/CyberRiskScape",
+    "url": "https://github.com/takashi-ohmoto-git/CyberRiskScape",
+    "stars": 21,
+    "forks": 1,
+    "description": "Visual threat modeling tool covering AI, LLM, agentic systems, and post-quantum cryptography",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "bigduu/Bamboo-agent",
+    "url": "https://github.com/bigduu/Bamboo-agent",
+    "stars": 21,
+    "forks": 2,
+    "description": "Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedules, and context assem...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-25"
   }
 ]
