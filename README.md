@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-25 12:36 UTC` | **Source-linked stories:** `217`
+> **Index generated:** `2026-10-25 16:51 UTC` | **Source-linked stories:** `217`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 381.6k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 288.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 261.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 256.9k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 383.0k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 288.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 261.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.0k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 221.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [amirlehmam/wmux](https://github.com/amirlehmam/wmux) | `★ 431` | `2026-10-25` | Experimental Agent | `TypeScript` | The original Windows terminal multiplexer for AI agents.  |
-| [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) | `★ 396` | `2026-10-25` | Indie Tool | `Python` | Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios te... |
+| [acryldev/acryl](https://github.com/acryldev/acryl) | `★ 300` | `2026-10-25` | Experimental Agent | `TypeScript` | ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canoni... |
 | [wadeKeith/Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) | `★ 253` | `2026-10-25` | Embodied AI | `Python` | Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot... |
-| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 126` | `2026-10-25` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
-| [0xWelt/Awesome-Vibe-Coding](https://github.com/0xWelt/Awesome-Vibe-Coding) | `★ 118` | `2026-10-25` | Indie Tool | `Python` | A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources |
+| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 225` | `2026-10-25` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
+| [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) | `★ 166` | `2026-10-25` | Experimental Agent | `TypeScript` | Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, know... |
+| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 119` | `2026-10-25` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -266,7 +266,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-25 12:36 UTC` | **Yayımlanan haber:** `217`
+> **Dizin oluşturma:** `2026-10-25 16:51 UTC` | **Yayımlanan haber:** `217`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

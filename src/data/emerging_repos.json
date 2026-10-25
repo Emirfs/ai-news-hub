@@ -1,22 +1,12 @@
 [
   {
-    "name": "amirlehmam/wmux",
-    "url": "https://github.com/amirlehmam/wmux",
-    "stars": 431,
-    "forks": 92,
-    "description": "The original Windows terminal multiplexer for AI agents. ",
+    "name": "acryldev/acryl",
+    "url": "https://github.com/acryldev/acryl",
+    "stars": 300,
+    "forks": 36,
+    "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "SeraphimSerapis/tool-eval-bench",
-    "url": "https://github.com/SeraphimSerapis/tool-eval-bench",
-    "stars": 396,
-    "forks": 53,
-    "description": "Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and ...",
-    "language": "Python",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-25"
   },
   {
@@ -30,53 +20,63 @@
     "pushed_at": "2026-10-25"
   },
   {
-    "name": "chonghanqin/Awesome-Agentic-Robots",
-    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
-    "stars": 126,
-    "forks": 1,
-    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "0xWelt/Awesome-Vibe-Coding",
-    "url": "https://github.com/0xWelt/Awesome-Vibe-Coding",
-    "stars": 118,
-    "forks": 108,
-    "description": "A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "timoncool/speech-studio",
-    "url": "https://github.com/timoncool/speech-studio",
-    "stars": 96,
-    "forks": 10,
-    "description": "Free offline AI voice studio for Windows — text-to-speech with cloned and built-in voices, and speech recognition with speakers. Russian don...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-25"
-  },
-  {
-    "name": "oliverames/meta-mcp-server",
-    "url": "https://github.com/oliverames/meta-mcp-server",
-    "stars": 60,
-    "forks": 17,
-    "description": "The most comprehensive MCP server for Meta's business platform. 200+ tools covering Facebook Pages, Instagram, Threads, Ads Manager, Commerc...",
+    "name": "jmagly/aiwg",
+    "url": "https://github.com/jmagly/aiwg",
+    "stars": 225,
+    "forks": 34,
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
     "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-25"
   },
   {
-    "name": "crizant/probe",
-    "url": "https://github.com/crizant/probe",
-    "stars": 53,
-    "forks": 8,
-    "description": "A fast, native, local-first API client and Postman alternative for macOS, Windows and Linux, with a CLI for CI and AI agents. Built with Rus...",
-    "language": "Rust",
-    "tag": "Local AI",
+    "name": "Changan-Su/Forsion",
+    "url": "https://github.com/Changan-Su/Forsion",
+    "stars": 166,
+    "forks": 0,
+    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 119,
+    "forks": 17,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "DAGroup-PKU/ViGAR",
+    "url": "https://github.com/DAGroup-PKU/ViGAR",
+    "stars": 106,
+    "forks": 2,
+    "description": "Rethinking World-Action Model for Compositional and In-context Robotic Manipulation",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 99,
+    "forks": 42,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-25"
+  },
+  {
+    "name": "hazel-js/hazeljs",
+    "url": "https://github.com/hazel-js/hazeljs",
+    "stars": 50,
+    "forks": 2,
+    "description": "HazelJS Agent OS — durable TypeScript agents (DNA, Skillgate, Gatekeeper, crash-safe HITL) in your Node backend",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-25"
   }
 ]
