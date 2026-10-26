@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-26 17:39 UTC` | **Source-linked stories:** `223`
+> **Index generated:** `2026-10-26 21:55 UTC` | **Source-linked stories:** `225`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 390.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 289.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 262.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.3k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 391.2k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 289.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 262.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.4k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 221.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 353` | `2026-10-26` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
-| [mahmoudrabie/agentic-ai](https://github.com/mahmoudrabie/agentic-ai) | `★ 179` | `2026-10-26` | Experimental Agent | `Python` | Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domai... |
-| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 119` | `2026-10-26` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 105` | `2026-10-26` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | `★ 93` | `2026-10-26` | Experimental Agent | `TypeScript` | The open-core AI workbench — notebooks, agents, RAG, voice, and images across any mod... |
+| [containers/podman-desktop-extension-ai-lab](https://github.com/containers/podman-desktop-extension-ai-lab) | `★ 302` | `2026-10-26` | Local AI | `TypeScript` | Work with LLMs on a local environment using containers |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 240` | `2026-10-26` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [mpieniak01/Venom](https://github.com/mpieniak01/Venom) | `★ 189` | `2026-10-26` | Local AI | `Python` | Venom is an experimental, local-first AI system designed to orchestrate agents, memor... |
+| [HoldMyBeer-gg/blenderwright](https://github.com/HoldMyBeer-gg/blenderwright) | `★ 178` | `2026-10-26` | Indie Tool | `Python` | MCP server for Blender. Hundreds of tools for modeling, materials, rendering and more... |
+| [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | `★ 164` | `2026-10-26` | Embodied AI | `Python` | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for I... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -48,6 +48,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-26` | AI Research | [Patronizing and Condescending Language Detection in English and Mandarin](src/content/news/2026-10-26-patronizing-and-condescending-language-detection-in.md) | Patronizing | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-patronizing-and-condescending-language-detection-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31808) |
 | `2026-10-26` | AI Research | [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](src/content/news/2026-10-26-paperformalizer-author-in-the-loop-autoformalization-of-research-papers.md) | Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-paperformalizer-author-in-the-loop-autoformalization-of-research-papers/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31810) |
 | `2026-10-26` | AI Research | [Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons](src/content/news/2026-10-26-dont-forget-what-you-just-learned.md) | Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-dont-forget-what-you-just-learned/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31846) |
+| `2026-10-26` | AI Research | [Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?](src/content/news/2026-10-26-beyond-on-policy-vs-off-policy-at-what.md) | Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-beyond-on-policy-vs-off-policy-at-what/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31918) |
+| `2026-10-26` | AI Research | [$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process](src/content/news/2026-10-26-m3-a-multi-llm-system-for-multi-turn.md) | $M | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-m3-a-multi-llm-system-for-multi-turn/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31937) |
 | `2026-10-23` | AI Research | [To Manipulate or Not: Opinion Dynamics in LLM Interactions](src/content/news/2026-10-23-to-manipulate-or-not-opinion-dynamics.md) | Large language models increasingly take part in extended conversations where they can both shape and be shaped by a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-to-manipulate-or-not-opinion-dynamics/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28875) |
 | `2026-10-23` | AI Research | [Speedrunning Relational Foundation Model Pretraining](src/content/news/2026-10-23-speedrunning-relational-foundation-model-pretraining.md) | modded-nano | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-speedrunning-relational-foundation-model-pretraining/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28855) |
 | `2026-10-23` | AI Research | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](src/content/news/2026-10-23-specevo-speculative-evolution-with-large-language.md) | LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-23-specevo-speculative-evolution-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28706) |
@@ -272,7 +274,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-26 17:39 UTC` | **Yayımlanan haber:** `223`
+> **Dizin oluşturma:** `2026-10-26 21:55 UTC` | **Yayımlanan haber:** `225`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -288,6 +290,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-26` | AI Research | [Patronizing and Condescending Language Detection in English and Mandarin](src/content/news/2026-10-26-patronizing-and-condescending-language-detection-in.md) | Patronizing | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-patronizing-and-condescending-language-detection-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31808) |
 | `2026-10-26` | AI Research | [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](src/content/news/2026-10-26-paperformalizer-author-in-the-loop-autoformalization-of-research-papers.md) | Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-paperformalizer-author-in-the-loop-autoformalization-of-research-papers/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31810) |
 | `2026-10-26` | AI Research | [Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons](src/content/news/2026-10-26-dont-forget-what-you-just-learned.md) | Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-dont-forget-what-you-just-learned/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31846) |
+| `2026-10-26` | AI Research | [Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?](src/content/news/2026-10-26-beyond-on-policy-vs-off-policy-at-what.md) | Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-beyond-on-policy-vs-off-policy-at-what/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31918) |
+| `2026-10-26` | AI Research | [$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process](src/content/news/2026-10-26-m3-a-multi-llm-system-for-multi-turn.md) | $M | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-m3-a-multi-llm-system-for-multi-turn/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31937) |
 | `2026-10-23` | AI Research | [To Manipulate or Not: Opinion Dynamics in LLM Interactions](src/content/news/2026-10-23-to-manipulate-or-not-opinion-dynamics.md) | Large language models increasingly take part in extended conversations where they can both shape and be shaped by a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-to-manipulate-or-not-opinion-dynamics/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28875) |
 | `2026-10-23` | AI Research | [Speedrunning Relational Foundation Model Pretraining](src/content/news/2026-10-23-speedrunning-relational-foundation-model-pretraining.md) | modded-nano | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-speedrunning-relational-foundation-model-pretraining/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28855) |
 | `2026-10-23` | AI Research | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](src/content/news/2026-10-23-specevo-speculative-evolution-with-large-language.md) | LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-23-specevo-speculative-evolution-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.28706) |

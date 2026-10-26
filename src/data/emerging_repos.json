@@ -1,32 +1,72 @@
 [
   {
-    "name": "abacusai/abacusai-bot",
-    "url": "https://github.com/abacusai/abacusai-bot",
-    "stars": 353,
-    "forks": 54,
-    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
+    "name": "containers/podman-desktop-extension-ai-lab",
+    "url": "https://github.com/containers/podman-desktop-extension-ai-lab",
+    "stars": 302,
+    "forks": 84,
+    "description": "Work with LLMs on a local environment using containers",
     "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 240,
+    "forks": 32,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "mahmoudrabie/agentic-ai",
-    "url": "https://github.com/mahmoudrabie/agentic-ai",
-    "stars": 179,
-    "forks": 7,
-    "description": "Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains.",
+    "name": "mpieniak01/Venom",
+    "url": "https://github.com/mpieniak01/Venom",
+    "stars": 189,
+    "forks": 5,
+    "description": "Venom is an experimental, local-first AI system designed to orchestrate agents, memory and decision logic in a controlled, auditable way.",
     "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "HoldMyBeer-gg/blenderwright",
+    "url": "https://github.com/HoldMyBeer-gg/blenderwright",
+    "stars": 178,
+    "forks": 23,
+    "description": "MCP server for Blender. Hundreds of tools for modeling, materials, rendering and more, driven by Claude, Cursor, Codex, Ollama, llama.cpp, o...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "zqc3117/Spotter",
+    "url": "https://github.com/zqc3117/Spotter",
+    "stars": 164,
+    "forks": 8,
+    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "iChristGit/OpenWebui-Tools",
+    "url": "https://github.com/iChristGit/OpenWebui-Tools",
+    "stars": 157,
+    "forks": 11,
+    "description": "Custom tools to enhance your Open-Webui Experience! 🚀",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "Dicklesworthstone/frankensonos",
+    "url": "https://github.com/Dicklesworthstone/frankensonos",
+    "stars": 107,
+    "forks": 6,
+    "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify...",
+    "language": "Rust",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 119,
-    "forks": 17,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
-    "language": "Python",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-26"
   },
   {
@@ -37,46 +77,6 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "Bike4Mind/bike4mind",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 93,
-    "forks": 17,
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "trafficflowhq/ohmail",
-    "url": "https://github.com/trafficflowhq/ohmail",
-    "stars": 88,
-    "forks": 6,
-    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "Qxy661/UAV-WM-VLA-Learning",
-    "url": "https://github.com/Qxy661/UAV-WM-VLA-Learning",
-    "stars": 51,
-    "forks": 6,
-    "description": "World model / VLA / VLM learning library, with aerial robotics as a running thread. 世界模型 / VLA / VLM 学习库（无人机视角）：59 篇文档 · 195 篇论文 · 24 个纯 CPU...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "eltmon/overdeck",
-    "url": "https://github.com/eltmon/overdeck",
-    "stars": 33,
-    "forks": 1,
-    "description": "Multi-agent orchestration for AI coding assistants",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-10-26"
   }
 ]
