@@ -1,32 +1,22 @@
 [
   {
-    "name": "marcusquinn/aidevops",
-    "url": "https://github.com/marcusquinn/aidevops",
-    "stars": 422,
-    "forks": 72,
-    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
-    "language": "Shell",
+    "name": "openJiuwen-ai/agent-core",
+    "url": "https://github.com/openJiuwen-ai/agent-core",
+    "stars": 464,
+    "forks": 131,
+    "description": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
+    "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "activeing123/mcptoon",
-    "url": "https://github.com/activeing123/mcptoon",
-    "stars": 391,
-    "forks": 22,
-    "description": "One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 toke...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "JiangNanGenius/floe-agent",
-    "url": "https://github.com/JiangNanGenius/floe-agent",
-    "stars": 332,
-    "forks": 45,
-    "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and sup...",
-    "language": "Swift",
-    "tag": "Indie Tool",
+    "name": "leeguooooo/iphone-use",
+    "url": "https://github.com/leeguooooo/iphone-use",
+    "stars": 359,
+    "forks": 43,
+    "description": "响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · 让 AI agent 操作真实 iPhone：读屏、点击、输入、滑动，USB 或 Wi-Fi，自有 XCTes...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-26"
   },
   {
@@ -40,42 +30,52 @@
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "HoldMyBeer-gg/blenderwright",
-    "url": "https://github.com/HoldMyBeer-gg/blenderwright",
-    "stars": 176,
-    "forks": 23,
-    "description": "MCP server for Blender. 260 tools for modelling, materials, rendering and more, driven by Claude, Cursor, Codex, Ollama, llama.cpp, or any M...",
+    "name": "TheSyart/emperor-agent",
+    "url": "https://github.com/TheSyart/emperor-agent",
+    "stars": 204,
+    "forks": 48,
+    "description": "Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, tools, skills, memory, and token telemetry.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 105,
+    "forks": 44,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 84,
+    "forks": 7,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "NuGuardAI/nuguard",
+    "url": "https://github.com/NuGuardAI/nuguard",
+    "stars": 67,
+    "forks": 21,
+    "description": "AI red-teaming tool and LLM security framework to evaluate agentic AI applications. Tests prompt injections, handles vulnerability assessmen...",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "planetabhi/riseofmachine",
-    "url": "https://github.com/planetabhi/riseofmachine",
-    "stars": 114,
-    "forks": 71,
-    "description": "AI tools curated by autonomous agents for makers and SMBs",
-    "language": "Astro",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "nakafaai/nakafa.com",
-    "url": "https://github.com/nakafaai/nakafa.com",
-    "stars": 79,
-    "forks": 18,
-    "description": "AI Native Free High-Quality Learning Platform (K-12 to University)",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "AtomiJD/jdBasic",
-    "url": "https://github.com/AtomiJD/jdBasic",
-    "stars": 19,
-    "forks": 2,
-    "description": "BASIC reborn for the AI era: APL-style arrays, SDL3 games, native LLVM compile, Win32 forms, local LLMs, and a built-in MCP server your AI a...",
-    "language": "C++",
+    "name": "regrevia/Envoy",
+    "url": "https://github.com/regrevia/Envoy",
+    "stars": 59,
+    "forks": 0,
+    "description": "把链接分享给你的 AI：提取网页、视频与本地媒体中的可追溯材料。 / Share links with your AI: extract traceable material from web pages, videos, and local media.",
+    "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-26"
   }
