@@ -1,42 +1,32 @@
 [
   {
-    "name": "cynicalight/NeoRead",
-    "url": "https://github.com/cynicalight/NeoRead",
-    "stars": 313,
-    "forks": 25,
-    "description": "NeoRead: a local-first EPUB/PDF reader with annotations, side-by-side translation, and AI assistance through Claude Code, Codex CLI, and Kim...",
+    "name": "abacusai/abacusai-bot",
+    "url": "https://github.com/abacusai/abacusai-bot",
+    "stars": 353,
+    "forks": 54,
+    "description": "100% free, open-source personal agents for your messaging apps, tools, and services",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 246,
-    "forks": 49,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 184,
-    "forks": 17,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "timoncool/speech-studio",
-    "url": "https://github.com/timoncool/speech-studio",
-    "stars": 106,
-    "forks": 10,
-    "description": "Free offline AI voice studio for Windows — text-to-speech with cloned and built-in voices, and speech recognition with speakers. Russian don...",
-    "language": "Rust",
-    "tag": "Local AI",
+    "name": "mahmoudrabie/agentic-ai",
+    "url": "https://github.com/mahmoudrabie/agentic-ai",
+    "stars": 179,
+    "forks": 7,
+    "description": "Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 119,
+    "forks": 17,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-26"
   },
   {
@@ -50,33 +40,43 @@
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "QWED-AI/qwed-verification",
-    "url": "https://github.com/QWED-AI/qwed-verification",
-    "stars": 62,
-    "forks": 13,
-    "description": "Open-source AI verification infrastructure for deterministic verification of LLM outputs, tool calls, code, schemas, and agent state before ...",
-    "language": "Python",
+    "name": "Bike4Mind/bike4mind",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 93,
+    "forks": 17,
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "flyhero/antumi",
-    "url": "https://github.com/flyhero/antumi",
-    "stars": 42,
-    "forks": 0,
-    "description": "A local-first workspace for multiple AI agents (Claude Code, Codex, Cursor & more). Run tasks in isolated Git worktrees, hand off chats, and...",
+    "name": "trafficflowhq/ohmail",
+    "url": "https://github.com/trafficflowhq/ohmail",
+    "stars": 88,
+    "forks": 6,
+    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "ali-ulu/huqan",
-    "url": "https://github.com/ali-ulu/huqan",
-    "stars": 37,
-    "forks": 2,
-    "description": "Local-first verification layer for AI agents: evidence, provenance, policy gates, human approval, and auditable Trust Receipts before a clai...",
-    "language": "JavaScript",
-    "tag": "Local AI",
+    "name": "Qxy661/UAV-WM-VLA-Learning",
+    "url": "https://github.com/Qxy661/UAV-WM-VLA-Learning",
+    "stars": 51,
+    "forks": 6,
+    "description": "World model / VLA / VLM learning library, with aerial robotics as a running thread. 世界模型 / VLA / VLM 学习库（无人机视角）：59 篇文档 · 195 篇论文 · 24 个纯 CPU...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "eltmon/overdeck",
+    "url": "https://github.com/eltmon/overdeck",
+    "stars": 33,
+    "forks": 1,
+    "description": "Multi-agent orchestration for AI coding assistants",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-26"
   }
 ]

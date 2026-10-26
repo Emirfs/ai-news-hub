@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-26 11:34 UTC` | **Source-linked stories:** `221`
+> **Index generated:** `2026-10-26 17:39 UTC` | **Source-linked stories:** `223`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 388.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 289.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 262.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 221.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 390.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 289.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 262.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.3k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 221.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,17 +32,19 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cynicalight/NeoRead](https://github.com/cynicalight/NeoRead) | `★ 313` | `2026-10-26` | Local AI | `TypeScript` | NeoRead: a local-first EPUB/PDF reader with annotations, side-by-side translation, an... |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 246` | `2026-10-26` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 184` | `2026-10-26` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [timoncool/speech-studio](https://github.com/timoncool/speech-studio) | `★ 106` | `2026-10-26` | Local AI | `Rust` | Free offline AI voice studio for Windows — text-to-speech with cloned and built-in vo... |
+| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 353` | `2026-10-26` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
+| [mahmoudrabie/agentic-ai](https://github.com/mahmoudrabie/agentic-ai) | `★ 179` | `2026-10-26` | Experimental Agent | `Python` | Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domai... |
+| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 119` | `2026-10-26` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 105` | `2026-10-26` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | `★ 93` | `2026-10-26` | Experimental Agent | `TypeScript` | The open-core AI workbench — notebooks, agents, RAG, voice, and images across any mod... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-26` | AI Research | [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](src/content/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of.md) | We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31882) |
 | `2026-10-26` | AI Research | [Phronix: The Capability-Centric Learning Paradigm for Agents](src/content/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for.md) | Phron | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31789) |
+| `2026-10-26` | AI Research | [Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows](src/content/news/2026-10-26-permission-to-retry-a-study-of.md) | A durable agent can resume a consequential action while its authority changes and the action's external outcome rem... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-permission-to-retry-a-study-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31916) |
 | `2026-10-26` | AI Research | [Patronizing and Condescending Language Detection in English and Mandarin](src/content/news/2026-10-26-patronizing-and-condescending-language-detection-in.md) | Patronizing | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-patronizing-and-condescending-language-detection-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31808) |
 | `2026-10-26` | AI Research | [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](src/content/news/2026-10-26-paperformalizer-author-in-the-loop-autoformalization-of-research-papers.md) | Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-paperformalizer-author-in-the-loop-autoformalization-of-research-papers/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31810) |
 | `2026-10-26` | AI Research | [Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons](src/content/news/2026-10-26-dont-forget-what-you-just-learned.md) | Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-dont-forget-what-you-just-learned/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31846) |
@@ -270,7 +272,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-26 11:34 UTC` | **Yayımlanan haber:** `221`
+> **Dizin oluşturma:** `2026-10-26 17:39 UTC` | **Yayımlanan haber:** `223`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -280,7 +282,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-26` | AI Research | [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](src/content/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of.md) | We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31882) |
 | `2026-10-26` | AI Research | [Phronix: The Capability-Centric Learning Paradigm for Agents](src/content/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for.md) | Phron | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31789) |
+| `2026-10-26` | AI Research | [Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows](src/content/news/2026-10-26-permission-to-retry-a-study-of.md) | A durable agent can resume a consequential action while its authority changes and the action's external outcome rem... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-permission-to-retry-a-study-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31916) |
 | `2026-10-26` | AI Research | [Patronizing and Condescending Language Detection in English and Mandarin](src/content/news/2026-10-26-patronizing-and-condescending-language-detection-in.md) | Patronizing | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-patronizing-and-condescending-language-detection-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31808) |
 | `2026-10-26` | AI Research | [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](src/content/news/2026-10-26-paperformalizer-author-in-the-loop-autoformalization-of-research-papers.md) | Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-paperformalizer-author-in-the-loop-autoformalization-of-research-papers/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31810) |
 | `2026-10-26` | AI Research | [Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons](src/content/news/2026-10-26-dont-forget-what-you-just-learned.md) | Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-dont-forget-what-you-just-learned/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31846) |
