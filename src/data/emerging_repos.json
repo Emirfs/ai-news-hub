@@ -1,42 +1,42 @@
 [
   {
-    "name": "openJiuwen-ai/agent-core",
-    "url": "https://github.com/openJiuwen-ai/agent-core",
-    "stars": 464,
-    "forks": 131,
-    "description": "openJiuwen agent-core provides a complete set of SDK capabilities related to AI Agent development, running, optimization, and evolution.",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "leeguooooo/iphone-use",
-    "url": "https://github.com/leeguooooo/iphone-use",
-    "stars": 359,
-    "forks": 43,
-    "description": "响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · 让 AI agent 操作真实 iPhone：读屏、点击、输入、滑动，USB 或 Wi-Fi，自有 XCTes...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "bex-co/beancount-io",
-    "url": "https://github.com/bex-co/beancount-io",
-    "stars": 314,
-    "forks": 39,
-    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "name": "cynicalight/NeoRead",
+    "url": "https://github.com/cynicalight/NeoRead",
+    "stars": 313,
+    "forks": 25,
+    "description": "NeoRead: a local-first EPUB/PDF reader with annotations, side-by-side translation, and AI assistance through Claude Code, Codex CLI, and Kim...",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "tag": "Local AI",
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "TheSyart/emperor-agent",
-    "url": "https://github.com/TheSyart/emperor-agent",
-    "stars": 204,
-    "forks": 48,
-    "description": "Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, tools, skills, memory, and token telemetry.",
-    "language": "TypeScript",
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 246,
+    "forks": 49,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 184,
+    "forks": 17,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
     "tag": "Indie Tool",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "timoncool/speech-studio",
+    "url": "https://github.com/timoncool/speech-studio",
+    "stars": 106,
+    "forks": 10,
+    "description": "Free offline AI voice studio for Windows — text-to-speech with cloned and built-in voices, and speech recognition with speakers. Russian don...",
+    "language": "Rust",
+    "tag": "Local AI",
     "pushed_at": "2026-10-26"
   },
   {
@@ -50,33 +50,33 @@
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "ScriptedAlchemy/tracedecay",
-    "url": "https://github.com/ScriptedAlchemy/tracedecay",
-    "stars": 84,
-    "forks": 7,
-    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
-    "language": "Rust",
+    "name": "QWED-AI/qwed-verification",
+    "url": "https://github.com/QWED-AI/qwed-verification",
+    "stars": 62,
+    "forks": 13,
+    "description": "Open-source AI verification infrastructure for deterministic verification of LLM outputs, tool calls, code, schemas, and agent state before ...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "flyhero/antumi",
+    "url": "https://github.com/flyhero/antumi",
+    "stars": 42,
+    "forks": 0,
+    "description": "A local-first workspace for multiple AI agents (Claude Code, Codex, Cursor & more). Run tasks in isolated Git worktrees, hand off chats, and...",
+    "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-26"
   },
   {
-    "name": "NuGuardAI/nuguard",
-    "url": "https://github.com/NuGuardAI/nuguard",
-    "stars": 67,
-    "forks": 21,
-    "description": "AI red-teaming tool and LLM security framework to evaluate agentic AI applications. Tests prompt injections, handles vulnerability assessmen...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-26"
-  },
-  {
-    "name": "regrevia/Envoy",
-    "url": "https://github.com/regrevia/Envoy",
-    "stars": 59,
-    "forks": 0,
-    "description": "把链接分享给你的 AI：提取网页、视频与本地媒体中的可追溯材料。 / Share links with your AI: extract traceable material from web pages, videos, and local media.",
-    "language": "Python",
-    "tag": "Experimental Agent",
+    "name": "ali-ulu/huqan",
+    "url": "https://github.com/ali-ulu/huqan",
+    "stars": 37,
+    "forks": 2,
+    "description": "Local-first verification layer for AI agents: evidence, provenance, policy gates, human approval, and auditable Trust Receipts before a clai...",
+    "language": "JavaScript",
+    "tag": "Local AI",
     "pushed_at": "2026-10-26"
   }
 ]
