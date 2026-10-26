@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-25 22:05 UTC` | **Source-linked stories:** `217`
+> **Index generated:** `2026-10-26 00:26 UTC` | **Source-linked stories:** `217`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,6 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 384.6k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 288.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 261.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.1k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 221.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -27,6 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 422` | `2026-10-26` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
+| [activeing123/mcptoon](https://github.com/activeing123/mcptoon) | `★ 391` | `2026-10-26` | Indie Tool | `Python` | One zero-dependency CLI for every MCP server and agent skill. Token optimization, too... |
+| [JiangNanGenius/floe-agent](https://github.com/JiangNanGenius/floe-agent) | `★ 332` | `2026-10-26` | Indie Tool | `Swift` | Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux e... |
+| [bex-co/beancount-io](https://github.com/bex-co/beancount-io) | `★ 314` | `2026-10-26` | Experimental Agent | `TypeScript` | 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents... |
+| [HoldMyBeer-gg/blenderwright](https://github.com/HoldMyBeer-gg/blenderwright) | `★ 176` | `2026-10-26` | Indie Tool | `Python` | MCP server for Blender. 260 tools for modelling, materials, rendering and more, drive... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -256,7 +266,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-25 22:05 UTC` | **Yayımlanan haber:** `217`
+> **Dizin oluşturma:** `2026-10-26 00:26 UTC` | **Yayımlanan haber:** `217`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "marcusquinn/aidevops",
+    "url": "https://github.com/marcusquinn/aidevops",
+    "stars": 422,
+    "forks": 72,
+    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "activeing123/mcptoon",
+    "url": "https://github.com/activeing123/mcptoon",
+    "stars": 391,
+    "forks": 22,
+    "description": "One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 toke...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "JiangNanGenius/floe-agent",
+    "url": "https://github.com/JiangNanGenius/floe-agent",
+    "stars": 332,
+    "forks": 45,
+    "description": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and sup...",
+    "language": "Swift",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 314,
+    "forks": 39,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "HoldMyBeer-gg/blenderwright",
+    "url": "https://github.com/HoldMyBeer-gg/blenderwright",
+    "stars": 176,
+    "forks": 23,
+    "description": "MCP server for Blender. 260 tools for modelling, materials, rendering and more, driven by Claude, Cursor, Codex, Ollama, llama.cpp, or any M...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "planetabhi/riseofmachine",
+    "url": "https://github.com/planetabhi/riseofmachine",
+    "stars": 114,
+    "forks": 71,
+    "description": "AI tools curated by autonomous agents for makers and SMBs",
+    "language": "Astro",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "nakafaai/nakafa.com",
+    "url": "https://github.com/nakafaai/nakafa.com",
+    "stars": 79,
+    "forks": 18,
+    "description": "AI Native Free High-Quality Learning Platform (K-12 to University)",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-26"
+  },
+  {
+    "name": "AtomiJD/jdBasic",
+    "url": "https://github.com/AtomiJD/jdBasic",
+    "stars": 19,
+    "forks": 2,
+    "description": "BASIC reborn for the AI era: APL-style arrays, SDL3 games, native LLVM compile, Win32 forms, local LLMs, and a built-in MCP server your AI a...",
+    "language": "C++",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-26"
+  }
+]
