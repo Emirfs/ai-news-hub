@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-27 01:30 UTC` | **Source-linked stories:** `227`
+> **Index generated:** `2026-10-27 06:51 UTC` | **Source-linked stories:** `229`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 391.8k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 289.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 262.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 393.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 290.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 263.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [rrrrrredy/research-toolkit](https://github.com/rrrrrredy/research-toolkit) | `★ 305` | `2026-10-27` | Local AI | `Python` | Research methods, workflow tools, and independent review for AI agents, packaged as a... |
-| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 224` | `2026-10-27` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
-| [gy15901580825/Argus](https://github.com/gy15901580825/Argus) | `★ 206` | `2026-10-27` | Indie Tool | `Python` | Black-box, open-source red-team testing for AI agents. Point it at any HTTP, gRPC, or... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 185` | `2026-10-27` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | `★ 133` | `2026-10-27` | Experimental Agent | `Python` | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed ever... |
+| [leeguooooo/iphone-use](https://github.com/leeguooooo/iphone-use) | `★ 378` | `2026-10-27` | Experimental Agent | `Rust` | 响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · ... |
+| [kissqy/Microduck-kissqy](https://github.com/kissqy/Microduck-kissqy) | `★ 332` | `2026-10-27` | Embodied AI | `Rust` | 🦆 Microduck 飞特 HD1910 机器人鸭复刻：单脚独立实机、现成动作模型、中文中控、自制 HAT/IMU 与三步教程。正常复刻无需训练。Feetech HD1... |
+| [rrrrrredy/research-toolkit](https://github.com/rrrrrredy/research-toolkit) | `★ 307` | `2026-10-27` | Local AI | `Python` | Research methods, workflow tools, and independent review for AI agents, packaged as a... |
+| [DobermanCore/Doberman-Core](https://github.com/DobermanCore/Doberman-Core) | `★ 275` | `2026-10-27` | Indie Tool | `Python` | Your AI's guard dog. Doberman sits at runtime, gating every input, output and tool ca... |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 177` | `2026-10-27` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-27` | AI Research | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](src/content/news/2026-10-27-prospect-theory-in-large-language-models.md) | Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to g... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-prospect-theory-in-large-language-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33103) |
+| `2026-10-27` | AI Research | [IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives](src/content/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding.md) | As polarization grows on social media, understanding how political memes shape online narratives has become increas... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33097) |
 | `2026-10-26` | AI Research | [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](src/content/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of.md) | We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31882) |
 | `2026-10-26` | AI Research | [Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents](src/content/news/2026-10-27-reproducible-evaluation-as-the-substrate-for.md) | Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as back... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-reproducible-evaluation-as-the-substrate-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31972) |
 | `2026-10-26` | AI Research | [Phronix: The Capability-Centric Learning Paradigm for Agents](src/content/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for.md) | Phron | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31789) |
@@ -276,7 +278,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-27 01:30 UTC` | **Yayımlanan haber:** `227`
+> **Dizin oluşturma:** `2026-10-27 06:51 UTC` | **Yayımlanan haber:** `229`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -286,6 +288,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-27` | AI Research | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](src/content/news/2026-10-27-prospect-theory-in-large-language-models.md) | Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to g... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-prospect-theory-in-large-language-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33103) |
+| `2026-10-27` | AI Research | [IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives](src/content/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding.md) | As polarization grows on social media, understanding how political memes shape online narratives has become increas... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33097) |
 | `2026-10-26` | AI Research | [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](src/content/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of.md) | We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31882) |
 | `2026-10-26` | AI Research | [Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents](src/content/news/2026-10-27-reproducible-evaluation-as-the-substrate-for.md) | Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as back... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-reproducible-evaluation-as-the-substrate-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31972) |
 | `2026-10-26` | AI Research | [Phronix: The Capability-Centric Learning Paradigm for Agents](src/content/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for.md) | Phron | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31789) |

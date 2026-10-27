@@ -1,8 +1,28 @@
 [
   {
+    "name": "leeguooooo/iphone-use",
+    "url": "https://github.com/leeguooooo/iphone-use",
+    "stars": 378,
+    "forks": 44,
+    "description": "响应快 省Token， Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone · 让 AI agent 操作真实 iPhone：读屏、点击、输入、滑动，USB 或 Wi-Fi，自有 XCTes...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-27"
+  },
+  {
+    "name": "kissqy/Microduck-kissqy",
+    "url": "https://github.com/kissqy/Microduck-kissqy",
+    "stars": 332,
+    "forks": 66,
+    "description": "🦆 Microduck 飞特 HD1910 机器人鸭复刻：单脚独立实机、现成动作模型、中文中控、自制 HAT/IMU 与三步教程。正常复刻无需训练。Feetech HD1910 Microduck replica: one-legged balance, ready-to-use...",
+    "language": "Rust",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-27"
+  },
+  {
     "name": "rrrrrredy/research-toolkit",
     "url": "https://github.com/rrrrrredy/research-toolkit",
-    "stars": 305,
+    "stars": 307,
     "forks": 32,
     "description": "Research methods, workflow tools, and independent review for AI agents, packaged as a Skill, plugin, and local MCP server.",
     "language": "Python",
@@ -10,72 +30,52 @@
     "pushed_at": "2026-10-27"
   },
   {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 224,
-    "forks": 34,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "gy15901580825/Argus",
-    "url": "https://github.com/gy15901580825/Argus",
-    "stars": 206,
-    "forks": 28,
-    "description": "Black-box, open-source red-team testing for AI agents. Point it at any HTTP, gRPC, or browser-using agent endpoint; run 205 probes mapped to...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 185,
-    "forks": 17,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "linny006/trending-claude-skills",
-    "url": "https://github.com/linny006/trending-claude-skills",
-    "stars": 133,
-    "forks": 9,
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "timoncool/speech-studio",
-    "url": "https://github.com/timoncool/speech-studio",
-    "stars": 113,
-    "forks": 10,
-    "description": "Free offline AI voice studio for Windows — text-to-speech with cloned and built-in voices, and speech recognition with speakers. Russian don...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 106,
+    "name": "DobermanCore/Doberman-Core",
+    "url": "https://github.com/DobermanCore/Doberman-Core",
+    "stars": 275,
     "forks": 44,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "description": "Your AI's guard dog. Doberman sits at runtime, gating every input, output and tool call to stop unsafe or unintended actions before they exe...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-27"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 177,
+    "forks": 25,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-27"
   },
   {
-    "name": "Dicklesworthstone/slb",
-    "url": "https://github.com/Dicklesworthstone/slb",
-    "stars": 81,
-    "forks": 14,
-    "description": "Two-person rule CLI for AI coding agents: peer review and approval required before running potentially destructive commands",
-    "language": "Go",
+    "name": "antropos17/Aegis",
+    "url": "https://github.com/antropos17/Aegis",
+    "stars": 159,
+    "forks": 24,
+    "description": "Windows-first desktop oversight for AI agents: live monitoring, local security reviews, token usage, audit reports and opt-in action policie...",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-27"
+  },
+  {
+    "name": "zhinjs/zhin",
+    "url": "https://github.com/zhinjs/zhin",
+    "stars": 136,
+    "forks": 19,
+    "description": "AI-native TypeScript bot framework — one codebase for 20+ chat platforms (QQ, Discord, Telegram, Slack, WeChat…). Opt-in AI agent with MCP, ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-27"
+  },
+  {
+    "name": "hanyeol/model-compose",
+    "url": "https://github.com/hanyeol/model-compose",
+    "stars": 120,
+    "forks": 17,
+    "description": "Declarative AI pipelines in one YAML file. Tokens, audio chunks, and video frames flow between isolated components. Compose 100+ components ...",
+    "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-27"
   }
