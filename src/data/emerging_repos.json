@@ -1,5 +1,35 @@
 [
   {
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 302,
+    "forks": 164,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-27"
+  },
+  {
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 246,
+    "forks": 49,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-27"
+  },
+  {
+    "name": "gy15901580825/Argus",
+    "url": "https://github.com/gy15901580825/Argus",
+    "stars": 206,
+    "forks": 28,
+    "description": "Black-box, open-source red-team testing for AI agents. Point it at any HTTP, gRPC, or browser-using agent endpoint; run 205 probes mapped to...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-27"
+  },
+  {
     "name": "prime-radiant-inc/evener",
     "url": "https://github.com/prime-radiant-inc/evener",
     "stars": 185,
@@ -10,71 +40,41 @@
     "pushed_at": "2026-10-27"
   },
   {
-    "name": "DeepRoboticsLab/deep_robotics_model",
-    "url": "https://github.com/DeepRoboticsLab/deep_robotics_model",
-    "stars": 83,
-    "forks": 14,
-    "description": "URDF_model",
+    "name": "roandejager/Hillock",
+    "url": "https://github.com/roandejager/Hillock",
+    "stars": 143,
+    "forks": 13,
+    "description": "Local, gradient-free neuro-symbolic memory engine combining Hyperdimensional Computing (HDC/VSA), Hebbian plasticity, and graph triples for ...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-27"
+  },
+  {
+    "name": "chonghanqin/Awesome-Agentic-Robots",
+    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
+    "stars": 134,
+    "forks": 2,
+    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-27"
   },
   {
-    "name": "regrevia/Envoy",
-    "url": "https://github.com/regrevia/Envoy",
-    "stars": 73,
-    "forks": 0,
-    "description": "把链接分享给你的 AI：提取网页、视频与本地媒体中的可追溯材料。 / Share links with your AI: extract traceable material from web pages, videos, and local media.",
+    "name": "longsizhuo/openInvest",
+    "url": "https://github.com/longsizhuo/openInvest",
+    "stars": 132,
+    "forks": 17,
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests with lookahead protec...",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-27"
   },
   {
-    "name": "Kandid-ai/AgentSDR",
-    "url": "https://github.com/Kandid-ai/AgentSDR",
-    "stars": 57,
-    "forks": 19,
-    "description": "Open-source AI SDR: email sequences, LinkedIn and WhatsApp outreach, enrichment tables, and an AI CRM that classifies every reply and drafts...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "Onevium/Onevium",
-    "url": "https://github.com/Onevium/Onevium",
-    "stars": 32,
-    "forks": 0,
-    "description": "Local-first 本地优先的桌面 AI 工作台。多模型协作、浏览器多身份与独立代理、秘钥与 SSH、Skills / MCP、飞书 / 钉钉 / Discord / 微信。支持 macOS 与 Windows。",
-    "language": "Shell",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "Cairn-ink/cairn-memory",
-    "url": "https://github.com/Cairn-ink/cairn-memory",
-    "stars": 31,
-    "forks": 3,
-    "description": "Cairn.ink Memory: lightweight cross-session memory for AI agents, with receipts.",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "miiiiiiich/agent-walker",
-    "url": "https://github.com/miiiiiiich/agent-walker",
-    "stars": 26,
-    "forks": 0,
-    "description": "Local AI coding-agent usage dashboard — tokens, cost, projects, autonomy.",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "tud-phi/soromox",
-    "url": "https://github.com/tud-phi/soromox",
-    "stars": 23,
-    "forks": 5,
-    "description": "Soft Robot Models in jaX (SoRoMoX)",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 106,
+    "forks": 45,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-27"

@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-27 13:17 UTC` | **Source-linked stories:** `231`
+> **Index generated:** `2026-10-27 19:00 UTC` | **Source-linked stories:** `233`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 395.0k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 290.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 263.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 396.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 290.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 263.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 302` | `2026-10-27` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 246` | `2026-10-27` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [gy15901580825/Argus](https://github.com/gy15901580825/Argus) | `★ 206` | `2026-10-27` | Experimental Agent | `Python` | Black-box, open-source red-team testing for AI agents. Point it at any HTTP, gRPC, or... |
 | [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 185` | `2026-10-27` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [DeepRoboticsLab/deep_robotics_model](https://github.com/DeepRoboticsLab/deep_robotics_model) | `★ 83` | `2026-10-27` | Embodied AI | `Python` | URDF_model |
-| [regrevia/Envoy](https://github.com/regrevia/Envoy) | `★ 73` | `2026-10-27` | Experimental Agent | `Python` | 把链接分享给你的 AI：提取网页、视频与本地媒体中的可追溯材料。 / Share links with your AI: extract traceable materi... |
-| [Kandid-ai/AgentSDR](https://github.com/Kandid-ai/AgentSDR) | `★ 57` | `2026-10-27` | Experimental Agent | `TypeScript` | Open-source AI SDR: email sequences, LinkedIn and WhatsApp outreach, enrichment table... |
-| [Onevium/Onevium](https://github.com/Onevium/Onevium) | `★ 32` | `2026-10-27` | Local AI | `Shell` | Local-first 本地优先的桌面 AI 工作台。多模型协作、浏览器多身份与独立代理、秘钥与 SSH、Skills / MCP、飞书 / 钉钉 / Discord /... |
+| [roandejager/Hillock](https://github.com/roandejager/Hillock) | `★ 143` | `2026-10-27` | Local AI | `Python` | Local, gradient-free neuro-symbolic memory engine combining Hyperdimensional Computin... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -44,8 +44,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-27` | AI Research | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](src/content/news/2026-10-27-prospect-theory-in-large-language-models.md) | Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to g... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-prospect-theory-in-large-language-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33103) |
 | `2026-10-27` | AI Research | [IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives](src/content/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding.md) | As polarization grows on social media, understanding how political memes shape online narratives has become increas... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33097) |
+| `2026-10-27` | Robotics & Hardware | [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](src/content/news/2026-10-27-how-ai-is-changing-the-pace.md) | There are | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-how-ai-is-changing-the-pace/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia) |
 | `2026-10-27` | AI Research | [Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation](src/content/news/2026-10-27-conformance-as-a-distribution-delegation-contracts.md) | Use- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-conformance-as-a-distribution-delegation-contracts/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33112) |
 | `2026-10-27` | AI Research | [Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities](src/content/news/2026-10-27-artificial-intelligence-in-mechanical-engineering-foundations.md) | Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-artificial-intelligence-in-mechanical-engineering-foundations/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33105) |
+| `2026-10-27` | AI Research | [AOS-Bench: Can LLM Agents Manage Dynamic Workloads?](src/content/news/2026-10-27-aos-bench-can-llm-agents-manage-dynamic.md) | Coding agents are moving from handling one request at a time to serving as persistent assistants to which users han... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-aos-bench-can-llm-agents-manage-dynamic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33178) |
 | `2026-10-26` | AI Research | [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](src/content/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of.md) | We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31882) |
 | `2026-10-26` | AI Research | [Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents](src/content/news/2026-10-27-reproducible-evaluation-as-the-substrate-for.md) | Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as back... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-reproducible-evaluation-as-the-substrate-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31972) |
 | `2026-10-26` | AI Research | [Phronix: The Capability-Centric Learning Paradigm for Agents](src/content/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for.md) | Phron | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31789) |
@@ -280,7 +282,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-27 13:17 UTC` | **Yayımlanan haber:** `231`
+> **Dizin oluşturma:** `2026-10-27 19:00 UTC` | **Yayımlanan haber:** `233`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -292,8 +294,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-10-27` | AI Research | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](src/content/news/2026-10-27-prospect-theory-in-large-language-models.md) | Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to g... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-prospect-theory-in-large-language-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33103) |
 | `2026-10-27` | AI Research | [IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives](src/content/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding.md) | As polarization grows on social media, understanding how political memes shape online narratives has become increas... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33097) |
+| `2026-10-27` | Robotics & Hardware | [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](src/content/news/2026-10-27-how-ai-is-changing-the-pace.md) | There are | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-how-ai-is-changing-the-pace/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia) |
 | `2026-10-27` | AI Research | [Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation](src/content/news/2026-10-27-conformance-as-a-distribution-delegation-contracts.md) | Use- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-conformance-as-a-distribution-delegation-contracts/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33112) |
 | `2026-10-27` | AI Research | [Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities](src/content/news/2026-10-27-artificial-intelligence-in-mechanical-engineering-foundations.md) | Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-artificial-intelligence-in-mechanical-engineering-foundations/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33105) |
+| `2026-10-27` | AI Research | [AOS-Bench: Can LLM Agents Manage Dynamic Workloads?](src/content/news/2026-10-27-aos-bench-can-llm-agents-manage-dynamic.md) | Coding agents are moving from handling one request at a time to serving as persistent assistants to which users han... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-aos-bench-can-llm-agents-manage-dynamic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33178) |
 | `2026-10-26` | AI Research | [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](src/content/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of.md) | We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-tacs-rf-tool-driven-agentic-circuit-synthesis-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31882) |
 | `2026-10-26` | AI Research | [Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents](src/content/news/2026-10-27-reproducible-evaluation-as-the-substrate-for.md) | Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as back... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-reproducible-evaluation-as-the-substrate-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31972) |
 | `2026-10-26` | AI Research | [Phronix: The Capability-Centric Learning Paradigm for Agents](src/content/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for.md) | Phron | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-26-phronix-the-capability-centric-learning-paradigm-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.31789) |
