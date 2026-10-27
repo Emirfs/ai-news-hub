@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-27 19:00 UTC` | **Source-linked stories:** `233`
+> **Index generated:** `2026-10-27 22:59 UTC` | **Source-linked stories:** `235`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 396.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 290.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 397.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 290.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 263.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,17 +32,19 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [ergrelet/windiff](https://github.com/ergrelet/windiff) | `★ 395` | `2026-10-27` | Indie Tool | `Rust` | Tool that allows comparing symbol, type and syscall information of Microsoft Windows ... |
 | [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 302` | `2026-10-27` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 246` | `2026-10-27` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
-| [gy15901580825/Argus](https://github.com/gy15901580825/Argus) | `★ 206` | `2026-10-27` | Experimental Agent | `Python` | Black-box, open-source red-team testing for AI agents. Point it at any HTTP, gRPC, or... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 185` | `2026-10-27` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [roandejager/Hillock](https://github.com/roandejager/Hillock) | `★ 143` | `2026-10-27` | Local AI | `Python` | Local, gradient-free neuro-symbolic memory engine combining Hyperdimensional Computin... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 299` | `2026-10-27` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 300+ audit rules across SEO, performance, ... |
+| [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) | `★ 274` | `2026-10-27` | Local AI | `TypeScript` | Local dashboards and physical controls for AI coding agents — native 3D aquariums, St... |
+| [srelens/srelens](https://github.com/srelens/srelens) | `★ 201` | `2026-10-27` | Experimental Agent | `Rust` | The Kubernetes control room—built in Rust, ready for engineers and AI agents. |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-27` | AI Research | [Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](src/content/news/2026-10-27-scaling-qualitative-analysis-with-large-language.md) | Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited gui... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-scaling-qualitative-analysis-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33205) |
 | `2026-10-27` | AI Research | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](src/content/news/2026-10-27-prospect-theory-in-large-language-models.md) | Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to g... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-prospect-theory-in-large-language-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33103) |
+| `2026-10-27` | AI Research | [Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing](src/content/news/2026-10-27-isharah-selfie-continuous-sign-language-recognition-dataset.md) | Isharah | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-isharah-selfie-continuous-sign-language-recognition-dataset/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33200) |
 | `2026-10-27` | AI Research | [IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives](src/content/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding.md) | As polarization grows on social media, understanding how political memes shape online narratives has become increas... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33097) |
 | `2026-10-27` | Robotics & Hardware | [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](src/content/news/2026-10-27-how-ai-is-changing-the-pace.md) | There are | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-how-ai-is-changing-the-pace/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia) |
 | `2026-10-27` | AI Research | [Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation](src/content/news/2026-10-27-conformance-as-a-distribution-delegation-contracts.md) | Use- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-conformance-as-a-distribution-delegation-contracts/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33112) |
@@ -282,7 +284,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-27 19:00 UTC` | **Yayımlanan haber:** `233`
+> **Dizin oluşturma:** `2026-10-27 22:59 UTC` | **Yayımlanan haber:** `235`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -292,7 +294,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-27` | AI Research | [Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](src/content/news/2026-10-27-scaling-qualitative-analysis-with-large-language.md) | Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited gui... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-scaling-qualitative-analysis-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33205) |
 | `2026-10-27` | AI Research | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](src/content/news/2026-10-27-prospect-theory-in-large-language-models.md) | Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to g... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-prospect-theory-in-large-language-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33103) |
+| `2026-10-27` | AI Research | [Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing](src/content/news/2026-10-27-isharah-selfie-continuous-sign-language-recognition-dataset.md) | Isharah | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-isharah-selfie-continuous-sign-language-recognition-dataset/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33200) |
 | `2026-10-27` | AI Research | [IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives](src/content/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding.md) | As polarization grows on social media, understanding how political memes shape online narratives has become increas... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-iron-meme-a-benchmark-for-structured-understanding/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33097) |
 | `2026-10-27` | Robotics & Hardware | [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](src/content/news/2026-10-27-how-ai-is-changing-the-pace.md) | There are | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-how-ai-is-changing-the-pace/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia) |
 | `2026-10-27` | AI Research | [Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation](src/content/news/2026-10-27-conformance-as-a-distribution-delegation-contracts.md) | Use- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-conformance-as-a-distribution-delegation-contracts/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33112) |
