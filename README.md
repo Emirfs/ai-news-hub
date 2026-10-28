@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-28 09:00 UTC` | **Source-linked stories:** `239`
+> **Index generated:** `2026-10-28 16:07 UTC` | **Source-linked stories:** `241`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 399.3k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 291.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 264.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 257.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 401.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 291.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 264.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 258.0k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [abacusai/abacusai-bot](https://github.com/abacusai/abacusai-bot) | `★ 360` | `2026-10-28` | Indie Tool | `TypeScript` | 100% free, open-source personal agents for your messaging apps, tools, and services |
-| [directionally-local/autopilot](https://github.com/directionally-local/autopilot) | `★ 177` | `2026-10-28` | Local AI | `TypeScript` | Open-source terminal coding agent and SDK. Bring your own key for 25+ providers or a ... |
-| [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) | `★ 167` | `2026-10-28` | Local AI | `Python` | Clips Kitty: Free open-source AI video clipper. Local Opus Clip alternative (also Kla... |
-| [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | `★ 133` | `2026-10-28` | Experimental Agent | `Python` | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed ever... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 106` | `2026-10-28` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | `★ 275` | `2026-10-28` | Experimental Agent | `Go` | The AI control plane for every agent in your enterprise, built around an enterprise-g... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 186` | `2026-10-28` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [DasDigitaleMomentum/searxNcrawl](https://github.com/DasDigitaleMomentum/searxNcrawl) | `★ 182` | `2026-10-28` | Experimental Agent | `Python` | Open-source MCP server that gives AI agents web search (SearXNG) and clean Markdown c... |
+| [rongxinzy/RongxinAI](https://github.com/rongxinzy/RongxinAI) | `★ 161` | `2026-10-28` | Indie Tool | `TypeScript` | Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, d... |
+| [prasenjeet-symon/ogcode](https://github.com/prasenjeet-symon/ogcode) | `★ 145` | `2026-10-28` | Indie Tool | `Go` | An open-source, local-first AI teammate and agent operating environment for turning i... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-28` | Robotics & Hardware | [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](src/content/news/2026-10-28-thin-light-and-built-for-everything.md) | NVIDIA RTX | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-thin-light-and-built-for-everything/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games) |
+| `2026-10-28` | AI Research | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](src/content/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal.md) | Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36077) |
 | `2026-10-28` | AI Research | [Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases](src/content/news/2026-10-28-enhancing-deep-learning-model-performance-through.md) | Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-enhancing-deep-learning-model-performance-through/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.35984) |
 | `2026-10-28` | AI Research | [Counting the Bandages: On measuring the time that AI saves](src/content/news/2026-10-28-counting-the-bandages-on-measuring-the.md) | I consider what it means for AI assistance to save time. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-counting-the-bandages-on-measuring-the/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.35942) |
 | `2026-10-27` | AI Research | [Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](src/content/news/2026-10-27-scaling-qualitative-analysis-with-large-language.md) | Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited gui... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-scaling-qualitative-analysis-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33205) |
@@ -288,7 +290,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-28 09:00 UTC` | **Yayımlanan haber:** `239`
+> **Dizin oluşturma:** `2026-10-28 16:07 UTC` | **Yayımlanan haber:** `241`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -298,6 +300,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-28` | Robotics & Hardware | [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](src/content/news/2026-10-28-thin-light-and-built-for-everything.md) | NVIDIA RTX | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-thin-light-and-built-for-everything/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games) |
+| `2026-10-28` | AI Research | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](src/content/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal.md) | Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36077) |
 | `2026-10-28` | AI Research | [Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases](src/content/news/2026-10-28-enhancing-deep-learning-model-performance-through.md) | Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-enhancing-deep-learning-model-performance-through/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.35984) |
 | `2026-10-28` | AI Research | [Counting the Bandages: On measuring the time that AI saves](src/content/news/2026-10-28-counting-the-bandages-on-measuring-the.md) | I consider what it means for AI assistance to save time. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-counting-the-bandages-on-measuring-the/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.35942) |
 | `2026-10-27` | AI Research | [Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](src/content/news/2026-10-27-scaling-qualitative-analysis-with-large-language.md) | Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited gui... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-scaling-qualitative-analysis-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33205) |
