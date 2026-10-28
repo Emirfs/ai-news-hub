@@ -1,82 +1,82 @@
 [
   {
-    "name": "ergrelet/windiff",
-    "url": "https://github.com/ergrelet/windiff",
-    "stars": 395,
-    "forks": 20,
-    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS, using a W...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-27"
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 318,
+    "forks": 38,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-28"
   },
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 302,
-    "forks": 164,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "codecoradev/uteke",
+    "url": "https://github.com/codecoradev/uteke",
+    "stars": 277,
+    "forks": 31,
+    "description": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust ...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-28"
+  },
+  {
+    "name": "daniel3303/Equibles",
+    "url": "https://github.com/daniel3303/Equibles",
+    "stars": 240,
+    "forks": 32,
+    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
+    "language": "C#",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-28"
+  },
+  {
+    "name": "geyan21/flex-pi",
+    "url": "https://github.com/geyan21/flex-pi",
+    "stars": 227,
+    "forks": 11,
+    "description": "Flex-π: A multi-stream world-action model with compute flexibility: one checkpoint that deploys as a VLA, a full world model, or anything in...",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-27"
+    "pushed_at": "2026-10-28"
   },
   {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 299,
-    "forks": 32,
-    "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "name": "jmagly/aiwg",
+    "url": "https://github.com/jmagly/aiwg",
+    "stars": 225,
+    "forks": 34,
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
     "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-27"
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-28"
   },
   {
-    "name": "puritysb/AgentDeck",
-    "url": "https://github.com/puritysb/AgentDeck",
-    "stars": 274,
-    "forks": 54,
-    "description": "Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED dis...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-27"
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 177,
+    "forks": 25,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-28"
   },
   {
-    "name": "srelens/srelens",
-    "url": "https://github.com/srelens/srelens",
-    "stars": 201,
-    "forks": 13,
-    "description": "The Kubernetes control room—built in Rust, ready for engineers and AI agents.",
+    "name": "vfarcic/dot-agent-deck",
+    "url": "https://github.com/vfarcic/dot-agent-deck",
+    "stars": 119,
+    "forks": 21,
+    "description": "A rich terminal dashboard for monitoring and controlling multiple AI coding agent sessions",
     "language": "Rust",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-27"
+    "pushed_at": "2026-10-28"
   },
   {
-    "name": "chonghanqin/Awesome-Agentic-Robots",
-    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
-    "stars": 134,
-    "forks": 2,
-    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 106,
-    "forks": 45,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-27"
-  },
-  {
-    "name": "tenuo-ai/tenuo",
-    "url": "https://github.com/tenuo-ai/tenuo",
-    "stars": 103,
-    "forks": 27,
-    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
-    "language": "Rust",
+    "name": "hjxwz123/Aivory",
+    "url": "https://github.com/hjxwz123/Aivory",
+    "stars": 117,
+    "forks": 15,
+    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
+    "language": "Go",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-27"
+    "pushed_at": "2026-10-28"
   }
 ]
