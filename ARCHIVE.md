@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-28 16:07 UTC` | **Source-linked stories:** `241`
+> **Index generated:** `2026-10-28 21:08 UTC` | **Source-linked stories:** `243`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 401.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 291.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 264.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 402.0k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 291.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 264.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 258.0k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 222.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
@@ -32,20 +32,22 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [speakeasy-api/gram](https://github.com/speakeasy-api/gram) | `★ 275` | `2026-10-28` | Experimental Agent | `Go` | The AI control plane for every agent in your enterprise, built around an enterprise-g... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 186` | `2026-10-28` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [DasDigitaleMomentum/searxNcrawl](https://github.com/DasDigitaleMomentum/searxNcrawl) | `★ 182` | `2026-10-28` | Experimental Agent | `Python` | Open-source MCP server that gives AI agents web search (SearXNG) and clean Markdown c... |
-| [rongxinzy/RongxinAI](https://github.com/rongxinzy/RongxinAI) | `★ 161` | `2026-10-28` | Indie Tool | `TypeScript` | Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, d... |
-| [prasenjeet-symon/ogcode](https://github.com/prasenjeet-symon/ogcode) | `★ 145` | `2026-10-28` | Indie Tool | `Go` | An open-source, local-first AI teammate and agent operating environment for turning i... |
+| [geyan21/flex-pi](https://github.com/geyan21/flex-pi) | `★ 227` | `2026-10-28` | Embodied AI | `Python` | Flex-π: A multi-stream world-action model with compute flexibility: one checkpoint th... |
+| [timoncool/dub-studio](https://github.com/timoncool/dub-studio) | `★ 227` | `2026-10-28` | Local AI | `Rust` | Free offline AI video dubbing studio for Windows — voice cloning, translation, subtit... |
+| [General-Instinct/InstinctFlash](https://github.com/General-Instinct/InstinctFlash) | `★ 196` | `2026-10-28` | Embodied AI | `Python` | High-Performance Serving Runtime for Robotics Models |
+| [Onyx-Dev-Labs/doodle-note](https://github.com/Onyx-Dev-Labs/doodle-note) | `★ 183` | `2026-10-28` | Local AI | `TypeScript` | Privacy-first, local-first meeting capture and AI notes. |
+| [kstevica/captain-claw](https://github.com/kstevica/captain-claw) | `★ 182` | `2026-10-28` | Local AI | `Python` | Command a fleet of AI agents, on every deck, every desk, every wrist. Self-hosted mul... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-28` | AI Research | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](src/content/news/2026-10-28-why-and-how-to-do-science.md) | This paper argues | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-why-and-how-to-do-science/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36116) |
 | `2026-10-28` | Robotics & Hardware | [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](src/content/news/2026-10-28-thin-light-and-built-for-everything.md) | NVIDIA RTX | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-thin-light-and-built-for-everything/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games) |
 | `2026-10-28` | AI Research | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](src/content/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal.md) | Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36077) |
 | `2026-10-28` | AI Research | [Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases](src/content/news/2026-10-28-enhancing-deep-learning-model-performance-through.md) | Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-enhancing-deep-learning-model-performance-through/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.35984) |
 | `2026-10-28` | AI Research | [Counting the Bandages: On measuring the time that AI saves](src/content/news/2026-10-28-counting-the-bandages-on-measuring-the.md) | I consider what it means for AI assistance to save time. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-counting-the-bandages-on-measuring-the/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.35942) |
+| `2026-10-28` | AI Research | [CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction](src/content/news/2026-10-28-cohortflow-a-steerable-clinical-cohort-curation.md) | Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeate... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-cohortflow-a-steerable-clinical-cohort-curation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36100) |
 | `2026-10-27` | AI Research | [Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](src/content/news/2026-10-27-scaling-qualitative-analysis-with-large-language.md) | Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited gui... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-scaling-qualitative-analysis-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33205) |
 | `2026-10-27` | AI Research | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](src/content/news/2026-10-27-prospect-theory-in-large-language-models.md) | Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to g... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-27-prospect-theory-in-large-language-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33103) |
 | `2026-10-27` | AI Research | [NewsBench: Expert-Grounded Evaluation of Epistemic Quality in AI News Reporting](src/content/news/2026-10-28-newsbench-expert-grounded-evaluation-of-epistemic-quality.md) | As frontier AI systems increasingly serve as sources of political and current-events information, evaluating the ep... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-newsbench-expert-grounded-evaluation-of-epistemic-quality/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33240) |
@@ -290,7 +292,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-28 16:07 UTC` | **Yayımlanan haber:** `241`
+> **Dizin oluşturma:** `2026-10-28 21:08 UTC` | **Yayımlanan haber:** `243`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -300,10 +302,12 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-28` | AI Research | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](src/content/news/2026-10-28-why-and-how-to-do-science.md) | This paper argues | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-why-and-how-to-do-science/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36116) |
 | `2026-10-28` | Robotics & Hardware | [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](src/content/news/2026-10-28-thin-light-and-built-for-everything.md) | NVIDIA RTX | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-thin-light-and-built-for-everything/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games) |
 | `2026-10-28` | AI Research | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](src/content/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal.md) | Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36077) |
 | `2026-10-28` | AI Research | [Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases](src/content/news/2026-10-28-enhancing-deep-learning-model-performance-through.md) | Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-enhancing-deep-learning-model-performance-through/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.35984) |
 | `2026-10-28` | AI Research | [Counting the Bandages: On measuring the time that AI saves](src/content/news/2026-10-28-counting-the-bandages-on-measuring-the.md) | I consider what it means for AI assistance to save time. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-counting-the-bandages-on-measuring-the/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.35942) |
+| `2026-10-28` | AI Research | [CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction](src/content/news/2026-10-28-cohortflow-a-steerable-clinical-cohort-curation.md) | Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeate... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-cohortflow-a-steerable-clinical-cohort-curation/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36100) |
 | `2026-10-27` | AI Research | [Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](src/content/news/2026-10-27-scaling-qualitative-analysis-with-large-language.md) | Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited gui... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-scaling-qualitative-analysis-with-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33205) |
 | `2026-10-27` | AI Research | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](src/content/news/2026-10-27-prospect-theory-in-large-language-models.md) | Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to g... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-27-prospect-theory-in-large-language-models/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33103) |
 | `2026-10-27` | AI Research | [NewsBench: Expert-Grounded Evaluation of Epistemic Quality in AI News Reporting](src/content/news/2026-10-28-newsbench-expert-grounded-evaluation-of-epistemic-quality.md) | As frontier AI systems increasingly serve as sources of political and current-events information, evaluating the ep... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-newsbench-expert-grounded-evaluation-of-epistemic-quality/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.33240) |

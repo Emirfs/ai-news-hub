@@ -1,82 +1,82 @@
 [
   {
-    "name": "speakeasy-api/gram",
-    "url": "https://github.com/speakeasy-api/gram",
-    "stars": 275,
-    "forks": 36,
-    "description": "The AI control plane for every agent in your enterprise, built around an enterprise-grade MCP gateway. Give each team one governed path to i...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 186,
-    "forks": 17,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "DasDigitaleMomentum/searxNcrawl",
-    "url": "https://github.com/DasDigitaleMomentum/searxNcrawl",
-    "stars": 182,
-    "forks": 23,
-    "description": "Open-source MCP server that gives AI agents web search (SearXNG) and clean Markdown crawling of pages, whole sites and logged-in areas. Self...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "rongxinzy/RongxinAI",
-    "url": "https://github.com/rongxinzy/RongxinAI",
-    "stars": 161,
-    "forks": 7,
-    "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, brows...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "prasenjeet-symon/ogcode",
-    "url": "https://github.com/prasenjeet-symon/ogcode",
-    "stars": 145,
-    "forks": 15,
-    "description": "An open-source, local-first AI teammate and agent operating environment for turning intent into completed work—with tools, memory, permissio...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "Yanshi-Robotics/nerv",
-    "url": "https://github.com/Yanshi-Robotics/nerv",
-    "stars": 99,
-    "forks": 0,
-    "description": "NERV — a nervous system for robots: a language-model brain, a robot body and a world, coupled by one platform",
+    "name": "geyan21/flex-pi",
+    "url": "https://github.com/geyan21/flex-pi",
+    "stars": 227,
+    "forks": 11,
+    "description": "Flex-π: A multi-stream world-action model with compute flexibility: one checkpoint that deploys as a VLA, a full world model, or anything in...",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-28"
   },
   {
-    "name": "techysy/10router",
-    "url": "https://github.com/techysy/10router",
-    "stars": 96,
-    "forks": 17,
-    "description": "10Router — local AI routing gateway & dashboard · npm i -g @techysy/10router",
-    "language": "JavaScript",
+    "name": "timoncool/dub-studio",
+    "url": "https://github.com/timoncool/dub-studio",
+    "stars": 227,
+    "forks": 39,
+    "description": "Free offline AI video dubbing studio for Windows — voice cloning, translation, subtitles & on-screen-text localization. 100% local, one nati...",
+    "language": "Rust",
     "tag": "Local AI",
     "pushed_at": "2026-10-28"
   },
   {
-    "name": "IamRamgarhia/All-In-One-Free-SEO-Tool",
-    "url": "https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool",
-    "stars": 92,
-    "forks": 29,
-    "description": "Free SEO tool — open-source, self-hosted alternative to Ahrefs, Semrush & Moz. 99 tools: site audits, rank tracking, keyword research, AI se...",
+    "name": "General-Instinct/InstinctFlash",
+    "url": "https://github.com/General-Instinct/InstinctFlash",
+    "stars": 196,
+    "forks": 7,
+    "description": "High-Performance Serving Runtime for Robotics Models",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-28"
+  },
+  {
+    "name": "Onyx-Dev-Labs/doodle-note",
+    "url": "https://github.com/Onyx-Dev-Labs/doodle-note",
+    "stars": 183,
+    "forks": 23,
+    "description": "Privacy-first, local-first meeting capture and AI notes.",
     "language": "TypeScript",
     "tag": "Local AI",
+    "pushed_at": "2026-10-28"
+  },
+  {
+    "name": "kstevica/captain-claw",
+    "url": "https://github.com/kstevica/captain-claw",
+    "stars": 182,
+    "forks": 23,
+    "description": "Command a fleet of AI agents, on every deck, every desk, every wrist. Self-hosted multi-agent platform with memory, a coding pipeline, Flows...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-28"
+  },
+  {
+    "name": "timoncool/speech-studio",
+    "url": "https://github.com/timoncool/speech-studio",
+    "stars": 134,
+    "forks": 11,
+    "description": "Free offline AI voice studio for Windows — text-to-speech with cloned and built-in voices, and speech recognition with speakers. Russian don...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-28"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 106,
+    "forks": 45,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-28"
+  },
+  {
+    "name": "tenuo-ai/tenuo",
+    "url": "https://github.com/tenuo-ai/tenuo",
+    "stars": 103,
+    "forks": 27,
+    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-28"
   }
 ]
