@@ -1,11 +1,41 @@
 [
   {
-    "name": "rajudandigam/agent-inspect",
-    "url": "https://github.com/rajudandigam/agent-inspect",
-    "stars": 168,
-    "forks": 52,
-    "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share s...",
+    "name": "steerlabs/opensteer",
+    "url": "https://github.com/steerlabs/opensteer",
+    "stars": 204,
+    "forks": 25,
+    "description": "Turn your computer into an AI agent workstation you can steer from your phone.",
     "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-29"
+  },
+  {
+    "name": "Duecki1/CalibRaw",
+    "url": "https://github.com/Duecki1/CalibRaw",
+    "stars": 182,
+    "forks": 9,
+    "description": "Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-29"
+  },
+  {
+    "name": "bigfish1913/pi-rust",
+    "url": "https://github.com/bigfish1913/pi-rust",
+    "stars": 175,
+    "forks": 33,
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-29"
+  },
+  {
+    "name": "kekzl/imp",
+    "url": "https://github.com/kekzl/imp",
+    "stars": 124,
+    "forks": 5,
+    "description": "LLM server for NVIDIA Blackwell only (GeForce RTX 50, RTX PRO). On one RTX 5090, Qwen3.8-27B one user: 96.3 tok/s, 1.38x vLLM without specul...",
+    "language": "C++",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-29"
   },
@@ -20,63 +50,33 @@
     "pushed_at": "2026-10-29"
   },
   {
-    "name": "nebius/nebius-physical-ai",
-    "url": "https://github.com/nebius/nebius-physical-ai",
-    "stars": 95,
-    "forks": 23,
-    "description": "Agent control plane for Physical AI on Nebius: infrastructure setup and management, simulation, robot policy training, synthetic data, and e...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-29"
-  },
-  {
-    "name": "aviaviavi/celorga",
-    "url": "https://github.com/aviaviavi/celorga",
-    "stars": 72,
-    "forks": 0,
-    "description": "A local-first workspace for your life, work, and AI agents. Built around plain-text Org files you own.",
-    "language": "Swift",
+    "name": "trafficflowhq/ohmail",
+    "url": "https://github.com/trafficflowhq/ohmail",
+    "stars": 88,
+    "forks": 6,
+    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
+    "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-29"
   },
   {
-    "name": "Tort1k558/Camouflow",
-    "url": "https://github.com/Tort1k558/Camouflow",
-    "stars": 60,
-    "forks": 12,
-    "description": "Local-first anti-detect browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Pow...",
-    "language": "Python",
+    "name": "aikarjal/wilmai",
+    "url": "https://github.com/aikarjal/wilmai",
+    "stars": 81,
+    "forks": 17,
+    "description": "Wilma, Finland's school system, with AI: an MCP server, CLI and agent skills for Claude, ChatGPT, Codex, OpenClaw, Grok Bot and Meta Muse, a...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-10-29"
   },
   {
-    "name": "ali-ulu/huqan",
-    "url": "https://github.com/ali-ulu/huqan",
-    "stars": 37,
-    "forks": 2,
-    "description": "Local-first verification layer for AI agents: evidence, provenance, policy gates, human approval, and auditable Trust Receipts before a clai...",
-    "language": "JavaScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-29"
-  },
-  {
-    "name": "hcipengm/cogneva",
-    "url": "https://github.com/hcipengm/cogneva",
-    "stars": 34,
-    "forks": 33,
-    "description": "Distributed AI multi-agent autonomous system — digital employees for long-horizon tasks, running 24×7 — Meta-bootstrapping · Real-autonomous...",
-    "language": "Rust",
+    "name": "IvanMurzak/Unreal-MCP",
+    "url": "https://github.com/IvanMurzak/Unreal-MCP",
+    "stars": 52,
+    "forks": 7,
+    "description": "AI Game Developer for Unreal Engine — MCP plugin (C++ editor plugin + .NET bridge), unreal-cli, connects Unreal Editor to AI agents via ai-g...",
+    "language": "C++",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-29"
-  },
-  {
-    "name": "chetto1983/Aura",
-    "url": "https://github.com/chetto1983/Aura",
-    "stars": 33,
-    "forks": 4,
-    "description": "Self-hosted AI agent in Go with temporal graph memory, scheduled jobs, MCP tools and Telegram/WhatsApp channels. Docker Compose appliance, M...",
-    "language": "Go",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-29"
   }
 ]
