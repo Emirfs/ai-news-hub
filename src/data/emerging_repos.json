@@ -1,63 +1,23 @@
 [
   {
-    "name": "geyan21/flex-pi",
-    "url": "https://github.com/geyan21/flex-pi",
-    "stars": 227,
-    "forks": 11,
-    "description": "Flex-π: A multi-stream world-action model with compute flexibility: one checkpoint that deploys as a VLA, a full world model, or anything in...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-28"
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 299,
+    "forks": 31,
+    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-29"
   },
   {
-    "name": "timoncool/dub-studio",
-    "url": "https://github.com/timoncool/dub-studio",
-    "stars": 227,
-    "forks": 39,
-    "description": "Free offline AI video dubbing studio for Windows — voice cloning, translation, subtitles & on-screen-text localization. 100% local, one nati...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "General-Instinct/InstinctFlash",
-    "url": "https://github.com/General-Instinct/InstinctFlash",
-    "stars": 196,
-    "forks": 7,
-    "description": "High-Performance Serving Runtime for Robotics Models",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "Onyx-Dev-Labs/doodle-note",
-    "url": "https://github.com/Onyx-Dev-Labs/doodle-note",
-    "stars": 183,
-    "forks": 23,
-    "description": "Privacy-first, local-first meeting capture and AI notes.",
+    "name": "orkunisitmak/banana-studio",
+    "url": "https://github.com/orkunisitmak/banana-studio",
+    "stars": 193,
+    "forks": 65,
+    "description": "A self-hosted AI media studio with an independent local macOS workspace. Bring your own API keys.",
     "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "kstevica/captain-claw",
-    "url": "https://github.com/kstevica/captain-claw",
-    "stars": 182,
-    "forks": 23,
-    "description": "Command a fleet of AI agents, on every deck, every desk, every wrist. Self-hosted multi-agent platform with memory, a coding pipeline, Flows...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-28"
-  },
-  {
-    "name": "timoncool/speech-studio",
-    "url": "https://github.com/timoncool/speech-studio",
-    "stars": 134,
-    "forks": 11,
-    "description": "Free offline AI voice studio for Windows — text-to-speech with cloned and built-in voices, and speech recognition with speakers. Russian don...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-28"
+    "pushed_at": "2026-10-29"
   },
   {
     "name": "mstar-project/mstar",
@@ -67,16 +27,56 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-28"
+    "pushed_at": "2026-10-29"
   },
   {
-    "name": "tenuo-ai/tenuo",
-    "url": "https://github.com/tenuo-ai/tenuo",
-    "stars": 103,
-    "forks": 27,
-    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
-    "language": "Rust",
+    "name": "preloop/preloop",
+    "url": "https://github.com/preloop/preloop",
+    "stars": 81,
+    "forks": 22,
+    "description": "The open-source AI agent control plane and software factory: govern every tool and model call.",
+    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-28"
+    "pushed_at": "2026-10-29"
+  },
+  {
+    "name": "pepe-agent/pepe",
+    "url": "https://github.com/pepe-agent/pepe",
+    "stars": 70,
+    "forks": 4,
+    "description": "An Elixir/OTP AI agent runtime: define agents, connect any OpenAI-compatible model, and run a tool-calling loop. CLI, HTTP API, web dashboar...",
+    "language": "Elixir",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-29"
+  },
+  {
+    "name": "linny006/awesome-agent-skills",
+    "url": "https://github.com/linny006/awesome-agent-skills",
+    "stars": 45,
+    "forks": 4,
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-29"
+  },
+  {
+    "name": "cogitator-ai/Cogitator-AI",
+    "url": "https://github.com/cogitator-ai/Cogitator-AI",
+    "stars": 43,
+    "forks": 15,
+    "description": "AI agents that survive production. Self-hosted TypeScript runtime: multi-provider LLMs, tools with approvals, memory & RAG, durable workflow...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-29"
+  },
+  {
+    "name": "dfrostar/neuralmind",
+    "url": "https://github.com/dfrostar/neuralmind",
+    "stars": 39,
+    "forks": 5,
+    "description": "Persistent memory for AI coding agents. Your agent learns your codebase the way a senior engineer would — what files go together, what you u...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-29"
   }
 ]
