@@ -1,52 +1,12 @@
 [
   {
-    "name": "JiangNanGenius/floe-agent",
-    "url": "https://github.com/JiangNanGenius/floe-agent",
-    "stars": 379,
-    "forks": 54,
-    "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
-    "language": "Swift",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 304,
-    "forks": 167,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
-    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
-    "stars": 263,
-    "forks": 22,
-    "description": "🌹安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。520亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。支持 GitHub 与 GitLab 的 issue；本地 Markdown 为预...",
+    "name": "openwong2kim/wmux",
+    "url": "https://github.com/openwong2kim/wmux",
+    "stars": 438,
+    "forks": 76,
+    "description": "The ADE for AI agents. Automate everything else. Do your true work.",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "alibaba/loongsuite-pilot",
-    "url": "https://github.com/alibaba/loongsuite-pilot",
-    "stars": 232,
-    "forks": 58,
-    "description": "Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, co...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "bigfish1913/pi-rust",
-    "url": "https://github.com/bigfish1913/pi-rust",
-    "stars": 176,
-    "forks": 34,
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
-    "language": "Rust",
-    "tag": "Indie Tool",
     "pushed_at": "2026-10-30"
   },
   {
@@ -60,23 +20,63 @@
     "pushed_at": "2026-10-30"
   },
   {
-    "name": "cyberlife-coder/VelesDB",
-    "url": "https://github.com/cyberlife-coder/VelesDB",
-    "stars": 100,
-    "forks": 13,
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the ...",
+    "name": "domechn/track3",
+    "url": "https://github.com/domechn/track3",
+    "stars": 87,
+    "forks": 9,
+    "description": "Privacy-first crypto & stock portfolio tracker for macOS, Windows, Linux and iOS. Local-first and read-only: exchanges, wallets & Interactiv...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "hivecommons/hive",
+    "url": "https://github.com/hivecommons/hive",
+    "stars": 78,
+    "forks": 48,
+    "description": "AI agent orchestration for open and closed source — a fully customizable fleet of AI agents covering every level of project maintenance, fro...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "mnemosyne-systems/orangu",
+    "url": "https://github.com/mnemosyne-systems/orangu",
+    "stars": 50,
+    "forks": 18,
+    "description": "Advanced code editor using local AI",
     "language": "Rust",
     "tag": "Local AI",
     "pushed_at": "2026-10-30"
   },
   {
-    "name": "mibgb65-cloud/OmniProxy",
-    "url": "https://github.com/mibgb65-cloud/OmniProxy",
-    "stars": 77,
-    "forks": 6,
-    "description": "本地 AI API 令牌调度、额度观测与桌面代理网关，支持多账号、多厂商、失败重试、请求历史和系统托盘常驻。 Local AI API token scheduler, quota monitor, and desktop proxy gateway for OpenAI-com...",
-    "language": "Go",
+    "name": "ROCm/rocm-cli",
+    "url": "https://github.com/ROCm/rocm-cli",
+    "stars": 49,
+    "forks": 14,
+    "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model s...",
+    "language": "Rust",
     "tag": "Local AI",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "emoPointer/supermimic_manipulation",
+    "url": "https://github.com/emoPointer/supermimic_manipulation",
+    "stars": 40,
+    "forks": 4,
+    "description": "SuperMimic world-model policy optimization for state-based robot manipulation in mjlab",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "guguzea/MC-AI-Coding-Assistant-Tool",
+    "url": "https://github.com/guguzea/MC-AI-Coding-Assistant-Tool",
+    "stars": 39,
+    "forks": 2,
+    "description": "让 AI 编程助手（Cursor / Claude Code 等）能更好地编写 Minecraft 模组的完整工具包。",
+    "language": "HTML",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-30"
   }
 ]
