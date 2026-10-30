@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-30 13:03 UTC` | **Source-linked stories:** `245`
+> **Index generated:** `2026-10-30 18:38 UTC` | **Source-linked stories:** `246`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 410.5k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 293.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 266.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 258.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 411.6k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 293.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 266.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 258.8k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [openwong2kim/wmux](https://github.com/openwong2kim/wmux) | `★ 438` | `2026-10-30` | Experimental Agent | `TypeScript` | The ADE for AI agents. Automate everything else. Do your true work. |
+| [longsurf-ai/openchart](https://github.com/longsurf-ai/openchart) | `★ 281` | `2026-10-30` | Experimental Agent | `TypeScript` | OSS trading workspace with your favorite agents |
+| [jmagly/aiwg](https://github.com/jmagly/aiwg) | `★ 227` | `2026-10-30` | Indie Tool | `TypeScript` | Reusable project context and specialist workflows for the AI tools you already use. A... |
+| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 140` | `2026-10-30` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
+| [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | `★ 125` | `2026-10-30` | Indie Tool | `HTML` | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 107` | `2026-10-30` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [domechn/track3](https://github.com/domechn/track3) | `★ 87` | `2026-10-30` | Local AI | `TypeScript` | Privacy-first crypto & stock portfolio tracker for macOS, Windows, Linux and iOS. Loc... |
-| [hivecommons/hive](https://github.com/hivecommons/hive) | `★ 78` | `2026-10-30` | Experimental Agent | `Go` | AI agent orchestration for open and closed source — a fully customizable fleet of AI ... |
-| [mnemosyne-systems/orangu](https://github.com/mnemosyne-systems/orangu) | `★ 50` | `2026-10-30` | Local AI | `Rust` | Advanced code editor using local AI |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-30` | Robotics & Hardware | [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](src/content/news/2026-10-30-things-that-go-beep-in-the.md) | While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, th... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-30-things-that-go-beep-in-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals) |
 | `2026-10-28` | AI Research | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](src/content/news/2026-10-28-why-and-how-to-do-science.md) | This paper argues | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-why-and-how-to-do-science/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36116) |
 | `2026-10-28` | Robotics & Hardware | [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](src/content/news/2026-10-28-thin-light-and-built-for-everything.md) | NVIDIA RTX | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-thin-light-and-built-for-everything/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games) |
 | `2026-10-28` | AI Research | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](src/content/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal.md) | Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36077) |
@@ -294,7 +295,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-30 13:03 UTC` | **Yayımlanan haber:** `245`
+> **Dizin oluşturma:** `2026-10-30 18:38 UTC` | **Yayımlanan haber:** `246`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -304,6 +305,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-30` | Robotics & Hardware | [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](src/content/news/2026-10-30-things-that-go-beep-in-the.md) | While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, th... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-30-things-that-go-beep-in-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals) |
 | `2026-10-28` | AI Research | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](src/content/news/2026-10-28-why-and-how-to-do-science.md) | This paper argues | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-why-and-how-to-do-science/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36116) |
 | `2026-10-28` | Robotics & Hardware | [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](src/content/news/2026-10-28-thin-light-and-built-for-everything.md) | NVIDIA RTX | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-thin-light-and-built-for-everything/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games) |
 | `2026-10-28` | AI Research | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](src/content/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal.md) | Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-the-trinitycapability-driven-recursive-self-improvement-for-multimodal/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36077) |

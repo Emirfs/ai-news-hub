@@ -1,12 +1,42 @@
 [
   {
-    "name": "openwong2kim/wmux",
-    "url": "https://github.com/openwong2kim/wmux",
-    "stars": 438,
-    "forks": 76,
-    "description": "The ADE for AI agents. Automate everything else. Do your true work.",
+    "name": "longsurf-ai/openchart",
+    "url": "https://github.com/longsurf-ai/openchart",
+    "stars": 281,
+    "forks": 31,
+    "description": "OSS trading workspace with your favorite agents",
     "language": "TypeScript",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "jmagly/aiwg",
+    "url": "https://github.com/jmagly/aiwg",
+    "stars": 227,
+    "forks": 34,
+    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "chonghanqin/Awesome-Agentic-Robots",
+    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
+    "stars": 140,
+    "forks": 2,
+    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
+    "stars": 125,
+    "forks": 1,
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "language": "HTML",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-30"
   },
   {
@@ -20,62 +50,32 @@
     "pushed_at": "2026-10-30"
   },
   {
-    "name": "domechn/track3",
-    "url": "https://github.com/domechn/track3",
-    "stars": 87,
-    "forks": 9,
-    "description": "Privacy-first crypto & stock portfolio tracker for macOS, Windows, Linux and iOS. Local-first and read-only: exchanges, wallets & Interactiv...",
+    "name": "regrevia/Envoy",
+    "url": "https://github.com/regrevia/Envoy",
+    "stars": 97,
+    "forks": 0,
+    "description": "把链接分享给你的 AI：提取网页、视频与本地媒体中的可追溯材料。 / Share links with your AI: extract traceable material from web pages, videos, and local media.",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "Andrea-Cavallo/adOmnia",
+    "url": "https://github.com/Andrea-Cavallo/adOmnia",
+    "stars": 54,
+    "forks": 7,
+    "description": "The Multi-IDE for the AI-generated code era.  Your agent writes it. You run it, test it, debug it and ship it, all in one local-first develo...",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-30"
   },
   {
-    "name": "hivecommons/hive",
-    "url": "https://github.com/hivecommons/hive",
-    "stars": 78,
-    "forks": 48,
-    "description": "AI agent orchestration for open and closed source — a fully customizable fleet of AI agents covering every level of project maintenance, fro...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "mnemosyne-systems/orangu",
-    "url": "https://github.com/mnemosyne-systems/orangu",
-    "stars": 50,
-    "forks": 18,
-    "description": "Advanced code editor using local AI",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "ROCm/rocm-cli",
-    "url": "https://github.com/ROCm/rocm-cli",
-    "stars": 49,
-    "forks": 14,
-    "description": "ROCm CLI is a command-line tool for setting up and running local AI on AMD GPUs, with a full-screen TUI dashboard for GPU telemetry, model s...",
-    "language": "Rust",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "emoPointer/supermimic_manipulation",
-    "url": "https://github.com/emoPointer/supermimic_manipulation",
-    "stars": 40,
-    "forks": 4,
-    "description": "SuperMimic world-model policy optimization for state-based robot manipulation in mjlab",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "guguzea/MC-AI-Coding-Assistant-Tool",
-    "url": "https://github.com/guguzea/MC-AI-Coding-Assistant-Tool",
-    "stars": 39,
+    "name": "Joakimpalm-Zen/xyntetik-runner",
+    "url": "https://github.com/Joakimpalm-Zen/xyntetik-runner",
+    "stars": 29,
     "forks": 2,
-    "description": "让 AI 编程助手（Cursor / Claude Code 等）能更好地编写 Minecraft 模组的完整工具包。",
-    "language": "HTML",
+    "description": "Local inference you can prove. A single-binary GGUF engine in C: serves, scores, and trains LoRA through the quantized weights it deploys, b...",
+    "language": "C",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-30"
   }
