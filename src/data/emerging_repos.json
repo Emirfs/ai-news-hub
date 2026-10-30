@@ -1,43 +1,53 @@
 [
   {
-    "name": "steerlabs/opensteer",
-    "url": "https://github.com/steerlabs/opensteer",
-    "stars": 204,
-    "forks": 25,
-    "description": "Turn your computer into an AI agent workstation you can steer from your phone.",
-    "language": "TypeScript",
+    "name": "JiangNanGenius/floe-agent",
+    "url": "https://github.com/JiangNanGenius/floe-agent",
+    "stars": 379,
+    "forks": 54,
+    "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
+    "language": "Swift",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-29"
+    "pushed_at": "2026-10-30"
   },
   {
-    "name": "Duecki1/CalibRaw",
-    "url": "https://github.com/Duecki1/CalibRaw",
-    "stars": 182,
-    "forks": 9,
-    "description": "Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI.",
-    "language": "Rust",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 304,
+    "forks": 167,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
+    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
+    "stars": 263,
+    "forks": 22,
+    "description": "🌹安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。520亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。支持 GitHub 与 GitLab 的 issue；本地 Markdown 为预...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "alibaba/loongsuite-pilot",
+    "url": "https://github.com/alibaba/loongsuite-pilot",
+    "stars": 232,
+    "forks": 58,
+    "description": "Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, co...",
+    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-29"
+    "pushed_at": "2026-10-30"
   },
   {
     "name": "bigfish1913/pi-rust",
     "url": "https://github.com/bigfish1913/pi-rust",
-    "stars": 175,
-    "forks": 33,
+    "stars": 176,
+    "forks": 34,
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
     "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-29"
-  },
-  {
-    "name": "kekzl/imp",
-    "url": "https://github.com/kekzl/imp",
-    "stars": 124,
-    "forks": 5,
-    "description": "LLM server for NVIDIA Blackwell only (GeForce RTX 50, RTX PRO). On one RTX 5090, Qwen3.8-27B one user: 96.3 tok/s, 1.38x vLLM without specul...",
-    "language": "C++",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-29"
+    "pushed_at": "2026-10-30"
   },
   {
     "name": "mstar-project/mstar",
@@ -47,36 +57,26 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-29"
+    "pushed_at": "2026-10-30"
   },
   {
-    "name": "trafficflowhq/ohmail",
-    "url": "https://github.com/trafficflowhq/ohmail",
-    "stars": 88,
-    "forks": 6,
-    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
-    "language": "TypeScript",
+    "name": "cyberlife-coder/VelesDB",
+    "url": "https://github.com/cyberlife-coder/VelesDB",
+    "stars": 100,
+    "forks": 13,
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the ...",
+    "language": "Rust",
     "tag": "Local AI",
-    "pushed_at": "2026-10-29"
+    "pushed_at": "2026-10-30"
   },
   {
-    "name": "aikarjal/wilmai",
-    "url": "https://github.com/aikarjal/wilmai",
-    "stars": 81,
-    "forks": 17,
-    "description": "Wilma, Finland's school system, with AI: an MCP server, CLI and agent skills for Claude, ChatGPT, Codex, OpenClaw, Grok Bot and Meta Muse, a...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-29"
-  },
-  {
-    "name": "IvanMurzak/Unreal-MCP",
-    "url": "https://github.com/IvanMurzak/Unreal-MCP",
-    "stars": 52,
-    "forks": 7,
-    "description": "AI Game Developer for Unreal Engine — MCP plugin (C++ editor plugin + .NET bridge), unreal-cli, connects Unreal Editor to AI agents via ai-g...",
-    "language": "C++",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-29"
+    "name": "mibgb65-cloud/OmniProxy",
+    "url": "https://github.com/mibgb65-cloud/OmniProxy",
+    "stars": 77,
+    "forks": 6,
+    "description": "本地 AI API 令牌调度、额度观测与桌面代理网关，支持多账号、多厂商、失败重试、请求历史和系统托盘常驻。 Local AI API token scheduler, quota monitor, and desktop proxy gateway for OpenAI-com...",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-30"
   }
 ]
