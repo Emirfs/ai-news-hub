@@ -1,20 +1,20 @@
 [
   {
-    "name": "longsurf-ai/openchart",
-    "url": "https://github.com/longsurf-ai/openchart",
-    "stars": 281,
-    "forks": 31,
-    "description": "OSS trading workspace with your favorite agents",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "name": "yologdev/yoagent",
+    "url": "https://github.com/yologdev/yoagent",
+    "stars": 367,
+    "forks": 53,
+    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-30"
   },
   {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 227,
-    "forks": 34,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 301,
+    "forks": 31,
+    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
     "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-30"
@@ -30,13 +30,13 @@
     "pushed_at": "2026-10-30"
   },
   {
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
-    "stars": 125,
-    "forks": 1,
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "language": "HTML",
-    "tag": "Indie Tool",
+    "name": "sleep2agi/agent-network",
+    "url": "https://github.com/sleep2agi/agent-network",
+    "stars": 114,
+    "forks": 15,
+    "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / Mini...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-30"
   },
   {
@@ -50,33 +50,33 @@
     "pushed_at": "2026-10-30"
   },
   {
-    "name": "regrevia/Envoy",
-    "url": "https://github.com/regrevia/Envoy",
-    "stars": 97,
-    "forks": 0,
-    "description": "把链接分享给你的 AI：提取网页、视频与本地媒体中的可追溯材料。 / Share links with your AI: extract traceable material from web pages, videos, and local media.",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-30"
-  },
-  {
-    "name": "Andrea-Cavallo/adOmnia",
-    "url": "https://github.com/Andrea-Cavallo/adOmnia",
-    "stars": 54,
-    "forks": 7,
-    "description": "The Multi-IDE for the AI-generated code era.  Your agent writes it. You run it, test it, debug it and ship it, all in one local-first develo...",
+    "name": "Dpro-at/Girru",
+    "url": "https://github.com/Dpro-at/Girru",
+    "stars": 101,
+    "forks": 4,
+    "description": "Open-source AI desktop assistant — run local or remote LLMs with privacy-first design and zero setup required.",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-10-30"
   },
   {
-    "name": "Joakimpalm-Zen/xyntetik-runner",
-    "url": "https://github.com/Joakimpalm-Zen/xyntetik-runner",
-    "stars": 29,
-    "forks": 2,
-    "description": "Local inference you can prove. A single-binary GGUF engine in C: serves, scores, and trains LoRA through the quantized weights it deploys, b...",
-    "language": "C",
-    "tag": "Indie Tool",
+    "name": "dynatrace-oss/dynatrace-ai-agent-instrumentation-examples",
+    "url": "https://github.com/dynatrace-oss/dynatrace-ai-agent-instrumentation-examples",
+    "stars": 91,
+    "forks": 26,
+    "description": "Dynatrace AI Observability OTel instrumentation examples",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-30"
+  },
+  {
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 84,
+    "forks": 7,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Local AI",
     "pushed_at": "2026-10-30"
   }
 ]
