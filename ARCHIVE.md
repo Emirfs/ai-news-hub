@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-31 19:20 UTC` | **Source-linked stories:** `252`
+> **Index generated:** `2026-10-31 22:51 UTC` | **Source-linked stories:** `254`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 293.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 294.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 267.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.4k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,10 +32,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) | `★ 354` | `2026-10-31` | Experimental Agent | `Python` | AI agents that know you and your work, in a chat app anyone can use. Open source, any... |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 307` | `2026-10-31` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [groundingpi/GroundingPI](https://github.com/groundingpi/GroundingPI) | `★ 272` | `2026-10-31` | Embodied AI | `Python` | A 4B grounding foundation model for physical intelligence. Unifies detection, referri... |
-| [infranodus/skills](https://github.com/infranodus/skills) | `★ 125` | `2026-10-31` | Indie Tool | `Python` | Skills to augment LLM thinking process, integrated with InfraNodus insight generation... |
+| [JiangNanGenius/floe-agent](https://github.com/JiangNanGenius/floe-agent) | `★ 395` | `2026-10-31` | Local AI | `Swift` | iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone sup... |
+| [oxnw/ai-phone](https://github.com/oxnw/ai-phone) | `★ 356` | `2026-10-31` | Local AI | `Python` | A SIP phone daemon with local speech and language models on Apple Silicon. |
+| [groundingpi/GroundingPI](https://github.com/groundingpi/GroundingPI) | `★ 274` | `2026-10-31` | Embodied AI | `Python` | A 4B grounding foundation model for physical intelligence. Unifies detection, referri... |
+| [Sma1lboy/rove](https://github.com/Sma1lboy/rove) | `★ 181` | `2026-10-31` | Experimental Agent | `TypeScript` | Rove — the agent multiplexer for your terminal. Run coding agents on parallel tasks w... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 107` | `2026-10-31` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
@@ -47,6 +47,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-31` | AI Research | [OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery](src/content/news/2026-10-31-openfrontiers-a-collection-of-open-research.md) | Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive c... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-openfrontiers-a-collection-of-open-research/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37739) |
 | `2026-10-31` | AI Research | [Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis](src/content/news/2026-10-31-measuring-where-intent-gets-lost-in.md) | AI agents can | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-measuring-where-intent-gets-lost-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37830) |
 | `2026-10-31` | AI Research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](src/content/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient.md) | Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates com... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37720) |
+| `2026-10-31` | AI Research | [Evaluating and improving AI agents for sequencing protocol understanding](src/content/news/2026-10-31-evaluating-and-improving-ai-agents-for.md) | Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-evaluating-and-improving-ai-agents-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37851) |
+| `2026-10-31` | AI Research | [Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening](src/content/news/2026-10-31-detecting-covert-collusion-between-ai-agents.md) | AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that read... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-detecting-covert-collusion-between-ai-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37849) |
 | `2026-10-31` | AI Research | [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](src/content/news/2026-10-31-amortized-localized-posterior-inference-for-model.md) | Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the contex... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-amortized-localized-posterior-inference-for-model/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37731) |
 | `2026-10-30` | Robotics & Hardware | [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](src/content/news/2026-10-30-things-that-go-beep-in-the.md) | While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, th... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-30-things-that-go-beep-in-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals) |
 | `2026-10-28` | AI Research | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](src/content/news/2026-10-28-why-and-how-to-do-science.md) | This paper argues | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-why-and-how-to-do-science/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36116) |
@@ -301,7 +303,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-31 19:20 UTC` | **Yayımlanan haber:** `252`
+> **Dizin oluşturma:** `2026-10-31 22:51 UTC` | **Yayımlanan haber:** `254`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -316,6 +318,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-10-31` | AI Research | [OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery](src/content/news/2026-10-31-openfrontiers-a-collection-of-open-research.md) | Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive c... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-openfrontiers-a-collection-of-open-research/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37739) |
 | `2026-10-31` | AI Research | [Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis](src/content/news/2026-10-31-measuring-where-intent-gets-lost-in.md) | AI agents can | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-measuring-where-intent-gets-lost-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37830) |
 | `2026-10-31` | AI Research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](src/content/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient.md) | Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates com... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37720) |
+| `2026-10-31` | AI Research | [Evaluating and improving AI agents for sequencing protocol understanding](src/content/news/2026-10-31-evaluating-and-improving-ai-agents-for.md) | Existing scientific-agent benchmarks rarely evaluate whether agents can reconstruct the exact molecular structures ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-evaluating-and-improving-ai-agents-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37851) |
+| `2026-10-31` | AI Research | [Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening](src/content/news/2026-10-31-detecting-covert-collusion-between-ai-agents.md) | AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that read... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-detecting-covert-collusion-between-ai-agents/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37849) |
 | `2026-10-31` | AI Research | [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](src/content/news/2026-10-31-amortized-localized-posterior-inference-for-model.md) | Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the contex... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-amortized-localized-posterior-inference-for-model/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37731) |
 | `2026-10-30` | Robotics & Hardware | [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](src/content/news/2026-10-30-things-that-go-beep-in-the.md) | While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, th... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-30-things-that-go-beep-in-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals) |
 | `2026-10-28` | AI Research | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](src/content/news/2026-10-28-why-and-how-to-do-science.md) | This paper argues | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-why-and-how-to-do-science/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36116) |

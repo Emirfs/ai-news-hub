@@ -1,28 +1,28 @@
 [
   {
-    "name": "mindroom-ai/mindroom",
-    "url": "https://github.com/mindroom-ai/mindroom",
-    "stars": 354,
-    "forks": 25,
-    "description": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.",
-    "language": "Python",
-    "tag": "Experimental Agent",
+    "name": "JiangNanGenius/floe-agent",
+    "url": "https://github.com/JiangNanGenius/floe-agent",
+    "stars": 395,
+    "forks": 55,
+    "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
+    "language": "Swift",
+    "tag": "Local AI",
     "pushed_at": "2026-10-31"
   },
   {
-    "name": "xorbitsai/xagent",
-    "url": "https://github.com/xorbitsai/xagent",
-    "stars": 307,
-    "forks": 78,
-    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "name": "oxnw/ai-phone",
+    "url": "https://github.com/oxnw/ai-phone",
+    "stars": 356,
+    "forks": 58,
+    "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
     "language": "Python",
-    "tag": "Indie Tool",
+    "tag": "Local AI",
     "pushed_at": "2026-10-31"
   },
   {
     "name": "groundingpi/GroundingPI",
     "url": "https://github.com/groundingpi/GroundingPI",
-    "stars": 272,
+    "stars": 274,
     "forks": 13,
     "description": "A 4B grounding foundation model for physical intelligence. Unifies detection, referring, pointing, OCR, GUI, and layout grounding, achieving...",
     "language": "Python",
@@ -30,13 +30,13 @@
     "pushed_at": "2026-10-31"
   },
   {
-    "name": "infranodus/skills",
-    "url": "https://github.com/infranodus/skills",
-    "stars": 125,
-    "forks": 31,
-    "description": "Skills to augment LLM thinking process, integrated with InfraNodus insight generation tool",
-    "language": "Python",
-    "tag": "Indie Tool",
+    "name": "Sma1lboy/rove",
+    "url": "https://github.com/Sma1lboy/rove",
+    "stars": 181,
+    "forks": 11,
+    "description": "Rove — the agent multiplexer for your terminal. Run coding agents on parallel tasks with isolated worktrees and persistent sessions.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-31"
   },
   {
@@ -50,33 +50,33 @@
     "pushed_at": "2026-10-31"
   },
   {
-    "name": "OpenAdminOS/OpenAdminOS",
-    "url": "https://github.com/OpenAdminOS/OpenAdminOS",
-    "stars": 78,
-    "forks": 8,
-    "description": "Open-source, local-first AI agents for IT administration. Start with Microsoft 365, connect any API. Data never leaves the device.",
+    "name": "apoapostolov/hermes-agent-awesome-plugins",
+    "url": "https://github.com/apoapostolov/hermes-agent-awesome-plugins",
+    "stars": 41,
+    "forks": 4,
+    "description": "An installable Hermes Agent plugin pack for AI power users: unified provider quotas, stalled-tool control, reasoning and iteration budgets, ...",
+    "language": "JavaScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "NimbleBrainInc/nimblebrain",
+    "url": "https://github.com/NimbleBrainInc/nimblebrain",
+    "stars": 28,
+    "forks": 16,
+    "description": "Self-hosted platform for MCP Apps and agent automations — tools, interactive UIs, scheduled runs, multi-agent delegation.",
     "language": "TypeScript",
-    "tag": "Local AI",
+    "tag": "Indie Tool",
     "pushed_at": "2026-10-31"
   },
   {
-    "name": "Zer0Qing/Muse",
-    "url": "https://github.com/Zer0Qing/Muse",
-    "stars": 69,
-    "forks": 9,
-    "description": "不只是对话，是持续认识你的 AI。开源 Android AI 伴侣：本地优先，能替你做事。 | Not just chat — an AI that truly knows you. An open-source, local-first Android AI companion...",
-    "language": "Kotlin",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "Tort1k558/Camouflow",
-    "url": "https://github.com/Tort1k558/Camouflow",
-    "stars": 60,
-    "forks": 12,
-    "description": "Local-first anti-detect browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Pow...",
-    "language": "Python",
-    "tag": "Local AI",
+    "name": "writerslogic/warm",
+    "url": "https://github.com/writerslogic/warm",
+    "stars": 25,
+    "forks": 6,
+    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
+    "language": "Rust",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-31"
   }
 ]
