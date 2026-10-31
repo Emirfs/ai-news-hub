@@ -1,62 +1,42 @@
 [
   {
-    "name": "GenAI-Security-Project/agent-control-standard",
-    "url": "https://github.com/GenAI-Security-Project/agent-control-standard",
-    "stars": 231,
-    "forks": 79,
-    "description": "The open standard for runtime agent control — declarative hooks, policy enforcement, and observability across AI agent frameworks.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 187,
-    "forks": 17,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "off-grid-ai/OGAD",
-    "url": "https://github.com/off-grid-ai/OGAD",
-    "stars": 140,
-    "forks": 26,
-    "description": "Your private, on-device personal AI assistant for macOS and Windows. Chat, create, search files, and connect tools with local models. Includ...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "uw-syfi/vibesys",
-    "url": "https://github.com/uw-syfi/vibesys",
-    "stars": 124,
-    "forks": 41,
-    "description": "Can AI Agents Build Bespoke Systems?",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 120,
-    "forks": 17,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 107,
-    "forks": 45,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "name": "groundingpi/GroundingPI",
+    "url": "https://github.com/groundingpi/GroundingPI",
+    "stars": 269,
+    "forks": 13,
+    "description": "A 4B grounding foundation model for physical intelligence. Unifies detection, referring, pointing, OCR, GUI, and layout grounding, achieving...",
     "language": "Python",
     "tag": "Embodied AI",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "mahmoudrabie/agentic-ai",
+    "url": "https://github.com/mahmoudrabie/agentic-ai",
+    "stars": 188,
+    "forks": 7,
+    "description": "Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "rongxinzy/RongxinAI",
+    "url": "https://github.com/rongxinzy/RongxinAI",
+    "stars": 161,
+    "forks": 7,
+    "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, brows...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "sleep2agi/agent-network",
+    "url": "https://github.com/sleep2agi/agent-network",
+    "stars": 114,
+    "forks": 15,
+    "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / Mini...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-31"
   },
   {
@@ -70,13 +50,33 @@
     "pushed_at": "2026-10-31"
   },
   {
-    "name": "Open-X-Humanoid/BICMap",
-    "url": "https://github.com/Open-X-Humanoid/BICMap",
-    "stars": 94,
-    "forks": 7,
-    "description": "A WebGL-based robotics map visualization SDK for SLAM maps, point clouds, 3D models, and robot navigation.",
-    "language": "JavaScript",
+    "name": "nullpointexception-i/agent-sphere",
+    "url": "https://github.com/nullpointexception-i/agent-sphere",
+    "stars": 76,
+    "forks": 11,
+    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
+    "language": "Java",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "pink-kinematics/pink_motions",
+    "url": "https://github.com/pink-kinematics/pink_motions",
+    "stars": 23,
+    "forks": 0,
+    "description": "A library of robot motions performed by inverse kinematics and model predictive control",
+    "language": "Python",
     "tag": "Embodied AI",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "dean0x/devflow",
+    "url": "https://github.com/dean0x/devflow",
+    "stars": 21,
+    "forks": 2,
+    "description": "The most advanced agentic development meta-harness for generating production-grade code. Ambient Orchestration, Working memory that never fo...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-10-31"
   }
 ]
