@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-31 14:48 UTC` | **Source-linked stories:** `250`
+> **Index generated:** `2026-10-31 19:20 UTC` | **Source-linked stories:** `252`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 293.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 267.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 293.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 267.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.1k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.3k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.4k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,18 +32,20 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [groundingpi/GroundingPI](https://github.com/groundingpi/GroundingPI) | `★ 269` | `2026-10-31` | Embodied AI | `Python` | A 4B grounding foundation model for physical intelligence. Unifies detection, referri... |
-| [mahmoudrabie/agentic-ai](https://github.com/mahmoudrabie/agentic-ai) | `★ 188` | `2026-10-31` | Indie Tool | `Python` | Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domai... |
-| [rongxinzy/RongxinAI](https://github.com/rongxinzy/RongxinAI) | `★ 161` | `2026-10-31` | Indie Tool | `TypeScript` | Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, d... |
-| [sleep2agi/agent-network](https://github.com/sleep2agi/agent-network) | `★ 114` | `2026-10-31` | Experimental Agent | `TypeScript` | 助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Bui... |
-| [OpenBMB/SimpleMemVLA](https://github.com/OpenBMB/SimpleMemVLA) | `★ 102` | `2026-10-31` | Embodied AI | `Python` | Native-video memory for vision-language-action models, using timestamped visual histo... |
+| [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) | `★ 354` | `2026-10-31` | Experimental Agent | `Python` | AI agents that know you and your work, in a chat app anyone can use. Open source, any... |
+| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 307` | `2026-10-31` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
+| [groundingpi/GroundingPI](https://github.com/groundingpi/GroundingPI) | `★ 272` | `2026-10-31` | Embodied AI | `Python` | A 4B grounding foundation model for physical intelligence. Unifies detection, referri... |
+| [infranodus/skills](https://github.com/infranodus/skills) | `★ 125` | `2026-10-31` | Indie Tool | `Python` | Skills to augment LLM thinking process, integrated with InfraNodus insight generation... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 107` | `2026-10-31` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-31` | AI Research | [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](src/content/news/2026-10-31-what-does-an-ontology-catch-curated.md) | LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the grap... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-what-does-an-ontology-catch-curated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37809) |
 | `2026-10-31` | AI Research | [WebAnything: From the Wild Web to Scalable Agent Environments](src/content/news/2026-10-31-webanything-from-the-wild-web-to.md) | WebAnything | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-webanything-from-the-wild-web-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37786) |
 | `2026-10-31` | AI Research | [OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery](src/content/news/2026-10-31-openfrontiers-a-collection-of-open-research.md) | Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive c... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-openfrontiers-a-collection-of-open-research/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37739) |
+| `2026-10-31` | AI Research | [Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis](src/content/news/2026-10-31-measuring-where-intent-gets-lost-in.md) | AI agents can | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-measuring-where-intent-gets-lost-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37830) |
 | `2026-10-31` | AI Research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](src/content/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient.md) | Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates com... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37720) |
 | `2026-10-31` | AI Research | [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](src/content/news/2026-10-31-amortized-localized-posterior-inference-for-model.md) | Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the contex... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-amortized-localized-posterior-inference-for-model/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37731) |
 | `2026-10-30` | Robotics & Hardware | [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](src/content/news/2026-10-30-things-that-go-beep-in-the.md) | While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, th... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-30-things-that-go-beep-in-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals) |
@@ -299,7 +301,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-31 14:48 UTC` | **Yayımlanan haber:** `250`
+> **Dizin oluşturma:** `2026-10-31 19:20 UTC` | **Yayımlanan haber:** `252`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -309,8 +311,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-31` | AI Research | [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](src/content/news/2026-10-31-what-does-an-ontology-catch-curated.md) | LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the grap... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-what-does-an-ontology-catch-curated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37809) |
 | `2026-10-31` | AI Research | [WebAnything: From the Wild Web to Scalable Agent Environments](src/content/news/2026-10-31-webanything-from-the-wild-web-to.md) | WebAnything | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-webanything-from-the-wild-web-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37786) |
 | `2026-10-31` | AI Research | [OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery](src/content/news/2026-10-31-openfrontiers-a-collection-of-open-research.md) | Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive c... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-openfrontiers-a-collection-of-open-research/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37739) |
+| `2026-10-31` | AI Research | [Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis](src/content/news/2026-10-31-measuring-where-intent-gets-lost-in.md) | AI agents can | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-measuring-where-intent-gets-lost-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37830) |
 | `2026-10-31` | AI Research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](src/content/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient.md) | Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates com... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37720) |
 | `2026-10-31` | AI Research | [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](src/content/news/2026-10-31-amortized-localized-posterior-inference-for-model.md) | Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the contex... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-amortized-localized-posterior-inference-for-model/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37731) |
 | `2026-10-30` | Robotics & Hardware | [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](src/content/news/2026-10-30-things-that-go-beep-in-the.md) | While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, th... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-30-things-that-go-beep-in-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals) |

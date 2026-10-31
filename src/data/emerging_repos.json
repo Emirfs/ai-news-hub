@@ -1,8 +1,28 @@
 [
   {
+    "name": "mindroom-ai/mindroom",
+    "url": "https://github.com/mindroom-ai/mindroom",
+    "stars": 354,
+    "forks": 25,
+    "description": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 307,
+    "forks": 78,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-10-31"
+  },
+  {
     "name": "groundingpi/GroundingPI",
     "url": "https://github.com/groundingpi/GroundingPI",
-    "stars": 269,
+    "stars": 272,
     "forks": 13,
     "description": "A 4B grounding foundation model for physical intelligence. Unifies detection, referring, pointing, OCR, GUI, and layout grounding, achieving...",
     "language": "Python",
@@ -10,73 +30,53 @@
     "pushed_at": "2026-10-31"
   },
   {
-    "name": "mahmoudrabie/agentic-ai",
-    "url": "https://github.com/mahmoudrabie/agentic-ai",
-    "stars": 188,
-    "forks": 7,
-    "description": "Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains.",
+    "name": "infranodus/skills",
+    "url": "https://github.com/infranodus/skills",
+    "stars": 125,
+    "forks": 31,
+    "description": "Skills to augment LLM thinking process, integrated with InfraNodus insight generation tool",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-10-31"
   },
   {
-    "name": "rongxinzy/RongxinAI",
-    "url": "https://github.com/rongxinzy/RongxinAI",
-    "stars": 161,
-    "forks": 7,
-    "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, brows...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "sleep2agi/agent-network",
-    "url": "https://github.com/sleep2agi/agent-network",
-    "stars": 114,
-    "forks": 15,
-    "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / Mini...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "OpenBMB/SimpleMemVLA",
-    "url": "https://github.com/OpenBMB/SimpleMemVLA",
-    "stars": 102,
-    "forks": 13,
-    "description": "Native-video memory for vision-language-action models, using timestamped visual history and exact streaming inference for long-horizon robot...",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 107,
+    "forks": 45,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-10-31"
   },
   {
-    "name": "nullpointexception-i/agent-sphere",
-    "url": "https://github.com/nullpointexception-i/agent-sphere",
-    "stars": 76,
-    "forks": 11,
-    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
-    "language": "Java",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "pink-kinematics/pink_motions",
-    "url": "https://github.com/pink-kinematics/pink_motions",
-    "stars": 23,
-    "forks": 0,
-    "description": "A library of robot motions performed by inverse kinematics and model predictive control",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-31"
-  },
-  {
-    "name": "dean0x/devflow",
-    "url": "https://github.com/dean0x/devflow",
-    "stars": 21,
-    "forks": 2,
-    "description": "The most advanced agentic development meta-harness for generating production-grade code. Ambient Orchestration, Working memory that never fo...",
+    "name": "OpenAdminOS/OpenAdminOS",
+    "url": "https://github.com/OpenAdminOS/OpenAdminOS",
+    "stars": 78,
+    "forks": 8,
+    "description": "Open-source, local-first AI agents for IT administration. Start with Microsoft 365, connect any API. Data never leaves the device.",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "Zer0Qing/Muse",
+    "url": "https://github.com/Zer0Qing/Muse",
+    "stars": 69,
+    "forks": 9,
+    "description": "不只是对话，是持续认识你的 AI。开源 Android AI 伴侣：本地优先，能替你做事。 | Not just chat — an AI that truly knows you. An open-source, local-first Android AI companion...",
+    "language": "Kotlin",
+    "tag": "Local AI",
+    "pushed_at": "2026-10-31"
+  },
+  {
+    "name": "Tort1k558/Camouflow",
+    "url": "https://github.com/Tort1k558/Camouflow",
+    "stars": 60,
+    "forks": 12,
+    "description": "Local-first anti-detect browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Pow...",
+    "language": "Python",
+    "tag": "Local AI",
     "pushed_at": "2026-10-31"
   }
 ]
