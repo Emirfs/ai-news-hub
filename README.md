@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-30 22:40 UTC` | **Source-linked stories:** `246`
+> **Index generated:** `2026-10-31 01:52 UTC` | **Source-linked stories:** `246`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 412.1k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 412.5k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 293.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 266.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 266.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 258.9k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [yologdev/yoagent](https://github.com/yologdev/yoagent) | `★ 367` | `2026-10-30` | Indie Tool | `Rust` | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. Fr... |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 301` | `2026-10-30` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
-| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 140` | `2026-10-30` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
-| [sleep2agi/agent-network](https://github.com/sleep2agi/agent-network) | `★ 114` | `2026-10-30` | Experimental Agent | `TypeScript` | 助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Bui... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 107` | `2026-10-30` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [briiirussell/cybersecurity-skills](https://github.com/briiirussell/cybersecurity-skills) | `★ 487` | `2026-10-31` | Experimental Agent | `JavaScript` | Cybersecurity skills for AI coding agents (Claude Code, Cursor, Codex) |
+| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 221` | `2026-10-31` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
+| [black-forest-labs/flux-action](https://github.com/black-forest-labs/flux-action) | `★ 202` | `2026-10-31` | Embodied AI | `Python` | FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine... |
+| [Dicklesworthstone/frankenterm](https://github.com/Dicklesworthstone/frankenterm) | `★ 127` | `2026-10-31` | Experimental Agent | `Rust` | Swarm-native terminal platform for AI coding agents: real-time pane capture, change-p... |
+| [awebai/aweb](https://github.com/awebai/aweb) | `★ 127` | `2026-10-31` | Experimental Agent | `Python` | Communication for AI agents: stable identity, durable mail and chat, and wake-up even... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -295,7 +295,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-30 22:40 UTC` | **Yayımlanan haber:** `246`
+> **Dizin oluşturma:** `2026-10-31 01:52 UTC` | **Yayımlanan haber:** `246`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
