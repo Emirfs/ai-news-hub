@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-10-31 01:52 UTC` | **Source-linked stories:** `246`
+> **Index generated:** `2026-10-31 08:29 UTC` | **Source-linked stories:** `248`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | `★ 412.5k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 293.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 266.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 258.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [morluto/rea](https://github.com/morluto/rea) | `★ 413.4k` | Autonomous Agents | `TypeScript` | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 293.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 267.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.0k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [briiirussell/cybersecurity-skills](https://github.com/briiirussell/cybersecurity-skills) | `★ 487` | `2026-10-31` | Experimental Agent | `JavaScript` | Cybersecurity skills for AI coding agents (Claude Code, Cursor, Codex) |
-| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 221` | `2026-10-31` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
-| [black-forest-labs/flux-action](https://github.com/black-forest-labs/flux-action) | `★ 202` | `2026-10-31` | Embodied AI | `Python` | FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine... |
-| [Dicklesworthstone/frankenterm](https://github.com/Dicklesworthstone/frankenterm) | `★ 127` | `2026-10-31` | Experimental Agent | `Rust` | Swarm-native terminal platform for AI coding agents: real-time pane capture, change-p... |
-| [awebai/aweb](https://github.com/awebai/aweb) | `★ 127` | `2026-10-31` | Experimental Agent | `Python` | Communication for AI agents: stable identity, durable mail and chat, and wake-up even... |
+| [GenAI-Security-Project/agent-control-standard](https://github.com/GenAI-Security-Project/agent-control-standard) | `★ 231` | `2026-10-31` | Experimental Agent | `TypeScript` | The open standard for runtime agent control — declarative hooks, policy enforcement, ... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 187` | `2026-10-31` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [off-grid-ai/OGAD](https://github.com/off-grid-ai/OGAD) | `★ 140` | `2026-10-31` | Indie Tool | `TypeScript` | Your private, on-device personal AI assistant for macOS and Windows. Chat, create, se... |
+| [uw-syfi/vibesys](https://github.com/uw-syfi/vibesys) | `★ 124` | `2026-10-31` | Experimental Agent | `Python` | Can AI Agents Build Bespoke Systems? |
+| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 120` | `2026-10-31` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-31` | AI Research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](src/content/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient.md) | Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates com... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37720) |
+| `2026-10-31` | AI Research | [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](src/content/news/2026-10-31-amortized-localized-posterior-inference-for-model.md) | Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the contex... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-amortized-localized-posterior-inference-for-model/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37731) |
 | `2026-10-30` | Robotics & Hardware | [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](src/content/news/2026-10-30-things-that-go-beep-in-the.md) | While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, th... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-30-things-that-go-beep-in-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals) |
 | `2026-10-28` | AI Research | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](src/content/news/2026-10-28-why-and-how-to-do-science.md) | This paper argues | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-why-and-how-to-do-science/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36116) |
 | `2026-10-28` | Robotics & Hardware | [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](src/content/news/2026-10-28-thin-light-and-built-for-everything.md) | NVIDIA RTX | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-28-thin-light-and-built-for-everything/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games) |
@@ -295,7 +297,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-10-31 01:52 UTC` | **Yayımlanan haber:** `246`
+> **Dizin oluşturma:** `2026-10-31 08:29 UTC` | **Yayımlanan haber:** `248`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -305,6 +307,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-10-31` | AI Research | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](src/content/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient.md) | Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates com... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-lrmoe-demand-side-load-re-calibration-for-efficient/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37720) |
+| `2026-10-31` | AI Research | [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](src/content/news/2026-10-31-amortized-localized-posterior-inference-for-model.md) | Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the contex... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-amortized-localized-posterior-inference-for-model/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37731) |
 | `2026-10-30` | Robotics & Hardware | [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](src/content/news/2026-10-30-things-that-go-beep-in-the.md) | While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, th... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-30-things-that-go-beep-in-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals) |
 | `2026-10-28` | AI Research | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](src/content/news/2026-10-28-why-and-how-to-do-science.md) | This paper argues | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-why-and-how-to-do-science/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.36116) |
 | `2026-10-28` | Robotics & Hardware | [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](src/content/news/2026-10-28-thin-light-and-built-for-everything.md) | NVIDIA RTX | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-28-thin-light-and-built-for-everything/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games) |
