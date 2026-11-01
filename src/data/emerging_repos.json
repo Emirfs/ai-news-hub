@@ -1,32 +1,22 @@
 [
   {
-    "name": "cortexkit/aft",
-    "url": "https://github.com/cortexkit/aft",
-    "stars": 334,
-    "forks": 45,
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-01"
-  },
-  {
-    "name": "RandyChen1985/nanzi-ai-agent-platform",
-    "url": "https://github.com/RandyChen1985/nanzi-ai-agent-platform",
-    "stars": 222,
-    "forks": 60,
-    "description": "🚀 开源企业级多智能体平台与 ChatBI 数据洞察平台。支持多 Agent 协作、RAG 知识增强、物理数据源直连与安全沙箱执行、Redis 长期记忆引擎，并集成多模态 EmbedChat 挂件与全方位 Token 消耗审计看板，完整 RBAC权限控制和 Harness支持。",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-01"
-  },
-  {
-    "name": "Atrayee-dev/secure-ai-agent-boundary",
-    "url": "https://github.com/Atrayee-dev/secure-ai-agent-boundary",
-    "stars": 114,
+    "name": "kellyiscute/nestjs-llm-tools",
+    "url": "https://github.com/kellyiscute/nestjs-llm-tools",
+    "stars": 175,
     "forks": 0,
-    "description": "Secure AI Engineering Framework 2026: Data-Boundary Security for Frontier Models",
-    "language": "HTML",
-    "tag": "Experimental Agent",
+    "description": "A NestJS module that provides decorators and utilities for defining LLM function calling tools using TypeScript decorators.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-01"
+  },
+  {
+    "name": "prasenjeet-symon/ogcode",
+    "url": "https://github.com/prasenjeet-symon/ogcode",
+    "stars": 145,
+    "forks": 15,
+    "description": "An open-source, local-first AI teammate and agent operating environment for turning intent into completed work—with tools, memory, permissio...",
+    "language": "Go",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-01"
   },
   {
@@ -40,43 +30,53 @@
     "pushed_at": "2026-11-01"
   },
   {
-    "name": "Noineri/vibe_tavern",
-    "url": "https://github.com/Noineri/vibe_tavern",
-    "stars": 82,
-    "forks": 5,
-    "description": "A modern, local-first AI roleplay platform",
+    "name": "techysy/10router",
+    "url": "https://github.com/techysy/10router",
+    "stars": 96,
+    "forks": 18,
+    "description": "10Router — local AI routing gateway & dashboard · npm i -g @techysy/10router",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-01"
+  },
+  {
+    "name": "Bike4Mind/bike4mind",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 94,
+    "forks": 17,
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-01"
   },
   {
-    "name": "Abdulsinsn/Scaler-2-Music-Theory-Engine",
-    "url": "https://github.com/Abdulsinsn/Scaler-2-Music-Theory-Engine",
-    "stars": 70,
-    "forks": 0,
-    "description": "Scaler 2 Music Theory Tool 2026: Direct DAW Integration for Windows 10 and 11",
-    "language": "HTML",
-    "tag": "Indie Tool",
+    "name": "dliedke/ClaudeCodeExtension",
+    "url": "https://github.com/dliedke/ClaudeCodeExtension",
+    "stars": 79,
+    "forks": 29,
+    "description": "Visual Studio .NET extension that provides a better interface for Claude Code, Codex, Cursor Agent, Open Code, Devin, PI, Antigravity and Re...",
+    "language": "C#",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-01"
   },
   {
-    "name": "Deltabrohollow/R6-Recoil-Control-Aim-bot-Assist-Research-2026",
-    "url": "https://github.com/Deltabrohollow/R6-Recoil-Control-Aim-bot-Assist-Research-2026",
-    "stars": 45,
-    "forks": 45,
-    "description": "Analyze silent aim mechanics and recoil compensation using this Windows research tool for anti-cheat development and local input simulation ...",
-    "language": "Python",
-    "tag": "Local AI",
+    "name": "vitosans/rail",
+    "url": "https://github.com/vitosans/rail",
+    "stars": 78,
+    "forks": 5,
+    "description": "A modern terminal mail client for Gmail and Microsoft 365, with an MCP server for AI agents",
+    "language": "Rust",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-01"
   },
   {
-    "name": "HIDORAKAI002/ai-workspace-archive",
-    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive",
-    "stars": 38,
-    "forks": 13,
-    "description": "A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system...",
-    "language": "Python",
-    "tag": "Indie Tool",
+    "name": "LoveMaker-art/noras-tavern",
+    "url": "https://github.com/LoveMaker-art/noras-tavern",
+    "stars": 43,
+    "forks": 14,
+    "description": "Nora's Tavern is an open-source, agent-compatible system for persistent multi-character AI stories.",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-01"
   }
 ]

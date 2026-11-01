@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-01 09:47 UTC` | **Source-linked stories:** `256`
+> **Index generated:** `2026-11-01 16:50 UTC` | **Source-linked stories:** `256`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 294.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 267.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.5k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 294.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 268.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.4k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.6k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cortexkit/aft](https://github.com/cortexkit/aft) | `★ 334` | `2026-11-01` | Experimental Agent | `Rust` | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenC... |
-| [RandyChen1985/nanzi-ai-agent-platform](https://github.com/RandyChen1985/nanzi-ai-agent-platform) | `★ 222` | `2026-11-01` | Experimental Agent | `Python` | 🚀 开源企业级多智能体平台与 ChatBI 数据洞察平台。支持多 Agent 协作、RAG 知识增强、物理数据源直连与安全沙箱执行、Redis 长期记忆引擎，并集成多模态... |
-| [Atrayee-dev/secure-ai-agent-boundary](https://github.com/Atrayee-dev/secure-ai-agent-boundary) | `★ 114` | `2026-11-01` | Experimental Agent | `HTML` | Secure AI Engineering Framework 2026: Data-Boundary Security for Frontier Models |
+| [kellyiscute/nestjs-llm-tools](https://github.com/kellyiscute/nestjs-llm-tools) | `★ 175` | `2026-11-01` | Indie Tool | `TypeScript` | A NestJS module that provides decorators and utilities for defining LLM function call... |
+| [prasenjeet-symon/ogcode](https://github.com/prasenjeet-symon/ogcode) | `★ 145` | `2026-11-01` | Indie Tool | `Go` | An open-source, local-first AI teammate and agent operating environment for turning i... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 107` | `2026-11-01` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [Noineri/vibe_tavern](https://github.com/Noineri/vibe_tavern) | `★ 82` | `2026-11-01` | Local AI | `TypeScript` | A modern, local-first AI roleplay platform |
+| [techysy/10router](https://github.com/techysy/10router) | `★ 96` | `2026-11-01` | Local AI | `JavaScript` | 10Router — local AI routing gateway & dashboard · npm i -g @techysy/10router |
+| [Bike4Mind/bike4mind](https://github.com/Bike4Mind/bike4mind) | `★ 94` | `2026-11-01` | Local AI | `TypeScript` | The open-core AI workbench — notebooks, agents, RAG, voice, and images across any mod... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -305,7 +305,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-01 09:47 UTC` | **Yayımlanan haber:** `256`
+> **Dizin oluşturma:** `2026-11-01 16:50 UTC` | **Yayımlanan haber:** `256`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
