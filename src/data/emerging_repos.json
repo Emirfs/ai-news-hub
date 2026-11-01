@@ -1,43 +1,43 @@
 [
   {
-    "name": "JiangNanGenius/floe-agent",
-    "url": "https://github.com/JiangNanGenius/floe-agent",
-    "stars": 395,
-    "forks": 55,
-    "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
-    "language": "Swift",
+    "name": "clay-good/OpenLore",
+    "url": "https://github.com/clay-good/OpenLore",
+    "stars": 355,
+    "forks": 51,
+    "description": "Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.",
+    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-10-31"
+    "pushed_at": "2026-11-01"
   },
   {
-    "name": "oxnw/ai-phone",
-    "url": "https://github.com/oxnw/ai-phone",
-    "stars": 356,
-    "forks": 58,
-    "description": "A SIP phone daemon with local speech and language models on Apple Silicon.",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-10-31"
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 232,
+    "forks": 64,
+    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-01"
   },
   {
-    "name": "groundingpi/GroundingPI",
-    "url": "https://github.com/groundingpi/GroundingPI",
-    "stars": 274,
-    "forks": 13,
-    "description": "A 4B grounding foundation model for physical intelligence. Unifies detection, referring, pointing, OCR, GUI, and layout grounding, achieving...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-10-31"
+    "name": "SethRobinson/aitools_client",
+    "url": "https://github.com/SethRobinson/aitools_client",
+    "stars": 188,
+    "forks": 22,
+    "description": "Seth's AI Tools: A Unity based front end that uses ComfyUI and LLMs to create stories, images, movies, quizzes and posters",
+    "language": "C#",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-01"
   },
   {
-    "name": "Sma1lboy/rove",
-    "url": "https://github.com/Sma1lboy/rove",
-    "stars": 181,
-    "forks": 11,
-    "description": "Rove — the agent multiplexer for your terminal. Run coding agents on parallel tasks with isolated worktrees and persistent sessions.",
+    "name": "sleep2agi/agent-network",
+    "url": "https://github.com/sleep2agi/agent-network",
+    "stars": 114,
+    "forks": 15,
+    "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / Mini...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-31"
+    "pushed_at": "2026-11-01"
   },
   {
     "name": "mstar-project/mstar",
@@ -47,36 +47,36 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-10-31"
+    "pushed_at": "2026-11-01"
   },
   {
-    "name": "apoapostolov/hermes-agent-awesome-plugins",
-    "url": "https://github.com/apoapostolov/hermes-agent-awesome-plugins",
-    "stars": 41,
-    "forks": 4,
-    "description": "An installable Hermes Agent plugin pack for AI power users: unified provider quotas, stalled-tool control, reasoning and iteration budgets, ...",
-    "language": "JavaScript",
+    "name": "NuGuardAI/nuguard",
+    "url": "https://github.com/NuGuardAI/nuguard",
+    "stars": 67,
+    "forks": 22,
+    "description": "AI red-teaming tool and LLM security framework to evaluate agentic AI applications. Tests prompt injections, handles vulnerability assessmen...",
+    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-10-31"
+    "pushed_at": "2026-11-01"
   },
   {
-    "name": "NimbleBrainInc/nimblebrain",
-    "url": "https://github.com/NimbleBrainInc/nimblebrain",
-    "stars": 28,
-    "forks": 16,
-    "description": "Self-hosted platform for MCP Apps and agent automations — tools, interactive UIs, scheduled runs, multi-agent delegation.",
+    "name": "griffinwork40/agent-afk",
+    "url": "https://github.com/griffinwork40/agent-afk",
+    "stars": 62,
+    "forks": 18,
+    "description": "The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and texts you when it’s...",
     "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-10-31"
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-01"
   },
   {
-    "name": "writerslogic/warm",
-    "url": "https://github.com/writerslogic/warm",
-    "stars": 25,
-    "forks": 6,
-    "description": "Local-first associative memory and vector search for AI agents, with Rust, Python, Node.js, and MCP integrations.",
-    "language": "Rust",
+    "name": "ali-ulu/huqan",
+    "url": "https://github.com/ali-ulu/huqan",
+    "stars": 40,
+    "forks": 2,
+    "description": "Local-first verification layer for AI agents: evidence, provenance, policy gates, human approval, and auditable Trust Receipts before a clai...",
+    "language": "JavaScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-10-31"
+    "pushed_at": "2026-11-01"
   }
 ]
