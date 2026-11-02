@@ -1,43 +1,43 @@
 [
   {
-    "name": "JiangNanGenius/floe-agent",
-    "url": "https://github.com/JiangNanGenius/floe-agent",
-    "stars": 411,
-    "forks": 56,
-    "description": "iPad-first, open-source iOS AI Agent optimized for iOS/iPadOS, with native iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
-    "language": "Swift",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-01"
+    "name": "cacheplane/threadplane",
+    "url": "https://github.com/cacheplane/threadplane",
+    "stars": 285,
+    "forks": 25,
+    "description": "The open-source thread-plane for agents: chat, durable threads, persistence, human approvals, and generative UI for Angular, on LangGraph an...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-02"
   },
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 305,
-    "forks": 168,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 231,
+    "forks": 35,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-01"
+    "tag": "Local AI",
+    "pushed_at": "2026-11-02"
   },
   {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 240,
-    "forks": 31,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
+    "name": "Balanov/uncut",
+    "url": "https://github.com/Balanov/uncut",
+    "stars": 211,
+    "forks": 0,
+    "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+    "language": "Go",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-01"
+    "pushed_at": "2026-11-02"
   },
   {
-    "name": "Glade-tool/glade-mcp",
-    "url": "https://github.com/Glade-tool/glade-mcp",
-    "stars": 213,
-    "forks": 23,
-    "description": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 275+ granular tools, an editor aware system prompt, ...",
-    "language": "C#",
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 188,
+    "forks": 17,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-01"
+    "pushed_at": "2026-11-02"
   },
   {
     "name": "mstar-project/mstar",
@@ -47,36 +47,36 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-01"
+    "pushed_at": "2026-11-02"
   },
   {
-    "name": "WingedGuardian/GENesis-AGI",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI",
-    "stars": 99,
-    "forks": 42,
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "name": "mkultraware/accuretta",
+    "url": "https://github.com/mkultraware/accuretta",
+    "stars": 80,
+    "forks": 7,
+    "description": "A sovereign, zero-trust local AI agent and micro-IDE.",
     "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-01"
+    "tag": "Local AI",
+    "pushed_at": "2026-11-02"
   },
   {
-    "name": "daintreehq/daintree",
-    "url": "https://github.com/daintreehq/daintree",
-    "stars": 83,
-    "forks": 10,
-    "description": "A review-first desktop habitat for running AI coding agents in parallel.",
-    "language": "TypeScript",
+    "name": "RealDealCPA-VR/Iron-Jarvis",
+    "url": "https://github.com/RealDealCPA-VR/Iron-Jarvis",
+    "stars": 65,
+    "forks": 17,
+    "description": "A local-first AI control plane for orchestrating agents, models, tools, and machines from one desktop app.",
+    "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-01"
+    "pushed_at": "2026-11-02"
   },
   {
-    "name": "preloop/preloop",
-    "url": "https://github.com/preloop/preloop",
-    "stars": 83,
-    "forks": 22,
-    "description": "The open-source AI agent control plane and software factory: govern every tool and model call.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-01"
+    "name": "nttcom/moq-wasm",
+    "url": "https://github.com/nttcom/moq-wasm",
+    "stars": 56,
+    "forks": 6,
+    "description": "Pure Rust Media over QUIC Implementation(ClientSDK / Relay Server) for Browser / Native App / IP Camera / Robot / Drone / AI Agent.",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-02"
   }
 ]
