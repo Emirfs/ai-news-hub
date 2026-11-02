@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-02 00:50 UTC` | **Source-linked stories:** `256`
+> **Index generated:** `2026-11-02 07:43 UTC` | **Source-linked stories:** `258`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 294.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 268.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 295.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 268.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.6k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.7k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.8k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cacheplane/threadplane](https://github.com/cacheplane/threadplane) | `★ 285` | `2026-11-02` | Experimental Agent | `TypeScript` | The open-source thread-plane for agents: chat, durable threads, persistence, human ap... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 231` | `2026-11-02` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [Balanov/uncut](https://github.com/Balanov/uncut) | `★ 211` | `2026-11-02` | Indie Tool | `Go` | The lossless, headless coding agent harness. One 7 MB static binary, four tools, plai... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 188` | `2026-11-02` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 107` | `2026-11-02` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 417` | `2026-11-02` | Local AI | `Python` | Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, loc... |
+| [artcc/freelingo](https://github.com/artcc/freelingo) | `★ 224` | `2026-11-02` | Local AI | `JavaScript` | Open-source, self-hosted AI language learning platform with local or cloud LLMs, CEFR... |
+| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 178` | `2026-11-02` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
+| [directionally-local/autopilot](https://github.com/directionally-local/autopilot) | `★ 177` | `2026-11-02` | Experimental Agent | `TypeScript` | Open-source terminal coding agent and SDK. Bring your own key for 25+ providers or a ... |
+| [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | `★ 176` | `2026-11-02` | Embodied AI | `Python` | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for I... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-02` | AI Research | [Bayesian Distribution System State Estimation with Flow Matching](src/content/news/2026-11-02-bayesian-distribution-system-state-estimation-with.md) | PoSE (posterior | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-bayesian-distribution-system-state-estimation-with/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40728) |
+| `2026-11-02` | AI Research | [Automatic Construction of Strong Simple Baselines](src/content/news/2026-11-02-automatic-construction-of-strong-simple-baselines.md) | To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baseline... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-automatic-construction-of-strong-simple-baselines/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40700) |
 | `2026-10-31` | AI Research | [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](src/content/news/2026-10-31-what-does-an-ontology-catch-curated.md) | LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the grap... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-what-does-an-ontology-catch-curated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37809) |
 | `2026-10-31` | AI Research | [What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine](src/content/news/2026-11-01-what-constitutes-food-similarity-visual-representations.md) | Food similarity underlies retrieval, recommendation, substitution, and other food computing tasks, yet food represe... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-01-what-constitutes-food-similarity-visual-representations/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37867) |
 | `2026-10-31` | AI Research | [WebAnything: From the Wild Web to Scalable Agent Environments](src/content/news/2026-10-31-webanything-from-the-wild-web-to.md) | WebAnything | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-webanything-from-the-wild-web-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37786) |
@@ -305,7 +307,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-02 00:50 UTC` | **Yayımlanan haber:** `256`
+> **Dizin oluşturma:** `2026-11-02 07:43 UTC` | **Yayımlanan haber:** `258`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -315,6 +317,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-02` | AI Research | [Bayesian Distribution System State Estimation with Flow Matching](src/content/news/2026-11-02-bayesian-distribution-system-state-estimation-with.md) | PoSE (posterior | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-bayesian-distribution-system-state-estimation-with/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40728) |
+| `2026-11-02` | AI Research | [Automatic Construction of Strong Simple Baselines](src/content/news/2026-11-02-automatic-construction-of-strong-simple-baselines.md) | To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baseline... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-automatic-construction-of-strong-simple-baselines/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40700) |
 | `2026-10-31` | AI Research | [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](src/content/news/2026-10-31-what-does-an-ontology-catch-curated.md) | LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the grap... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-what-does-an-ontology-catch-curated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37809) |
 | `2026-10-31` | AI Research | [What Constitutes Food Similarity? Visual Representations and Retrieval in Indian Cuisine](src/content/news/2026-11-01-what-constitutes-food-similarity-visual-representations.md) | Food similarity underlies retrieval, recommendation, substitution, and other food computing tasks, yet food represe... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-01-what-constitutes-food-similarity-visual-representations/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37867) |
 | `2026-10-31` | AI Research | [WebAnything: From the Wild Web to Scalable Agent Environments](src/content/news/2026-10-31-webanything-from-the-wild-web-to.md) | WebAnything | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-webanything-from-the-wild-web-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37786) |
