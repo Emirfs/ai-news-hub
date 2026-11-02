@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-02 07:43 UTC` | **Source-linked stories:** `258`
+> **Index generated:** `2026-11-02 17:28 UTC` | **Source-linked stories:** `260`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 295.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 268.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 223.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.8k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 295.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 269.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 197.9k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 417` | `2026-11-02` | Local AI | `Python` | Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, loc... |
-| [artcc/freelingo](https://github.com/artcc/freelingo) | `★ 224` | `2026-11-02` | Local AI | `JavaScript` | Open-source, self-hosted AI language learning platform with local or cloud LLMs, CEFR... |
-| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 178` | `2026-11-02` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [directionally-local/autopilot](https://github.com/directionally-local/autopilot) | `★ 177` | `2026-11-02` | Experimental Agent | `TypeScript` | Open-source terminal coding agent and SDK. Bring your own key for 25+ providers or a ... |
-| [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | `★ 176` | `2026-11-02` | Embodied AI | `Python` | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for I... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 252` | `2026-11-02` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 240` | `2026-11-02` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [mahmoudrabie/agentic-ai](https://github.com/mahmoudrabie/agentic-ai) | `★ 188` | `2026-11-02` | Indie Tool | `Python` | Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domai... |
+| [cair-vinuni/RoboGaze](https://github.com/cair-vinuni/RoboGaze) | `★ 154` | `2026-11-02` | Embodied AI | `Python` | Repository associated with paper titled "RoboGaze: Evaluating Robot World Models via ... |
+| [sixb-ai/sixb](https://github.com/sixb-ai/sixb) | `★ 128` | `2026-11-02` | Experimental Agent | `TypeScript` | Open-source TypeScript framework for building operational software used by humans and... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-02` | AI Research | [TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](src/content/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for.md) | TSFL | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40901) |
+| `2026-11-02` | AI Research | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](src/content/news/2026-11-02-frozen-in-time-how-a-physics.md) | Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-frozen-in-time-how-a-physics/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40857) |
 | `2026-11-02` | AI Research | [Bayesian Distribution System State Estimation with Flow Matching](src/content/news/2026-11-02-bayesian-distribution-system-state-estimation-with.md) | PoSE (posterior | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-bayesian-distribution-system-state-estimation-with/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40728) |
 | `2026-11-02` | AI Research | [Automatic Construction of Strong Simple Baselines](src/content/news/2026-11-02-automatic-construction-of-strong-simple-baselines.md) | To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baseline... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-automatic-construction-of-strong-simple-baselines/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40700) |
 | `2026-10-31` | AI Research | [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](src/content/news/2026-10-31-what-does-an-ontology-catch-curated.md) | LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the grap... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-10-31-what-does-an-ontology-catch-curated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37809) |
@@ -307,7 +309,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-02 07:43 UTC` | **Yayımlanan haber:** `258`
+> **Dizin oluşturma:** `2026-11-02 17:28 UTC` | **Yayımlanan haber:** `260`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -317,6 +319,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-02` | AI Research | [TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](src/content/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for.md) | TSFL | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40901) |
+| `2026-11-02` | AI Research | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](src/content/news/2026-11-02-frozen-in-time-how-a-physics.md) | Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-frozen-in-time-how-a-physics/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40857) |
 | `2026-11-02` | AI Research | [Bayesian Distribution System State Estimation with Flow Matching](src/content/news/2026-11-02-bayesian-distribution-system-state-estimation-with.md) | PoSE (posterior | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-bayesian-distribution-system-state-estimation-with/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40728) |
 | `2026-11-02` | AI Research | [Automatic Construction of Strong Simple Baselines](src/content/news/2026-11-02-automatic-construction-of-strong-simple-baselines.md) | To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baseline... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-automatic-construction-of-strong-simple-baselines/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40700) |
 | `2026-10-31` | AI Research | [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](src/content/news/2026-10-31-what-does-an-ontology-catch-curated.md) | LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the grap... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-10-31-what-does-an-ontology-catch-curated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.37809) |
