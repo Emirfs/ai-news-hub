@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-03 15:15 UTC` | **Source-linked stories:** `266`
+> **Index generated:** `2026-11-03 21:05 UTC` | **Source-linked stories:** `268`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 296.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 270.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.1k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 296.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 271.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.2k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.2k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.3k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,20 +32,22 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login) | `★ 351` | `2026-11-03` | Indie Tool | `JavaScript` | Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM ... |
-| [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck) | `★ 281` | `2026-11-03` | Experimental Agent | `TypeScript` | Local dashboards and physical controls for AI coding agents — native 3D aquariums, St... |
-| [black-forest-labs/flux-action](https://github.com/black-forest-labs/flux-action) | `★ 205` | `2026-11-03` | Embodied AI | `Python` | FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine... |
-| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 198` | `2026-11-03` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 109` | `2026-11-03` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [Swival/swival](https://github.com/Swival/swival) | `★ 353` | `2026-11-03` | Experimental Agent | `Python` | A small, powerful, open-source CLI coding agent that works with open models. |
+| [orkunisitmak/banana-studio](https://github.com/orkunisitmak/banana-studio) | `★ 293` | `2026-11-03` | Local AI | `TypeScript` | A self-hosted AI media studio with an independent local macOS workspace. Bring your o... |
+| [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | `★ 180` | `2026-11-03` | Embodied AI | `Python` | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for I... |
+| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 151` | `2026-11-03` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
+| [Open-RUA/uni-robot-agent](https://github.com/Open-RUA/uni-robot-agent) | `★ 118` | `2026-11-03` | Embodied AI | `Python` | Democratizing Robot-Use Agents: A Unified Harness with Open Models |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-03` | AI Research | [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](src/content/news/2026-11-03-in-model-context-compression-with-agentic-soft.md) | Agentic Soft- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-in-model-context-compression-with-agentic-soft/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41291) |
 | `2026-11-03` | AI Research | [Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses](src/content/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for.md) | A search harness | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41172) |
 | `2026-11-03` | Robotics & Hardware | [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](src/content/news/2026-11-03-cities-worldwide-build-and-scale-ai.md) | Cities generate enormous amounts | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-cities-worldwide-build-and-scale-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications) |
 | `2026-11-03` | AI Research | [Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models](src/content/news/2026-11-03-beyond-clip-calibrated-few-shot-defect-detection.md) | Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-beyond-clip-calibrated-few-shot-defect-detection/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41199) |
 | `2026-11-03` | AI Research | [ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents](src/content/news/2026-11-03-angler-verifier-grounded-benchmarking-with-an-adaptive.md) | Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-angler-verifier-grounded-benchmarking-with-an-adaptive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41272) |
+| `2026-11-03` | Robotics & Hardware | [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](src/content/news/2026-11-03-ai-is-changing-how-semiconductor-fabs.md) | Demand for advanced chips | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-ai-is-changing-how-semiconductor-fabs/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-semiconductor-fabs) |
 | `2026-11-02` | AI Research | [TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](src/content/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for.md) | TSFL | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40901) |
 | `2026-11-02` | AI Research | [No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates](src/content/news/2026-11-03-no-channels-left-behind-understanding-diffusion.md) | Training acceleration | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-no-channels-left-behind-understanding-diffusion/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40914) |
 | `2026-11-02` | AI Research | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](src/content/news/2026-11-02-frozen-in-time-how-a-physics.md) | Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-frozen-in-time-how-a-physics/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40857) |
@@ -315,7 +317,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-03 15:15 UTC` | **Yayımlanan haber:** `266`
+> **Dizin oluşturma:** `2026-11-03 21:05 UTC` | **Yayımlanan haber:** `268`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -325,10 +327,12 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-03` | AI Research | [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](src/content/news/2026-11-03-in-model-context-compression-with-agentic-soft.md) | Agentic Soft- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-in-model-context-compression-with-agentic-soft/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41291) |
 | `2026-11-03` | AI Research | [Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses](src/content/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for.md) | A search harness | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41172) |
 | `2026-11-03` | Robotics & Hardware | [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](src/content/news/2026-11-03-cities-worldwide-build-and-scale-ai.md) | Cities generate enormous amounts | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-cities-worldwide-build-and-scale-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications) |
 | `2026-11-03` | AI Research | [Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models](src/content/news/2026-11-03-beyond-clip-calibrated-few-shot-defect-detection.md) | Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-beyond-clip-calibrated-few-shot-defect-detection/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41199) |
 | `2026-11-03` | AI Research | [ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents](src/content/news/2026-11-03-angler-verifier-grounded-benchmarking-with-an-adaptive.md) | Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-angler-verifier-grounded-benchmarking-with-an-adaptive/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41272) |
+| `2026-11-03` | Robotics & Hardware | [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](src/content/news/2026-11-03-ai-is-changing-how-semiconductor-fabs.md) | Demand for advanced chips | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-ai-is-changing-how-semiconductor-fabs/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-semiconductor-fabs) |
 | `2026-11-02` | AI Research | [TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](src/content/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for.md) | TSFL | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40901) |
 | `2026-11-02` | AI Research | [No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates](src/content/news/2026-11-03-no-channels-left-behind-understanding-diffusion.md) | Training acceleration | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-no-channels-left-behind-understanding-diffusion/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40914) |
 | `2026-11-02` | AI Research | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](src/content/news/2026-11-02-frozen-in-time-how-a-physics.md) | Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-frozen-in-time-how-a-physics/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40857) |
