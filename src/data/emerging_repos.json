@@ -1,52 +1,62 @@
 [
   {
-    "name": "cortexkit/aft",
-    "url": "https://github.com/cortexkit/aft",
-    "stars": 334,
-    "forks": 45,
-    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-03"
-  },
-  {
-    "name": "ncoevoet/facet",
-    "url": "https://github.com/ncoevoet/facet",
-    "stars": 332,
-    "forks": 35,
-    "description": "Local AI photo scoring, culling, and gallery — score, organise, and explore your library with face recognition and semantic search. No cloud...",
-    "language": "Python",
+    "name": "talex-touch/tuff",
+    "url": "https://github.com/talex-touch/tuff",
+    "stars": 285,
+    "forks": 23,
+    "description": "The command bar, reimagined for those who build. Tuff is an open-source core for your OS, built on a sandboxed architecture with a local-fir...",
+    "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-03"
   },
   {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 231,
-    "forks": 35,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 109,
+    "forks": 48,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
-    "tag": "Experimental Agent",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-03"
   },
   {
-    "name": "techysy/10router",
-    "url": "https://github.com/techysy/10router",
-    "stars": 94,
-    "forks": 18,
-    "description": "10Router — local AI routing gateway & dashboard · npm i -g @techysy/10router",
-    "language": "JavaScript",
+    "name": "niyongsheng/mythpen",
+    "url": "https://github.com/niyongsheng/mythpen",
+    "stars": 81,
+    "forks": 13,
+    "description": "Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking. 角色/关系/伏笔/大纲/世界观/时间线，多语言支持，自动化小说...",
+    "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-03"
   },
   {
-    "name": "rizukirr/no-vibe",
-    "url": "https://github.com/rizukirr/no-vibe",
-    "stars": 44,
-    "forks": 1,
-    "description": "Turn your AI coding agent into a tutor. It learns your level and adapts to you",
-    "language": "Shell",
+    "name": "nullpointexception-i/agent-sphere",
+    "url": "https://github.com/nullpointexception-i/agent-sphere",
+    "stars": 78,
+    "forks": 12,
+    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
+    "language": "Java",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "kdeps/kdeps",
+    "url": "https://github.com/kdeps/kdeps",
+    "stars": 38,
+    "forks": 5,
+    "description": "AI Appliance Builder — YAML-defined AI agents and workflows. Ship as Docker, Kubernetes, ISO, or standalone binary.",
+    "language": "Go",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "HyperbolicCurve/Awesome-World-Action-Model",
+    "url": "https://github.com/HyperbolicCurve/Awesome-World-Action-Model",
+    "stars": 37,
+    "forks": 3,
+    "description": "A curated list of academic papers and resources on Vision-Language-Action (VLA) and World Action Models (WAM)",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-03"
   },
   {
@@ -60,23 +70,13 @@
     "pushed_at": "2026-11-03"
   },
   {
-    "name": "black-forest-labs/flux-action",
-    "url": "https://github.com/black-forest-labs/flux-action",
-    "stars": 205,
-    "forks": 19,
-    "description": "FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-1...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-02"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 108,
-    "forks": 47,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-02"
+    "name": "ivostoykov/localAI",
+    "url": "https://github.com/ivostoykov/localAI",
+    "stars": 33,
+    "forks": 4,
+    "description": "Use local AI within the browser",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-03"
   }
 ]

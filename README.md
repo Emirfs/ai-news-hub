@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-03 00:03 UTC` | **Source-linked stories:** `262`
+> **Index generated:** `2026-11-03 06:55 UTC` | **Source-linked stories:** `264`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 295.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 269.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 259.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.0k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 295.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 270.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.0k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.1k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cortexkit/aft](https://github.com/cortexkit/aft) | `★ 334` | `2026-11-03` | Experimental Agent | `Rust` | Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenC... |
-| [ncoevoet/facet](https://github.com/ncoevoet/facet) | `★ 332` | `2026-11-03` | Local AI | `Python` | Local AI photo scoring, culling, and gallery — score, organise, and explore your libr... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 231` | `2026-11-03` | Experimental Agent | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [techysy/10router](https://github.com/techysy/10router) | `★ 94` | `2026-11-03` | Local AI | `JavaScript` | 10Router — local AI routing gateway & dashboard · npm i -g @techysy/10router |
-| [rizukirr/no-vibe](https://github.com/rizukirr/no-vibe) | `★ 44` | `2026-11-03` | Experimental Agent | `Shell` | Turn your AI coding agent into a tutor. It learns your level and adapts to you |
+| [talex-touch/tuff](https://github.com/talex-touch/tuff) | `★ 285` | `2026-11-03` | Local AI | `TypeScript` | The command bar, reimagined for those who build. Tuff is an open-source core for your... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 109` | `2026-11-03` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [niyongsheng/mythpen](https://github.com/niyongsheng/mythpen) | `★ 81` | `2026-11-03` | Local AI | `TypeScript` | Local-first AI assistant for novel writing, character management, worldbuilding and s... |
+| [nullpointexception-i/agent-sphere](https://github.com/nullpointexception-i/agent-sphere) | `★ 78` | `2026-11-03` | Indie Tool | `Java` | This project is an AI Agent orchestration platform. It uses an LLM-driven decision en... |
+| [kdeps/kdeps](https://github.com/kdeps/kdeps) | `★ 38` | `2026-11-03` | Experimental Agent | `Go` | AI Appliance Builder — YAML-defined AI agents and workflows. Ship as Docker, Kubernet... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-03` | AI Research | [Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses](src/content/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for.md) | A search harness | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41172) |
+| `2026-11-03` | AI Research | [Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models](src/content/news/2026-11-03-beyond-clip-calibrated-few-shot-defect-detection.md) | Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-beyond-clip-calibrated-few-shot-defect-detection/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41199) |
 | `2026-11-02` | AI Research | [TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](src/content/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for.md) | TSFL | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40901) |
 | `2026-11-02` | AI Research | [No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates](src/content/news/2026-11-03-no-channels-left-behind-understanding-diffusion.md) | Training acceleration | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-no-channels-left-behind-understanding-diffusion/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40914) |
 | `2026-11-02` | AI Research | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](src/content/news/2026-11-02-frozen-in-time-how-a-physics.md) | Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the a... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-02-frozen-in-time-how-a-physics/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40857) |
@@ -311,7 +313,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-03 00:03 UTC` | **Yayımlanan haber:** `262`
+> **Dizin oluşturma:** `2026-11-03 06:55 UTC` | **Yayımlanan haber:** `264`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -321,6 +323,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-03` | AI Research | [Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses](src/content/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for.md) | A search harness | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41172) |
+| `2026-11-03` | AI Research | [Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models](src/content/news/2026-11-03-beyond-clip-calibrated-few-shot-defect-detection.md) | Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-beyond-clip-calibrated-few-shot-defect-detection/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41199) |
 | `2026-11-02` | AI Research | [TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research](src/content/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for.md) | TSFL | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-tsflab-a-self-improving-agent-agnostic-workbench-for/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40901) |
 | `2026-11-02` | AI Research | [No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates](src/content/news/2026-11-03-no-channels-left-behind-understanding-diffusion.md) | Training acceleration | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-no-channels-left-behind-understanding-diffusion/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40914) |
 | `2026-11-02` | AI Research | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](src/content/news/2026-11-02-frozen-in-time-how-a-physics.md) | Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the a... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-02-frozen-in-time-how-a-physics/) | [arXiv (cs.LG)](https://arxiv.org/abs/2610.40857) |
