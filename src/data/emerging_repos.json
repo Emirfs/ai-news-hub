@@ -1,12 +1,42 @@
 [
   {
-    "name": "talex-touch/tuff",
-    "url": "https://github.com/talex-touch/tuff",
-    "stars": 285,
-    "forks": 23,
-    "description": "The command bar, reimagined for those who build. Tuff is an open-source core for your OS, built on a sandboxed architecture with a local-fir...",
+    "name": "cv-superding/dsh-deepseek-web-login",
+    "url": "https://github.com/cv-superding/dsh-deepseek-web-login",
+    "stars": 351,
+    "forks": 45,
+    "description": "Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE stre...",
+    "language": "JavaScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "puritysb/AgentDeck",
+    "url": "https://github.com/puritysb/AgentDeck",
+    "stars": 281,
+    "forks": 55,
+    "description": "Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED dis...",
     "language": "TypeScript",
-    "tag": "Local AI",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "black-forest-labs/flux-action",
+    "url": "https://github.com/black-forest-labs/flux-action",
+    "stars": 205,
+    "forks": 19,
+    "description": "FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-1...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "bigfish1913/pi-rust",
+    "url": "https://github.com/bigfish1913/pi-rust",
+    "stars": 198,
+    "forks": 39,
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-03"
   },
   {
@@ -20,63 +50,33 @@
     "pushed_at": "2026-11-03"
   },
   {
-    "name": "niyongsheng/mythpen",
-    "url": "https://github.com/niyongsheng/mythpen",
-    "stars": 81,
-    "forks": 13,
-    "description": "Local-first AI assistant for novel writing, character management, worldbuilding and story timeline tracking. 角色/关系/伏笔/大纲/世界观/时间线，多语言支持，自动化小说...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-03"
-  },
-  {
-    "name": "nullpointexception-i/agent-sphere",
-    "url": "https://github.com/nullpointexception-i/agent-sphere",
-    "stars": 78,
-    "forks": 12,
-    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
-    "language": "Java",
+    "name": "rasros/lx",
+    "url": "https://github.com/rasros/lx",
+    "stars": 55,
+    "forks": 3,
+    "description": "CLI tool for bundling project files as LLM context.",
+    "language": "Go",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-03"
   },
   {
-    "name": "kdeps/kdeps",
-    "url": "https://github.com/kdeps/kdeps",
-    "stars": 38,
-    "forks": 5,
-    "description": "AI Appliance Builder — YAML-defined AI agents and workflows. Ship as Docker, Kubernetes, ISO, or standalone binary.",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-03"
-  },
-  {
-    "name": "HyperbolicCurve/Awesome-World-Action-Model",
-    "url": "https://github.com/HyperbolicCurve/Awesome-World-Action-Model",
-    "stars": 37,
-    "forks": 3,
-    "description": "A curated list of academic papers and resources on Vision-Language-Action (VLA) and World Action Models (WAM)",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-03"
-  },
-  {
-    "name": "eltmon/overdeck",
-    "url": "https://github.com/eltmon/overdeck",
-    "stars": 34,
-    "forks": 1,
-    "description": "Multi-agent orchestration for AI coding assistants",
+    "name": "tuuject/surowan",
+    "url": "https://github.com/tuuject/surowan",
+    "stars": 30,
+    "forks": 4,
+    "description": "基于 Agent 的 AI 驱动 Telegram Bot「塑料碗」",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-03"
   },
   {
-    "name": "ivostoykov/localAI",
-    "url": "https://github.com/ivostoykov/localAI",
-    "stars": 33,
-    "forks": 4,
-    "description": "Use local AI within the browser",
-    "language": "JavaScript",
-    "tag": "Local AI",
+    "name": "tud-phi/soromox",
+    "url": "https://github.com/tud-phi/soromox",
+    "stars": 25,
+    "forks": 5,
+    "description": "Soft Robot Models in jaX (SoRoMoX)",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-03"
   }
 ]
