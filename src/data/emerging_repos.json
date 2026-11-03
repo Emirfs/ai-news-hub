@@ -1,82 +1,82 @@
 [
   {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 252,
-    "forks": 49,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-02"
-  },
-  {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 240,
-    "forks": 31,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-02"
-  },
-  {
-    "name": "mahmoudrabie/agentic-ai",
-    "url": "https://github.com/mahmoudrabie/agentic-ai",
-    "stars": 188,
-    "forks": 7,
-    "description": "Agentic AI research papers, benchmarks, frameworks, and tools curated across 24 domains.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-02"
-  },
-  {
-    "name": "cair-vinuni/RoboGaze",
-    "url": "https://github.com/cair-vinuni/RoboGaze",
-    "stars": 154,
-    "forks": 3,
-    "description": "Repository associated with paper titled \"RoboGaze: Evaluating Robot World Models via Structured Vision-Language Analysis\"",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-02"
-  },
-  {
-    "name": "sixb-ai/sixb",
-    "url": "https://github.com/sixb-ai/sixb",
-    "stars": 128,
-    "forks": 11,
-    "description": "Open-source TypeScript framework for building operational software used by humans and AI agents.",
-    "language": "TypeScript",
+    "name": "cortexkit/aft",
+    "url": "https://github.com/cortexkit/aft",
+    "stars": 334,
+    "forks": 45,
+    "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, seman...",
+    "language": "Rust",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-02"
+    "pushed_at": "2026-11-03"
   },
   {
-    "name": "WingedGuardian/GENesis-AGI",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI",
-    "stars": 99,
-    "forks": 42,
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "name": "ncoevoet/facet",
+    "url": "https://github.com/ncoevoet/facet",
+    "stars": 332,
+    "forks": 35,
+    "description": "Local AI photo scoring, culling, and gallery — score, organise, and explore your library with face recognition and semantic search. No cloud...",
     "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-02"
-  },
-  {
-    "name": "eliautobot/my-virtual-world",
-    "url": "https://github.com/eliautobot/my-virtual-world",
-    "stars": 87,
-    "forks": 13,
-    "description": "A living 3D city for your AI agents, self-hosted. Bring OpenClaw and Hermes agents, connect a Grok Bot, or build agents on any AI model: the...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-02"
-  },
-  {
-    "name": "gtapps/hermitd",
-    "url": "https://github.com/gtapps/hermitd",
-    "stars": 83,
-    "forks": 16,
-    "description": "Think Claude Tag, but local.",
-    "language": "TypeScript",
     "tag": "Local AI",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 231,
+    "forks": 35,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "techysy/10router",
+    "url": "https://github.com/techysy/10router",
+    "stars": 94,
+    "forks": 18,
+    "description": "10Router — local AI routing gateway & dashboard · npm i -g @techysy/10router",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "rizukirr/no-vibe",
+    "url": "https://github.com/rizukirr/no-vibe",
+    "stars": 44,
+    "forks": 1,
+    "description": "Turn your AI coding agent into a tutor. It learns your level and adapts to you",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "eltmon/overdeck",
+    "url": "https://github.com/eltmon/overdeck",
+    "stars": 34,
+    "forks": 1,
+    "description": "Multi-agent orchestration for AI coding assistants",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-03"
+  },
+  {
+    "name": "black-forest-labs/flux-action",
+    "url": "https://github.com/black-forest-labs/flux-action",
+    "stars": 205,
+    "forks": 19,
+    "description": "FLUX 3 Action: open weights 7B world action model from Black Forest Labs. Train, fine-tune and run action prediction for robots (DROID, SO-1...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-02"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 108,
+    "forks": 47,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-02"
   }
 ]
