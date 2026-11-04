@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-04 01:26 UTC` | **Source-linked stories:** `270`
+> **Index generated:** `2026-11-04 08:05 UTC` | **Source-linked stories:** `271`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 296.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 271.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 296.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 271.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.3k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.3k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.4k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 231` | `2026-11-04` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [AetherLabsAI/Video2World](https://github.com/AetherLabsAI/Video2World) | `★ 227` | `2026-11-04` | Embodied AI | `Python` | Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Reth... |
-| [mingti-org/phyai](https://github.com/mingti-org/phyai) | `★ 142` | `2026-11-04` | Embodied AI | `Python` | PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and b... |
-| [different-ai-studio/teamclu](https://github.com/different-ai-studio/teamclu) | `★ 128` | `2026-11-04` | Experimental Agent | `TypeScript` | TeamClu, AI Agent Desktop Workspace |
-| [dpc/tau](https://github.com/dpc/tau) | `★ 106` | `2026-11-04` | Experimental Agent | `Rust` | Tau Coding Agent - like Pi, but twice as much |
+| [MAX-API-Next/MAX-API](https://github.com/MAX-API-Next/MAX-API) | `★ 399` | `2026-11-04` | Experimental Agent | `Go` | MAX API Next 社区是由来自科研机构和高校的 AGI 爱好者组织发起、维护和运营的研究驱动型技术社区，聚焦 AI Models 与 Agents 治理方向，致力... |
+| [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) | `★ 385` | `2026-11-04` | Experimental Agent | `Python` | 197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.... |
+| [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login) | `★ 355` | `2026-11-04` | Indie Tool | `JavaScript` | Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM ... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 258` | `2026-11-04` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | `★ 225` | `2026-11-04` | Experimental Agent | `TypeScript` | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-04` | AI Research | [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](src/content/news/2026-11-04-community-detection-in-complex-networks-via.md) | arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-04-community-detection-in-complex-networks-via/) | [arXiv (cs.LG)](https://arxiv.org/abs/2303.12212) |
 | `2026-11-03` | AI Research | [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](src/content/news/2026-11-03-in-model-context-compression-with-agentic-soft.md) | Agentic Soft- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-in-model-context-compression-with-agentic-soft/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41291) |
 | `2026-11-03` | AI Research | [Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation](src/content/news/2026-11-04-erase-the-injected-region-multimodal-prompt-injection.md) | Multimodal indirect prompt | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-04-erase-the-injected-region-multimodal-prompt-injection/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41307) |
 | `2026-11-03` | AI Research | [Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses](src/content/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for.md) | A search harness | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41172) |
@@ -319,7 +320,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-04 01:26 UTC` | **Yayımlanan haber:** `270`
+> **Dizin oluşturma:** `2026-11-04 08:05 UTC` | **Yayımlanan haber:** `271`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -329,6 +330,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-04` | AI Research | [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](src/content/news/2026-11-04-community-detection-in-complex-networks-via.md) | arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-04-community-detection-in-complex-networks-via/) | [arXiv (cs.LG)](https://arxiv.org/abs/2303.12212) |
 | `2026-11-03` | AI Research | [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](src/content/news/2026-11-03-in-model-context-compression-with-agentic-soft.md) | Agentic Soft- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-in-model-context-compression-with-agentic-soft/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41291) |
 | `2026-11-03` | AI Research | [Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation](src/content/news/2026-11-04-erase-the-injected-region-multimodal-prompt-injection.md) | Multimodal indirect prompt | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-04-erase-the-injected-region-multimodal-prompt-injection/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41307) |
 | `2026-11-03` | AI Research | [Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses](src/content/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for.md) | A search harness | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-context-as-infrastructure-knowledge-compilation-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41172) |
