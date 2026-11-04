@@ -1,38 +1,18 @@
 [
   {
-    "name": "MAX-API-Next/MAX-API",
-    "url": "https://github.com/MAX-API-Next/MAX-API",
-    "stars": 399,
-    "forks": 23,
-    "description": "MAX API Next 社区是由来自科研机构和高校的 AGI 爱好者组织发起、维护和运营的研究驱动型技术社区，聚焦 AI Models 与 Agents 治理方向，致力于建设面向 AGI 应用时代的开放基础设施。社区关注多模型与多平台接入、国产模型持续适配、AgentOps 工...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "jaechang-hits/SciAgent-Skills",
-    "url": "https://github.com/jaechang-hits/SciAgent-Skills",
-    "stars": 385,
-    "forks": 45,
-    "description": "197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.0% accuracy. RNA-seq, single-cell, drug discovery, prot...",
+    "name": "schmitech/orbit",
+    "url": "https://github.com/schmitech/orbit",
+    "stars": 359,
+    "forks": 59,
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-04"
   },
   {
-    "name": "cv-superding/dsh-deepseek-web-login",
-    "url": "https://github.com/cv-superding/dsh-deepseek-web-login",
-    "stars": 355,
-    "forks": 45,
-    "description": "Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE stre...",
-    "language": "JavaScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-04"
-  },
-  {
     "name": "VinRobotics/vla.cpp",
     "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 258,
+    "stars": 260,
     "forks": 50,
     "description": "A unified inference runtime for VLA models.",
     "language": "C++",
@@ -40,41 +20,61 @@
     "pushed_at": "2026-11-04"
   },
   {
-    "name": "node9-ai/node9-proxy",
-    "url": "https://github.com/node9-ai/node9-proxy",
-    "stars": 225,
-    "forks": 21,
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review risky actions before ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "heypinchy/pinchy",
-    "url": "https://github.com/heypinchy/pinchy",
-    "stars": 193,
-    "forks": 27,
-    "description": "Self-hosted AI agent platform built on OpenClaw. Enterprise-ready, offline-capable, open source. 🦞",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "kstevica/captain-claw",
-    "url": "https://github.com/kstevica/captain-claw",
-    "stars": 192,
-    "forks": 24,
-    "description": "Command a fleet of AI agents, on every deck, every desk, every wrist. Self-hosted multi-agent platform with memory, a coding pipeline, Flows...",
+    "name": "bennyjo/phil",
+    "url": "https://github.com/bennyjo/phil",
+    "stars": 246,
+    "forks": 169,
+    "description": "Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet...",
     "language": "Python",
-    "tag": "Local AI",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-04"
   },
   {
-    "name": "Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "url": "https://github.com/Frank-ZY-Dou/awesome-ai-3d-modeling-robotics",
-    "stars": 88,
-    "forks": 12,
-    "description": "Source-linked examples of AI models used for 3D modeling, industrial design and CAD, and robot control, with archived media and the model na...",
+    "name": "xinkyle/Voconly",
+    "url": "https://github.com/xinkyle/Voconly",
+    "stars": 153,
+    "forks": 7,
+    "description": "本地优先 AI 语音输入工具 | Local-first AI voice typing tool. 支持 Whisper/SenseVoice/Parakeet/Qwen asr，离线可用，LLM 智能润色. Open-source speech-to-text with LL...",
+    "language": "C++",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-04"
+  },
+  {
+    "name": "TGYD-helige/pi",
+    "url": "https://github.com/TGYD-helige/pi",
+    "stars": 90,
+    "forks": 20,
+    "description": "Pluggable extension packages for the Pi AI-agent runtime. Each package exposes LLM-callable tools via MCP — covering IM workspace integratio...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-04"
+  },
+  {
+    "name": "dcc-mcp/dcc-mcp-core",
+    "url": "https://github.com/dcc-mcp/dcc-mcp-core",
+    "stars": 73,
+    "forks": 7,
+    "description": "MCP and REST control plane for AI agents to operate creative software: shared Rust/Python runtime, multi-instance gateway, CLI, skill discov...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-04"
+  },
+  {
+    "name": "call518/MCP-OpenStack-Ops",
+    "url": "https://github.com/call518/MCP-OpenStack-Ops",
+    "stars": 49,
+    "forks": 19,
+    "description": "90+ production-safe OpenStack tools for AI agents via MCP. Project-scoped & read-only by default. Works with Claude, Open WebUI & any MCP cl...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-04"
+  },
+  {
+    "name": "tud-phi/soromox",
+    "url": "https://github.com/tud-phi/soromox",
+    "stars": 25,
+    "forks": 5,
+    "description": "Soft Robot Models in jaX (SoRoMoX)",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-11-04"

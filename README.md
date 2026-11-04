@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-04 08:05 UTC` | **Source-linked stories:** `271`
+> **Index generated:** `2026-11-04 16:22 UTC` | **Source-linked stories:** `271`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 296.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 271.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.4k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 297.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 272.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.6k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [MAX-API-Next/MAX-API](https://github.com/MAX-API-Next/MAX-API) | `★ 399` | `2026-11-04` | Experimental Agent | `Go` | MAX API Next 社区是由来自科研机构和高校的 AGI 爱好者组织发起、维护和运营的研究驱动型技术社区，聚焦 AI Models 与 Agents 治理方向，致力... |
-| [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills) | `★ 385` | `2026-11-04` | Experimental Agent | `Python` | 197 bioinformatics & life science skills for Claude Code and AI agents — BixBench 92.... |
-| [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login) | `★ 355` | `2026-11-04` | Indie Tool | `JavaScript` | Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM ... |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 258` | `2026-11-04` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
-| [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | `★ 225` | `2026-11-04` | Experimental Agent | `TypeScript` | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP... |
+| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 359` | `2026-11-04` | Experimental Agent | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 260` | `2026-11-04` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [bennyjo/phil](https://github.com/bennyjo/phil) | `★ 246` | `2026-11-04` | Experimental Agent | `Python` | Phil is a self-improving trader: an AI agent that trades short-term prediction market... |
+| [xinkyle/Voconly](https://github.com/xinkyle/Voconly) | `★ 153` | `2026-11-04` | Indie Tool | `C++` | 本地优先 AI 语音输入工具 | Local-first AI voice typing tool. 支持 Whisper/SenseVoice/Parakeet/Qwe... |
+| [TGYD-helige/pi](https://github.com/TGYD-helige/pi) | `★ 90` | `2026-11-04` | Indie Tool | `TypeScript` | Pluggable extension packages for the Pi AI-agent runtime. Each package exposes LLM-ca... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -320,7 +320,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-04 08:05 UTC` | **Yayımlanan haber:** `271`
+> **Dizin oluşturma:** `2026-11-04 16:22 UTC` | **Yayımlanan haber:** `271`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
