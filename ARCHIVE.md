@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-04 16:22 UTC` | **Source-linked stories:** `271`
+> **Index generated:** `2026-11-04 22:15 UTC` | **Source-linked stories:** `271`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 297.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 272.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 297.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 272.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.5k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.6k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 359` | `2026-11-04` | Experimental Agent | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 260` | `2026-11-04` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
-| [bennyjo/phil](https://github.com/bennyjo/phil) | `★ 246` | `2026-11-04` | Experimental Agent | `Python` | Phil is a self-improving trader: an AI agent that trades short-term prediction market... |
-| [xinkyle/Voconly](https://github.com/xinkyle/Voconly) | `★ 153` | `2026-11-04` | Indie Tool | `C++` | 本地优先 AI 语音输入工具 | Local-first AI voice typing tool. 支持 Whisper/SenseVoice/Parakeet/Qwe... |
-| [TGYD-helige/pi](https://github.com/TGYD-helige/pi) | `★ 90` | `2026-11-04` | Indie Tool | `TypeScript` | Pluggable extension packages for the Pi AI-agent runtime. Each package exposes LLM-ca... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-04` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [aviaviavi/celorga](https://github.com/aviaviavi/celorga) | `★ 74` | `2026-11-04` | Local AI | `Swift` | A local-first workspace for your life, work, and AI agents. Built around plain-text O... |
+| [lawrence3699/jev-style](https://github.com/lawrence3699/jev-style) | `★ 53` | `2026-11-04` | Local AI | `Python` | JevStyle: local decision models for AI agents. Classify, route and score with a proba... |
+| [apoapostolov/hermes-agent-awesome-plugins](https://github.com/apoapostolov/hermes-agent-awesome-plugins) | `★ 48` | `2026-11-04` | Indie Tool | `Python` | An installable Hermes Agent plugin pack for AI power users: unified provider quotas, ... |
+| [AgentsKit-io/agentskit](https://github.com/AgentsKit-io/agentskit) | `★ 38` | `2026-11-04` | Indie Tool | `TypeScript` | The complete toolkit for building AI agents in JavaScript. Lightweight core, React & ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -320,7 +320,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-04 16:22 UTC` | **Yayımlanan haber:** `271`
+> **Dizin oluşturma:** `2026-11-04 22:15 UTC` | **Yayımlanan haber:** `271`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
