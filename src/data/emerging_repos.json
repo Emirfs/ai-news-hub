@@ -1,82 +1,82 @@
 [
   {
-    "name": "Swival/swival",
-    "url": "https://github.com/Swival/swival",
-    "stars": 353,
-    "forks": 26,
-    "description": "A small, powerful, open-source CLI coding agent that works with open models.",
+    "name": "damianvtran/local-operator",
+    "url": "https://github.com/damianvtran/local-operator",
+    "stars": 231,
+    "forks": 35,
+    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
     "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-03"
-  },
-  {
-    "name": "orkunisitmak/banana-studio",
-    "url": "https://github.com/orkunisitmak/banana-studio",
-    "stars": 293,
-    "forks": 110,
-    "description": "A self-hosted AI media studio with an independent local macOS workspace. Bring your own API keys.",
-    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-11-03"
+    "pushed_at": "2026-11-04"
   },
   {
-    "name": "zqc3117/Spotter",
-    "url": "https://github.com/zqc3117/Spotter",
-    "stars": 180,
+    "name": "AetherLabsAI/Video2World",
+    "url": "https://github.com/AetherLabsAI/Video2World",
+    "stars": 227,
+    "forks": 1,
+    "description": "Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Pe...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-04"
+  },
+  {
+    "name": "mingti-org/phyai",
+    "url": "https://github.com/mingti-org/phyai",
+    "stars": 142,
+    "forks": 34,
+    "description": "PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-devi...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-04"
+  },
+  {
+    "name": "different-ai-studio/teamclu",
+    "url": "https://github.com/different-ai-studio/teamclu",
+    "stars": 128,
+    "forks": 13,
+    "description": "TeamClu, AI Agent Desktop Workspace",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-04"
+  },
+  {
+    "name": "dpc/tau",
+    "url": "https://github.com/dpc/tau",
+    "stars": 106,
     "forks": 9,
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-03"
+    "description": "Tau Coding Agent - like Pi, but twice as much",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-04"
   },
   {
-    "name": "chonghanqin/Awesome-Agentic-Robots",
-    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
-    "stars": 151,
-    "forks": 2,
-    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 99,
+    "forks": 42,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-03"
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-04"
   },
   {
-    "name": "Open-RUA/uni-robot-agent",
-    "url": "https://github.com/Open-RUA/uni-robot-agent",
-    "stars": 118,
+    "name": "preloop/preloop",
+    "url": "https://github.com/preloop/preloop",
+    "stars": 86,
+    "forks": 22,
+    "description": "The open-source AI agent control plane and software factory: govern every tool and model call.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-04"
+  },
+  {
+    "name": "madebywelch/guaca",
+    "url": "https://github.com/madebywelch/guaca",
+    "stars": 55,
     "forks": 7,
-    "description": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-03"
-  },
-  {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 110,
-    "forks": 48,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-03"
-  },
-  {
-    "name": "gtapps/hermitd",
-    "url": "https://github.com/gtapps/hermitd",
-    "stars": 83,
-    "forks": 16,
-    "description": "Think Claude Tag, but local.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-03"
-  },
-  {
-    "name": "agentcathq/agentcat-python-sdk",
-    "url": "https://github.com/agentcathq/agentcat-python-sdk",
-    "stars": 53,
-    "forks": 9,
-    "description": "AgentCat is an analytics platform for MCP server owners 🐱.",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-03"
+    "description": "A desktop workspace (inspired by Grok Bot & Muse) for AI agents that collaborate, write code, and use tools. Run locally or on your own serv...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-04"
   }
 ]
