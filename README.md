@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-05 02:34 UTC` | **Source-linked stories:** `271`
+> **Index generated:** `2026-11-05 09:52 UTC` | **Source-linked stories:** `273`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 297.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 272.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.7k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 297.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 273.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.8k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,15 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [futuregene/future-os](https://github.com/futuregene/future-os) | `★ 114` | `2026-11-05` | Experimental Agent | `Rust` | One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Ru... |
-| [airutorg/airut](https://github.com/airutorg/airut) | `★ 85` | `2026-11-05` | Experimental Agent | `Python` | Airut is a system for running Claude Code tasks from email and Slack. It handles work... |
-| [heymegabyte/agent-skills](https://github.com/heymegabyte/agent-skills) | `★ 26` | `2026-11-05` | Experimental Agent | `TypeScript` | Agent Skills — agent-neutral autonomous product-building OS for 32+ AI coding tools. ... |
-| [sudosubin/agents.nix](https://github.com/sudosubin/agents.nix) | `★ 20` | `2026-11-05` | Experimental Agent | `Python` | Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com |
+| [JiangNanGenius/floe-agent](https://github.com/JiangNanGenius/floe-agent) | `★ 441` | `2026-11-05` | Local AI | `Swift` | iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone sup... |
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 439` | `2026-11-05` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
+| [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck) | `★ 289` | `2026-11-05` | Experimental Agent | `TypeScript` | 🌹安装即自带mattpocock/skills v1.3.2的27个工程与效率技能，无需手动装技能。520亿token打造本插件，在原始技能之上提供10倍的开发效率，也能... |
+| [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | `★ 102` | `2026-11-05` | Experimental Agent | `Rust` | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vect... |
+| [0x45dd/pwner](https://github.com/0x45dd/pwner) | `★ 72` | `2026-11-05` | Indie Tool | `Python` | Autonomous agentic network penetration-testing tool (authorized use only) |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-05` | AI Research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](src/content/news/2026-11-05-who-may-overrule-the-agent-evidence-gated.md) | Multi-agent | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-who-may-overrule-the-agent-evidence-gated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05390) |
+| `2026-11-05` | AI Research | [Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents](src/content/news/2026-11-05-agent-harness-awareness-turning-verified-telemetry.md) | Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is he... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-agent-harness-awareness-turning-verified-telemetry/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05391) |
 | `2026-11-04` | AI Research | [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](src/content/news/2026-11-04-community-detection-in-complex-networks-via.md) | arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-04-community-detection-in-complex-networks-via/) | [arXiv (cs.LG)](https://arxiv.org/abs/2303.12212) |
 | `2026-11-03` | AI Research | [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](src/content/news/2026-11-03-in-model-context-compression-with-agentic-soft.md) | Agentic Soft- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-in-model-context-compression-with-agentic-soft/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41291) |
 | `2026-11-03` | AI Research | [Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation](src/content/news/2026-11-04-erase-the-injected-region-multimodal-prompt-injection.md) | Multimodal indirect prompt | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-04-erase-the-injected-region-multimodal-prompt-injection/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41307) |
@@ -319,7 +322,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-05 02:34 UTC` | **Yayımlanan haber:** `271`
+> **Dizin oluşturma:** `2026-11-05 09:52 UTC` | **Yayımlanan haber:** `273`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -329,6 +332,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-05` | AI Research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](src/content/news/2026-11-05-who-may-overrule-the-agent-evidence-gated.md) | Multi-agent | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-who-may-overrule-the-agent-evidence-gated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05390) |
+| `2026-11-05` | AI Research | [Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents](src/content/news/2026-11-05-agent-harness-awareness-turning-verified-telemetry.md) | Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is he... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-agent-harness-awareness-turning-verified-telemetry/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05391) |
 | `2026-11-04` | AI Research | [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](src/content/news/2026-11-04-community-detection-in-complex-networks-via.md) | arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-04-community-detection-in-complex-networks-via/) | [arXiv (cs.LG)](https://arxiv.org/abs/2303.12212) |
 | `2026-11-03` | AI Research | [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](src/content/news/2026-11-03-in-model-context-compression-with-agentic-soft.md) | Agentic Soft- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-in-model-context-compression-with-agentic-soft/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41291) |
 | `2026-11-03` | AI Research | [Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation](src/content/news/2026-11-04-erase-the-injected-region-multimodal-prompt-injection.md) | Multimodal indirect prompt | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-04-erase-the-injected-region-multimodal-prompt-injection/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41307) |

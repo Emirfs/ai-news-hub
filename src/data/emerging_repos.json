@@ -1,42 +1,82 @@
 [
   {
-    "name": "futuregene/future-os",
-    "url": "https://github.com/futuregene/future-os",
-    "stars": 114,
-    "forks": 13,
-    "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
-    "language": "Rust",
+    "name": "JiangNanGenius/floe-agent",
+    "url": "https://github.com/JiangNanGenius/floe-agent",
+    "stars": 441,
+    "forks": 60,
+    "description": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
+    "language": "Swift",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "marcusquinn/aidevops",
+    "url": "https://github.com/marcusquinn/aidevops",
+    "stars": 439,
+    "forks": 75,
+    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
+    "language": "Shell",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-05"
   },
   {
-    "name": "airutorg/airut",
-    "url": "https://github.com/airutorg/airut",
-    "stars": 85,
-    "forks": 3,
-    "description": "Airut is a system for running Claude Code tasks from email and Slack. It handles workspace provisioning, container isolation, network sandbo...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-05"
-  },
-  {
-    "name": "heymegabyte/agent-skills",
-    "url": "https://github.com/heymegabyte/agent-skills",
-    "stars": 26,
-    "forks": 5,
-    "description": "Agent Skills — agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories · 28 agents · 149 reference docs · ...",
+    "name": "FeatherHunter/dsh-mattpocock-skills-deck",
+    "url": "https://github.com/FeatherHunter/dsh-mattpocock-skills-deck",
+    "stars": 289,
+    "forks": 27,
+    "description": "🌹安装即自带mattpocock/skills v1.3.2的27个工程与效率技能，无需手动装技能。520亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。支持 GitHub 与 GitLab 的 issue；本地 Markdown 为预...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-05"
   },
   {
-    "name": "sudosubin/agents.nix",
-    "url": "https://github.com/sudosubin/agents.nix",
-    "stars": 20,
-    "forks": 2,
-    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
-    "language": "Python",
+    "name": "cyberlife-coder/VelesDB",
+    "url": "https://github.com/cyberlife-coder/VelesDB",
+    "stars": 102,
+    "forks": 13,
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL; why() returns the ...",
+    "language": "Rust",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "0x45dd/pwner",
+    "url": "https://github.com/0x45dd/pwner",
+    "stars": 72,
+    "forks": 6,
+    "description": "Autonomous agentic network penetration-testing tool (authorized use only)",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "modelship-ai/modelship",
+    "url": "https://github.com/modelship-ai/modelship",
+    "stars": 54,
+    "forks": 4,
+    "description": "Self-hosted, OpenAI-compatible inference for the agentic era: reasoning LLMs, universal tool calling, and the Responses API alongside embedd...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "openmake/openmake_llm",
+    "url": "https://github.com/openmake/openmake_llm",
+    "stars": 44,
+    "forks": 7,
+    "description": "Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifa...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "TheWebScrapingClub/scraping-wiki",
+    "url": "https://github.com/TheWebScrapingClub/scraping-wiki",
+    "stars": 37,
+    "forks": 3,
+    "description": "A structured, LLM-maintained knowledge base covering anti-bot systems, scraping tools, browser fingerprinting, proxy infrastructure, and eve...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-05"
   }
 ]
