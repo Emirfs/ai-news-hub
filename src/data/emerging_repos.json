@@ -1,82 +1,42 @@
 [
   {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 112,
-    "forks": 49,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "aviaviavi/celorga",
-    "url": "https://github.com/aviaviavi/celorga",
-    "stars": 74,
-    "forks": 0,
-    "description": "A local-first workspace for your life, work, and AI agents. Built around plain-text Org files you own.",
-    "language": "Swift",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "lawrence3699/jev-style",
-    "url": "https://github.com/lawrence3699/jev-style",
-    "stars": 53,
-    "forks": 2,
-    "description": "JevStyle: local decision models for AI agents. Classify, route and score with a probability per option. systemone-compatible local server, M...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "apoapostolov/hermes-agent-awesome-plugins",
-    "url": "https://github.com/apoapostolov/hermes-agent-awesome-plugins",
-    "stars": 48,
-    "forks": 5,
-    "description": "An installable Hermes Agent plugin pack for AI power users: unified provider quotas, stalled-tool control, reasoning and iteration budgets, ...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "AgentsKit-io/agentskit",
-    "url": "https://github.com/AgentsKit-io/agentskit",
-    "stars": 38,
-    "forks": 3,
-    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, tools, skills, memory...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "nirholas/bnbchain-mcp",
-    "url": "https://github.com/nirholas/bnbchain-mcp",
-    "stars": 35,
-    "forks": 5,
-    "description": "Developer tools for AI crypto agents  🛠️ Build apps with DeFi trading, DEX swaps, smart contract deployment, token operations, staking, brid...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "vgtitov/bsl-ai-toolkit",
-    "url": "https://github.com/vgtitov/bsl-ai-toolkit",
-    "stars": 34,
-    "forks": 9,
-    "description": "AI agent toolkit for 1C:Enterprise 8.3 (BSL): rules, skills and MCP servers so the agent works from your real code, plus byte-perfect metada...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-04"
-  },
-  {
-    "name": "burin-labs/harn",
-    "url": "https://github.com/burin-labs/harn",
-    "stars": 29,
-    "forks": 6,
-    "description": "Harn is a programming language and runtime for building AI agents.",
+    "name": "futuregene/future-os",
+    "url": "https://github.com/futuregene/future-os",
+    "stars": 114,
+    "forks": 13,
+    "description": "One AI agent, everywhere you work — terminal, desktop, mobile, and your chat apps. Rust core.",
     "language": "Rust",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-04"
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "airutorg/airut",
+    "url": "https://github.com/airutorg/airut",
+    "stars": 85,
+    "forks": 3,
+    "description": "Airut is a system for running Claude Code tasks from email and Slack. It handles workspace provisioning, container isolation, network sandbo...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "heymegabyte/agent-skills",
+    "url": "https://github.com/heymegabyte/agent-skills",
+    "stars": 26,
+    "forks": 5,
+    "description": "Agent Skills — agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories · 28 agents · 149 reference docs · ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "sudosubin/agents.nix",
+    "url": "https://github.com/sudosubin/agents.nix",
+    "stars": 20,
+    "forks": 2,
+    "description": "Nixpkgs overlay for AI agent skills from skills.sh and skillsdirectory.com",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-05"
   }
 ]
