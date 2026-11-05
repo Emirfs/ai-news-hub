@@ -1,22 +1,32 @@
 [
   {
-    "name": "ncoevoet/facet",
-    "url": "https://github.com/ncoevoet/facet",
-    "stars": 353,
-    "forks": 38,
-    "description": "Local AI photo scoring, culling, and gallery — score, organise, and explore your library with face recognition and semantic search. No cloud...",
-    "language": "Python",
-    "tag": "Local AI",
+    "name": "WrongStack/WrongStack",
+    "url": "https://github.com/WrongStack/WrongStack",
+    "stars": 404,
+    "forks": 44,
+    "description": "An AI coding agent that reads your code, edits files, runs commands, and reasons through bugs — across a terminal REPL, a full-screen TUI, a...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-05"
   },
   {
-    "name": "NVIDIA/NeMo-Relay",
-    "url": "https://github.com/NVIDIA/NeMo-Relay",
-    "stars": 234,
-    "forks": 106,
-    "description": "Multi-language agent runtime and library for execution scope management, lifecycle events, and middleware on tool and LLM calls.",
-    "language": "Rust",
+    "name": "initMAX/zabbix-mcp-server",
+    "url": "https://github.com/initMAX/zabbix-mcp-server",
+    "stars": 247,
+    "forks": 50,
+    "description": "MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer auth, PDF reports, systemd ready. Works with ChatGPT, C...",
+    "language": "Python",
     "tag": "Indie Tool",
+    "pushed_at": "2026-11-05"
+  },
+  {
+    "name": "timoncool/MiniMax-Music3-Studio",
+    "url": "https://github.com/timoncool/MiniMax-Music3-Studio",
+    "stars": 180,
+    "forks": 14,
+    "description": "Native local/cloud AI music studio powered by MiniMax Music 3",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-11-05"
   },
   {
@@ -30,23 +40,23 @@
     "pushed_at": "2026-11-05"
   },
   {
-    "name": "sleep2agi/agent-network",
-    "url": "https://github.com/sleep2agi/agent-network",
-    "stars": 114,
-    "forks": 15,
-    "description": "助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / OpenAI / xAI / Mini...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 112,
+    "forks": 49,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-05"
   },
   {
-    "name": "NVlabs/Flora",
-    "url": "https://github.com/NVlabs/Flora",
-    "stars": 92,
-    "forks": 8,
-    "description": "The open-source model suite for robotics data engine by NVIDIA GEAR",
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 99,
+    "forks": 42,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
     "language": "Python",
-    "tag": "Embodied AI",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-05"
   },
   {
@@ -60,23 +70,13 @@
     "pushed_at": "2026-11-05"
   },
   {
-    "name": "objectstack-ai/objectstack",
-    "url": "https://github.com/objectstack-ai/objectstack",
+    "name": "gtapps/hermitd",
+    "url": "https://github.com/gtapps/hermitd",
     "stars": 83,
-    "forks": 23,
-    "description": "The ontology is the software. One executable business ontology: AI writes it, the runtime runs it, agents operate it, you own it. Open proto...",
+    "forks": 16,
+    "description": "Think Claude Tag, but local.",
     "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-05"
-  },
-  {
-    "name": "TouchAI-org/TouchAI",
-    "url": "https://github.com/TouchAI-org/TouchAI",
-    "stars": 63,
-    "forks": 26,
-    "description": "Your desktop AI agent, always ready",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "tag": "Local AI",
     "pushed_at": "2026-11-05"
   }
 ]

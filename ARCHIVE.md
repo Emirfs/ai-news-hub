@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-05 18:04 UTC` | **Source-linked stories:** `275`
+> **Index generated:** `2026-11-05 23:41 UTC` | **Source-linked stories:** `277`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 297.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 273.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.8k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 297.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 273.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 260.9k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 198.9k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.0k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,19 +32,21 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [ncoevoet/facet](https://github.com/ncoevoet/facet) | `★ 353` | `2026-11-05` | Local AI | `Python` | Local AI photo scoring, culling, and gallery — score, organise, and explore your libr... |
-| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 234` | `2026-11-05` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
+| [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) | `★ 404` | `2026-11-05` | Experimental Agent | `TypeScript` | An AI coding agent that reads your code, edits files, runs commands, and reasons thro... |
+| [initMAX/zabbix-mcp-server](https://github.com/initMAX/zabbix-mcp-server) | `★ 247` | `2026-11-05` | Indie Tool | `Python` | MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer ... |
+| [timoncool/MiniMax-Music3-Studio](https://github.com/timoncool/MiniMax-Music3-Studio) | `★ 180` | `2026-11-05` | Local AI | `TypeScript` | Native local/cloud AI music studio powered by MiniMax Music 3 |
 | [Abhinesh2004/mirage-cortex](https://github.com/Abhinesh2004/mirage-cortex) | `★ 119` | `2026-11-05` | Indie Tool | `HTML` | Top Agent Swarm Simulation Tools for LLM World Modeling 2026 |
-| [sleep2agi/agent-network](https://github.com/sleep2agi/agent-network) | `★ 114` | `2026-11-05` | Experimental Agent | `TypeScript` | 助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Bui... |
-| [NVlabs/Flora](https://github.com/NVlabs/Flora) | `★ 92` | `2026-11-05` | Embodied AI | `Python` | The open-source model suite for robotics data engine by NVIDIA GEAR |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-05` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-05` | AI Research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](src/content/news/2026-11-05-who-may-overrule-the-agent-evidence-gated.md) | Multi-agent | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-who-may-overrule-the-agent-evidence-gated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05390) |
+| `2026-11-05` | Robotics & Hardware | [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](src/content/news/2026-11-05-vera-delivers-the-best-of-both.md) | AI agents do more than generate answers. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-vera-delivers-the-best-of-both/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents) |
 | `2026-11-05` | AI Research | [Uncertainty-Aware Resource Orchestration for Agentic AI Systems](src/content/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai.md) | Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-st... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05392) |
 | `2026-11-05` | Robotics & Hardware | [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](src/content/news/2026-11-05-the-wizard-of-open-weights-chris.md) | Chris Alexiuk | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-the-wizard-of-open-weights-chris/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk) |
+| `2026-11-05` | AI Research | [Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning](src/content/news/2026-11-05-challenge-aware-knowledge-recruitment-with-meta-agent-supervision.md) | Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-ag... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-challenge-aware-knowledge-recruitment-with-meta-agent-supervision/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05393) |
 | `2026-11-05` | AI Research | [Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents](src/content/news/2026-11-05-agent-harness-awareness-turning-verified-telemetry.md) | Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is he... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-agent-harness-awareness-turning-verified-telemetry/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05391) |
 | `2026-11-04` | AI Research | [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](src/content/news/2026-11-04-community-detection-in-complex-networks-via.md) | arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-04-community-detection-in-complex-networks-via/) | [arXiv (cs.LG)](https://arxiv.org/abs/2303.12212) |
 | `2026-11-03` | AI Research | [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](src/content/news/2026-11-03-in-model-context-compression-with-agentic-soft.md) | Agentic Soft- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-03-in-model-context-compression-with-agentic-soft/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41291) |
@@ -324,7 +326,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-05 18:04 UTC` | **Yayımlanan haber:** `275`
+> **Dizin oluşturma:** `2026-11-05 23:41 UTC` | **Yayımlanan haber:** `277`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -335,8 +337,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-05` | AI Research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](src/content/news/2026-11-05-who-may-overrule-the-agent-evidence-gated.md) | Multi-agent | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-who-may-overrule-the-agent-evidence-gated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05390) |
+| `2026-11-05` | Robotics & Hardware | [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](src/content/news/2026-11-05-vera-delivers-the-best-of-both.md) | AI agents do more than generate answers. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-vera-delivers-the-best-of-both/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents) |
 | `2026-11-05` | AI Research | [Uncertainty-Aware Resource Orchestration for Agentic AI Systems](src/content/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai.md) | Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-st... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05392) |
 | `2026-11-05` | Robotics & Hardware | [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](src/content/news/2026-11-05-the-wizard-of-open-weights-chris.md) | Chris Alexiuk | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-the-wizard-of-open-weights-chris/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk) |
+| `2026-11-05` | AI Research | [Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning](src/content/news/2026-11-05-challenge-aware-knowledge-recruitment-with-meta-agent-supervision.md) | Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-ag... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-challenge-aware-knowledge-recruitment-with-meta-agent-supervision/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05393) |
 | `2026-11-05` | AI Research | [Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents](src/content/news/2026-11-05-agent-harness-awareness-turning-verified-telemetry.md) | Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is he... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-agent-harness-awareness-turning-verified-telemetry/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05391) |
 | `2026-11-04` | AI Research | [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](src/content/news/2026-11-04-community-detection-in-complex-networks-via.md) | arXiv:2303.12212v3 Announce Type: replace-cross Abstract: Community detection is a significant challenge in analysi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-04-community-detection-in-complex-networks-via/) | [arXiv (cs.LG)](https://arxiv.org/abs/2303.12212) |
 | `2026-11-03` | AI Research | [In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents](src/content/news/2026-11-03-in-model-context-compression-with-agentic-soft.md) | Agentic Soft- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-03-in-model-context-compression-with-agentic-soft/) | [arXiv (cs.AI)](https://arxiv.org/abs/2610.41291) |
