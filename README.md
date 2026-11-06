@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-06 18:31 UTC` | **Source-linked stories:** `283`
+> **Index generated:** `2026-11-06 23:32 UTC` | **Source-linked stories:** `285`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 298.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 274.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 298.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 274.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.2k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,20 +32,22 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mingti-org/phyai](https://github.com/mingti-org/phyai) | `★ 148` | `2026-11-06` | Embodied AI | `Python` | PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and b... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-06` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 99` | `2026-11-06` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
-| [secondpathstudio/privatescribe](https://github.com/secondpathstudio/privatescribe) | `★ 92` | `2026-11-06` | Indie Tool | `TypeScript` | 100% private AI transcription using local LLMs, fully encrypted database, and extensi... |
-| [chatvia/chatvia](https://github.com/chatvia/chatvia) | `★ 67` | `2026-11-06` | Indie Tool | `PHP` | Open-source platform for AI chat agents that answer from your own knowledge base. Hyb... |
+| [run-llama/llama-agents](https://github.com/run-llama/llama-agents) | `★ 464` | `2026-11-06` | Experimental Agent | `Python` | Llama Agents + Workflows are an event-driven, async-first, step-based way to control ... |
+| [KenKaiii/gg-framework](https://github.com/KenKaiii/gg-framework) | `★ 230` | `2026-11-06` | Local AI | `TypeScript` | The coding agent that gets more out of your AI subscription. Fastest and leanest of 2... |
+| [skye-harris/llm_intents](https://github.com/skye-harris/llm_intents) | `★ 222` | `2026-11-06` | Indie Tool | `Python` | Exposes internet search tools for use by LLM-backed Assist in Home Assistant |
+| [cacheplane/threadplane](https://github.com/cacheplane/threadplane) | `★ 193` | `2026-11-06` | Experimental Agent | `TypeScript` | The open-source thread-plane for agents: chat, durable threads, persistence, human ap... |
+| [personalagentproxy/proxy](https://github.com/personalagentproxy/proxy) | `★ 162` | `2026-11-06` | Experimental Agent | `TypeScript` | Personal Agent Proxy is an open-source, self-hostable access layer that lets you conn... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-06` | AI Research | [The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record](src/content/news/2026-11-06-the-two-ledger-model-transaction-grain-cost-accounting.md) | Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs),... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-the-two-ledger-model-transaction-grain-cost-accounting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06989) |
 | `2026-11-06` | AI Research | [KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks](src/content/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization.md) | Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06972) |
 | `2026-11-06` | Robotics & Hardware | [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](src/content/news/2026-11-06-how-nvidia-open-source-tools-are.md) | A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source too... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-how-nvidia-open-source-tools-are/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks) |
 | `2026-11-06` | AI Research | [Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation](src/content/news/2026-11-06-formalizing-inverse-problems-in-the-age.md) | Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writin... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-formalizing-inverse-problems-in-the-age/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06962) |
 | `2026-11-06` | AI Research | [BlockLock: Reproducible LLM Inference with Fixed Batch Geometry](src/content/news/2026-11-06-blocklock-reproducible-llm-inference-with-fixed.md) | Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-blocklock-reproducible-llm-inference-with-fixed/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06977) |
+| `2026-11-06` | AI Research | [Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization](src/content/news/2026-11-06-autonomous-ai-agents-systematically-diverge-from.md) | Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand th... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-autonomous-ai-agents-systematically-diverge-from/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06995) |
 | `2026-11-05` | AI Research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](src/content/news/2026-11-05-who-may-overrule-the-agent-evidence-gated.md) | Multi-agent | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-who-may-overrule-the-agent-evidence-gated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05390) |
 | `2026-11-05` | Robotics & Hardware | [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](src/content/news/2026-11-05-vera-delivers-the-best-of-both.md) | AI agents do more than generate answers. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-vera-delivers-the-best-of-both/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents) |
 | `2026-11-05` | AI Research | [Uncertainty-Aware Resource Orchestration for Agentic AI Systems](src/content/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai.md) | Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-st... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05392) |
@@ -332,7 +334,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-06 18:31 UTC` | **Yayımlanan haber:** `283`
+> **Dizin oluşturma:** `2026-11-06 23:32 UTC` | **Yayımlanan haber:** `285`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -342,10 +344,12 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-06` | AI Research | [The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record](src/content/news/2026-11-06-the-two-ledger-model-transaction-grain-cost-accounting.md) | Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs),... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-the-two-ledger-model-transaction-grain-cost-accounting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06989) |
 | `2026-11-06` | AI Research | [KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks](src/content/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization.md) | Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06972) |
 | `2026-11-06` | Robotics & Hardware | [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](src/content/news/2026-11-06-how-nvidia-open-source-tools-are.md) | A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source too... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-how-nvidia-open-source-tools-are/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks) |
 | `2026-11-06` | AI Research | [Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation](src/content/news/2026-11-06-formalizing-inverse-problems-in-the-age.md) | Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writin... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-formalizing-inverse-problems-in-the-age/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06962) |
 | `2026-11-06` | AI Research | [BlockLock: Reproducible LLM Inference with Fixed Batch Geometry](src/content/news/2026-11-06-blocklock-reproducible-llm-inference-with-fixed.md) | Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-blocklock-reproducible-llm-inference-with-fixed/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06977) |
+| `2026-11-06` | AI Research | [Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization](src/content/news/2026-11-06-autonomous-ai-agents-systematically-diverge-from.md) | Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand th... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-autonomous-ai-agents-systematically-diverge-from/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06995) |
 | `2026-11-05` | AI Research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](src/content/news/2026-11-05-who-may-overrule-the-agent-evidence-gated.md) | Multi-agent | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-who-may-overrule-the-agent-evidence-gated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05390) |
 | `2026-11-05` | Robotics & Hardware | [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](src/content/news/2026-11-05-vera-delivers-the-best-of-both.md) | AI agents do more than generate answers. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-vera-delivers-the-best-of-both/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents) |
 | `2026-11-05` | AI Research | [Uncertainty-Aware Resource Orchestration for Agentic AI Systems](src/content/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai.md) | Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-st... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05392) |

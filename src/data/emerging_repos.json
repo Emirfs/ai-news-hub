@@ -1,12 +1,52 @@
 [
   {
-    "name": "mingti-org/phyai",
-    "url": "https://github.com/mingti-org/phyai",
-    "stars": 148,
-    "forks": 35,
-    "description": "PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-devi...",
+    "name": "run-llama/llama-agents",
+    "url": "https://github.com/run-llama/llama-agents",
+    "stars": 464,
+    "forks": 127,
+    "description": "Llama Agents + Workflows are an event-driven, async-first, step-based way to control the execution flow of AI applications like agents.",
     "language": "Python",
-    "tag": "Embodied AI",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-06"
+  },
+  {
+    "name": "KenKaiii/gg-framework",
+    "url": "https://github.com/KenKaiii/gg-framework",
+    "stars": 230,
+    "forks": 43,
+    "description": "The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real op...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-06"
+  },
+  {
+    "name": "skye-harris/llm_intents",
+    "url": "https://github.com/skye-harris/llm_intents",
+    "stars": 222,
+    "forks": 29,
+    "description": "Exposes internet search tools for use by LLM-backed Assist in Home Assistant",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-06"
+  },
+  {
+    "name": "cacheplane/threadplane",
+    "url": "https://github.com/cacheplane/threadplane",
+    "stars": 193,
+    "forks": 15,
+    "description": "The open-source thread-plane for agents: chat, durable threads, persistence, human approvals, and generative UI for Angular, on LangGraph an...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-06"
+  },
+  {
+    "name": "personalagentproxy/proxy",
+    "url": "https://github.com/personalagentproxy/proxy",
+    "stars": 162,
+    "forks": 22,
+    "description": "Personal Agent Proxy is an open-source, self-hostable access layer that lets you connect your services once, give each AI agent granular per...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-06"
   },
   {
@@ -20,63 +60,23 @@
     "pushed_at": "2026-11-06"
   },
   {
-    "name": "WingedGuardian/GENesis-AGI",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI",
-    "stars": 99,
-    "forks": 42,
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-06"
-  },
-  {
-    "name": "secondpathstudio/privatescribe",
-    "url": "https://github.com/secondpathstudio/privatescribe",
-    "stars": 92,
-    "forks": 14,
-    "description": "100% private AI transcription using local LLMs, fully encrypted database, and extensive administrative tools",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-06"
-  },
-  {
-    "name": "chatvia/chatvia",
-    "url": "https://github.com/chatvia/chatvia",
-    "stars": 67,
-    "forks": 0,
-    "description": "Open-source platform for AI chat agents that answer from your own knowledge base. Hybrid RAG search in PostgreSQL, MCP and custom tools, gua...",
-    "language": "PHP",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-06"
-  },
-  {
-    "name": "gitlabhq/orbit-knowledge-graph",
-    "url": "https://github.com/gitlabhq/orbit-knowledge-graph",
-    "stars": 59,
-    "forks": 15,
-    "description": "Orbit, aka the GitLab Knowledge Graph, is a project that aims to provide a unified context API for AI systems and human users. This project ...",
+    "name": "tenuo-ai/tenuo",
+    "url": "https://github.com/tenuo-ai/tenuo",
+    "stars": 105,
+    "forks": 30,
+    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
     "language": "Rust",
-    "tag": "Local AI",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-06"
   },
   {
-    "name": "openmake/openmake_llm",
-    "url": "https://github.com/openmake/openmake_llm",
-    "stars": 44,
-    "forks": 8,
-    "description": "Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifa...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-06"
-  },
-  {
-    "name": "eunomia-bpf/bpf-benchmark",
-    "url": "https://github.com/eunomia-bpf/bpf-benchmark",
-    "stars": 26,
+    "name": "dev-formata-io/stof",
+    "url": "https://github.com/dev-formata-io/stof",
+    "stars": 64,
     "forks": 5,
-    "description": "AI Agent eBPF optimization benchmark and framework",
-    "language": "C",
-    "tag": "Experimental Agent",
+    "description": "Software that behaves differently for every user: each customer's rules, tools, and state in one document that an agent can edit, a person c...",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-06"
   }
 ]
