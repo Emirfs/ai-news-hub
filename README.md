@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-06 11:34 UTC` | **Source-linked stories:** `281`
+> **Index generated:** `2026-11-06 18:31 UTC` | **Source-linked stories:** `283`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 298.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 274.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.0k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 224.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.1k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 298.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 274.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.1k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.2k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,18 +32,20 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [cocofhu/grasp](https://github.com/cocofhu/grasp) | `★ 367` | `2026-11-06` | Experimental Agent | `TypeScript` | Grasp helps you manage multiple projects and parallel coding agents in one visual wor... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 190` | `2026-11-06` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [fitlab-ai/agent-infra](https://github.com/fitlab-ai/agent-infra) | `★ 87` | `2026-11-06` | Experimental Agent | `TypeScript` | Collaboration infrastructure for AI coding agents | AI 编程代理的协作基础设施 |
-| [Oaklight/ToolRegistry](https://github.com/Oaklight/ToolRegistry) | `★ 67` | `2026-11-06` | Indie Tool | `Python` | ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (... |
-| [BeppeTemp/cartographer](https://github.com/BeppeTemp/cartographer) | `★ 55` | `2026-11-06` | Experimental Agent | `Go` | A shared, git-backed wiki your team's AI agents maintain but can't break — Claude Cod... |
+| [mingti-org/phyai](https://github.com/mingti-org/phyai) | `★ 148` | `2026-11-06` | Embodied AI | `Python` | PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and b... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-06` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 99` | `2026-11-06` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
+| [secondpathstudio/privatescribe](https://github.com/secondpathstudio/privatescribe) | `★ 92` | `2026-11-06` | Indie Tool | `TypeScript` | 100% private AI transcription using local LLMs, fully encrypted database, and extensi... |
+| [chatvia/chatvia](https://github.com/chatvia/chatvia) | `★ 67` | `2026-11-06` | Indie Tool | `PHP` | Open-source platform for AI chat agents that answer from your own knowledge base. Hyb... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-06` | AI Research | [KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks](src/content/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization.md) | Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06972) |
+| `2026-11-06` | Robotics & Hardware | [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](src/content/news/2026-11-06-how-nvidia-open-source-tools-are.md) | A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source too... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-how-nvidia-open-source-tools-are/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks) |
 | `2026-11-06` | AI Research | [Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation](src/content/news/2026-11-06-formalizing-inverse-problems-in-the-age.md) | Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writin... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-formalizing-inverse-problems-in-the-age/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06962) |
+| `2026-11-06` | AI Research | [BlockLock: Reproducible LLM Inference with Fixed Batch Geometry](src/content/news/2026-11-06-blocklock-reproducible-llm-inference-with-fixed.md) | Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-blocklock-reproducible-llm-inference-with-fixed/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06977) |
 | `2026-11-05` | AI Research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](src/content/news/2026-11-05-who-may-overrule-the-agent-evidence-gated.md) | Multi-agent | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-who-may-overrule-the-agent-evidence-gated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05390) |
 | `2026-11-05` | Robotics & Hardware | [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](src/content/news/2026-11-05-vera-delivers-the-best-of-both.md) | AI agents do more than generate answers. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-vera-delivers-the-best-of-both/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents) |
 | `2026-11-05` | AI Research | [Uncertainty-Aware Resource Orchestration for Agentic AI Systems](src/content/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai.md) | Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-st... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05392) |
@@ -330,7 +332,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-06 11:34 UTC` | **Yayımlanan haber:** `281`
+> **Dizin oluşturma:** `2026-11-06 18:31 UTC` | **Yayımlanan haber:** `283`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -341,7 +343,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-06` | AI Research | [KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks](src/content/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization.md) | Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06972) |
+| `2026-11-06` | Robotics & Hardware | [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](src/content/news/2026-11-06-how-nvidia-open-source-tools-are.md) | A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source too... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-how-nvidia-open-source-tools-are/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks) |
 | `2026-11-06` | AI Research | [Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation](src/content/news/2026-11-06-formalizing-inverse-problems-in-the-age.md) | Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writin... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-formalizing-inverse-problems-in-the-age/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06962) |
+| `2026-11-06` | AI Research | [BlockLock: Reproducible LLM Inference with Fixed Batch Geometry](src/content/news/2026-11-06-blocklock-reproducible-llm-inference-with-fixed.md) | Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-blocklock-reproducible-llm-inference-with-fixed/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06977) |
 | `2026-11-05` | AI Research | [Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions](src/content/news/2026-11-05-who-may-overrule-the-agent-evidence-gated.md) | Multi-agent | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-who-may-overrule-the-agent-evidence-gated/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05390) |
 | `2026-11-05` | Robotics & Hardware | [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](src/content/news/2026-11-05-vera-delivers-the-best-of-both.md) | AI agents do more than generate answers. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-vera-delivers-the-best-of-both/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents) |
 | `2026-11-05` | AI Research | [Uncertainty-Aware Resource Orchestration for Agentic AI Systems](src/content/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai.md) | Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-st... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-05-uncertainty-aware-resource-orchestration-for-agentic-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.05392) |
