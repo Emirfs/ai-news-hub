@@ -1,52 +1,72 @@
 [
   {
-    "name": "xorbitsai/xagent",
-    "url": "https://github.com/xorbitsai/xagent",
-    "stars": 308,
-    "forks": 82,
-    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "name": "JosssphZhou/poki",
+    "url": "https://github.com/JosssphZhou/poki",
+    "stars": 450,
+    "forks": 95,
+    "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-07"
+  },
+  {
+    "name": "momori777/Artemis",
+    "url": "https://github.com/momori777/Artemis",
+    "stars": 436,
+    "forks": 25,
+    "description": "破限本地AI女友后宫，Agent+画图语音向量数据库+live2D+桌宠+酒馆角色卡导入+webchat，QQ+Telegram双通道，8G显存可跑 uncensored Fully offline AI girlfriends harem Openclaw/Claude cod...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-07"
+  },
+  {
+    "name": "ReflexioAI/reflexio",
+    "url": "https://github.com/ReflexioAI/reflexio",
+    "stars": 385,
+    "forks": 52,
+    "description": "Make your agents improve themselves. Reflexio is an AI agent self-improvement harness that enables your AI agents to continuously learn from...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-07"
+  },
+  {
+    "name": "arounamounchili/linkforge",
+    "url": "https://github.com/arounamounchili/linkforge",
+    "stars": 282,
+    "forks": 26,
+    "description": "The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-07"
+  },
+  {
+    "name": "sepehr071/iran-mcp",
+    "url": "https://github.com/sepehr071/iran-mcp",
+    "stars": 230,
+    "forks": 25,
+    "description": "77 MCP servers (994 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Alibaba, Neshan, Paziresh24, Jobinja, Bam...",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-07"
   },
   {
-    "name": "Duecki1/CalibRaw",
-    "url": "https://github.com/Duecki1/CalibRaw",
-    "stars": 306,
-    "forks": 21,
-    "description": "Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI.",
-    "language": "Rust",
+    "name": "timoncool/MiniMax-Music3-Studio",
+    "url": "https://github.com/timoncool/MiniMax-Music3-Studio",
+    "stars": 182,
+    "forks": 14,
+    "description": "Native local/cloud AI music studio powered by MiniMax Music 3",
+    "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-07"
   },
   {
-    "name": "bigfish1913/pi-rust",
-    "url": "https://github.com/bigfish1913/pi-rust",
-    "stars": 208,
-    "forks": 41,
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
-    "language": "Rust",
+    "name": "0xWelt/Awesome-Vibe-Coding",
+    "url": "https://github.com/0xWelt/Awesome-Vibe-Coding",
+    "stars": 122,
+    "forks": 139,
+    "description": "A Curated List of Vibe Coding Open-Source Projects, Tools, and Learning Resources",
+    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "Licoy/sshyard",
-    "url": "https://github.com/Licoy/sshyard",
-    "stars": 156,
-    "forks": 10,
-    "description": "SSHYard is a native desktop SSH / SFTP client for macOS, Windows and Linux, bringing terminals, file management and AI assistance into one a...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "Dicklesworthstone/frankensonos",
-    "url": "https://github.com/Dicklesworthstone/frankensonos",
-    "stars": 132,
-    "forks": 10,
-    "description": "Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SSDP/UPnP-SOAP/GENA interoperability (S1 + S2), a Spotify...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-11-07"
   },
   {
@@ -57,26 +77,6 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "shiv3/ocpp-cp-simulator",
-    "url": "https://github.com/shiv3/ocpp-cp-simulator",
-    "stars": 47,
-    "forks": 22,
-    "description": "OCPP CP simulator for AI agent testing & CSMS development",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "JonathanRiche/verde",
-    "url": "https://github.com/JonathanRiche/verde",
-    "stars": 32,
-    "forks": 4,
-    "description": "Native Zig desktop workspace for AI coding agents: run Claude Code, Codex, Cursor and more side by side with a terminal and browser. Local-f...",
-    "language": "Zig",
-    "tag": "Local AI",
     "pushed_at": "2026-11-07"
   }
 ]

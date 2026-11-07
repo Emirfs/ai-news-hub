@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-07 03:15 UTC` | **Source-linked stories:** `287`
+> **Index generated:** `2026-11-07 10:26 UTC` | **Source-linked stories:** `287`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 298.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 275.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 298.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 275.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.3k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.3k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.4k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 308` | `2026-11-07` | Indie Tool | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [Duecki1/CalibRaw](https://github.com/Duecki1/CalibRaw) | `★ 306` | `2026-11-07` | Local AI | `Rust` | Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, ... |
-| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 208` | `2026-11-07` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
-| [Licoy/sshyard](https://github.com/Licoy/sshyard) | `★ 156` | `2026-11-07` | Experimental Agent | `Go` | SSHYard is a native desktop SSH / SFTP client for macOS, Windows and Linux, bringing ... |
-| [Dicklesworthstone/frankensonos](https://github.com/Dicklesworthstone/frankensonos) | `★ 132` | `2026-11-07` | Experimental Agent | `Rust` | Memory-safe Rust controller for your own Sonos speakers on your own LAN — reliable SS... |
+| [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | `★ 450` | `2026-11-07` | Experimental Agent | `JavaScript` | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no ext... |
+| [momori777/Artemis](https://github.com/momori777/Artemis) | `★ 436` | `2026-11-07` | Local AI | `Python` | 破限本地AI女友后宫，Agent+画图语音向量数据库+live2D+桌宠+酒馆角色卡导入+webchat，QQ+Telegram双通道，8G显存可跑 uncensored... |
+| [ReflexioAI/reflexio](https://github.com/ReflexioAI/reflexio) | `★ 385` | `2026-11-07` | Experimental Agent | `Python` | Make your agents improve themselves. Reflexio is an AI agent self-improvement harness... |
+| [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 282` | `2026-11-07` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
+| [sepehr071/iran-mcp](https://github.com/sepehr071/iran-mcp) | `★ 230` | `2026-11-07` | Indie Tool | `Python` | 77 MCP servers (994 tools) that give AI agents the Iranian web: Digikala, Torob, Diva... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -336,7 +336,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-07 03:15 UTC` | **Yayımlanan haber:** `287`
+> **Dizin oluşturma:** `2026-11-07 10:26 UTC` | **Yayımlanan haber:** `287`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
