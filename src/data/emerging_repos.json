@@ -1,22 +1,32 @@
 [
   {
+    "name": "xorbitsai/xagent",
+    "url": "https://github.com/xorbitsai/xagent",
+    "stars": 308,
+    "forks": 83,
+    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-07"
+  },
+  {
+    "name": "Yigtwxx/awesome-rag-production",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production",
+    "stars": 292,
+    "forks": 79,
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-07"
+  },
+  {
     "name": "arounamounchili/linkforge",
     "url": "https://github.com/arounamounchili/linkforge",
-    "stars": 283,
+    "stars": 284,
     "forks": 27,
     "description": "The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "jmagly/aiwg",
-    "url": "https://github.com/jmagly/aiwg",
-    "stars": 229,
-    "forks": 35,
-    "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Cod...",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
     "pushed_at": "2026-11-07"
   },
   {
@@ -30,13 +40,13 @@
     "pushed_at": "2026-11-07"
   },
   {
-    "name": "chattermate/chattermate.chat",
-    "url": "https://github.com/chattermate/chattermate.chat",
-    "stars": 156,
-    "forks": 60,
-    "description": "Open-source AI customer support chatbot with human handoff — omnichannel inbox (web, WhatsApp, Instagram, Messenger, Slack, email), AI lead ...",
+    "name": "swarmauri/swarmauri-sdk",
+    "url": "https://github.com/swarmauri/swarmauri-sdk",
+    "stars": 105,
+    "forks": 54,
+    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workf...",
     "language": "Python",
-    "tag": "Indie Tool",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-07"
   },
   {
@@ -50,32 +60,22 @@
     "pushed_at": "2026-11-07"
   },
   {
-    "name": "everruns/everruns",
-    "url": "https://github.com/everruns/everruns",
-    "stars": 65,
-    "forks": 7,
-    "description": "Headless durable agentic harness engine. Run durable AI agents reliably and scalably.",
+    "name": "apoapostolov/hermes-agent-awesome-plugins",
+    "url": "https://github.com/apoapostolov/hermes-agent-awesome-plugins",
+    "stars": 50,
+    "forks": 5,
+    "description": "An installable Hermes Agent plugin pack for AI power users: unified provider quotas, stalled-tool control, reasoning and iteration budgets, ...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-07"
+  },
+  {
+    "name": "CambrianTech/continuum",
+    "url": "https://github.com/CambrianTech/continuum",
+    "stars": 38,
+    "forks": 10,
+    "description": "Local-first AI citizens on your own hardware. Teams of continuously-learning personas (Rust core, llama.cpp fork, LoRA genomes) that collabo...",
     "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "codepawl/67.js",
-    "url": "https://github.com/codepawl/67.js",
-    "stars": 51,
-    "forks": 3,
-    "description": "A WebGL2 3D engine that AI agents drive",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "DengNaichen/Stet",
-    "url": "https://github.com/DengNaichen/Stet",
-    "stars": 37,
-    "forks": 3,
-    "description": "Private, local-first voice dictation for macOS and iOS, with on-device transcription and optional AI-powered rewriting.",
-    "language": "Swift",
     "tag": "Local AI",
     "pushed_at": "2026-11-07"
   }
