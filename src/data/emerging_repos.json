@@ -1,21 +1,41 @@
 [
   {
-    "name": "eduwxyz/tucano",
-    "url": "https://github.com/eduwxyz/tucano",
-    "stars": 304,
-    "forks": 55,
-    "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on th...",
+    "name": "yologdev/yoagent",
+    "url": "https://github.com/yologdev/yoagent",
+    "stars": 369,
+    "forks": 53,
+    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "Renaissance-Mind/ShowAI",
+    "url": "https://github.com/Renaissance-Mind/ShowAI",
+    "stars": 132,
+    "forks": 15,
+    "description": "The evolving interface between humans and agents — Claude Code and Codex answer with interactive pages you can edit, keep and share.",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-08"
   },
   {
-    "name": "Changan-Su/Forsion",
-    "url": "https://github.com/Changan-Su/Forsion",
-    "stars": 176,
-    "forks": 0,
-    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-    "language": "TypeScript",
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 123,
+    "forks": 17,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "marcimastro98/Xenon",
+    "url": "https://github.com/marcimastro98/Xenon",
+    "stars": 120,
+    "forks": 17,
+    "description": "A 100% local all-in-one dashboard for any screen, tablet or phone. Windows, with macOS and Linux in beta. System monitor, media and mic, a v...",
+    "language": "JavaScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-08"
   },
@@ -30,23 +50,13 @@
     "pushed_at": "2026-11-08"
   },
   {
-    "name": "openaccountant/wilson",
-    "url": "https://github.com/openaccountant/wilson",
-    "stars": 52,
+    "name": "PSU3D0/agent-spreadsheet",
+    "url": "https://github.com/PSU3D0/agent-spreadsheet",
+    "stars": 63,
     "forks": 9,
-    "description": "Privacy-first AI bookkeeper — import transactions, categorize spending, track budgets, and generate financial reports. All data stays local ...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "glassflow/tares",
-    "url": "https://github.com/glassflow/tares",
-    "stars": 44,
-    "forks": 8,
-    "description": "Open-source platform for always-on AI agents: a software factory for Claude Code that takes your projects from tickets to merged pull reques...",
-    "language": "Python",
-    "tag": "Experimental Agent",
+    "description": "MCP server for spreadsheet analysis and editing. Slim, token-efficient tool surface designed for LLM agents.",
+    "language": "Rust",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-08"
   },
   {
@@ -60,23 +70,13 @@
     "pushed_at": "2026-11-08"
   },
   {
-    "name": "tedix-hq/tedix",
-    "url": "https://github.com/tedix-hq/tedix",
-    "stars": 34,
-    "forks": 1,
-    "description": "A platform for agents, apps, and work. Coordinate people and AI agents with shared tasks, project knowledge, apps, and approvals.",
-    "language": "TypeScript",
+    "name": "airmang/hwpx-plugins",
+    "url": "https://github.com/airmang/hwpx-plugins",
+    "stars": 36,
+    "forks": 10,
+    "description": "Official onboarding skill for HWPX document automation with AI agents.",
+    "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "mbordash/DRADIS",
-    "url": "https://github.com/mbordash/DRADIS",
-    "stars": 33,
-    "forks": 15,
-    "description": "Low-latency Rust prediction-market trading bot for Kalshi & Polymarket (crypto, sports, politics). 12 autonomous strategies (Momentum, Maker...",
-    "language": "Rust",
-    "tag": "Local AI",
     "pushed_at": "2026-11-08"
   }
 ]
