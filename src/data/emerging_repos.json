@@ -1,82 +1,82 @@
 [
   {
-    "name": "JiangNanGenius/floe-agent",
-    "url": "https://github.com/JiangNanGenius/floe-agent",
-    "stars": 448,
-    "forks": 61,
-    "description": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
-    "language": "Swift",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "fitchmultz/pi-cursor-sdk",
-    "url": "https://github.com/fitchmultz/pi-cursor-sdk",
-    "stars": 348,
-    "forks": 81,
-    "description": "Run Cursor's agent loop inside the pi coding agent via local Cursor SDK agents, with native model selection, thinking controls, fast/plan mo...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 308,
-    "forks": 34,
-    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "arounamounchili/linkforge",
-    "url": "https://github.com/arounamounchili/linkforge",
-    "stars": 284,
-    "forks": 27,
-    "description": "The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "gy15901580825/Argus",
-    "url": "https://github.com/gy15901580825/Argus",
-    "stars": 206,
-    "forks": 29,
-    "description": "Open-source red-team testing for AI agents. 261 bundled probes with OWASP LLM Top 10, MITRE ATLAS, and NIST AI RMF mappings. Selected probes...",
+    "name": "sepehr071/iran-mcp",
+    "url": "https://github.com/sepehr071/iran-mcp",
+    "stars": 234,
+    "forks": 25,
+    "description": "77 MCP servers (994 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Alibaba, Neshan, Paziresh24, Jobinja, Bam...",
     "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-07"
+    "pushed_at": "2026-11-08"
   },
   {
-    "name": "Adyansh04/grove-g1",
-    "url": "https://github.com/Adyansh04/grove-g1",
-    "stars": 89,
-    "forks": 10,
-    "description": "ROS 2 Jazzy autonomy stack for the Unitree G1 humanoid, developed in simulation first on unitree_mujoco: a learned walking policy in ros2_co...",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "nullpointexception-i/agent-sphere",
-    "url": "https://github.com/nullpointexception-i/agent-sphere",
-    "stars": 78,
-    "forks": 12,
-    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
-    "language": "Java",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "cyzus/suzent",
-    "url": "https://github.com/cyzus/suzent",
-    "stars": 69,
-    "forks": 11,
-    "description": "SUZENT: The sovereign AI agent - own its memory, govern its actions, choose its intelligence, and keep its continuity.",
+    "name": "ldbumble/taskuary",
+    "url": "https://github.com/ldbumble/taskuary",
+    "stars": 148,
+    "forks": 59,
+    "description": "Your AI work partner. Mail, chats and tickets become one list in the right order; your agents do the work, and nothing goes out until you ap...",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-07"
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "willdady/platypus",
+    "url": "https://github.com/willdady/platypus",
+    "stars": 130,
+    "forks": 33,
+    "description": "Self-hosted AI Agents for your whole team — on your infrastructure, your models, around the clock.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "mstar-project/mstar",
+    "url": "https://github.com/mstar-project/mstar",
+    "stars": 112,
+    "forks": 49,
+    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "NipunaRanasinghe/awesome-ai-agents",
+    "url": "https://github.com/NipunaRanasinghe/awesome-ai-agents",
+    "stars": 62,
+    "forks": 97,
+    "description": "A curated list of frameworks, tools, and resources for building and deploying AI agents.",
+    "language": "HTML",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "timwuhaotian/killi",
+    "url": "https://github.com/timwuhaotian/killi",
+    "stars": 45,
+    "forks": 9,
+    "description": "Fast, tiny AI coding agent for the terminal, written in Rust. One small native binary for Apple Silicon Macs. Works with OpenAI, Anthropic a...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "xopcai/xopc",
+    "url": "https://github.com/xopcai/xopc",
+    "stars": 40,
+    "forks": 8,
+    "description": "An open-source AI assistant for work and everyday life. Remembers context and helps you get things done. Local-first, on a computer you choo...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "CambrianTech/continuum",
+    "url": "https://github.com/CambrianTech/continuum",
+    "stars": 38,
+    "forks": 10,
+    "description": "Local-first AI citizens on your own hardware. Teams of continuously-learning personas (Rust core, llama.cpp fork, LoRA genomes) that collabo...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-08"
   }
 ]

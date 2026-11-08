@@ -2,8 +2,8 @@
   {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 299174,
-    "forks": 44196,
+    "stars": 299279,
+    "forks": 44219,
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code...",
     "language": "JavaScript",
     "tag": "Autonomous Agents",
@@ -12,8 +12,8 @@
   {
     "name": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 275740,
-    "forks": 33725,
+    "stars": 275923,
+    "forks": 33753,
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
@@ -22,38 +22,38 @@
   {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 261504,
-    "forks": 57997,
+    "stars": 261561,
+    "forks": 58056,
     "description": "The agent that grows with you",
     "language": "Python",
     "tag": "Autonomous Agents",
-    "pushed_at": "2026-11-07"
+    "pushed_at": "2026-11-08"
   },
   {
     "name": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 225298,
-    "forks": 30406,
+    "stars": 225336,
+    "forks": 30419,
     "description": "The open source coding agent.",
     "language": "TypeScript",
     "tag": "Developer Tools",
-    "pushed_at": "2026-11-07"
+    "pushed_at": "2026-11-08"
   },
   {
     "name": "firecrawl/firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 199520,
-    "forks": 10501,
+    "stars": 199580,
+    "forks": 10506,
     "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
-    "pushed_at": "2026-11-07"
+    "pushed_at": "2026-11-08"
   },
   {
     "name": "ultraworkers/claw-code",
     "url": "https://github.com/ultraworkers/claw-code",
     "stars": 194943,
-    "forks": 107470,
+    "forks": 107467,
     "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
     "language": "Rust",
     "tag": "Developer Tools",
@@ -62,18 +62,18 @@
   {
     "name": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "stars": 187933,
-    "forks": 45899,
+    "stars": 187934,
+    "forks": 45894,
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on w...",
     "language": "Python",
     "tag": "Foundation Models",
-    "pushed_at": "2026-11-07"
+    "pushed_at": "2026-11-08"
   },
   {
     "name": "DietrichGebert/ponytail",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 186373,
-    "forks": 10318,
+    "stars": 186495,
+    "forks": 10327,
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "language": "JavaScript",
     "tag": "Developer Tools",
