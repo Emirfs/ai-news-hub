@@ -1,21 +1,31 @@
 [
   {
-    "name": "xorbitsai/xagent",
-    "url": "https://github.com/xorbitsai/xagent",
-    "stars": 308,
-    "forks": 83,
-    "description": "Build personal agents and enterprise AI workforces that plan, delegate, use tools, and deliver real work — without brittle workflows.",
-    "language": "Python",
-    "tag": "Experimental Agent",
+    "name": "JiangNanGenius/floe-agent",
+    "url": "https://github.com/JiangNanGenius/floe-agent",
+    "stars": 448,
+    "forks": 61,
+    "description": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
+    "language": "Swift",
+    "tag": "Local AI",
     "pushed_at": "2026-11-07"
   },
   {
-    "name": "Yigtwxx/awesome-rag-production",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production",
-    "stars": 292,
-    "forks": 79,
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation...",
-    "language": "Python",
+    "name": "fitchmultz/pi-cursor-sdk",
+    "url": "https://github.com/fitchmultz/pi-cursor-sdk",
+    "stars": 348,
+    "forks": 81,
+    "description": "Run Cursor's agent loop inside the pi coding agent via local Cursor SDK agents, with native model selection, thinking controls, fast/plan mo...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-07"
+  },
+  {
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 308,
+    "forks": 34,
+    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-07"
   },
@@ -30,23 +40,13 @@
     "pushed_at": "2026-11-07"
   },
   {
-    "name": "Changan-Su/Forsion",
-    "url": "https://github.com/Changan-Su/Forsion",
-    "stars": 175,
-    "forks": 0,
-    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-07"
-  },
-  {
-    "name": "swarmauri/swarmauri-sdk",
-    "url": "https://github.com/swarmauri/swarmauri-sdk",
-    "stars": 105,
-    "forks": 54,
-    "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workf...",
+    "name": "gy15901580825/Argus",
+    "url": "https://github.com/gy15901580825/Argus",
+    "stars": 206,
+    "forks": 29,
+    "description": "Open-source red-team testing for AI agents. 261 bundled probes with OWASP LLM Top 10, MITRE ATLAS, and NIST AI RMF mappings. Selected probes...",
     "language": "Python",
-    "tag": "Experimental Agent",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-07"
   },
   {
@@ -60,23 +60,23 @@
     "pushed_at": "2026-11-07"
   },
   {
-    "name": "apoapostolov/hermes-agent-awesome-plugins",
-    "url": "https://github.com/apoapostolov/hermes-agent-awesome-plugins",
-    "stars": 50,
-    "forks": 5,
-    "description": "An installable Hermes Agent plugin pack for AI power users: unified provider quotas, stalled-tool control, reasoning and iteration budgets, ...",
-    "language": "Python",
+    "name": "nullpointexception-i/agent-sphere",
+    "url": "https://github.com/nullpointexception-i/agent-sphere",
+    "stars": 78,
+    "forks": 12,
+    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
+    "language": "Java",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-07"
   },
   {
-    "name": "CambrianTech/continuum",
-    "url": "https://github.com/CambrianTech/continuum",
-    "stars": 38,
-    "forks": 10,
-    "description": "Local-first AI citizens on your own hardware. Teams of continuously-learning personas (Rust core, llama.cpp fork, LoRA genomes) that collabo...",
-    "language": "Rust",
-    "tag": "Local AI",
+    "name": "cyzus/suzent",
+    "url": "https://github.com/cyzus/suzent",
+    "stars": 69,
+    "forks": 11,
+    "description": "SUZENT: The sovereign AI agent - own its memory, govern its actions, choose its intelligence, and keep its continuity.",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-07"
   }
 ]

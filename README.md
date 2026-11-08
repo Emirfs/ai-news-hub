@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-07 20:32 UTC` | **Source-linked stories:** `287`
+> **Index generated:** `2026-11-08 00:00 UTC` | **Source-linked stories:** `287`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,7 +20,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 299.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 299.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 275.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.5k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [xorbitsai/xagent](https://github.com/xorbitsai/xagent) | `★ 308` | `2026-11-07` | Experimental Agent | `Python` | Build personal agents and enterprise AI workforces that plan, delegate, use tools, an... |
-| [Yigtwxx/awesome-rag-production](https://github.com/Yigtwxx/awesome-rag-production) | `★ 292` | `2026-11-07` | Indie Tool | `Python` | A curated list of battle-tested tools, frameworks, and best practices for building sc... |
+| [JiangNanGenius/floe-agent](https://github.com/JiangNanGenius/floe-agent) | `★ 448` | `2026-11-07` | Local AI | `Swift` | iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone sup... |
+| [fitchmultz/pi-cursor-sdk](https://github.com/fitchmultz/pi-cursor-sdk) | `★ 348` | `2026-11-07` | Local AI | `TypeScript` | Run Cursor's agent loop inside the pi coding agent via local Cursor SDK agents, with ... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 308` | `2026-11-07` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
 | [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 284` | `2026-11-07` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
-| [Changan-Su/Forsion](https://github.com/Changan-Su/Forsion) | `★ 175` | `2026-11-07` | Local AI | `TypeScript` | Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, know... |
-| [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk) | `★ 105` | `2026-11-07` | Experimental Agent | `Python` | Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embe... |
+| [gy15901580825/Argus](https://github.com/gy15901580825/Argus) | `★ 206` | `2026-11-07` | Indie Tool | `Python` | Open-source red-team testing for AI agents. 261 bundled probes with OWASP LLM Top 10,... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -336,7 +336,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-07 20:32 UTC` | **Yayımlanan haber:** `287`
+> **Dizin oluşturma:** `2026-11-08 00:00 UTC` | **Yayımlanan haber:** `287`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
