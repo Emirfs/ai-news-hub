@@ -1,32 +1,22 @@
 [
   {
-    "name": "sepehr071/iran-mcp",
-    "url": "https://github.com/sepehr071/iran-mcp",
-    "stars": 234,
-    "forks": 25,
-    "description": "77 MCP servers (994 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Alibaba, Neshan, Paziresh24, Jobinja, Bam...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "ldbumble/taskuary",
-    "url": "https://github.com/ldbumble/taskuary",
-    "stars": 148,
-    "forks": 59,
-    "description": "Your AI work partner. Mail, chats and tickets become one list in the right order; your agents do the work, and nothing goes out until you ap...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "willdady/platypus",
-    "url": "https://github.com/willdady/platypus",
-    "stars": 130,
-    "forks": 33,
-    "description": "Self-hosted AI Agents for your whole team — on your infrastructure, your models, around the clock.",
+    "name": "eduwxyz/tucano",
+    "url": "https://github.com/eduwxyz/tucano",
+    "stars": 304,
+    "forks": 55,
+    "description": "Your team of AI agents, on your Mac, Windows or Linux. Agents that talk in channels, write code, review each other and use your tools, on th...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "Changan-Su/Forsion",
+    "url": "https://github.com/Changan-Su/Forsion",
+    "stars": 176,
+    "forks": 0,
+    "description": "Your Best Ai Seconed Brain! An evolvable, local-first AI workbench where agents, knowledge, and everyday work come together.",
+    "language": "TypeScript",
+    "tag": "Local AI",
     "pushed_at": "2026-11-08"
   },
   {
@@ -40,41 +30,51 @@
     "pushed_at": "2026-11-08"
   },
   {
-    "name": "NipunaRanasinghe/awesome-ai-agents",
-    "url": "https://github.com/NipunaRanasinghe/awesome-ai-agents",
-    "stars": 62,
-    "forks": 97,
-    "description": "A curated list of frameworks, tools, and resources for building and deploying AI agents.",
-    "language": "HTML",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "timwuhaotian/killi",
-    "url": "https://github.com/timwuhaotian/killi",
-    "stars": 45,
+    "name": "openaccountant/wilson",
+    "url": "https://github.com/openaccountant/wilson",
+    "stars": 52,
     "forks": 9,
-    "description": "Fast, tiny AI coding agent for the terminal, written in Rust. One small native binary for Apple Silicon Macs. Works with OpenAI, Anthropic a...",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "xopcai/xopc",
-    "url": "https://github.com/xopcai/xopc",
-    "stars": 40,
-    "forks": 8,
-    "description": "An open-source AI assistant for work and everyday life. Remembers context and helps you get things done. Local-first, on a computer you choo...",
+    "description": "Privacy-first AI bookkeeper — import transactions, categorize spending, track budgets, and generate financial reports. All data stays local ...",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-08"
   },
   {
-    "name": "CambrianTech/continuum",
-    "url": "https://github.com/CambrianTech/continuum",
-    "stars": 38,
-    "forks": 10,
-    "description": "Local-first AI citizens on your own hardware. Teams of continuously-learning personas (Rust core, llama.cpp fork, LoRA genomes) that collabo...",
+    "name": "glassflow/tares",
+    "url": "https://github.com/glassflow/tares",
+    "stars": 44,
+    "forks": 8,
+    "description": "Open-source platform for always-on AI agents: a software factory for Claude Code that takes your projects from tickets to merged pull reques...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "Robot-cpp/robot.cpp",
+    "url": "https://github.com/Robot-cpp/robot.cpp",
+    "stars": 40,
+    "forks": 6,
+    "description": "robot model inference in C/C++",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "tedix-hq/tedix",
+    "url": "https://github.com/tedix-hq/tedix",
+    "stars": 34,
+    "forks": 1,
+    "description": "A platform for agents, apps, and work. Coordinate people and AI agents with shared tasks, project knowledge, apps, and approvals.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "mbordash/DRADIS",
+    "url": "https://github.com/mbordash/DRADIS",
+    "stars": 33,
+    "forks": 15,
+    "description": "Low-latency Rust prediction-market trading bot for Kalshi & Polymarket (crypto, sports, politics). 12 autonomous strategies (Momentum, Maker...",
     "language": "Rust",
     "tag": "Local AI",
     "pushed_at": "2026-11-08"
