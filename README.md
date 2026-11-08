@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-08 21:37 UTC` | **Source-linked stories:** `287`
+> **Index generated:** `2026-11-08 22:30 UTC` | **Source-linked stories:** `287`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 299.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 299.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 276.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.7k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.7k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.8k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [yologdev/yoagent](https://github.com/yologdev/yoagent) | `★ 369` | `2026-11-08` | Indie Tool | `Rust` | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. Fr... |
-| [Renaissance-Mind/ShowAI](https://github.com/Renaissance-Mind/ShowAI) | `★ 132` | `2026-11-08` | Experimental Agent | `TypeScript` | The evolving interface between humans and agents — Claude Code and Codex answer with ... |
-| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 123` | `2026-11-08` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
-| [marcimastro98/Xenon](https://github.com/marcimastro98/Xenon) | `★ 120` | `2026-11-08` | Local AI | `JavaScript` | A 100% local all-in-one dashboard for any screen, tablet or phone. Windows, with macO... |
+| [Hkshoonya/nvidia-broadcast-linux](https://github.com/Hkshoonya/nvidia-broadcast-linux) | `★ 213` | `2026-11-08` | Local AI | `Python` | Open-source AI camera and microphone effects for Linux and macOS: background effects,... |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-08` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [nullpointexception-i/agent-sphere](https://github.com/nullpointexception-i/agent-sphere) | `★ 78` | `2026-11-08` | Indie Tool | `Java` | This project is an AI Agent orchestration platform. It uses an LLM-driven decision en... |
+| [Abrechen2/sublarr](https://github.com/Abrechen2/sublarr) | `★ 48` | `2026-11-08` | Local AI | `Python` | Subtitle manager for Sonarr and Radarr: finds, checks and repairs subtitles, with ani... |
+| [Robot-cpp/robot.cpp](https://github.com/Robot-cpp/robot.cpp) | `★ 40` | `2026-11-08` | Embodied AI | `C++` | robot model inference in C/C++ |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -336,7 +336,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-08 21:37 UTC` | **Yayımlanan haber:** `287`
+> **Dizin oluşturma:** `2026-11-08 22:30 UTC` | **Yayımlanan haber:** `287`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)

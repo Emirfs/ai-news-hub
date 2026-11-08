@@ -1,41 +1,11 @@
 [
   {
-    "name": "yologdev/yoagent",
-    "url": "https://github.com/yologdev/yoagent",
-    "stars": 369,
-    "forks": 53,
-    "description": "The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "Renaissance-Mind/ShowAI",
-    "url": "https://github.com/Renaissance-Mind/ShowAI",
-    "stars": 132,
-    "forks": 15,
-    "description": "The evolving interface between humans and agents — Claude Code and Codex answer with interactive pages you can edit, keep and share.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "ypollak2/llm-router",
-    "url": "https://github.com/ypollak2/llm-router",
-    "stars": 123,
-    "forks": 17,
-    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "name": "Hkshoonya/nvidia-broadcast-linux",
+    "url": "https://github.com/Hkshoonya/nvidia-broadcast-linux",
+    "stars": 213,
+    "forks": 23,
+    "description": "Open-source AI camera and microphone effects for Linux and macOS: background effects, auto framing, noise removal, recording, and local meet...",
     "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "marcimastro98/Xenon",
-    "url": "https://github.com/marcimastro98/Xenon",
-    "stars": 120,
-    "forks": 17,
-    "description": "A 100% local all-in-one dashboard for any screen, tablet or phone. Windows, with macOS and Linux in beta. System monitor, media and mic, a v...",
-    "language": "JavaScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-08"
   },
@@ -50,13 +20,23 @@
     "pushed_at": "2026-11-08"
   },
   {
-    "name": "PSU3D0/agent-spreadsheet",
-    "url": "https://github.com/PSU3D0/agent-spreadsheet",
-    "stars": 63,
-    "forks": 9,
-    "description": "MCP server for spreadsheet analysis and editing. Slim, token-efficient tool surface designed for LLM agents.",
-    "language": "Rust",
+    "name": "nullpointexception-i/agent-sphere",
+    "url": "https://github.com/nullpointexception-i/agent-sphere",
+    "stars": 78,
+    "forks": 12,
+    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
+    "language": "Java",
     "tag": "Indie Tool",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "Abrechen2/sublarr",
+    "url": "https://github.com/Abrechen2/sublarr",
+    "stars": 48,
+    "forks": 5,
+    "description": "Subtitle manager for Sonarr and Radarr: finds, checks and repairs subtitles, with anime support and local AI translation (alternative to Baz...",
+    "language": "Python",
+    "tag": "Local AI",
     "pushed_at": "2026-11-08"
   },
   {
@@ -70,11 +50,31 @@
     "pushed_at": "2026-11-08"
   },
   {
-    "name": "airmang/hwpx-plugins",
-    "url": "https://github.com/airmang/hwpx-plugins",
-    "stars": 36,
+    "name": "AdoHaha/modelrobot",
+    "url": "https://github.com/AdoHaha/modelrobot",
+    "stars": 38,
+    "forks": 7,
+    "description": "showing robots described by URDF in browser",
+    "language": "JavaScript",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "dovvnloading/Cortex",
+    "url": "https://github.com/dovvnloading/Cortex",
+    "stars": 37,
+    "forks": 6,
+    "description": "Local first mini-harness fully capable of simple every-day coding or admin tasks using Ollama",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-08"
+  },
+  {
+    "name": "SourceShift/mini-ork",
+    "url": "https://github.com/SourceShift/mini-ork",
+    "stars": 32,
     "forks": 10,
-    "description": "Official onboarding skill for HWPX document automation with AI agents.",
+    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attacks the patch with gen...",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-08"
