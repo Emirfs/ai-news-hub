@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-09 02:01 UTC` | **Source-linked stories:** `287`
+> **Index generated:** `2026-11-09 09:53 UTC` | **Source-linked stories:** `289`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 299.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 276.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.8k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.8k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 299.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 277.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 261.9k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 199.9k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules) | `★ 427` | `2026-11-09` | Experimental Agent | `TypeScript` | Open detection-rule standard for AI agent security threats — like Sigma, but for AI a... |
-| [anomalyco/browse](https://github.com/anomalyco/browse) | `★ 351` | `2026-11-09` | Experimental Agent | `TypeScript` | Let your AI agents use your real browser: an MCP server and a Chromium extension |
-| [bex-co/beancount-io](https://github.com/bex-co/beancount-io) | `★ 330` | `2026-11-09` | Experimental Agent | `TypeScript` | 💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents... |
-| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 263` | `2026-11-09` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
-| [AgustiPuigserver/opus-prompt-architect](https://github.com/AgustiPuigserver/opus-prompt-architect) | `★ 127` | `2026-11-09` | Indie Tool | `HTML` | Best Prompt Engineering Tools for 2026 AI Workflow Optimization |
+| [Innei/ryugi](https://github.com/Innei/ryugi) | `★ 387` | `2026-11-09` | Experimental Agent | `JavaScript` | 流儀 — a skills collection for coding agents and the artifacts workbench they design in... |
+| [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory) | `★ 274` | `2026-11-09` | Local AI | `Python` | Open-source governed, local-first memory control plane for AI agents and teams. arXiv... |
+| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 233` | `2026-11-09` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
+| [jentic/jentic-one](https://github.com/jentic/jentic-one) | `★ 223` | `2026-11-09` | Experimental Agent | `Python` | Self-hosted execution layer for AI agents: connect any agent to real APIs, scope exac... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-09` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-09` | Robotics & Hardware | [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](src/content/news/2026-11-09-nvidia-announces-new-planned-investments-in.md) | Korea’s | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-09-nvidia-announces-new-planned-investments-in/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korean-startup-investments-msit) |
+| `2026-11-09` | Robotics & Hardware | [Korea Advances Physical AI Across Industries With NVIDIA](src/content/news/2026-11-09-korea-advances-physical-ai-across-industries.md) | NVIDIA is | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-09-korea-advances-physical-ai-across-industries/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem) |
 | `2026-11-06` | AI Research | [Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity](src/content/news/2026-11-07-trust-responsive-runtime-authorization-for-agentic.md) | The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-07-trust-responsive-runtime-authorization-for-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06996) |
 | `2026-11-06` | AI Research | [The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record](src/content/news/2026-11-06-the-two-ledger-model-transaction-grain-cost-accounting.md) | Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs),... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-the-two-ledger-model-transaction-grain-cost-accounting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06989) |
 | `2026-11-06` | AI Research | [KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks](src/content/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization.md) | Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06972) |
@@ -336,7 +338,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-09 02:01 UTC` | **Yayımlanan haber:** `287`
+> **Dizin oluşturma:** `2026-11-09 09:53 UTC` | **Yayımlanan haber:** `289`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -346,6 +348,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-09` | Robotics & Hardware | [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](src/content/news/2026-11-09-nvidia-announces-new-planned-investments-in.md) | Korea’s | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-09-nvidia-announces-new-planned-investments-in/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korean-startup-investments-msit) |
+| `2026-11-09` | Robotics & Hardware | [Korea Advances Physical AI Across Industries With NVIDIA](src/content/news/2026-11-09-korea-advances-physical-ai-across-industries.md) | NVIDIA is | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-09-korea-advances-physical-ai-across-industries/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem) |
 | `2026-11-06` | AI Research | [Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity](src/content/news/2026-11-07-trust-responsive-runtime-authorization-for-agentic.md) | The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-07-trust-responsive-runtime-authorization-for-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06996) |
 | `2026-11-06` | AI Research | [The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record](src/content/news/2026-11-06-the-two-ledger-model-transaction-grain-cost-accounting.md) | Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs),... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-the-two-ledger-model-transaction-grain-cost-accounting/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06989) |
 | `2026-11-06` | AI Research | [KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks](src/content/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization.md) | Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-06-kdaso-knowledge-data-dual-driven-automated-skill-optimization/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.06972) |

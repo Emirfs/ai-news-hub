@@ -1,52 +1,42 @@
 [
   {
-    "name": "Agent-Threat-Rule/agent-threat-rules",
-    "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
-    "stars": 427,
-    "forks": 68,
-    "description": "Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable, testable rules for prompt injection,...",
-    "language": "TypeScript",
+    "name": "Innei/ryugi",
+    "url": "https://github.com/Innei/ryugi",
+    "stars": 387,
+    "forks": 15,
+    "description": "流儀 — a skills collection for coding agents and the artifacts workbench they design in: live artboards, commentable documents, HTML test benc...",
+    "language": "JavaScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-09"
   },
   {
-    "name": "anomalyco/browse",
-    "url": "https://github.com/anomalyco/browse",
-    "stars": 351,
-    "forks": 21,
-    "description": "Let your AI agents use your real browser: an MCP server and a Chromium extension",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
+    "name": "qualixar/superlocalmemory",
+    "url": "https://github.com/qualixar/superlocalmemory",
+    "stars": 274,
+    "forks": 38,
+    "description": "Open-source governed, local-first memory control plane for AI agents and teams. arXiv:2608.08253",
+    "language": "Python",
+    "tag": "Local AI",
     "pushed_at": "2026-11-09"
   },
   {
-    "name": "bex-co/beancount-io",
-    "url": "https://github.com/bex-co/beancount-io",
-    "stars": 330,
-    "forks": 39,
-    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-09"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 263,
-    "forks": 52,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-09"
-  },
-  {
-    "name": "AgustiPuigserver/opus-prompt-architect",
-    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
-    "stars": 127,
-    "forks": 1,
-    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
-    "language": "HTML",
+    "name": "bigfish1913/pi-rust",
+    "url": "https://github.com/bigfish1913/pi-rust",
+    "stars": 233,
+    "forks": 43,
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
+    "language": "Rust",
     "tag": "Indie Tool",
+    "pushed_at": "2026-11-09"
+  },
+  {
+    "name": "jentic/jentic-one",
+    "url": "https://github.com/jentic/jentic-one",
+    "stars": 223,
+    "forks": 27,
+    "description": "Self-hosted execution layer for AI agents: connect any agent to real APIs, scope exactly what it can touch, and keep credentials out of the ...",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-09"
   },
   {
@@ -60,23 +50,33 @@
     "pushed_at": "2026-11-09"
   },
   {
-    "name": "WingedGuardian/GENesis-AGI",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI",
-    "stars": 100,
-    "forks": 45,
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "name": "alibaba-damo-academy/ScholarSeed",
+    "url": "https://github.com/alibaba-damo-academy/ScholarSeed",
+    "stars": 39,
+    "forks": 4,
+    "description": "Open-source, AI-native research workbench for literature search, reading, knowledge management & academic writing. Connects papers, notes an...",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-09"
   },
   {
-    "name": "Bike4Mind/bike4mind",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 95,
-    "forks": 17,
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
-    "language": "TypeScript",
-    "tag": "Local AI",
+    "name": "HyperbolicCurve/Awesome-World-Action-Model",
+    "url": "https://github.com/HyperbolicCurve/Awesome-World-Action-Model",
+    "stars": 37,
+    "forks": 3,
+    "description": "A curated list of academic papers and resources on Vision-Language-Action (VLA) and World Action Models (WAM)",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-09"
+  },
+  {
+    "name": "hanjianhua44/Awesome-VLA-Papers",
+    "url": "https://github.com/hanjianhua44/Awesome-VLA-Papers",
+    "stars": 35,
+    "forks": 4,
+    "description": "A curated collection of papers on Vision-Language-Action (VLA) models for autonomous driving and robotics",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-09"
   }
 ]
