@@ -1,13 +1,53 @@
 [
   {
-    "name": "Hkshoonya/nvidia-broadcast-linux",
-    "url": "https://github.com/Hkshoonya/nvidia-broadcast-linux",
-    "stars": 213,
-    "forks": 23,
-    "description": "Open-source AI camera and microphone effects for Linux and macOS: background effects, auto framing, noise removal, recording, and local meet...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-08"
+    "name": "Agent-Threat-Rule/agent-threat-rules",
+    "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+    "stars": 427,
+    "forks": 68,
+    "description": "Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable, testable rules for prompt injection,...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-09"
+  },
+  {
+    "name": "anomalyco/browse",
+    "url": "https://github.com/anomalyco/browse",
+    "stars": 351,
+    "forks": 21,
+    "description": "Let your AI agents use your real browser: an MCP server and a Chromium extension",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-09"
+  },
+  {
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 330,
+    "forks": 39,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-09"
+  },
+  {
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 263,
+    "forks": 52,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-09"
+  },
+  {
+    "name": "AgustiPuigserver/opus-prompt-architect",
+    "url": "https://github.com/AgustiPuigserver/opus-prompt-architect",
+    "stars": 127,
+    "forks": 1,
+    "description": "Best Prompt Engineering Tools for 2026 AI Workflow Optimization",
+    "language": "HTML",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-09"
   },
   {
     "name": "mstar-project/mstar",
@@ -17,66 +57,26 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-08"
+    "pushed_at": "2026-11-09"
   },
   {
-    "name": "nullpointexception-i/agent-sphere",
-    "url": "https://github.com/nullpointexception-i/agent-sphere",
-    "stars": 78,
-    "forks": 12,
-    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
-    "language": "Java",
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 100,
+    "forks": 45,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-08"
+    "pushed_at": "2026-11-09"
   },
   {
-    "name": "Abrechen2/sublarr",
-    "url": "https://github.com/Abrechen2/sublarr",
-    "stars": 48,
-    "forks": 5,
-    "description": "Subtitle manager for Sonarr and Radarr: finds, checks and repairs subtitles, with anime support and local AI translation (alternative to Baz...",
-    "language": "Python",
+    "name": "Bike4Mind/bike4mind",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 95,
+    "forks": 17,
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
+    "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "Robot-cpp/robot.cpp",
-    "url": "https://github.com/Robot-cpp/robot.cpp",
-    "stars": 40,
-    "forks": 6,
-    "description": "robot model inference in C/C++",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "AdoHaha/modelrobot",
-    "url": "https://github.com/AdoHaha/modelrobot",
-    "stars": 38,
-    "forks": 7,
-    "description": "showing robots described by URDF in browser",
-    "language": "JavaScript",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "dovvnloading/Cortex",
-    "url": "https://github.com/dovvnloading/Cortex",
-    "stars": 37,
-    "forks": 6,
-    "description": "Local first mini-harness fully capable of simple every-day coding or admin tasks using Ollama",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-08"
-  },
-  {
-    "name": "SourceShift/mini-ork",
-    "url": "https://github.com/SourceShift/mini-ork",
-    "stars": 32,
-    "forks": 10,
-    "description": "Prove an AI-written fix actually fixes the bug. mini-ork certify reproduces the bug against your repo's own code, attacks the patch with gen...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-08"
+    "pushed_at": "2026-11-09"
   }
 ]
