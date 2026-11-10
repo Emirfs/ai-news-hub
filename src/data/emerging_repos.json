@@ -1,32 +1,52 @@
 [
   {
-    "name": "JiangNanGenius/floe-agent",
-    "url": "https://github.com/JiangNanGenius/floe-agent",
-    "stars": 452,
-    "forks": 61,
-    "description": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
-    "language": "Swift",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "bex-co/beancount-io",
-    "url": "https://github.com/bex-co/beancount-io",
-    "stars": 333,
-    "forks": 39,
-    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "marcimastro98/Xenon",
-    "url": "https://github.com/marcimastro98/Xenon",
-    "stars": 121,
-    "forks": 16,
-    "description": "A 100% local all-in-one dashboard for any screen, tablet or phone. Windows, with macOS and Linux in beta. System monitor, media and mic, a v...",
-    "language": "JavaScript",
+    "name": "Vigil-SOC/vigil",
+    "url": "https://github.com/Vigil-SOC/vigil",
+    "stars": 431,
+    "forks": 98,
+    "description": "Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
+    "language": "Python",
     "tag": "Local AI",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "thisnick/agent-wechat",
+    "url": "https://github.com/thisnick/agent-wechat",
+    "stars": 276,
+    "forks": 112,
+    "description": "A native, open-source WeChat client for desktop, CLI, and AI agents.",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "wadeKeith/Awesome-Embodied-AI",
+    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
+    "stars": 254,
+    "forks": 25,
+    "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "chonghanqin/Awesome-Agentic-Robots",
+    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
+    "stars": 173,
+    "forks": 6,
+    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "postmill-ai/postmill-app",
+    "url": "https://github.com/postmill-ai/postmill-app",
+    "stars": 151,
+    "forks": 22,
+    "description": "Open-source, AI-native social media management, design & scheduling platform for 45+ channels. BYOK AI across 30+ providers with governance ...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-10"
   },
   {
@@ -40,41 +60,21 @@
     "pushed_at": "2026-11-10"
   },
   {
-    "name": "nullpointexception-i/agent-sphere",
-    "url": "https://github.com/nullpointexception-i/agent-sphere",
+    "name": "Eslamasabry/opencode-mobile-next",
+    "url": "https://github.com/Eslamasabry/opencode-mobile-next",
+    "stars": 83,
+    "forks": 21,
+    "description": "Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and steer agents on your computer: live sessions, tool app...",
+    "language": "Dart",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "Lebbitheplow/open-game-master",
+    "url": "https://github.com/Lebbitheplow/open-game-master",
     "stars": 78,
-    "forks": 12,
-    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
-    "language": "Java",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "0xBakeer/TandemLLM",
-    "url": "https://github.com/0xBakeer/TandemLLM",
-    "stars": 77,
-    "forks": 14,
-    "description": "An environment where open models work as agents: a first-level harness with routing, skills, memory and sandboxed tools, on an engine that d...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "wuji-technology/wuji-description",
-    "url": "https://github.com/wuji-technology/wuji-description",
-    "stars": 53,
-    "forks": 9,
-    "description": "Robot model description files for Wuji robots (URDF, MJCF, MJX, USD)",
-    "language": "CMake",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "Cookieboty/nomi-ai",
-    "url": "https://github.com/Cookieboty/nomi-ai",
-    "stars": 48,
-    "forks": 12,
-    "description": "Nomi·诺米 — 你的桌面 AI 伙伴：住在桌面，懂你所想，帮你做到。Local-first desktop AI companion (Electron + Vercel AI SDK) with a 2D/3D mascot.",
+    "forks": 36,
+    "description": "The first easy-to-use, fully local AI 5e app. Story and inline scene images generated 100% on your machine or with cloud providers.",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-10"
