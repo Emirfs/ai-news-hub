@@ -1,42 +1,32 @@
 [
   {
-    "name": "bigfish1913/pi-rust",
-    "url": "https://github.com/bigfish1913/pi-rust",
-    "stars": 241,
-    "forks": 46,
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
-    "language": "Rust",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 192,
-    "forks": 21,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "devsy-org/devsy",
-    "url": "https://github.com/devsy-org/devsy",
-    "stars": 133,
-    "forks": 12,
-    "description": "Deploy secure local and cloud environments for developers and agents",
-    "language": "Go",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "solanabr/ai-kit",
-    "url": "https://github.com/solanabr/ai-kit",
-    "stars": 111,
-    "forks": 59,
-    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, A...",
-    "language": "Shell",
+    "name": "JiangNanGenius/floe-agent",
+    "url": "https://github.com/JiangNanGenius/floe-agent",
+    "stars": 452,
+    "forks": 61,
+    "description": "iPad-first, open-source iOS AI Agent with native on-device 3D/CAD editing, iPhone support and Android alpha. On-device Linux, terminal, Pyth...",
+    "language": "Swift",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "bex-co/beancount-io",
+    "url": "https://github.com/bex-co/beancount-io",
+    "stars": 333,
+    "forks": 39,
+    "description": "💰 Double-entry bookkeeping made easy — plain-text accounting for humans and AI agents. Polished iOS & Android app built with React Native + ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "marcimastro98/Xenon",
+    "url": "https://github.com/marcimastro98/Xenon",
+    "stars": 121,
+    "forks": 16,
+    "description": "A 100% local all-in-one dashboard for any screen, tablet or phone. Windows, with macOS and Linux in beta. System monitor, media and mic, a v...",
+    "language": "JavaScript",
+    "tag": "Local AI",
     "pushed_at": "2026-11-10"
   },
   {
@@ -50,32 +40,42 @@
     "pushed_at": "2026-11-10"
   },
   {
-    "name": "tenuo-ai/tenuo",
-    "url": "https://github.com/tenuo-ai/tenuo",
-    "stars": 106,
-    "forks": 30,
-    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
-    "language": "Rust",
+    "name": "nullpointexception-i/agent-sphere",
+    "url": "https://github.com/nullpointexception-i/agent-sphere",
+    "stars": 78,
+    "forks": 12,
+    "description": "This project is an AI Agent orchestration platform. It uses an LLM-driven decision engine, combined with capabilities (built-in tools, MCP p...",
+    "language": "Java",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-10"
   },
   {
-    "name": "ScriptedAlchemy/tracedecay",
-    "url": "https://github.com/ScriptedAlchemy/tracedecay",
-    "stars": 86,
-    "forks": 7,
-    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
-    "language": "Rust",
-    "tag": "Local AI",
+    "name": "0xBakeer/TandemLLM",
+    "url": "https://github.com/0xBakeer/TandemLLM",
+    "stars": 77,
+    "forks": 14,
+    "description": "An environment where open models work as agents: a first-level harness with routing, skills, memory and sandboxed tools, on an engine that d...",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-10"
   },
   {
-    "name": "skyelan1999/aide",
-    "url": "https://github.com/skyelan1999/aide",
-    "stars": 81,
-    "forks": 3,
-    "description": "Self-hosted AI workspace for developers and engineers. Bring your own models, work with local or SSH projects, and automate coding and proje...",
-    "language": "Go",
+    "name": "wuji-technology/wuji-description",
+    "url": "https://github.com/wuji-technology/wuji-description",
+    "stars": 53,
+    "forks": 9,
+    "description": "Robot model description files for Wuji robots (URDF, MJCF, MJX, USD)",
+    "language": "CMake",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "Cookieboty/nomi-ai",
+    "url": "https://github.com/Cookieboty/nomi-ai",
+    "stars": 48,
+    "forks": 12,
+    "description": "Nomi·诺米 — 你的桌面 AI 伙伴：住在桌面，懂你所想，帮你做到。Local-first desktop AI companion (Electron + Vercel AI SDK) with a 2D/3D mascot.",
+    "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-10"
   }
