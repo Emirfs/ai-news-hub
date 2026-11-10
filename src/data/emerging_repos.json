@@ -1,33 +1,43 @@
 [
   {
+    "name": "bigfish1913/pi-rust",
+    "url": "https://github.com/bigfish1913/pi-rust",
+    "stars": 241,
+    "forks": 46,
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-10"
+  },
+  {
     "name": "prime-radiant-inc/evener",
     "url": "https://github.com/prime-radiant-inc/evener",
     "stars": 192,
-    "forks": 20,
+    "forks": 21,
     "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
     "language": "Go",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-09"
+    "pushed_at": "2026-11-10"
   },
   {
-    "name": "ustcwhy/BitVLA",
-    "url": "https://github.com/ustcwhy/BitVLA",
-    "stars": 175,
+    "name": "devsy-org/devsy",
+    "url": "https://github.com/devsy-org/devsy",
+    "stars": 133,
     "forks": 12,
-    "description": "Official implementation for BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation (CoRL 2026, Spotlight)",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-09"
+    "description": "Deploy secure local and cloud environments for developers and agents",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-10"
   },
   {
-    "name": "chonghanqin/Awesome-Agentic-Robots",
-    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
-    "stars": 170,
-    "forks": 6,
-    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-09"
+    "name": "solanabr/ai-kit",
+    "url": "https://github.com/solanabr/ai-kit",
+    "stars": 111,
+    "forks": 59,
+    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, A...",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-10"
   },
   {
     "name": "mstar-project/mstar",
@@ -37,46 +47,36 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-09"
+    "pushed_at": "2026-11-10"
   },
   {
-    "name": "Ta0p1/ResolveLab",
-    "url": "https://github.com/Ta0p1/ResolveLab",
-    "stars": 104,
-    "forks": 1,
-    "description": "Fault-injected tool environments with side-effect grading for evaluating and post-training LLM agents",
-    "language": "Python",
+    "name": "tenuo-ai/tenuo",
+    "url": "https://github.com/tenuo-ai/tenuo",
+    "stars": 106,
+    "forks": 30,
+    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
+    "language": "Rust",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-09"
+    "pushed_at": "2026-11-10"
   },
   {
-    "name": "OpenAdminOS/OpenAdminOS",
-    "url": "https://github.com/OpenAdminOS/OpenAdminOS",
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 86,
+    "forks": 7,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-10"
+  },
+  {
+    "name": "skyelan1999/aide",
+    "url": "https://github.com/skyelan1999/aide",
     "stars": 81,
-    "forks": 11,
-    "description": "Open-source, local-first AI agents for IT administration. Start with Microsoft 365, connect any API. Data never leaves the device.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-09"
-  },
-  {
-    "name": "Robot-cpp/robot.cpp",
-    "url": "https://github.com/Robot-cpp/robot.cpp",
-    "stars": 41,
-    "forks": 6,
-    "description": "robot model inference in C/C++",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-09"
-  },
-  {
-    "name": "tedix-hq/tedix",
-    "url": "https://github.com/tedix-hq/tedix",
-    "stars": 35,
-    "forks": 1,
-    "description": "A platform for agents, apps, and work. Coordinate people and AI agents with shared tasks, project knowledge, apps, and approvals.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-09"
+    "forks": 3,
+    "description": "Self-hosted AI workspace for developers and engineers. Bring your own models, work with local or SSH projects, and automate coding and proje...",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-10"
   }
 ]

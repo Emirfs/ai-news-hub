@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-09 20:49 UTC` | **Source-linked stories:** `291`
+> **Index generated:** `2026-11-10 03:37 UTC` | **Source-linked stories:** `292`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 300.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 277.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.0k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 200.1k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 300.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 277.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.1k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 200.2k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 192` | `2026-11-09` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [ustcwhy/BitVLA](https://github.com/ustcwhy/BitVLA) | `★ 175` | `2026-11-09` | Embodied AI | `Python` | Official implementation for BitVLA: 1-bit Vision-Language-Action Models for Robotics ... |
-| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 170` | `2026-11-09` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 111` | `2026-11-09` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [Ta0p1/ResolveLab](https://github.com/Ta0p1/ResolveLab) | `★ 104` | `2026-11-09` | Indie Tool | `Python` | Fault-injected tool environments with side-effect grading for evaluating and post-tra... |
+| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 241` | `2026-11-10` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 192` | `2026-11-10` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [devsy-org/devsy](https://github.com/devsy-org/devsy) | `★ 133` | `2026-11-10` | Local AI | `Go` | Deploy secure local and cloud environments for developers and agents |
+| [solanabr/ai-kit](https://github.com/solanabr/ai-kit) | `★ 111` | `2026-11-10` | Experimental Agent | `Shell` | Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, co... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 111` | `2026-11-10` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-09` | Robotics & Hardware | [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](src/content/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading.md) | NVIDIA is releasing | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](src/content/news/2026-11-09-nvidia-announces-new-planned-investments-in.md) | Korea’s | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-09-nvidia-announces-new-planned-investments-in/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korean-startup-investments-msit) |
 | `2026-11-09` | Robotics & Hardware | [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](src/content/news/2026-11-09-koreas-ai-ecosystem-advances-and-secures.md) | Hyundai Motor Group is | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-09-koreas-ai-ecosystem-advances-and-secures/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korea-secure-agentic-ai) |
 | `2026-11-09` | Robotics & Hardware | [Korea Advances Physical AI Across Industries With NVIDIA](src/content/news/2026-11-09-korea-advances-physical-ai-across-industries.md) | NVIDIA is | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-09-korea-advances-physical-ai-across-industries/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem) |
@@ -340,7 +341,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-09 20:49 UTC` | **Yayımlanan haber:** `291`
+> **Dizin oluşturma:** `2026-11-10 03:37 UTC` | **Yayımlanan haber:** `292`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -350,6 +351,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-09` | Robotics & Hardware | [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](src/content/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading.md) | NVIDIA is releasing | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](src/content/news/2026-11-09-nvidia-announces-new-planned-investments-in.md) | Korea’s | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-09-nvidia-announces-new-planned-investments-in/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korean-startup-investments-msit) |
 | `2026-11-09` | Robotics & Hardware | [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](src/content/news/2026-11-09-koreas-ai-ecosystem-advances-and-secures.md) | Hyundai Motor Group is | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-09-koreas-ai-ecosystem-advances-and-secures/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korea-secure-agentic-ai) |
 | `2026-11-09` | Robotics & Hardware | [Korea Advances Physical AI Across Industries With NVIDIA](src/content/news/2026-11-09-korea-advances-physical-ai-across-industries.md) | NVIDIA is | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-09-korea-advances-physical-ai-across-industries/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem) |
