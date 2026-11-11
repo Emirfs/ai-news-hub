@@ -1,82 +1,82 @@
 [
   {
-    "name": "Vigil-SOC/vigil",
-    "url": "https://github.com/Vigil-SOC/vigil",
-    "stars": 431,
-    "forks": 98,
-    "description": "Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
+    "name": "jentic/jentic-public-apis",
+    "url": "https://github.com/jentic/jentic-public-apis",
+    "stars": 269,
+    "forks": 39,
+    "description": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
     "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "thisnick/agent-wechat",
-    "url": "https://github.com/thisnick/agent-wechat",
-    "stars": 276,
-    "forks": 112,
-    "description": "A native, open-source WeChat client for desktop, CLI, and AI agents.",
-    "language": "Rust",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-10"
+    "pushed_at": "2026-11-11"
   },
   {
-    "name": "wadeKeith/Awesome-Embodied-AI",
-    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 254,
-    "forks": 25,
-    "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-10"
-  },
-  {
-    "name": "chonghanqin/Awesome-Agentic-Robots",
-    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
-    "stars": 173,
-    "forks": 6,
-    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-10"
+    "name": "KimYx0207/Kim_Service",
+    "url": "https://github.com/KimYx0207/Kim_Service",
+    "stars": 186,
+    "forks": 52,
+    "description": "面向 Claude Code、Codex 等 AI 编码助手的 Hook 与 Agent Skill 开源合集。",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-11"
   },
   {
     "name": "postmill-ai/postmill-app",
     "url": "https://github.com/postmill-ai/postmill-app",
-    "stars": 151,
-    "forks": 22,
+    "stars": 153,
+    "forks": 24,
     "description": "Open-source, AI-native social media management, design & scheduling platform for 45+ channels. BYOK AI across 30+ providers with governance ...",
     "language": "TypeScript",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-10"
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "ldbumble/taskuary",
+    "url": "https://github.com/ldbumble/taskuary",
+    "stars": 149,
+    "forks": 62,
+    "description": "Your AI work partner. Mail, chats and tickets become one list in the right order; your agents do the work, and nothing goes out until you ap...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-11"
   },
   {
     "name": "mstar-project/mstar",
     "url": "https://github.com/mstar-project/mstar",
-    "stars": 111,
+    "stars": 112,
     "forks": 49,
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-10"
+    "pushed_at": "2026-11-11"
   },
   {
-    "name": "Eslamasabry/opencode-mobile-next",
-    "url": "https://github.com/Eslamasabry/opencode-mobile-next",
-    "stars": 83,
-    "forks": 21,
-    "description": "Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and steer agents on your computer: live sessions, tool app...",
-    "language": "Dart",
+    "name": "lambdasec/frame",
+    "url": "https://github.com/lambdasec/frame",
+    "stars": 105,
+    "forks": 15,
+    "description": "The sound, open SAST for modern apps: code, dependencies, secrets, infrastructure and AI, in one tool",
+    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-10"
+    "pushed_at": "2026-11-11"
   },
   {
-    "name": "Lebbitheplow/open-game-master",
-    "url": "https://github.com/Lebbitheplow/open-game-master",
-    "stars": 78,
-    "forks": 36,
-    "description": "The first easy-to-use, fully local AI 5e app. Story and inline scene images generated 100% on your machine or with cloud providers.",
+    "name": "RealDealCPA-VR/Iron-Jarvis",
+    "url": "https://github.com/RealDealCPA-VR/Iron-Jarvis",
+    "stars": 67,
+    "forks": 19,
+    "description": "A local-first AI control plane for orchestrating agents, models, tools, and machines from one desktop app.",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "Unheat/Kites",
+    "url": "https://github.com/Unheat/Kites",
+    "stars": 42,
+    "forks": 6,
+    "description": "🪁 Read any manga in your language directly in-browser. 100% local-first AI translation with WebGPU OCR, clean background inpainting, and stu...",
     "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-11-10"
+    "pushed_at": "2026-11-11"
   }
 ]

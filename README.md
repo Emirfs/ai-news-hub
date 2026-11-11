@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-10 19:48 UTC` | **Source-linked stories:** `293`
+> **Index generated:** `2026-11-11 00:41 UTC` | **Source-linked stories:** `293`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 300.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 278.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.4k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 300.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 278.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.5k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 200.5k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 431` | `2026-11-10` | Local AI | `Python` | Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, loc... |
-| [thisnick/agent-wechat](https://github.com/thisnick/agent-wechat) | `★ 276` | `2026-11-10` | Experimental Agent | `Rust` | A native, open-source WeChat client for desktop, CLI, and AI agents. |
-| [wadeKeith/Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) | `★ 254` | `2026-11-10` | Embodied AI | `Python` | Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot... |
-| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 173` | `2026-11-10` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
-| [postmill-ai/postmill-app](https://github.com/postmill-ai/postmill-app) | `★ 151` | `2026-11-10` | Indie Tool | `TypeScript` | Open-source, AI-native social media management, design & scheduling platform for 45+ ... |
+| [jentic/jentic-public-apis](https://github.com/jentic/jentic-public-apis) | `★ 269` | `2026-11-11` | Experimental Agent | `Python` | Directory of OpenAPI specifications for thousands of public APIs. Every API is machin... |
+| [KimYx0207/Kim_Service](https://github.com/KimYx0207/Kim_Service) | `★ 186` | `2026-11-11` | Experimental Agent | `JavaScript` | 面向 Claude Code、Codex 等 AI 编码助手的 Hook 与 Agent Skill 开源合集。 |
+| [postmill-ai/postmill-app](https://github.com/postmill-ai/postmill-app) | `★ 153` | `2026-11-11` | Indie Tool | `TypeScript` | Open-source, AI-native social media management, design & scheduling platform for 45+ ... |
+| [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | `★ 149` | `2026-11-11` | Experimental Agent | `Python` | Your AI work partner. Mail, chats and tickets become one list in the right order; you... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-11` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -342,7 +342,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-10 19:48 UTC` | **Yayımlanan haber:** `293`
+> **Dizin oluşturma:** `2026-11-11 00:41 UTC` | **Yayımlanan haber:** `293`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
