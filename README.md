@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-11 15:23 UTC` | **Source-linked stories:** `297`
+> **Index generated:** `2026-11-11 22:18 UTC` | **Source-linked stories:** `299`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 301.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 278.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 200.8k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 301.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 279.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 200.9k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 251` | `2026-11-11` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
-| [tg-prplx/vellium](https://github.com/tg-prplx/vellium) | `★ 145` | `2026-11-11` | Indie Tool | `TypeScript` | Local-first desktop AI workbench for roleplay, multi-character chat, long-form writin... |
-| [hjxwz123/Aivory](https://github.com/hjxwz123/Aivory) | `★ 119` | `2026-11-11` | Indie Tool | `Go` | Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, R... |
+| [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) | `★ 202` | `2026-11-11` | Indie Tool | `Python` | Tool to  work with arXiv, provide LLM with ability to search and read papers from the... |
+| [mingti-org/phyai](https://github.com/mingti-org/phyai) | `★ 151` | `2026-11-11` | Embodied AI | `Python` | PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and b... |
+| [luongnv89/skills](https://github.com/luongnv89/skills) | `★ 145` | `2026-11-11` | Experimental Agent | `Python` | Supercharge your AI agents/bots with reusable skills |
 | [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-11` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [kju4q/q-agent-harness](https://github.com/kju4q/q-agent-harness) | `★ 102` | `2026-11-11` | Experimental Agent | `Python` | Starter kit for building an agent harness, the map, guardrails, and feedback loops th... |
+| [Eslamasabry/opencode-mobile-next](https://github.com/Eslamasabry/opencode-mobile-next) | `★ 93` | `2026-11-11` | Indie Tool | `Dart` | Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -44,8 +44,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
 | `2026-11-11` | AI Research | [LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding](src/content/news/2026-11-11-landslidefm-a-foundation-model-towards-unified.md) | Intelligent landslide detection is essential for disaster prevention. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-landslidefm-a-foundation-model-towards-unified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12936) |
+| `2026-11-11` | AI Research | [Graph Visualizations in Prompts for Knowledge Graph Question Answering](src/content/news/2026-11-11-graph-visualizations-in-prompts-for-knowledge.md) | We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-graph-visualizations-in-prompts-for-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12938) |
 | `2026-11-11` | AI Research | [EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](src/content/news/2026-11-11-earthrecord-from-pixels-to-land-change.md) | While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-earthrecord-from-pixels-to-land-change/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12934) |
 | `2026-11-11` | AI Research | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](src/content/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray.md) | Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits access... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12933) |
+| `2026-11-11` | AI Research | [AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence](src/content/news/2026-11-11-ai-governance-should-prioritize-control-and.md) | The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-ai-governance-should-prioritize-control-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12941) |
 | `2026-11-10` | Robotics & Hardware | [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](src/content/news/2026-11-10-nvidia-expands-open-source-commitment-with.md) | Kubernetes | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-expands-open-source-commitment-with/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](src/content/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading.md) | NVIDIA is releasing | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](src/content/news/2026-11-09-nvidia-announces-new-planned-investments-in.md) | Korea’s | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-09-nvidia-announces-new-planned-investments-in/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korean-startup-investments-msit) |
@@ -346,7 +348,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-11 15:23 UTC` | **Yayımlanan haber:** `297`
+> **Dizin oluşturma:** `2026-11-11 22:18 UTC` | **Yayımlanan haber:** `299`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -358,8 +360,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
 | `2026-11-11` | AI Research | [LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding](src/content/news/2026-11-11-landslidefm-a-foundation-model-towards-unified.md) | Intelligent landslide detection is essential for disaster prevention. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-landslidefm-a-foundation-model-towards-unified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12936) |
+| `2026-11-11` | AI Research | [Graph Visualizations in Prompts for Knowledge Graph Question Answering](src/content/news/2026-11-11-graph-visualizations-in-prompts-for-knowledge.md) | We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-graph-visualizations-in-prompts-for-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12938) |
 | `2026-11-11` | AI Research | [EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](src/content/news/2026-11-11-earthrecord-from-pixels-to-land-change.md) | While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-earthrecord-from-pixels-to-land-change/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12934) |
 | `2026-11-11` | AI Research | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](src/content/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray.md) | Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits access... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12933) |
+| `2026-11-11` | AI Research | [AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence](src/content/news/2026-11-11-ai-governance-should-prioritize-control-and.md) | The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-ai-governance-should-prioritize-control-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12941) |
 | `2026-11-10` | Robotics & Hardware | [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](src/content/news/2026-11-10-nvidia-expands-open-source-commitment-with.md) | Kubernetes | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-expands-open-source-commitment-with/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](src/content/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading.md) | NVIDIA is releasing | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](src/content/news/2026-11-09-nvidia-announces-new-planned-investments-in.md) | Korea’s | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-09-nvidia-announces-new-planned-investments-in/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korean-startup-investments-msit) |

@@ -1,32 +1,32 @@
 [
   {
-    "name": "bigfish1913/pi-rust",
-    "url": "https://github.com/bigfish1913/pi-rust",
-    "stars": 251,
-    "forks": 46,
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
-    "language": "Rust",
+    "name": "andybrandt/mcp-simple-arxiv",
+    "url": "https://github.com/andybrandt/mcp-simple-arxiv",
+    "stars": 202,
+    "forks": 27,
+    "description": "Tool to  work with arXiv, provide LLM with ability to search and read papers from there",
+    "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "tg-prplx/vellium",
-    "url": "https://github.com/tg-prplx/vellium",
+    "name": "mingti-org/phyai",
+    "url": "https://github.com/mingti-org/phyai",
+    "stars": 151,
+    "forks": 35,
+    "description": "PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-devi...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "luongnv89/skills",
+    "url": "https://github.com/luongnv89/skills",
     "stars": 145,
-    "forks": 12,
-    "description": "Local-first desktop AI workbench for roleplay, multi-character chat, long-form writing, RAG, MCP tools, plugins, and local models.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "hjxwz123/Aivory",
-    "url": "https://github.com/hjxwz123/Aivory",
-    "stars": 119,
-    "forks": 16,
-    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
-    "language": "Go",
-    "tag": "Indie Tool",
+    "forks": 21,
+    "description": "Supercharge your AI agents/bots with reusable skills",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-11"
   },
   {
@@ -40,43 +40,43 @@
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "kju4q/q-agent-harness",
-    "url": "https://github.com/kju4q/q-agent-harness",
-    "stars": 102,
-    "forks": 18,
-    "description": "Starter kit for building an agent harness, the map, guardrails, and feedback loops that let AI agents ship software reliably.",
-    "language": "Python",
-    "tag": "Experimental Agent",
+    "name": "Eslamasabry/opencode-mobile-next",
+    "url": "https://github.com/Eslamasabry/opencode-mobile-next",
+    "stars": 93,
+    "forks": 21,
+    "description": "Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and steer agents on your computer: live sessions, tool app...",
+    "language": "Dart",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "SoftwareLogico/sot-cli",
-    "url": "https://github.com/SoftwareLogico/sot-cli",
-    "stars": 40,
-    "forks": 2,
-    "description": "A terminal AI that doesn't babysit you. sot-cli gives LLMs full power, a novel memory architecture that slashes token costs, and agent orche...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "nirholas/extract-llms-docs",
-    "url": "https://github.com/nirholas/extract-llms-docs",
-    "stars": 35,
-    "forks": 5,
-    "description": "Extract llms.txt documentation from any docs site for AI agents, with an MCP server and a Next.js web app.",
+    "name": "benjaminshoemaker/vibecode_spec_generator",
+    "url": "https://github.com/benjaminshoemaker/vibecode_spec_generator",
+    "stars": 77,
+    "forks": 9,
+    "description": "Wizard-style app to help people generate specs that AI coding agents can execute & keep track of status",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "lose4578/Auriga",
-    "url": "https://github.com/lose4578/Auriga",
-    "stars": 34,
-    "forks": 3,
-    "description": "Agent harness for embodied manipulation: a model-led Codex session with one robot execution gateway",
+    "name": "kaichen-z/GEM-4d",
+    "url": "https://github.com/kaichen-z/GEM-4d",
+    "stars": 75,
+    "forks": 0,
+    "description": "[ECCV 2026] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation",
     "language": "Python",
     "tag": "Embodied AI",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "flisk-sh/flisk",
+    "url": "https://github.com/flisk-sh/flisk",
+    "stars": 40,
+    "forks": 83,
+    "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain comman...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-11"
   }
 ]
