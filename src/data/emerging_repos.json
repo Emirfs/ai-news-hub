@@ -1,72 +1,32 @@
 [
   {
-    "name": "citizenhicks/mobius",
-    "url": "https://github.com/citizenhicks/mobius",
-    "stars": 485,
-    "forks": 7,
-    "description": "möbius is a small, frontend-neutral Rust framework for coding agents. ",
+    "name": "bigfish1913/pi-rust",
+    "url": "https://github.com/bigfish1913/pi-rust",
+    "stars": 251,
+    "forks": 46,
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
     "language": "Rust",
-    "tag": "Experimental Agent",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "marcusquinn/aidevops",
-    "url": "https://github.com/marcusquinn/aidevops",
-    "stars": 450,
-    "forks": 79,
-    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
-    "language": "Shell",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "CatCatUncle/openworkbuddy",
-    "url": "https://github.com/CatCatUncle/openworkbuddy",
-    "stars": 409,
-    "forks": 88,
-    "description": "本机优先的 AI 办公工作台 · A local-first AI office workbench. Turn requests and source material into editable PPTX, DOCX, XLSX and HTML files. Choose ...",
-    "language": "JavaScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 311,
-    "forks": 37,
-    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "name": "tg-prplx/vellium",
+    "url": "https://github.com/tg-prplx/vellium",
+    "stars": 145,
+    "forks": 12,
+    "description": "Local-first desktop AI workbench for roleplay, multi-character chat, long-form writing, RAG, MCP tools, plugins, and local models.",
     "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 308,
-    "forks": 170,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "junforge-dev/voxplane",
-    "url": "https://github.com/junforge-dev/voxplane",
-    "stars": 306,
-    "forks": 2,
-    "description": "VoxPlane — Cross-platform DICOM viewer for CT, MRI & PET/CT with MPR, 3D, fusion, editable segmentation and local AI auto-segmentation via T...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 267,
-    "forks": 54,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
+    "name": "hjxwz123/Aivory",
+    "url": "https://github.com/hjxwz123/Aivory",
+    "stars": 119,
+    "forks": 16,
+    "description": "Self-hosted AI chat platform with multi-step tool calls, persistent Python sandbox, RAG, and Deep Research. Supports Claude, GPT, Gemini and...",
+    "language": "Go",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-11"
   },
   {
@@ -75,6 +35,46 @@
     "stars": 112,
     "forks": 49,
     "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "kju4q/q-agent-harness",
+    "url": "https://github.com/kju4q/q-agent-harness",
+    "stars": 102,
+    "forks": 18,
+    "description": "Starter kit for building an agent harness, the map, guardrails, and feedback loops that let AI agents ship software reliably.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "SoftwareLogico/sot-cli",
+    "url": "https://github.com/SoftwareLogico/sot-cli",
+    "stars": 40,
+    "forks": 2,
+    "description": "A terminal AI that doesn't babysit you. sot-cli gives LLMs full power, a novel memory architecture that slashes token costs, and agent orche...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "nirholas/extract-llms-docs",
+    "url": "https://github.com/nirholas/extract-llms-docs",
+    "stars": 35,
+    "forks": 5,
+    "description": "Extract llms.txt documentation from any docs site for AI agents, with an MCP server and a Next.js web app.",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "lose4578/Auriga",
+    "url": "https://github.com/lose4578/Auriga",
+    "stars": 34,
+    "forks": 3,
+    "description": "Agent harness for embodied manipulation: a model-led Codex session with one robot execution gateway",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-11-11"
