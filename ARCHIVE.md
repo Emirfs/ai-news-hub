@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-11 00:41 UTC` | **Source-linked stories:** `293`
+> **Index generated:** `2026-11-11 07:14 UTC` | **Source-linked stories:** `295`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 300.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 278.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 300.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 278.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.5k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 225.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 200.5k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 200.6k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [jentic/jentic-public-apis](https://github.com/jentic/jentic-public-apis) | `★ 269` | `2026-11-11` | Experimental Agent | `Python` | Directory of OpenAPI specifications for thousands of public APIs. Every API is machin... |
-| [KimYx0207/Kim_Service](https://github.com/KimYx0207/Kim_Service) | `★ 186` | `2026-11-11` | Experimental Agent | `JavaScript` | 面向 Claude Code、Codex 等 AI 编码助手的 Hook 与 Agent Skill 开源合集。 |
-| [postmill-ai/postmill-app](https://github.com/postmill-ai/postmill-app) | `★ 153` | `2026-11-11` | Indie Tool | `TypeScript` | Open-source, AI-native social media management, design & scheduling platform for 45+ ... |
-| [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | `★ 149` | `2026-11-11` | Experimental Agent | `Python` | Your AI work partner. Mail, chats and tickets become one list in the right order; you... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 112` | `2026-11-11` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | `★ 485` | `2026-11-11` | Experimental Agent | `Rust` | möbius is a small, frontend-neutral Rust framework for coding agents.  |
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 450` | `2026-11-11` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
+| [CatCatUncle/openworkbuddy](https://github.com/CatCatUncle/openworkbuddy) | `★ 409` | `2026-11-11` | Local AI | `JavaScript` | 本机优先的 AI 办公工作台 · A local-first AI office workbench. Turn requests and source material... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 311` | `2026-11-11` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 308` | `2026-11-11` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-11` | AI Research | [EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](src/content/news/2026-11-11-earthrecord-from-pixels-to-land-change.md) | While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-earthrecord-from-pixels-to-land-change/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12934) |
+| `2026-11-11` | AI Research | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](src/content/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray.md) | Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits access... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12933) |
 | `2026-11-10` | Robotics & Hardware | [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](src/content/news/2026-11-10-nvidia-expands-open-source-commitment-with.md) | Kubernetes | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-expands-open-source-commitment-with/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](src/content/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading.md) | NVIDIA is releasing | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](src/content/news/2026-11-09-nvidia-announces-new-planned-investments-in.md) | Korea’s | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-09-nvidia-announces-new-planned-investments-in/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korean-startup-investments-msit) |
@@ -342,7 +344,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-11 00:41 UTC` | **Yayımlanan haber:** `293`
+> **Dizin oluşturma:** `2026-11-11 07:14 UTC` | **Yayımlanan haber:** `295`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -352,6 +354,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-11` | AI Research | [EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](src/content/news/2026-11-11-earthrecord-from-pixels-to-land-change.md) | While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-earthrecord-from-pixels-to-land-change/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12934) |
+| `2026-11-11` | AI Research | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](src/content/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray.md) | Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits access... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12933) |
 | `2026-11-10` | Robotics & Hardware | [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](src/content/news/2026-11-10-nvidia-expands-open-source-commitment-with.md) | Kubernetes | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-expands-open-source-commitment-with/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/open-source-openshell-infrastructure) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](src/content/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading.md) | NVIDIA is releasing | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-10-nvidia-dynamo-recipes-bring-koreas-leading/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models) |
 | `2026-11-09` | Robotics & Hardware | [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](src/content/news/2026-11-09-nvidia-announces-new-planned-investments-in.md) | Korea’s | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-09-nvidia-announces-new-planned-investments-in/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/korean-startup-investments-msit) |

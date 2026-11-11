@@ -1,42 +1,72 @@
 [
   {
-    "name": "jentic/jentic-public-apis",
-    "url": "https://github.com/jentic/jentic-public-apis",
-    "stars": 269,
-    "forks": 39,
-    "description": "Directory of OpenAPI specifications for thousands of public APIs. Every API is machine-readable and scored for AI agents. CC0.",
-    "language": "Python",
+    "name": "citizenhicks/mobius",
+    "url": "https://github.com/citizenhicks/mobius",
+    "stars": 485,
+    "forks": 7,
+    "description": "möbius is a small, frontend-neutral Rust framework for coding agents. ",
+    "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "KimYx0207/Kim_Service",
-    "url": "https://github.com/KimYx0207/Kim_Service",
-    "stars": 186,
-    "forks": 52,
-    "description": "面向 Claude Code、Codex 等 AI 编码助手的 Hook 与 Agent Skill 开源合集。",
+    "name": "marcusquinn/aidevops",
+    "url": "https://github.com/marcusquinn/aidevops",
+    "stars": 450,
+    "forks": 79,
+    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
+    "language": "Shell",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "CatCatUncle/openworkbuddy",
+    "url": "https://github.com/CatCatUncle/openworkbuddy",
+    "stars": 409,
+    "forks": 88,
+    "description": "本机优先的 AI 办公工作台 · A local-first AI office workbench. Turn requests and source material into editable PPTX, DOCX, XLSX and HTML files. Choose ...",
     "language": "JavaScript",
-    "tag": "Experimental Agent",
+    "tag": "Local AI",
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "postmill-ai/postmill-app",
-    "url": "https://github.com/postmill-ai/postmill-app",
-    "stars": 153,
-    "forks": 24,
-    "description": "Open-source, AI-native social media management, design & scheduling platform for 45+ channels. BYOK AI across 30+ providers with governance ...",
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 311,
+    "forks": 37,
+    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
     "language": "TypeScript",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-11"
   },
   {
-    "name": "ldbumble/taskuary",
-    "url": "https://github.com/ldbumble/taskuary",
-    "stars": 149,
-    "forks": 62,
-    "description": "Your AI work partner. Mail, chats and tickets become one list in the right order; your agents do the work, and nothing goes out until you ap...",
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 308,
+    "forks": 170,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
-    "tag": "Experimental Agent",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "junforge-dev/voxplane",
+    "url": "https://github.com/junforge-dev/voxplane",
+    "stars": 306,
+    "forks": 2,
+    "description": "VoxPlane — Cross-platform DICOM viewer for CT, MRI & PET/CT with MPR, 3D, fusion, editable segmentation and local AI auto-segmentation via T...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-11"
+  },
+  {
+    "name": "VinRobotics/vla.cpp",
+    "url": "https://github.com/VinRobotics/vla.cpp",
+    "stars": 267,
+    "forks": 54,
+    "description": "A unified inference runtime for VLA models.",
+    "language": "C++",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-11"
   },
   {
@@ -47,36 +77,6 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "lambdasec/frame",
-    "url": "https://github.com/lambdasec/frame",
-    "stars": 105,
-    "forks": 15,
-    "description": "The sound, open SAST for modern apps: code, dependencies, secrets, infrastructure and AI, in one tool",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "RealDealCPA-VR/Iron-Jarvis",
-    "url": "https://github.com/RealDealCPA-VR/Iron-Jarvis",
-    "stars": 67,
-    "forks": 19,
-    "description": "A local-first AI control plane for orchestrating agents, models, tools, and machines from one desktop app.",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "Unheat/Kites",
-    "url": "https://github.com/Unheat/Kites",
-    "stars": 42,
-    "forks": 6,
-    "description": "🪁 Read any manga in your language directly in-browser. 100% local-first AI translation with WebGPU OCR, clean background inpainting, and stu...",
-    "language": "TypeScript",
-    "tag": "Local AI",
     "pushed_at": "2026-11-11"
   }
 ]
