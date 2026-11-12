@@ -1,82 +1,82 @@
 [
   {
-    "name": "andybrandt/mcp-simple-arxiv",
-    "url": "https://github.com/andybrandt/mcp-simple-arxiv",
-    "stars": 202,
-    "forks": 27,
-    "description": "Tool to  work with arXiv, provide LLM with ability to search and read papers from there",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "mingti-org/phyai",
-    "url": "https://github.com/mingti-org/phyai",
-    "stars": 151,
-    "forks": 35,
-    "description": "PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-devi...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "luongnv89/skills",
-    "url": "https://github.com/luongnv89/skills",
-    "stars": 145,
-    "forks": 21,
-    "description": "Supercharge your AI agents/bots with reusable skills",
-    "language": "Python",
+    "name": "agentes-chat/agentes-chat",
+    "url": "https://github.com/agentes-chat/agentes-chat",
+    "stars": 353,
+    "forks": 43,
+    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Co...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-11"
+    "pushed_at": "2026-11-12"
   },
   {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 112,
-    "forks": 49,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "name": "Coff0xc/AutoRedTeam-Orchestrator",
+    "url": "https://github.com/Coff0xc/AutoRedTeam-Orchestrator",
+    "stars": 269,
+    "forks": 60,
+    "description": "Local MCP/AI attack-surface audit and evidence gate for authorized testing",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-12"
+  },
+  {
+    "name": "ThinkFlowLab/system1-agents",
+    "url": "https://github.com/ThinkFlowLab/system1-agents",
+    "stars": 182,
+    "forks": 26,
+    "description": "System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-11"
+    "pushed_at": "2026-11-12"
   },
   {
-    "name": "Eslamasabry/opencode-mobile-next",
-    "url": "https://github.com/Eslamasabry/opencode-mobile-next",
-    "stars": 93,
-    "forks": 21,
-    "description": "Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and steer agents on your computer: live sessions, tool app...",
-    "language": "Dart",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "benjaminshoemaker/vibecode_spec_generator",
-    "url": "https://github.com/benjaminshoemaker/vibecode_spec_generator",
-    "stars": 77,
+    "name": "dr-dumpling/PaperSearch",
+    "url": "https://github.com/dr-dumpling/PaperSearch",
+    "stars": 162,
     "forks": 9,
-    "description": "Wizard-style app to help people generate specs that AI coding agents can execute & keep track of status",
-    "language": "TypeScript",
+    "description": "AI agent tool for paper search, journal metrics, and full-text downloads via open access or school (CARSI).",
+    "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-11"
+    "pushed_at": "2026-11-12"
   },
   {
-    "name": "kaichen-z/GEM-4d",
-    "url": "https://github.com/kaichen-z/GEM-4d",
-    "stars": 75,
-    "forks": 0,
-    "description": "[ECCV 2026] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation",
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 103,
+    "forks": 48,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-12"
+  },
+  {
+    "name": "simplexai-labs/linger",
+    "url": "https://github.com/simplexai-labs/linger",
+    "stars": 78,
+    "forks": 17,
+    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to ...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-12"
+  },
+  {
+    "name": "TencentCloudBase/cloudbase-skills",
+    "url": "https://github.com/TencentCloudBase/cloudbase-skills",
+    "stars": 39,
+    "forks": 4,
+    "description": "A collection of AI agent skills for building full-stack applications with Tencent CloudBase. This skill gives your coding agent deep knowled...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-12"
+  },
+  {
+    "name": "hanjianhua44/Awesome-VLA-Papers",
+    "url": "https://github.com/hanjianhua44/Awesome-VLA-Papers",
+    "stars": 35,
+    "forks": 4,
+    "description": "A curated collection of papers on Vision-Language-Action (VLA) models for autonomous driving and robotics",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-11"
-  },
-  {
-    "name": "flisk-sh/flisk",
-    "url": "https://github.com/flisk-sh/flisk",
-    "stars": 40,
-    "forks": 83,
-    "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain comman...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-11"
+    "pushed_at": "2026-11-12"
   }
 ]
