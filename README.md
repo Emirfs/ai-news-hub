@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-12 03:24 UTC` | **Source-linked stories:** `301`
+> **Index generated:** `2026-11-12 11:54 UTC` | **Source-linked stories:** `302`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 301.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 279.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.8k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.0k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 301.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 279.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 262.9k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.1k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | `★ 353` | `2026-11-12` | Experimental Agent | `TypeScript` | Open-source, self-hosted Slack alternative where your team and AI agents work togethe... |
-| [Coff0xc/AutoRedTeam-Orchestrator](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) | `★ 269` | `2026-11-12` | Local AI | `Python` | Local MCP/AI attack-surface audit and evidence gate for authorized testing |
-| [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) | `★ 182` | `2026-11-12` | Embodied AI | `Python` | System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, comput... |
-| [dr-dumpling/PaperSearch](https://github.com/dr-dumpling/PaperSearch) | `★ 162` | `2026-11-12` | Experimental Agent | `Python` | AI agent tool for paper search, journal metrics, and full-text downloads via open acc... |
-| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 103` | `2026-11-12` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
+| [Hash-7777/HashCortX](https://github.com/Hash-7777/HashCortX) | `★ 171` | `2026-11-12` | Experimental Agent | `JavaScript` | A local-first AI workspace : multi provider chat, a Full Harness in Hashcoder agent, ... |
+| [tetsuo-ai/agenc-core](https://github.com/tetsuo-ai/agenc-core) | `★ 131` | `2026-11-12` | Indie Tool | `TypeScript` | Our goal is to multiply model capability per dollar of inference. AgenC is an open so... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 113` | `2026-11-12` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [preloop/preloop](https://github.com/preloop/preloop) | `★ 94` | `2026-11-12` | Indie Tool | `Python` | The open-source AI agent control plane and software factory: govern every tool and mo... |
+| [respawn-llc/kent](https://github.com/respawn-llc/kent) | `★ 88` | `2026-11-12` | Experimental Agent | `Go` | Agentic Coding platform for Professional SWE work focusing on output quality. Self-re... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -45,6 +45,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
 | `2026-11-11` | AI Research | [SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes](src/content/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise.md) | Black-box LLM | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12950) |
 | `2026-11-11` | AI Research | [LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding](src/content/news/2026-11-11-landslidefm-a-foundation-model-towards-unified.md) | Intelligent landslide detection is essential for disaster prevention. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-landslidefm-a-foundation-model-towards-unified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12936) |
+| `2026-11-11` | Robotics & Hardware | [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](src/content/news/2026-11-12-how-ai-helps-recyclers-turn-mixed.md) | Vision AI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-12-how-ai-helps-recyclers-turn-mixed/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-recycling-startups) |
 | `2026-11-11` | AI Research | [Graph Visualizations in Prompts for Knowledge Graph Question Answering](src/content/news/2026-11-11-graph-visualizations-in-prompts-for-knowledge.md) | We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-graph-visualizations-in-prompts-for-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12938) |
 | `2026-11-11` | AI Research | [EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](src/content/news/2026-11-11-earthrecord-from-pixels-to-land-change.md) | While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-earthrecord-from-pixels-to-land-change/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12934) |
 | `2026-11-11` | AI Research | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](src/content/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray.md) | Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits access... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12933) |
@@ -350,7 +351,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-12 03:24 UTC` | **Yayımlanan haber:** `301`
+> **Dizin oluşturma:** `2026-11-12 11:54 UTC` | **Yayımlanan haber:** `302`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -363,6 +364,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
 | `2026-11-11` | AI Research | [SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes](src/content/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise.md) | Black-box LLM | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12950) |
 | `2026-11-11` | AI Research | [LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding](src/content/news/2026-11-11-landslidefm-a-foundation-model-towards-unified.md) | Intelligent landslide detection is essential for disaster prevention. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-landslidefm-a-foundation-model-towards-unified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12936) |
+| `2026-11-11` | Robotics & Hardware | [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](src/content/news/2026-11-12-how-ai-helps-recyclers-turn-mixed.md) | Vision AI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-12-how-ai-helps-recyclers-turn-mixed/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-recycling-startups) |
 | `2026-11-11` | AI Research | [Graph Visualizations in Prompts for Knowledge Graph Question Answering](src/content/news/2026-11-11-graph-visualizations-in-prompts-for-knowledge.md) | We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-graph-visualizations-in-prompts-for-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12938) |
 | `2026-11-11` | AI Research | [EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](src/content/news/2026-11-11-earthrecord-from-pixels-to-land-change.md) | While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-earthrecord-from-pixels-to-land-change/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12934) |
 | `2026-11-11` | AI Research | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](src/content/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray.md) | Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits access... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-auditable-human-agent-teams-for-autonomous-x-ray/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12933) |
