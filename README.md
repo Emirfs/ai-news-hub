@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-13 01:09 UTC` | **Source-linked stories:** `302`
+> **Index generated:** `2026-11-13 08:05 UTC` | **Source-linked stories:** `302`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 279.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.0k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 280.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.1k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.3k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.4k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) | `★ 317` | `2026-11-13` | Experimental Agent | `Python` | Static analysis tool that catches 1000+ bug patterns across all popular programming l... |
-| [directionally-local/autopilot](https://github.com/directionally-local/autopilot) | `★ 218` | `2026-11-13` | Experimental Agent | `TypeScript` | Open-source terminal coding agent and SDK. Bring your own key for 25+ providers or a ... |
-| [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors) | `★ 177` | `2026-11-13` | Embodied AI | `C++` | Provides numerous sensor models designed to generate realistic data from simulation e... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 113` | `2026-11-13` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
-| [diillson/chatcli](https://github.com/diillson/chatcli) | `★ 94` | `2026-11-13` | Indie Tool | `Go` | ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic... |
+| [OpenWAM/OpenWAM](https://github.com/OpenWAM/OpenWAM) | `★ 250` | `2026-11-13` | Embodied AI | `Python` | Official code for "OpenWAM: An Open Framework for Composable World-Action Models" (St... |
+| [gy15901580825/Argus](https://github.com/gy15901580825/Argus) | `★ 208` | `2026-11-13` | Experimental Agent | `Python` | Open-source red-team testing for AI agents. 266 bundled probes with OWASP LLM Top 10,... |
+| [Windsander/Mebular](https://github.com/Windsander/Mebular) | `★ 181` | `2026-11-13` | Experimental Agent | `JavaScript` | 🌌 Mebular 忆云 · 智能体共享记忆与任务协作 | One shared memory and task graph for all your AI agents... |
+| [BkashJEE/hermes-bot-forge](https://github.com/BkashJEE/hermes-bot-forge) | `★ 146` | `2026-11-13` | Indie Tool | `Python` | Hermes Agent plugin: say 'make me a <role>' and your agent builds a complete, working... |
+| [simplexai-labs/linger](https://github.com/simplexai-labs/linger) | `★ 140` | `2026-11-13` | Local AI | `TypeScript` | Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -351,7 +351,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-13 01:09 UTC` | **Yayımlanan haber:** `302`
+> **Dizin oluşturma:** `2026-11-13 08:05 UTC` | **Yayımlanan haber:** `302`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
