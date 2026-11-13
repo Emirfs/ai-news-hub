@@ -1,53 +1,23 @@
 [
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 310,
-    "forks": 168,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-12"
-  },
-  {
-    "name": "InftyAI/Awesome-LLMOps",
-    "url": "https://github.com/InftyAI/Awesome-LLMOps",
-    "stars": 272,
-    "forks": 166,
-    "description": "🎉 An awesome & curated list of best LLMOps tools.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-12"
-  },
-  {
-    "name": "OpenWAM/OpenWAM",
-    "url": "https://github.com/OpenWAM/OpenWAM",
-    "stars": 250,
-    "forks": 13,
-    "description": "Official code for \"OpenWAM: An Open Framework for Composable World-Action Models\" (Stanford University)",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-12"
-  },
-  {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 229,
-    "forks": 38,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-12"
-  },
-  {
-    "name": "gy15901580825/Argus",
-    "url": "https://github.com/gy15901580825/Argus",
-    "stars": 208,
-    "forks": 32,
-    "description": "Open-source red-team testing for AI agents. 266 bundled probes with OWASP LLM Top 10, MITRE ATLAS, and NIST AI RMF mappings. Selected probes...",
+    "name": "Dicklesworthstone/ultimate_bug_scanner",
+    "url": "https://github.com/Dicklesworthstone/ultimate_bug_scanner",
+    "stars": 317,
+    "forks": 44,
+    "description": "Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality...",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-12"
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "directionally-local/autopilot",
+    "url": "https://github.com/directionally-local/autopilot",
+    "stars": 218,
+    "forks": 30,
+    "description": "Open-source terminal coding agent and SDK. Bring your own key for 25+ providers or a local model, with sandboxed subagents. Part of Directio...",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-13"
   },
   {
     "name": "gazebosim/gz-sensors",
@@ -57,17 +27,7 @@
     "description": "Provides numerous sensor models designed to generate realistic data from simulation environments.",
     "language": "C++",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-12"
-  },
-  {
-    "name": "ldbumble/taskuary",
-    "url": "https://github.com/ldbumble/taskuary",
-    "stars": 149,
-    "forks": 61,
-    "description": "Your AI work partner. Mail, chats and tickets become one list in the right order; your agents do the work, and nothing goes out until you ap...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-12"
+    "pushed_at": "2026-11-13"
   },
   {
     "name": "mstar-project/mstar",
@@ -77,6 +37,46 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-12"
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "diillson/chatcli",
+    "url": "https://github.com/diillson/chatcli",
+    "stars": 94,
+    "forks": 23,
+    "description": "ChatCLI is a command-line application that utilizes LLMs—such as those from Anthropic, OpenAI, and others—to facilitate interactive conversa...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "Boom-Vitt/obserp",
+    "url": "https://github.com/Boom-Vitt/obserp",
+    "stars": 63,
+    "forks": 30,
+    "description": "obserp is a self-hosted open-source AI ERP for enterprises, SMEs, startups and solopreneurs. Sales, purchasing, inventory, projects and oper...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "LGAI-Research/PCBWorld",
+    "url": "https://github.com/LGAI-Research/PCBWorld",
+    "stars": 43,
+    "forks": 7,
+    "description": "A reinforcement learning environment for PCB autorouting, built on KiCad's push-and-shove router. Includes a decoder-only PPO/GRPO agent, LL...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "QodeXcli/QodeX",
+    "url": "https://github.com/QodeXcli/QodeX",
+    "stars": 33,
+    "forks": 14,
+    "description": "QodeX — a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM Studio) with determini...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-13"
   }
 ]
