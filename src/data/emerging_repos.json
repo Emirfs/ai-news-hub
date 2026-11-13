@@ -1,82 +1,82 @@
 [
   {
-    "name": "OpenWAM/OpenWAM",
-    "url": "https://github.com/OpenWAM/OpenWAM",
-    "stars": 250,
-    "forks": 13,
-    "description": "Official code for \"OpenWAM: An Open Framework for Composable World-Action Models\" (Stanford University)",
+    "name": "perfectgf/lora-dataset-studio",
+    "url": "https://github.com/perfectgf/lora-dataset-studio",
+    "stars": 352,
+    "forks": 42,
+    "description": "Free local LoRA training studio: build character, style and concept datasets from one photo or a big image folder, caption them (JoyCaption,...",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-13"
-  },
-  {
-    "name": "gy15901580825/Argus",
-    "url": "https://github.com/gy15901580825/Argus",
-    "stars": 208,
-    "forks": 32,
-    "description": "Open-source red-team testing for AI agents. 266 bundled probes with OWASP LLM Top 10, MITRE ATLAS, and NIST AI RMF mappings. Selected probes...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-13"
-  },
-  {
-    "name": "Windsander/Mebular",
-    "url": "https://github.com/Windsander/Mebular",
-    "stars": 181,
-    "forks": 37,
-    "description": "🌌 Mebular 忆云 · 智能体共享记忆与任务协作 | One shared memory and task graph for all your AI agents and devices: automatic or on-demand, secure, controlla...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-13"
-  },
-  {
-    "name": "BkashJEE/hermes-bot-forge",
-    "url": "https://github.com/BkashJEE/hermes-bot-forge",
-    "stars": 146,
-    "forks": 20,
-    "description": "Hermes Agent plugin: say 'make me a <role>' and your agent builds a complete, working Bot — name, face, SOUL.md, memory, tools, skills, rout...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-13"
-  },
-  {
-    "name": "simplexai-labs/linger",
-    "url": "https://github.com/simplexai-labs/linger",
-    "stars": 140,
-    "forks": 17,
-    "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to ...",
-    "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-13"
   },
   {
-    "name": "mstar-project/mstar",
-    "url": "https://github.com/mstar-project/mstar",
-    "stars": 114,
-    "forks": 49,
-    "description": "A high-performance, universal serving framework for any-to-any models. ",
+    "name": "synapseorch-ai/synapse-ai",
+    "url": "https://github.com/synapseorch-ai/synapse-ai",
+    "stars": 339,
+    "forks": 63,
+    "description": "SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, run them on any model, local or cloud. MCP server include...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 310,
+    "forks": 169,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
     "language": "Python",
     "tag": "Embodied AI",
     "pushed_at": "2026-11-13"
   },
   {
-    "name": "WingedGuardian/GENesis-AGI",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI",
-    "stars": 103,
+    "name": "initMAX/zabbix-mcp-server",
+    "url": "https://github.com/initMAX/zabbix-mcp-server",
+    "stars": 250,
     "forks": 51,
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "description": "MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer auth, PDF reports, systemd ready. Works with ChatGPT, C...",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-13"
   },
   {
-    "name": "oaslananka/easyeda-mcp-pro",
-    "url": "https://github.com/oaslananka/easyeda-mcp-pro",
-    "stars": 69,
-    "forks": 17,
-    "description": "MCP server for EasyEDA Pro, connecting AI agents to schematic and PCB workflows, controlled design operations, DRC, BOM sourcing, board anal...",
-    "language": "TypeScript",
+    "name": "PerryLink/dsh-memento",
+    "url": "https://github.com/PerryLink/dsh-memento",
+    "stars": 144,
+    "forks": 3,
+    "description": "Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness: a ctx.memory capability seam with a zero-dependency S...",
+    "language": "JavaScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "Dicklesworthstone/flywheel_connectors",
+    "url": "https://github.com/Dicklesworthstone/flywheel_connectors",
+    "stars": 97,
+    "forks": 12,
+    "description": "Secure Rust connector platform for AI agents: 176 separately-signed, sandboxed connectors (GitHub, Gmail, Slack, Stripe, Discord, and more) ...",
+    "language": "Rust",
     "tag": "Experimental Agent",
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "dmdhrumilmistry/indra",
+    "url": "https://github.com/dmdhrumilmistry/indra",
+    "stars": 42,
+    "forks": 11,
+    "description": "A multi-agent application-security review harness for Claude Code (and, later, other AI agents). One router skill dispatches to a full offen...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-13"
+  },
+  {
+    "name": "AdoHaha/modelrobot",
+    "url": "https://github.com/AdoHaha/modelrobot",
+    "stars": 38,
+    "forks": 9,
+    "description": "showing robots described by URDF in browser",
+    "language": "JavaScript",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-13"
   }
 ]

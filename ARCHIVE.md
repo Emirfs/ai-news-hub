@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-13 08:05 UTC` | **Source-linked stories:** `302`
+> **Index generated:** `2026-11-13 16:30 UTC` | **Source-linked stories:** `303`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 280.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.4k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 280.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.5k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [OpenWAM/OpenWAM](https://github.com/OpenWAM/OpenWAM) | `★ 250` | `2026-11-13` | Embodied AI | `Python` | Official code for "OpenWAM: An Open Framework for Composable World-Action Models" (St... |
-| [gy15901580825/Argus](https://github.com/gy15901580825/Argus) | `★ 208` | `2026-11-13` | Experimental Agent | `Python` | Open-source red-team testing for AI agents. 266 bundled probes with OWASP LLM Top 10,... |
-| [Windsander/Mebular](https://github.com/Windsander/Mebular) | `★ 181` | `2026-11-13` | Experimental Agent | `JavaScript` | 🌌 Mebular 忆云 · 智能体共享记忆与任务协作 | One shared memory and task graph for all your AI agents... |
-| [BkashJEE/hermes-bot-forge](https://github.com/BkashJEE/hermes-bot-forge) | `★ 146` | `2026-11-13` | Indie Tool | `Python` | Hermes Agent plugin: say 'make me a <role>' and your agent builds a complete, working... |
-| [simplexai-labs/linger](https://github.com/simplexai-labs/linger) | `★ 140` | `2026-11-13` | Local AI | `TypeScript` | Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break ... |
+| [perfectgf/lora-dataset-studio](https://github.com/perfectgf/lora-dataset-studio) | `★ 352` | `2026-11-13` | Local AI | `Python` | Free local LoRA training studio: build character, style and concept datasets from one... |
+| [synapseorch-ai/synapse-ai](https://github.com/synapseorch-ai/synapse-ai) | `★ 339` | `2026-11-13` | Local AI | `Python` | SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, ru... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 310` | `2026-11-13` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [initMAX/zabbix-mcp-server](https://github.com/initMAX/zabbix-mcp-server) | `★ 250` | `2026-11-13` | Indie Tool | `Python` | MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer ... |
+| [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) | `★ 144` | `2026-11-13` | Indie Tool | `JavaScript` | Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-13` | Robotics & Hardware | [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](src/content/news/2026-11-13-how-ai-is-helping-care-teams.md) | AI is helping | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-13-how-ai-is-helping-care-teams/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams) |
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
 | `2026-11-11` | AI Research | [SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes](src/content/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise.md) | Black-box LLM | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12950) |
 | `2026-11-11` | AI Research | [LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding](src/content/news/2026-11-11-landslidefm-a-foundation-model-towards-unified.md) | Intelligent landslide detection is essential for disaster prevention. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-landslidefm-a-foundation-model-towards-unified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12936) |
@@ -351,7 +352,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-13 08:05 UTC` | **Yayımlanan haber:** `302`
+> **Dizin oluşturma:** `2026-11-13 16:30 UTC` | **Yayımlanan haber:** `303`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -361,6 +362,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-13` | Robotics & Hardware | [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](src/content/news/2026-11-13-how-ai-is-helping-care-teams.md) | AI is helping | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-13-how-ai-is-helping-care-teams/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams) |
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
 | `2026-11-11` | AI Research | [SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes](src/content/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise.md) | Black-box LLM | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12950) |
 | `2026-11-11` | AI Research | [LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding](src/content/news/2026-11-11-landslidefm-a-foundation-model-towards-unified.md) | Intelligent landslide detection is essential for disaster prevention. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-landslidefm-a-foundation-model-towards-unified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12936) |
