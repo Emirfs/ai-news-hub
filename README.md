@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-13 16:30 UTC` | **Source-linked stories:** `303`
+> **Index generated:** `2026-11-13 22:13 UTC` | **Source-linked stories:** `303`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 280.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 280.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.5k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.6k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [perfectgf/lora-dataset-studio](https://github.com/perfectgf/lora-dataset-studio) | `★ 352` | `2026-11-13` | Local AI | `Python` | Free local LoRA training studio: build character, style and concept datasets from one... |
-| [synapseorch-ai/synapse-ai](https://github.com/synapseorch-ai/synapse-ai) | `★ 339` | `2026-11-13` | Local AI | `Python` | SynapseOrch: AI workflows that follow the plan. Describe a job, approve the steps, ru... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 310` | `2026-11-13` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [initMAX/zabbix-mcp-server](https://github.com/initMAX/zabbix-mcp-server) | `★ 250` | `2026-11-13` | Indie Tool | `Python` | MCP server for the complete Zabbix API - 237 tools, multi-server, OAuth 2.1 + bearer ... |
-| [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) | `★ 144` | `2026-11-13` | Indie Tool | `JavaScript` | Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness... |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 245` | `2026-11-13` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [geyan21/flex-pi](https://github.com/geyan21/flex-pi) | `★ 238` | `2026-11-13` | Embodied AI | `Python` | Flex-π: A multi-stream world-action model with compute flexibility: one checkpoint th... |
+| [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev) | `★ 222` | `2026-11-13` | Experimental Agent | `Python` | Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Cla... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 193` | `2026-11-13` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [Hash-7777/HashCortX](https://github.com/Hash-7777/HashCortX) | `★ 172` | `2026-11-13` | Local AI | `JavaScript` | A local-first AI workspace : multi provider chat, a Full Harness in Hashcoder agent, ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -352,7 +352,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-13 16:30 UTC` | **Yayımlanan haber:** `303`
+> **Dizin oluşturma:** `2026-11-13 22:13 UTC` | **Yayımlanan haber:** `303`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
