@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-14 09:29 UTC` | **Source-linked stories:** `305`
+> **Index generated:** `2026-11-14 16:09 UTC` | **Source-linked stories:** `307`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,8 +20,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 280.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.3k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.7k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
@@ -32,17 +32,19 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) | `★ 411` | `2026-11-14` | Experimental Agent | `Go` | Production-grade Go SDK for building AI agents with long-term memory, knowledge retri... |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 312` | `2026-11-14` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
-| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 263` | `2026-11-14` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
-| [geyan21/flex-pi](https://github.com/geyan21/flex-pi) | `★ 238` | `2026-11-14` | Embodied AI | `Python` | Flex-π: A multi-stream world-action model with compute flexibility: one checkpoint th... |
-| [gy15901580825/Argus](https://github.com/gy15901580825/Argus) | `★ 209` | `2026-11-14` | Indie Tool | `Python` | Open-source red-team testing for AI agents. 266 bundled probes with OWASP LLM Top 10,... |
+| [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 289` | `2026-11-14` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
+| [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev) | `★ 222` | `2026-11-14` | Experimental Agent | `Python` | Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Cla... |
+| [Hash-7777/HashCortX](https://github.com/Hash-7777/HashCortX) | `★ 173` | `2026-11-14` | Local AI | `JavaScript` | A local-first AI workspace : multi provider chat, a Full Harness in Hashcoder agent, ... |
+| [zoharbabin/due-diligence-agents](https://github.com/zoharbabin/due-diligence-agents) | `★ 136` | `2026-11-14` | Experimental Agent | `Python` | Legal flags a risk. Finance flags another. We connect and cite. Open-source forensic ... |
+| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 114` | `2026-11-14` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-14` | AI Research | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](src/content/news/2026-11-14-when-should-semantic-priors-enter-partially-identified.md) | Observational | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-when-should-semantic-priors-enter-partially-identified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14736) |
 | `2026-11-14` | AI Research | [Together Compiler: Continual Compilation for AI Inference](src/content/news/2026-11-14-together-compiler-continual-compilation-for-ai.md) | Together AI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-together-compiler-continual-compilation-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14681) |
+| `2026-11-14` | AI Research | [SynthCorp: A Platform for Creating Benchmarks for Data Agents](src/content/news/2026-11-14-synthcorp-a-platform-for-creating-benchmarks.md) | Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-synthcorp-a-platform-for-creating-benchmarks/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14765) |
 | `2026-11-14` | AI Research | [Cleaning an Agent's History Hurts When the World Still Holds the Error](src/content/news/2026-11-14-cleaning-an-agents-history-hurts-when.md) | On AgentCE | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-cleaning-an-agents-history-hurts-when/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14654) |
 | `2026-11-13` | Robotics & Hardware | [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](src/content/news/2026-11-13-how-ai-is-helping-care-teams.md) | AI is helping | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-13-how-ai-is-helping-care-teams/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams) |
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
@@ -354,7 +356,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-14 09:29 UTC` | **Yayımlanan haber:** `305`
+> **Dizin oluşturma:** `2026-11-14 16:09 UTC` | **Yayımlanan haber:** `307`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -364,7 +366,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-14` | AI Research | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](src/content/news/2026-11-14-when-should-semantic-priors-enter-partially-identified.md) | Observational | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-when-should-semantic-priors-enter-partially-identified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14736) |
 | `2026-11-14` | AI Research | [Together Compiler: Continual Compilation for AI Inference](src/content/news/2026-11-14-together-compiler-continual-compilation-for-ai.md) | Together AI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-together-compiler-continual-compilation-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14681) |
+| `2026-11-14` | AI Research | [SynthCorp: A Platform for Creating Benchmarks for Data Agents](src/content/news/2026-11-14-synthcorp-a-platform-for-creating-benchmarks.md) | Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-synthcorp-a-platform-for-creating-benchmarks/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14765) |
 | `2026-11-14` | AI Research | [Cleaning an Agent's History Hurts When the World Still Holds the Error](src/content/news/2026-11-14-cleaning-an-agents-history-hurts-when.md) | On AgentCE | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-cleaning-an-agents-history-hurts-when/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14654) |
 | `2026-11-13` | Robotics & Hardware | [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](src/content/news/2026-11-13-how-ai-is-helping-care-teams.md) | AI is helping | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-13-how-ai-is-helping-care-teams/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams) |
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
