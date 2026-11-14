@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-14 02:29 UTC` | **Source-linked stories:** `303`
+> **Index generated:** `2026-11-14 09:29 UTC` | **Source-linked stories:** `305`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 280.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.6k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 302.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 280.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.3k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.7k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 454` | `2026-11-14` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
-| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 241` | `2026-11-14` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
-| [simplexai-labs/linger](https://github.com/simplexai-labs/linger) | `★ 192` | `2026-11-14` | Local AI | `TypeScript` | Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break ... |
-| [GuyMannDude/mnemo-cortex](https://github.com/GuyMannDude/mnemo-cortex) | `★ 160` | `2026-11-14` | Local AI | `Python` | Open-source cognitive coprocessor with active memory for AI agents — persistent recal... |
-| [RioShiina47/comfy-webui](https://github.com/RioShiina47/comfy-webui) | `★ 117` | `2026-11-14` | Indie Tool | `Python` | A recipe-driven WaaS platform for ComfyUI that turns complex workflows (Image, Audio,... |
+| [GizClaw/flowcraft](https://github.com/GizClaw/flowcraft) | `★ 411` | `2026-11-14` | Experimental Agent | `Go` | Production-grade Go SDK for building AI agents with long-term memory, knowledge retri... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 312` | `2026-11-14` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
+| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 263` | `2026-11-14` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
+| [geyan21/flex-pi](https://github.com/geyan21/flex-pi) | `★ 238` | `2026-11-14` | Embodied AI | `Python` | Flex-π: A multi-stream world-action model with compute flexibility: one checkpoint th... |
+| [gy15901580825/Argus](https://github.com/gy15901580825/Argus) | `★ 209` | `2026-11-14` | Indie Tool | `Python` | Open-source red-team testing for AI agents. 266 bundled probes with OWASP LLM Top 10,... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-14` | AI Research | [Together Compiler: Continual Compilation for AI Inference](src/content/news/2026-11-14-together-compiler-continual-compilation-for-ai.md) | Together AI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-together-compiler-continual-compilation-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14681) |
+| `2026-11-14` | AI Research | [Cleaning an Agent's History Hurts When the World Still Holds the Error](src/content/news/2026-11-14-cleaning-an-agents-history-hurts-when.md) | On AgentCE | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-cleaning-an-agents-history-hurts-when/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14654) |
 | `2026-11-13` | Robotics & Hardware | [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](src/content/news/2026-11-13-how-ai-is-helping-care-teams.md) | AI is helping | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-13-how-ai-is-helping-care-teams/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams) |
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
 | `2026-11-11` | AI Research | [SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes](src/content/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise.md) | Black-box LLM | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12950) |
@@ -352,7 +354,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-14 02:29 UTC` | **Yayımlanan haber:** `303`
+> **Dizin oluşturma:** `2026-11-14 09:29 UTC` | **Yayımlanan haber:** `305`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -362,6 +364,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-14` | AI Research | [Together Compiler: Continual Compilation for AI Inference](src/content/news/2026-11-14-together-compiler-continual-compilation-for-ai.md) | Together AI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-together-compiler-continual-compilation-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14681) |
+| `2026-11-14` | AI Research | [Cleaning an Agent's History Hurts When the World Still Holds the Error](src/content/news/2026-11-14-cleaning-an-agents-history-hurts-when.md) | On AgentCE | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-cleaning-an-agents-history-hurts-when/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14654) |
 | `2026-11-13` | Robotics & Hardware | [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](src/content/news/2026-11-13-how-ai-is-helping-care-teams.md) | AI is helping | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-13-how-ai-is-helping-care-teams/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams) |
 | `2026-11-11` | AI Research | [Tracing Psychometric Inference in Large Language Models](src/content/news/2026-11-11-tracing-psychometric-inference-in-large-language.md) | Do large language models represent psychological constructs internally, or do they only generate outputs that resem... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-11-tracing-psychometric-inference-in-large-language/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12937) |
 | `2026-11-11` | AI Research | [SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes](src/content/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise.md) | Black-box LLM | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-12-setprint-black-box-llm-fingerprinting-via-setwise/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.12950) |
