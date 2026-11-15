@@ -1,43 +1,43 @@
 [
   {
-    "name": "marcusquinn/aidevops",
-    "url": "https://github.com/marcusquinn/aidevops",
-    "stars": 455,
-    "forks": 79,
-    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
-    "language": "Shell",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-14"
+    "name": "clay-good/OpenLore",
+    "url": "https://github.com/clay-good/OpenLore",
+    "stars": 364,
+    "forks": 51,
+    "description": "Deterministic, local-first memory and guardrails for AI coding agents with no LLM in the hot path.",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-15"
   },
   {
-    "name": "Dicklesworthstone/ultimate_bug_scanner",
-    "url": "https://github.com/Dicklesworthstone/ultimate_bug_scanner",
-    "stars": 317,
-    "forks": 44,
-    "description": "Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-14"
-  },
-  {
-    "name": "arounamounchili/linkforge",
-    "url": "https://github.com/arounamounchili/linkforge",
-    "stars": 289,
-    "forks": 30,
-    "description": "The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and compile URDF/XACRO/SRDF models from Python or Blender.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-14"
-  },
-  {
-    "name": "DobermanCore/Doberman-Core",
-    "url": "https://github.com/DobermanCore/Doberman-Core",
-    "stars": 243,
-    "forks": 44,
-    "description": "Your AI's guard dog. Doberman sits at runtime, gating every input, output and tool call to stop unsafe or unintended actions before they exe...",
-    "language": "Python",
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 312,
+    "forks": 38,
+    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "language": "TypeScript",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-14"
+    "pushed_at": "2026-11-15"
+  },
+  {
+    "name": "primaprashant/awesome-voice-typing",
+    "url": "https://github.com/primaprashant/awesome-voice-typing",
+    "stars": 218,
+    "forks": 41,
+    "description": "Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-15"
+  },
+  {
+    "name": "Hash-7777/HashCortX",
+    "url": "https://github.com/Hash-7777/HashCortX",
+    "stars": 173,
+    "forks": 17,
+    "description": "A local-first AI workspace : multi provider chat, a Full Harness in Hashcoder agent, 3D models, ERPs, and multi-agent swarms in one native d...",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-15"
   },
   {
     "name": "mstar-project/mstar",
@@ -47,36 +47,36 @@
     "description": "A high-performance, universal serving framework for any-to-any models. ",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-14"
+    "pushed_at": "2026-11-15"
   },
   {
-    "name": "HiveForensics-AI/knolo-core",
-    "url": "https://github.com/HiveForensics-AI/knolo-core",
-    "stars": 108,
-    "forks": 8,
-    "description": "The open framework AI agents use to share knowledge with one another. Pack knowledge into a portable, verifiable Knowledge Image, pin it by ...",
-    "language": "JavaScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-14"
-  },
-  {
-    "name": "Sagargupta16/awesome-mcp-servers",
-    "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
-    "stars": 99,
-    "forks": 175,
-    "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-14"
-  },
-  {
-    "name": "BeppeTemp/cartographer",
-    "url": "https://github.com/BeppeTemp/cartographer",
-    "stars": 67,
-    "forks": 12,
-    "description": "A shared, git-backed wiki your team's AI agents maintain but can't break — Claude Code, Codex, OpenCode and any MCP client.",
-    "language": "Go",
+    "name": "shellonback/promptops",
+    "url": "https://github.com/shellonback/promptops",
+    "stars": 70,
+    "forks": 6,
+    "description": "The best way to run CLI AI coding agents. Launch, orchestrate and monitor Claude Code, Codex, Gemini CLI and more in parallel — native deskt...",
+    "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-14"
+    "pushed_at": "2026-11-15"
+  },
+  {
+    "name": "madebywelch/guaca",
+    "url": "https://github.com/madebywelch/guaca",
+    "stars": 58,
+    "forks": 10,
+    "description": "A desktop workspace (inspired by Grok Bot & Muse) for AI agents that collaborate, write code, and use tools. Run locally or on your own serv...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-15"
+  },
+  {
+    "name": "flisk-sh/flisk",
+    "url": "https://github.com/flisk-sh/flisk",
+    "stars": 47,
+    "forks": 94,
+    "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain comman...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-15"
   }
 ]
