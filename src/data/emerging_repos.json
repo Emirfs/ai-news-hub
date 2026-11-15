@@ -1,82 +1,82 @@
 [
   {
-    "name": "notepower2k1/CapCap",
-    "url": "https://github.com/notepower2k1/CapCap",
-    "stars": 365,
-    "forks": 242,
-    "description": "CapCap is a Windows desktop app for short-form video localization and dubbing. It brings transcription, translation, subtitle styling, voice...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-15"
-  },
-  {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 310,
-    "forks": 171,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-15"
-  },
-  {
-    "name": "wadeKeith/Awesome-Embodied-AI",
-    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 255,
-    "forks": 27,
-    "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-15"
-  },
-  {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 229,
-    "forks": 38,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-15"
-  },
-  {
-    "name": "Pikselkroken/pixlstash",
-    "url": "https://github.com/Pikselkroken/pixlstash",
-    "stars": 99,
-    "forks": 11,
-    "description": "Desktop image library for photographers and creators. Search by content, face or the text in a picture, get help from local AI models to tag...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-15"
-  },
-  {
-    "name": "s-nagaev/chibi",
-    "url": "https://github.com/s-nagaev/chibi",
-    "stars": 56,
-    "forks": 13,
-    "description": "Your Digital Companion. Self-hosted Telegram bot orchestrating multiple AI providers (OpenAI, Anthropic, Google, xAI, DeepSeek, Mistral, Ali...",
+    "name": "schmitech/orbit",
+    "url": "https://github.com/schmitech/orbit",
+    "stars": 364,
+    "forks": 61,
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-15"
   },
   {
+    "name": "inmve/awesome-ai-coding-techniques",
+    "url": "https://github.com/inmve/awesome-ai-coding-techniques",
+    "stars": 352,
+    "forks": 29,
+    "description": "An open reference of software development practices, from code inspection to work with coding agents",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-15"
+  },
+  {
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 241,
+    "forks": 67,
+    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-15"
+  },
+  {
+    "name": "rouges78/GameStringer",
+    "url": "https://github.com/rouges78/GameStringer",
+    "stars": 143,
+    "forks": 6,
+    "description": "Desktop app that auto-detects a game's engine, extracts the text, translates it with local or cloud AI, and re-applies the patch. 20+ engine...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-15"
+  },
+  {
+    "name": "hivecommons/hive",
+    "url": "https://github.com/hivecommons/hive",
+    "stars": 85,
+    "forks": 48,
+    "description": "AI agent orchestration for open and closed source — a fully customizable fleet of AI agents covering every level of project maintenance, fro...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-15"
+  },
+  {
     "name": "flisk-sh/flisk",
     "url": "https://github.com/flisk-sh/flisk",
-    "stars": 48,
-    "forks": 98,
+    "stars": 49,
+    "forks": 102,
     "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain comman...",
     "language": "TypeScript",
     "tag": "Local AI",
     "pushed_at": "2026-11-15"
   },
   {
-    "name": "mrveiss/AutoBot-AI",
-    "url": "https://github.com/mrveiss/AutoBot-AI",
-    "stars": 44,
-    "forks": 29,
-    "description": "Self-hosted, agentic AI you own — voice, vision-driven browser & computer control, visual workflows, human-in-the-loop approvals, multi-user...",
-    "language": "Python",
-    "tag": "Experimental Agent",
+    "name": "AgentsKit-io/agentskit",
+    "url": "https://github.com/AgentsKit-io/agentskit",
+    "stars": 41,
+    "forks": 3,
+    "description": "The complete toolkit for building AI agents in JavaScript. Lightweight core, React & Terminal UIs, autonomous runtime, tools, skills, memory...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-15"
+  },
+  {
+    "name": "shaqmughal/seekstone",
+    "url": "https://github.com/shaqmughal/seekstone",
+    "stars": 35,
+    "forks": 3,
+    "description": "The Obsidian MCP server that needs no plugin, no running Obsidian app — and doesn't blow your context window. Filesystem-direct: single-digi...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-15"
   }
 ]

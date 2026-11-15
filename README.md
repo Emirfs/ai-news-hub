@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-15 14:50 UTC` | **Source-linked stories:** `311`
+> **Index generated:** `2026-11-15 20:25 UTC` | **Source-linked stories:** `311`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,8 +20,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 303.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 303.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.6k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.0k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [notepower2k1/CapCap](https://github.com/notepower2k1/CapCap) | `★ 365` | `2026-11-15` | Local AI | `Python` | CapCap is a Windows desktop app for short-form video localization and dubbing. It bri... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 310` | `2026-11-15` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [wadeKeith/Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) | `★ 255` | `2026-11-15` | Embodied AI | `Python` | Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 229` | `2026-11-15` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [Pikselkroken/pixlstash](https://github.com/Pikselkroken/pixlstash) | `★ 99` | `2026-11-15` | Local AI | `Python` | Desktop image library for photographers and creators. Search by content, face or the ... |
+| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 364` | `2026-11-15` | Indie Tool | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
+| [inmve/awesome-ai-coding-techniques](https://github.com/inmve/awesome-ai-coding-techniques) | `★ 352` | `2026-11-15` | Experimental Agent | `Python` | An open reference of software development practices, from code inspection to work wit... |
+| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 241` | `2026-11-15` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
+| [rouges78/GameStringer](https://github.com/rouges78/GameStringer) | `★ 143` | `2026-11-15` | Local AI | `TypeScript` | Desktop app that auto-detects a game's engine, extracts the text, translates it with ... |
+| [hivecommons/hive](https://github.com/hivecommons/hive) | `★ 85` | `2026-11-15` | Experimental Agent | `Go` | AI agent orchestration for open and closed source — a fully customizable fleet of AI ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -360,7 +360,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-15 14:50 UTC` | **Yayımlanan haber:** `311`
+> **Dizin oluşturma:** `2026-11-15 20:25 UTC` | **Yayımlanan haber:** `311`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
