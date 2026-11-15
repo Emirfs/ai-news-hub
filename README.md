@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-15 00:25 UTC` | **Source-linked stories:** `311`
+> **Index generated:** `2026-11-15 07:14 UTC` | **Source-linked stories:** `311`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 303.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.4k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 303.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.5k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 226.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.8k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 201.9k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [clay-good/OpenLore](https://github.com/clay-good/OpenLore) | `★ 364` | `2026-11-15` | Local AI | `TypeScript` | Deterministic, local-first memory and guardrails for AI coding agents with no LLM in ... |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 312` | `2026-11-15` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
-| [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) | `★ 218` | `2026-11-15` | Local AI | `Python` | Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, W... |
-| [Hash-7777/HashCortX](https://github.com/Hash-7777/HashCortX) | `★ 173` | `2026-11-15` | Local AI | `JavaScript` | A local-first AI workspace : multi provider chat, a Full Harness in Hashcoder agent, ... |
-| [mstar-project/mstar](https://github.com/mstar-project/mstar) | `★ 114` | `2026-11-15` | Embodied AI | `Python` | A high-performance, universal serving framework for any-to-any models.  |
+| [iamumairayub/ai--manus](https://github.com/iamumairayub/ai--manus) | `★ 261` | `2026-11-15` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
+| [alexgreensh/outsourcerer](https://github.com/alexgreensh/outsourcerer) | `★ 196` | `2026-11-15` | Local AI | `Shell` | Make your AI agents work as a team. You keep working in 1 session while it orchestrat... |
+| [optichokagecharm/ai--manus2.0](https://github.com/optichokagecharm/ai--manus2.0) | `★ 182` | `2026-11-15` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
+| [MindSamuraiSky/ai--manus2.0](https://github.com/MindSamuraiSky/ai--manus2.0) | `★ 182` | `2026-11-15` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
+| [mindduelistmotor/ai--manus](https://github.com/mindduelistmotor/ai--manus) | `★ 182` | `2026-11-15` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -360,7 +360,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-15 00:25 UTC` | **Yayımlanan haber:** `311`
+> **Dizin oluşturma:** `2026-11-15 07:14 UTC` | **Yayımlanan haber:** `311`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
