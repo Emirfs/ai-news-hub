@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-16 07:21 UTC` | **Source-linked stories:** `314`
+> **Index generated:** `2026-11-16 17:29 UTC` | **Source-linked stories:** `316`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 304.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.1k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 304.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 282.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.8k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.3k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,18 +32,20 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [vb2250158/RabiRoute](https://github.com/vb2250158/RabiRoute) | `★ 493` | `2026-11-16` | Experimental Agent | `TypeScript` | Self-hosted message gateway for AI agents: Codex, QQ, WeChat/WeCom, Feishu, smart dev... |
-| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 310` | `2026-11-16` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
-| [HarimxChoi/google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp) | `★ 301` | `2026-11-16` | Local AI | `TypeScript` | Turn Google Search, Papers, and Codebases into an Automatic Local Knowledge Graph for... |
-| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 241` | `2026-11-16` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
-| [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | `★ 210` | `2026-11-16` | Embodied AI | `Python` | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for I... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 311` | `2026-11-16` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [NeverSight/learn-skills.dev](https://github.com/NeverSight/learn-skills.dev) | `★ 223` | `2026-11-16` | Experimental Agent | `Python` | Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Cla... |
+| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 114` | `2026-11-16` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
+| [agentopology/agentopology](https://github.com/agentopology/agentopology) | `★ 107` | `2026-11-16` | Experimental Agent | `TypeScript` | Harness as code — the Terraform for AI agents. Define your agent team AND its memory ... |
+| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 103` | `2026-11-16` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
+| `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
 | `2026-11-16` | AI Research | [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](src/content/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing.md) | Hallucination detection | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17339) |
+| `2026-11-16` | AI Research | [Broadening access to AI for scientists](src/content/news/2026-11-16-broadening-access-to-ai-for-scientists.md) | We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-broadening-access-to-ai-for-scientists/) | [OpenAI News](https://openai.com/index/expanding-chatgpt-for-academic-researchers) |
 | `2026-11-16` | Robotics & Hardware | [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](src/content/news/2026-11-16-ai-day-seoul-brings-together-koreas.md) | Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry lea... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-ai-day-seoul-brings-together-koreas/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup) |
 | `2026-11-14` | AI Research | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](src/content/news/2026-11-14-when-should-semantic-priors-enter-partially-identified.md) | Observational | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-when-should-semantic-priors-enter-partially-identified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14736) |
 | `2026-11-14` | AI Research | [When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning](src/content/news/2026-11-15-when-is-proof-step-verification-worth-its.md) | Proof-step verification rew | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-15-when-is-proof-step-verification-worth-its/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14794) |
@@ -363,7 +365,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-16 07:21 UTC` | **Yayımlanan haber:** `314`
+> **Dizin oluşturma:** `2026-11-16 17:29 UTC` | **Yayımlanan haber:** `316`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -374,7 +376,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
+| `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
 | `2026-11-16` | AI Research | [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](src/content/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing.md) | Hallucination detection | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17339) |
+| `2026-11-16` | AI Research | [Broadening access to AI for scientists](src/content/news/2026-11-16-broadening-access-to-ai-for-scientists.md) | We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-broadening-access-to-ai-for-scientists/) | [OpenAI News](https://openai.com/index/expanding-chatgpt-for-academic-researchers) |
 | `2026-11-16` | Robotics & Hardware | [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](src/content/news/2026-11-16-ai-day-seoul-brings-together-koreas.md) | Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry lea... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-ai-day-seoul-brings-together-koreas/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup) |
 | `2026-11-14` | AI Research | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](src/content/news/2026-11-14-when-should-semantic-priors-enter-partially-identified.md) | Observational | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-when-should-semantic-priors-enter-partially-identified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14736) |
 | `2026-11-14` | AI Research | [When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning](src/content/news/2026-11-15-when-is-proof-step-verification-worth-its.md) | Proof-step verification rew | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-15-when-is-proof-step-verification-worth-its/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14794) |
