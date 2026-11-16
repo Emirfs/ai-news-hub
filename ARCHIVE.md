@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-15 22:25 UTC` | **Source-linked stories:** `311`
+> **Index generated:** `2026-11-16 00:25 UTC` | **Source-linked stories:** `312`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 303.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 303.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.0k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.1k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [schmitech/orbit](https://github.com/schmitech/orbit) | `★ 364` | `2026-11-15` | Indie Tool | `Python` | Self-hosted AI gateway for private RAG, natural-language data access, and tool-callin... |
-| [inmve/awesome-ai-coding-techniques](https://github.com/inmve/awesome-ai-coding-techniques) | `★ 352` | `2026-11-15` | Experimental Agent | `Python` | An open reference of software development practices, from code inspection to work wit... |
-| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 241` | `2026-11-15` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
-| [rouges78/GameStringer](https://github.com/rouges78/GameStringer) | `★ 143` | `2026-11-15` | Local AI | `TypeScript` | Desktop app that auto-detects a game's engine, extracts the text, translates it with ... |
-| [hivecommons/hive](https://github.com/hivecommons/hive) | `★ 85` | `2026-11-15` | Experimental Agent | `Go` | AI agent orchestration for open and closed source — a fully customizable fleet of AI ... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 313` | `2026-11-16` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 229` | `2026-11-16` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
+| [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) | `★ 218` | `2026-11-16` | Local AI | `Python` | Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, W... |
+| [MikkoParkkola/trvl](https://github.com/MikkoParkkola/trvl) | `★ 94` | `2026-11-16` | Indie Tool | `Go` | Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, p... |
+| [gtapps/hermitd](https://github.com/gtapps/hermitd) | `★ 85` | `2026-11-16` | Local AI | `TypeScript` | Think Claude Tag, but local. |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-16` | Robotics & Hardware | [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](src/content/news/2026-11-16-ai-day-seoul-brings-together-koreas.md) | Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry lea... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-ai-day-seoul-brings-together-koreas/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup) |
 | `2026-11-14` | AI Research | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](src/content/news/2026-11-14-when-should-semantic-priors-enter-partially-identified.md) | Observational | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-when-should-semantic-priors-enter-partially-identified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14736) |
 | `2026-11-14` | AI Research | [When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning](src/content/news/2026-11-15-when-is-proof-step-verification-worth-its.md) | Proof-step verification rew | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-15-when-is-proof-step-verification-worth-its/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14794) |
 | `2026-11-14` | AI Research | [Together Compiler: Continual Compilation for AI Inference](src/content/news/2026-11-14-together-compiler-continual-compilation-for-ai.md) | Together AI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-together-compiler-continual-compilation-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14681) |
@@ -360,7 +361,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-15 22:25 UTC` | **Yayımlanan haber:** `311`
+> **Dizin oluşturma:** `2026-11-16 00:25 UTC` | **Yayımlanan haber:** `312`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -370,6 +371,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-16` | Robotics & Hardware | [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](src/content/news/2026-11-16-ai-day-seoul-brings-together-koreas.md) | Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry lea... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-ai-day-seoul-brings-together-koreas/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup) |
 | `2026-11-14` | AI Research | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](src/content/news/2026-11-14-when-should-semantic-priors-enter-partially-identified.md) | Observational | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-when-should-semantic-priors-enter-partially-identified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14736) |
 | `2026-11-14` | AI Research | [When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning](src/content/news/2026-11-15-when-is-proof-step-verification-worth-its.md) | Proof-step verification rew | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-15-when-is-proof-step-verification-worth-its/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14794) |
 | `2026-11-14` | AI Research | [Together Compiler: Continual Compilation for AI Inference](src/content/news/2026-11-14-together-compiler-continual-compilation-for-ai.md) | Together AI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-together-compiler-continual-compilation-for-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14681) |
