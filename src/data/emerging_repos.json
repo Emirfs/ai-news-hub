@@ -1,82 +1,82 @@
 [
   {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 313,
-    "forks": 37,
-    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "name": "vb2250158/RabiRoute",
+    "url": "https://github.com/vb2250158/RabiRoute",
+    "stars": 493,
+    "forks": 0,
+    "description": "Self-hosted message gateway for AI agents: Codex, QQ, WeChat/WeCom, Feishu, smart devices and desktop automation. | AI 消息网关：连接聊天、智能设备与 Agent...",
     "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-16"
+  },
+  {
+    "name": "Hebbian-Robotics/hflow",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "stars": 310,
+    "forks": 171,
+    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-16"
+  },
+  {
+    "name": "HarimxChoi/google-surf-mcp",
+    "url": "https://github.com/HarimxChoi/google-surf-mcp",
+    "stars": 301,
+    "forks": 32,
+    "description": "Turn Google Search, Papers, and Codebases into an Automatic Local Knowledge Graph for AI Agents.",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-16"
+  },
+  {
+    "name": "btsouth/toolport",
+    "url": "https://github.com/btsouth/toolport",
+    "stars": 241,
+    "forks": 67,
+    "description": "Local-first MCP gateway. Set up MCP servers once and use them in every AI client, with secrets in the OS keychain, tool integrity checks and...",
+    "language": "Rust",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-16"
   },
   {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 229,
-    "forks": 38,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
+    "name": "zqc3117/Spotter",
+    "url": "https://github.com/zqc3117/Spotter",
+    "stars": 210,
+    "forks": 9,
+    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
     "language": "Python",
-    "tag": "Local AI",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-16"
   },
   {
-    "name": "primaprashant/awesome-voice-typing",
-    "url": "https://github.com/primaprashant/awesome-voice-typing",
-    "stars": 218,
-    "forks": 42,
-    "description": "Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-16"
-  },
-  {
-    "name": "MikkoParkkola/trvl",
-    "url": "https://github.com/MikkoParkkola/trvl",
-    "stars": 94,
-    "forks": 8,
-    "description": "Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, price alerts. No API keys, single Go binary. 1 smart MCP...",
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 199,
+    "forks": 24,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
     "language": "Go",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-16"
   },
   {
-    "name": "gtapps/hermitd",
-    "url": "https://github.com/gtapps/hermitd",
-    "stars": 85,
-    "forks": 16,
-    "description": "Think Claude Tag, but local.",
+    "name": "rongxinzy/RongxinAI",
+    "url": "https://github.com/rongxinzy/RongxinAI",
+    "stars": 162,
+    "forks": 9,
+    "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, brows...",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-16"
-  },
-  {
-    "name": "SysAdminDoc/OpenCut",
-    "url": "https://github.com/SysAdminDoc/OpenCut",
-    "stars": 69,
-    "forks": 14,
-    "description": "OpenCut for Premiere Pro. Local AI video editing automation for Adobe Premiere Pro: silence and filler cuts, captions, audio repair, and soc...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-16"
-  },
-  {
-    "name": "james-joobs/awesome-nvidia-physical-ai",
-    "url": "https://github.com/james-joobs/awesome-nvidia-physical-ai",
-    "stars": 45,
-    "forks": 2,
-    "description": "An independent bilingual guide to NVIDIA Physical AI. Find tools, models, and workflows for robotics, simulation, and autonomous driving.",
-    "language": "JavaScript",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-16"
-  },
-  {
-    "name": "Joakimpalm-Zen/xyntetik-runner",
-    "url": "https://github.com/Joakimpalm-Zen/xyntetik-runner",
-    "stars": 29,
-    "forks": 3,
-    "description": "Local inference you can prove. A single-binary GGUF engine in C: serves, scores, and trains LoRA through the quantized weights it deploys, b...",
-    "language": "C",
     "tag": "Indie Tool",
+    "pushed_at": "2026-11-16"
+  },
+  {
+    "name": "mingti-org/phyai",
+    "url": "https://github.com/mingti-org/phyai",
+    "stars": 154,
+    "forks": 36,
+    "description": "PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-devi...",
+    "language": "Python",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-16"
   }
 ]

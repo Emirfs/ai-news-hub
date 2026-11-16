@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-16 00:25 UTC` | **Source-linked stories:** `312`
+> **Index generated:** `2026-11-16 07:21 UTC` | **Source-linked stories:** `314`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,9 +20,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 303.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.6k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 304.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 281.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 263.7k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.1k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 313` | `2026-11-16` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
-| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 229` | `2026-11-16` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
-| [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) | `★ 218` | `2026-11-16` | Local AI | `Python` | Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, W... |
-| [MikkoParkkola/trvl](https://github.com/MikkoParkkola/trvl) | `★ 94` | `2026-11-16` | Indie Tool | `Go` | Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, p... |
-| [gtapps/hermitd](https://github.com/gtapps/hermitd) | `★ 85` | `2026-11-16` | Local AI | `TypeScript` | Think Claude Tag, but local. |
+| [vb2250158/RabiRoute](https://github.com/vb2250158/RabiRoute) | `★ 493` | `2026-11-16` | Experimental Agent | `TypeScript` | Self-hosted message gateway for AI agents: Codex, QQ, WeChat/WeCom, Feishu, smart dev... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 310` | `2026-11-16` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [HarimxChoi/google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp) | `★ 301` | `2026-11-16` | Local AI | `TypeScript` | Turn Google Search, Papers, and Codebases into an Automatic Local Knowledge Graph for... |
+| [btsouth/toolport](https://github.com/btsouth/toolport) | `★ 241` | `2026-11-16` | Indie Tool | `Rust` | Local-first MCP gateway. Set up MCP servers once and use them in every AI client, wit... |
+| [zqc3117/Spotter](https://github.com/zqc3117/Spotter) | `★ 210` | `2026-11-16` | Embodied AI | `Python` | Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for I... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
+| `2026-11-16` | AI Research | [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](src/content/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing.md) | Hallucination detection | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17339) |
 | `2026-11-16` | Robotics & Hardware | [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](src/content/news/2026-11-16-ai-day-seoul-brings-together-koreas.md) | Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry lea... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-ai-day-seoul-brings-together-koreas/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup) |
 | `2026-11-14` | AI Research | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](src/content/news/2026-11-14-when-should-semantic-priors-enter-partially-identified.md) | Observational | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-14-when-should-semantic-priors-enter-partially-identified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14736) |
 | `2026-11-14` | AI Research | [When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning](src/content/news/2026-11-15-when-is-proof-step-verification-worth-its.md) | Proof-step verification rew | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-15-when-is-proof-step-verification-worth-its/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14794) |
@@ -361,7 +363,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-16 00:25 UTC` | **Yayımlanan haber:** `312`
+> **Dizin oluşturma:** `2026-11-16 07:21 UTC` | **Yayımlanan haber:** `314`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -371,6 +373,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
+| `2026-11-16` | AI Research | [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](src/content/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing.md) | Hallucination detection | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17339) |
 | `2026-11-16` | Robotics & Hardware | [AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities](src/content/news/2026-11-16-ai-day-seoul-brings-together-koreas.md) | Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry lea... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-ai-day-seoul-brings-together-koreas/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-day-seoul-wrapup) |
 | `2026-11-14` | AI Research | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](src/content/news/2026-11-14-when-should-semantic-priors-enter-partially-identified.md) | Observational | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-14-when-should-semantic-priors-enter-partially-identified/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14736) |
 | `2026-11-14` | AI Research | [When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning](src/content/news/2026-11-15-when-is-proof-step-verification-worth-its.md) | Proof-step verification rew | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-15-when-is-proof-step-verification-worth-its/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.14794) |
