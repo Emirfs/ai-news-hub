@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "name": "liujh0729-jpg/AI-enterprise-OEM",
+    "url": "https://github.com/liujh0729-jpg/AI-enterprise-OEM",
+    "stars": 445,
+    "forks": 6,
+    "description": "项目简介：AI企业服务，包括Agent、营销、内容创作、CRM、OA、BI、RPA、邮箱、OKR等，支持财税、供销网络、法律服务、智库、物流、灵活用工、跨境出海等。支持SNS商务人脉挖掘，大数据挖掘。",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-17"
+  },
+  {
+    "name": "squirrelscan/squirrelscan",
+    "url": "https://github.com/squirrelscan/squirrelscan",
+    "stars": 313,
+    "forks": 36,
+    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-17"
+  },
+  {
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 199,
+    "forks": 24,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-17"
+  },
+  {
+    "name": "IBM/aspera-cli",
+    "url": "https://github.com/IBM/aspera-cli",
+    "stars": 102,
+    "forks": 24,
+    "description": "IBM Aspera CLI (ascli): the automation interface for IBM Aspera, from command line to AI agents. Transfers, packages, files and administrati...",
+    "language": "Ruby",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-17"
+  },
+  {
+    "name": "Armur-Ai/Trishul",
+    "url": "https://github.com/Armur-Ai/Trishul",
+    "stars": 97,
+    "forks": 17,
+    "description": "Security scanner for AI-generated (\"vibe-coded\") code. Runs    SAST, DAST, and sandboxed exploit simulation across 15+   languages using 30+...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-17"
+  },
+  {
+    "name": "paulmassen/seo-playground",
+    "url": "https://github.com/paulmassen/seo-playground",
+    "stars": 89,
+    "forks": 35,
+    "description": "SEO & Local SEO dashboard powered by DataForSEO API. Track rankings, llm prompts, geo-grid visibility, backlinks, SERPs, AI/LLM presence, br...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-17"
+  },
+  {
+    "name": "vbcherepanov/total-agent-memory",
+    "url": "https://github.com/vbcherepanov/total-agent-memory",
+    "stars": 77,
+    "forks": 19,
+    "description": "Persistent local memory for AI coding agents — Claude Code, Codex CLI, Cursor, any MCP client. Temporal knowledge graph, procedural memory, ...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-17"
+  },
+  {
+    "name": "ZiChenWang114514/chemdraw-skill",
+    "url": "https://github.com/ZiChenWang114514/chemdraw-skill",
+    "stars": 51,
+    "forks": 3,
+    "description": "Editable ChemDraw (.cdxml/.cdx) figures for Claude Code, Codex & any AI agent: 28 journal & group house styles (JACS, Angew, Nature, Science...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-17"
+  }
+]

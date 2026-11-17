@@ -2,18 +2,18 @@
   {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
-    "stars": 304658,
-    "forks": 44870,
+    "stars": 304874,
+    "forks": 44895,
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Code...",
     "language": "JavaScript",
     "tag": "Autonomous Agents",
-    "pushed_at": "2026-11-16"
+    "pushed_at": "2026-11-17"
   },
   {
     "name": "deepseek-ai/deepseek-harness",
     "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stars": 282342,
-    "forks": 34966,
+    "stars": 282654,
+    "forks": 35020,
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
@@ -22,18 +22,18 @@
   {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "stars": 263921,
-    "forks": 59519,
+    "stars": 264033,
+    "forks": 59556,
     "description": "The agent that grows with you",
     "language": "Python",
     "tag": "Autonomous Agents",
-    "pushed_at": "2026-11-16"
+    "pushed_at": "2026-11-17"
   },
   {
     "name": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
-    "stars": 227325,
-    "forks": 30801,
+    "stars": 227433,
+    "forks": 30821,
     "description": "The open source coding agent.",
     "language": "TypeScript",
     "tag": "Developer Tools",
@@ -42,8 +42,8 @@
   {
     "name": "firecrawl/firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "stars": 202366,
-    "forks": 10604,
+    "stars": 202446,
+    "forks": 10605,
     "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "language": "TypeScript",
     "tag": "Autonomous Agents",
@@ -52,8 +52,8 @@
   {
     "name": "ultraworkers/claw-code",
     "url": "https://github.com/ultraworkers/claw-code",
-    "stars": 194761,
-    "forks": 107265,
+    "stars": 194759,
+    "forks": 107256,
     "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
     "language": "Rust",
     "tag": "Developer Tools",
@@ -62,8 +62,8 @@
   {
     "name": "DietrichGebert/ponytail",
     "url": "https://github.com/DietrichGebert/ponytail",
-    "stars": 192181,
-    "forks": 10781,
+    "stars": 192452,
+    "forks": 10798,
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "language": "JavaScript",
     "tag": "Foundation Models",
@@ -72,11 +72,11 @@
   {
     "name": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
-    "stars": 187270,
-    "forks": 19114,
+    "stars": 187320,
+    "forks": 19119,
     "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "language": "Go",
     "tag": "DeepSeek Ecosystem",
-    "pushed_at": "2026-11-16"
+    "pushed_at": "2026-11-17"
   }
 ]
