@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-18 01:20 UTC` | **Source-linked stories:** `323`
+> **Index generated:** `2026-11-18 09:13 UTC` | **Source-linked stories:** `325`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,10 +20,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 305.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 283.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 305.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 283.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.3k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.7k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) | `★ 370` | `2026-11-18` | Experimental Agent | `Python` | AI agents that know you and your work, in a chat app anyone can use. Open source, any... |
-| [zhangweijp/AgentOrientedTUI](https://github.com/zhangweijp/AgentOrientedTUI) | `★ 290` | `2026-11-18` | Experimental Agent | `TypeScript` | Building Software for AI Agent. |
-| [hwdsl2/self-hosted-ai-stack](https://github.com/hwdsl2/self-hosted-ai-stack) | `★ 180` | `2026-11-18` | Indie Tool | `Shell` | Deploy a self-hosted AI stack with Docker Compose: local LLMs, chat, document parsing... |
-| [skyvanguard/awesome-ai-pentesting](https://github.com/skyvanguard/awesome-ai-pentesting) | `★ 117` | `2026-11-18` | Indie Tool | `Python` | A curated list of AI-powered pentesting tools, frameworks, MCP servers, and resources... |
-| [gary23w/nl-veil](https://github.com/gary23w/nl-veil) | `★ 114` | `2026-11-18` | Experimental Agent | `Zig` | Open-source AI coding desktop app with parallel agents and persistent project memory.... |
+| [mrbizarro/Phosphene](https://github.com/mrbizarro/Phosphene) | `★ 425` | `2026-11-18` | Experimental Agent | `Python` | Phosphene is a free, open-source Mac app for making AI videos, pictures, speech and s... |
+| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 315` | `2026-11-18` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 350+ audit rules across SEO, performance, ... |
+| [skye-harris/llm_intents](https://github.com/skye-harris/llm_intents) | `★ 229` | `2026-11-18` | Indie Tool | `Python` | Exposes internet search tools for use by LLM-backed Assist in Home Assistant |
+| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 126` | `2026-11-18` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
+| [wuji-technology/wuji-description](https://github.com/wuji-technology/wuji-description) | `★ 56` | `2026-11-18` | Embodied AI | `CMake` | Robot model description files for Wuji robots (URDF, MJCF, MJX, USD) |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-18` | AI Research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](src/content/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for.md) | NEBench R | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21682) |
+| `2026-11-18` | AI Research | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](src/content/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability.md) | Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other fail... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21799) |
 | `2026-11-17` | Robotics & Hardware | [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](src/content/news/2026-11-17-ian-buck-kicks-off-nvidias-week.md) | NVIDIA | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-17-ian-buck-kicks-off-nvidias-week/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ian-buck-sc26) |
 | `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
 | `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
@@ -372,7 +374,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-18 01:20 UTC` | **Yayımlanan haber:** `323`
+> **Dizin oluşturma:** `2026-11-18 09:13 UTC` | **Yayımlanan haber:** `325`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -382,6 +384,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-18` | AI Research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](src/content/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for.md) | NEBench R | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21682) |
+| `2026-11-18` | AI Research | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](src/content/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability.md) | Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other fail... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21799) |
 | `2026-11-17` | Robotics & Hardware | [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](src/content/news/2026-11-17-ian-buck-kicks-off-nvidias-week.md) | NVIDIA | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-17-ian-buck-kicks-off-nvidias-week/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ian-buck-sc26) |
 | `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
 | `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
