@@ -1,81 +1,41 @@
 [
   {
-    "name": "mrbizarro/Phosphene",
-    "url": "https://github.com/mrbizarro/Phosphene",
-    "stars": 425,
-    "forks": 64,
-    "description": "Phosphene is a free, open-source Mac app for making AI videos, pictures, speech and songs offline. Run LTX-2.5 and MiniMax H3 (Hailuo) local...",
+    "name": "stancaedy10-glitch/manus--ai",
+    "url": "https://github.com/stancaedy10-glitch/manus--ai",
+    "stars": 202,
+    "forks": 0,
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-18"
   },
   {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 315,
-    "forks": 36,
-    "description": "The website QA tool for your coding agent. 350+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-18"
-  },
-  {
-    "name": "skye-harris/llm_intents",
-    "url": "https://github.com/skye-harris/llm_intents",
-    "stars": 229,
-    "forks": 31,
-    "description": "Exposes internet search tools for use by LLM-backed Assist in Home Assistant",
+    "name": "stancaedy10-glitch/ai--manus",
+    "url": "https://github.com/stancaedy10-glitch/ai--manus",
+    "stars": 202,
+    "forks": 0,
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-18"
-  },
-  {
-    "name": "Sagargupta16/awesome-mcp-servers",
-    "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
-    "stars": 126,
-    "forks": 208,
-    "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-18"
-  },
-  {
-    "name": "wuji-technology/wuji-description",
-    "url": "https://github.com/wuji-technology/wuji-description",
-    "stars": 56,
-    "forks": 10,
-    "description": "Robot model description files for Wuji robots (URDF, MJCF, MJX, USD)",
-    "language": "CMake",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-18"
-  },
-  {
-    "name": "SeraphimSerapis/awesome-local-ai",
-    "url": "https://github.com/SeraphimSerapis/awesome-local-ai",
-    "stars": 52,
-    "forks": 26,
-    "description": "A curated list of awesome local AI projects and repos",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-18"
-  },
-  {
-    "name": "sambitcreate/aiden-agent",
-    "url": "https://github.com/sambitcreate/aiden-agent",
-    "stars": 45,
-    "forks": 3,
-    "description": "Pi based agent for Designers, Coders and Everyday users.",
-    "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-18"
   },
   {
-    "name": "holgerleichsenring/agent-smith",
-    "url": "https://github.com/holgerleichsenring/agent-smith",
-    "stars": 45,
-    "forks": 11,
-    "description": "Agent Smith — the open source agentic software factory: ticket in, spec, verified pull request out. Self-hosted; Azure DevOps, GitHub, GitLa...",
-    "language": "C#",
+    "name": "mohamedhamdytaha/manus--ai",
+    "url": "https://github.com/mohamedhamdytaha/manus--ai",
+    "stars": 180,
+    "forks": 0,
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-18"
+  },
+  {
+    "name": "mohamedhamdytaha/GitHub-Copilot-app",
+    "url": "https://github.com/mohamedhamdytaha/GitHub-Copilot-app",
+    "stars": 62,
+    "forks": 9,
+    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub re...",
+    "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-18"
   }

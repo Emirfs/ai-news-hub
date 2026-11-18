@@ -1,0 +1,21 @@
+---
+title: "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR"
+description: "Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder."
+pubDate: 2026-11-18
+category: "AI Research"
+tags: []
+author: "Neural Pulse AI"
+sourceUrl: "https://arxiv.org/abs/2611.21827"
+sourceName: "arXiv (cs.AI)"
+isWeeklyDigest: false
+sourcePolicy: primary
+keyTakeaways: []
+---
+
+### Source-attributed summary
+
+This summary uses the published excerpt from arXiv (cs.AI). It has not been independently fact-checked by Neural Pulse.
+
+Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehicle itself. With a modern network (ConvNeXt-Small, 3 seeds) we first reproduce the known MSTAR result: with the central 96x96 pixels zeroed out, accuracy is still 73.3% (chance 10%). The same shortcut is present in ATRNet-STAR, which was collected across several scenes: with the vehicle removed, accuracy is 63.3% on the 40-class SOC split (chance 2.5%). Under the official scene-change split, the background stops helping and starts hurting. Accuracy is 22.8% on full chips and 30.8% when only the vehicle is shown. A SAR foundation model, SARATR-X, leans on the background more than ConvNeXt does (+4 to +6 points with the vehicle removed, in every seed) and does not solve the scene change. We then hold the amount of training data fixed and vary the depression angles used for training. Accuracy is set mainly by the gap to the nearest training angle: 57% at 15 degrees, 39% at 30 degrees and 26% at 45 degrees. Adding more training angles does not help.
+
+[Read the original source](https://arxiv.org/abs/2611.21827) for the full context.
