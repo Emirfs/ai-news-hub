@@ -1,82 +1,82 @@
 [
   {
-    "name": "Vigil-SOC/vigil",
-    "url": "https://github.com/Vigil-SOC/vigil",
-    "stars": 442,
-    "forks": 102,
-    "description": "Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, local or remote. ",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-17"
-  },
-  {
-    "name": "squirrelscan/squirrelscan",
-    "url": "https://github.com/squirrelscan/squirrelscan",
-    "stars": 314,
-    "forks": 36,
-    "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
-    "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-17"
-  },
-  {
-    "name": "EmpiricaAI/empirica",
-    "url": "https://github.com/EmpiricaAI/empirica",
-    "stars": 257,
-    "forks": 34,
-    "description": "  Make AI agents and AI workflows measurably reliable. Epistemic measurement, Noetic RAG, Sentinel gating, and grounded calibration for Clau...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-17"
-  },
-  {
-    "name": "depalmar/ai-dfir-toolkit",
-    "url": "https://github.com/depalmar/ai-dfir-toolkit",
-    "stars": 176,
-    "forks": 27,
-    "description": "A vendor-neutral collection of Sigma, YARA, and Suricata rules for detecting compromise of LLM applications, MCP servers, ML supply chains, ...",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-17"
-  },
-  {
-    "name": "Pikselkroken/pixlstash",
-    "url": "https://github.com/Pikselkroken/pixlstash",
-    "stars": 130,
-    "forks": 16,
-    "description": "Desktop image library for photographers and creators. Search by content, face or the text in a picture, get help from local AI models to tag...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-17"
-  },
-  {
-    "name": "AutomatosAI/automatos-ai",
-    "url": "https://github.com/AutomatosAI/automatos-ai",
-    "stars": 79,
+    "name": "mindroom-ai/mindroom",
+    "url": "https://github.com/mindroom-ai/mindroom",
+    "stars": 370,
     "forks": 32,
-    "description": "The open-source AI Operating System — run a workforce of AI agents on your own machine. Any model, 1,000+ tools, a Knowledge Graph, and your...",
+    "description": "AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-17"
+    "pushed_at": "2026-11-18"
   },
   {
-    "name": "flisk-sh/flisk",
-    "url": "https://github.com/flisk-sh/flisk",
-    "stars": 51,
-    "forks": 108,
-    "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain comman...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-17"
-  },
-  {
-    "name": "HoodyNetwork/hoody-sdk",
-    "url": "https://github.com/HoodyNetwork/hoody-sdk",
-    "stars": 49,
-    "forks": 6,
-    "description": "Computers that are URLs. TypeScript SDK & CLI for the Hoody platform - Terminals, files, browsers, AI agents, databases, and more. Pure HTTP...",
+    "name": "zhangweijp/AgentOrientedTUI",
+    "url": "https://github.com/zhangweijp/AgentOrientedTUI",
+    "stars": 290,
+    "forks": 4,
+    "description": "Building Software for AI Agent.",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-17"
+    "pushed_at": "2026-11-18"
+  },
+  {
+    "name": "hwdsl2/self-hosted-ai-stack",
+    "url": "https://github.com/hwdsl2/self-hosted-ai-stack",
+    "stars": 180,
+    "forks": 35,
+    "description": "Deploy a self-hosted AI stack with Docker Compose: local LLMs, chat, document parsing, embeddings, transcription, text-to-speech and MCP too...",
+    "language": "Shell",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-18"
+  },
+  {
+    "name": "skyvanguard/awesome-ai-pentesting",
+    "url": "https://github.com/skyvanguard/awesome-ai-pentesting",
+    "stars": 117,
+    "forks": 26,
+    "description": "A curated list of AI-powered pentesting tools, frameworks, MCP servers, and resources for autonomous cybersecurity operations",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-18"
+  },
+  {
+    "name": "gary23w/nl-veil",
+    "url": "https://github.com/gary23w/nl-veil",
+    "stars": 114,
+    "forks": 34,
+    "description": "Open-source AI coding desktop app with parallel agents and persistent project memory. Local models, Ollama or cloud AI. Windows, macOS and L...",
+    "language": "Zig",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-18"
+  },
+  {
+    "name": "Apra-Labs/apra-fleet",
+    "url": "https://github.com/Apra-Labs/apra-fleet",
+    "stars": 107,
+    "forks": 18,
+    "description": "AI agents that write code, review each other's work, and coordinate across your machines",
+    "language": "JavaScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-18"
+  },
+  {
+    "name": "james-joobs/awesome-nvidia-physical-ai",
+    "url": "https://github.com/james-joobs/awesome-nvidia-physical-ai",
+    "stars": 49,
+    "forks": 3,
+    "description": "An independent bilingual guide to NVIDIA Physical AI. Find tools, models, and workflows for robotics, simulation, and autonomous driving.",
+    "language": "Astro",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-18"
+  },
+  {
+    "name": "tokenfunplus/cove",
+    "url": "https://github.com/tokenfunplus/cove",
+    "stars": 42,
+    "forks": 6,
+    "description": "A local-first Mac chat app with on-device history and verifiable AI inference",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-18"
   }
 ]

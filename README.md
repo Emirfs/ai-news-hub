@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-17 18:39 UTC` | **Source-linked stories:** `322`
+> **Index generated:** `2026-11-18 01:20 UTC` | **Source-linked stories:** `323`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 305.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 282.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 305.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 283.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.6k` | Autonomous Agents | `TypeScript` | Supercharge your AI agents with data from the web and beyond. Building the library for sup... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.7k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Vigil-SOC/vigil](https://github.com/Vigil-SOC/vigil) | `★ 442` | `2026-11-17` | Local AI | `Python` | Vigil SOC: The leading open source AI SOC. Apache 2.0. Runs against your own LLM, loc... |
-| [squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan) | `★ 314` | `2026-11-17` | Indie Tool | `TypeScript` | The website QA tool for your coding agent. 310+ audit rules across SEO, performance, ... |
-| [EmpiricaAI/empirica](https://github.com/EmpiricaAI/empirica) | `★ 257` | `2026-11-17` | Experimental Agent | `Python` |   Make AI agents and AI workflows measurably reliable. Epistemic measurement, Noetic ... |
-| [depalmar/ai-dfir-toolkit](https://github.com/depalmar/ai-dfir-toolkit) | `★ 176` | `2026-11-17` | Indie Tool | `Python` | A vendor-neutral collection of Sigma, YARA, and Suricata rules for detecting compromi... |
-| [Pikselkroken/pixlstash](https://github.com/Pikselkroken/pixlstash) | `★ 130` | `2026-11-17` | Local AI | `Python` | Desktop image library for photographers and creators. Search by content, face or the ... |
+| [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) | `★ 370` | `2026-11-18` | Experimental Agent | `Python` | AI agents that know you and your work, in a chat app anyone can use. Open source, any... |
+| [zhangweijp/AgentOrientedTUI](https://github.com/zhangweijp/AgentOrientedTUI) | `★ 290` | `2026-11-18` | Experimental Agent | `TypeScript` | Building Software for AI Agent. |
+| [hwdsl2/self-hosted-ai-stack](https://github.com/hwdsl2/self-hosted-ai-stack) | `★ 180` | `2026-11-18` | Indie Tool | `Shell` | Deploy a self-hosted AI stack with Docker Compose: local LLMs, chat, document parsing... |
+| [skyvanguard/awesome-ai-pentesting](https://github.com/skyvanguard/awesome-ai-pentesting) | `★ 117` | `2026-11-18` | Indie Tool | `Python` | A curated list of AI-powered pentesting tools, frameworks, MCP servers, and resources... |
+| [gary23w/nl-veil](https://github.com/gary23w/nl-veil) | `★ 114` | `2026-11-18` | Experimental Agent | `Zig` | Open-source AI coding desktop app with parallel agents and persistent project memory.... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -47,6 +47,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
 | `2026-11-16` | Robotics & Hardware | [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](src/content/news/2026-11-17-nvidia-sweeps-mlperf-training-and-endpoints.md) | In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading perfor... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-17-nvidia-sweeps-mlperf-training-and-endpoints/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin) |
 | `2026-11-16` | Robotics & Hardware | [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](src/content/news/2026-11-17-nvidia-cuda-x-libraries-give-agents-the.md) | With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-17-nvidia-cuda-x-libraries-give-agents-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery) |
+| `2026-11-16` | Robotics & Hardware | [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](src/content/news/2026-11-18-nvidia-announces-rubin-hpc-a-new.md) | NVIDIA Rubin | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-announces-rubin-hpc-a-new/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rubin-hpc) |
 | `2026-11-16` | Robotics & Hardware | [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](src/content/news/2026-11-17-lambda-boosts-ai-factory-resiliency-and.md) | Lambda is | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-17-lambda-boosts-ai-factory-resiliency-and/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/lambda-photonics) |
 | `2026-11-16` | Robotics & Hardware | [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](src/content/news/2026-11-17-how-the-worlds-most-advanced-ai.md) | Deb Shoquist leads operations | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-17-how-the-worlds-most-advanced-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain) |
 | `2026-11-16` | AI Research | [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](src/content/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing.md) | Hallucination detection | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17339) |
@@ -371,7 +372,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-17 18:39 UTC` | **Yayımlanan haber:** `322`
+> **Dizin oluşturma:** `2026-11-18 01:20 UTC` | **Yayımlanan haber:** `323`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -386,6 +387,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
 | `2026-11-16` | Robotics & Hardware | [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](src/content/news/2026-11-17-nvidia-sweeps-mlperf-training-and-endpoints.md) | In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading perfor... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-17-nvidia-sweeps-mlperf-training-and-endpoints/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin) |
 | `2026-11-16` | Robotics & Hardware | [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](src/content/news/2026-11-17-nvidia-cuda-x-libraries-give-agents-the.md) | With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-17-nvidia-cuda-x-libraries-give-agents-the/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery) |
+| `2026-11-16` | Robotics & Hardware | [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](src/content/news/2026-11-18-nvidia-announces-rubin-hpc-a-new.md) | NVIDIA Rubin | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-announces-rubin-hpc-a-new/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rubin-hpc) |
 | `2026-11-16` | Robotics & Hardware | [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](src/content/news/2026-11-17-lambda-boosts-ai-factory-resiliency-and.md) | Lambda is | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-17-lambda-boosts-ai-factory-resiliency-and/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/lambda-photonics) |
 | `2026-11-16` | Robotics & Hardware | [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](src/content/news/2026-11-17-how-the-worlds-most-advanced-ai.md) | Deb Shoquist leads operations | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-17-how-the-worlds-most-advanced-ai/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain) |
 | `2026-11-16` | AI Research | [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](src/content/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing.md) | Hallucination detection | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-does-the-ranking-hold-a-practitioner-facing/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17339) |
