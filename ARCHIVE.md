@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-19 07:59 UTC` | **Source-linked stories:** `331`
+> **Index generated:** `2026-11-19 17:25 UTC` | **Source-linked stories:** `333`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 306.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 283.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 203.4k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 307.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 284.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 203.9k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,18 +32,20 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [python001-dev/manus--ai](https://github.com/python001-dev/manus--ai) | `★ 202` | `2026-11-19` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
-| [kazim768/manus--ai](https://github.com/kazim768/manus--ai) | `★ 202` | `2026-11-19` | Indie Tool | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
-| [meirz911/ai--manus](https://github.com/meirz911/ai--manus) | `★ 182` | `2026-11-19` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
-| [meirz911/manus--ai](https://github.com/meirz911/manus--ai) | `★ 181` | `2026-11-19` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
-| [Pikselkroken/pixlstash](https://github.com/Pikselkroken/pixlstash) | `★ 139` | `2026-11-19` | Local AI | `Python` | Desktop image library for photographers and creators. Search by content, face or the ... |
+| [JiangNanGenius/floe-agent](https://github.com/JiangNanGenius/floe-agent) | `★ 457` | `2026-11-19` | Experimental Agent | `Swift` | Open-source AI Agent for iOS, iPadOS and Android, designed primarily for iPadOS. On-d... |
+| [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | `★ 231` | `2026-11-19` | Indie Tool | `Python` | Python SDK for healthcare AI — typed, validated FHIR tools for agents, real-time EHR ... |
+| [dotnetdreamer/open-screenshot-generator](https://github.com/dotnetdreamer/open-screenshot-generator) | `★ 181` | `2026-11-19` | Experimental Agent | `TypeScript` | Open source Canva, SEO with CLI/GUI, AI Agent, MCP for App Store and Play Store scree... |
+| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 136` | `2026-11-19` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
+| [nicknisi/pi-extensions](https://github.com/nicknisi/pi-extensions) | `★ 54` | `2026-11-19` | Indie Tool | `TypeScript` | Nick Nisi's pi extensions — a pnpm monorepo of independently installable pi packages ... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-19` | AI Research | [WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web](src/content/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and.md) | Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and co... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21978) |
 | `2026-11-19` | AI Research | [SLED: Sensor SLicing from Edge to Datacenter](src/content/news/2026-11-19-sled-sensor-slicing-from-edge-to.md) | Sensor Slic | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-sled-sensor-slicing-from-edge-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21937) |
 | `2026-11-19` | AI Research | [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](src/content/news/2026-11-19-honest-brokers-in-ai-regulation-how.md) | The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold u... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-honest-brokers-in-ai-regulation-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21948) |
+| `2026-11-19` | AI Research | [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](src/content/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic.md) | AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspec... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21950) |
 | `2026-11-18` | Robotics & Hardware | [NVIDIA RTX Spark Compact Desktops Out Now](src/content/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out.md) | New NVIDIA RTX Spark compact | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now) |
 | `2026-11-18` | AI Research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](src/content/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for.md) | NEBench R | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21682) |
 | `2026-11-18` | AI Research | [Language Models Can Rewrite Their Own Weights](src/content/news/2026-11-19-language-models-can-rewrite-their-own.md) | Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-language-models-can-rewrite-their-own/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21885) |
@@ -380,7 +382,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-19 07:59 UTC` | **Yayımlanan haber:** `331`
+> **Dizin oluşturma:** `2026-11-19 17:25 UTC` | **Yayımlanan haber:** `333`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -390,8 +392,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-19` | AI Research | [WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web](src/content/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and.md) | Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and co... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21978) |
 | `2026-11-19` | AI Research | [SLED: Sensor SLicing from Edge to Datacenter](src/content/news/2026-11-19-sled-sensor-slicing-from-edge-to.md) | Sensor Slic | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-sled-sensor-slicing-from-edge-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21937) |
 | `2026-11-19` | AI Research | [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](src/content/news/2026-11-19-honest-brokers-in-ai-regulation-how.md) | The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold u... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-honest-brokers-in-ai-regulation-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21948) |
+| `2026-11-19` | AI Research | [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](src/content/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic.md) | AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspec... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21950) |
 | `2026-11-18` | Robotics & Hardware | [NVIDIA RTX Spark Compact Desktops Out Now](src/content/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out.md) | New NVIDIA RTX Spark compact | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now) |
 | `2026-11-18` | AI Research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](src/content/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for.md) | NEBench R | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21682) |
 | `2026-11-18` | AI Research | [Language Models Can Rewrite Their Own Weights](src/content/news/2026-11-19-language-models-can-rewrite-their-own.md) | Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-language-models-can-rewrite-their-own/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21885) |
