@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-18 18:10 UTC` | **Source-linked stories:** `327`
+> **Index generated:** `2026-11-19 00:28 UTC` | **Source-linked stories:** `329`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 306.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 306.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 283.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.5k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 227.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 202.9k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 203.2k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,10 +32,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [stancaedy10-glitch/manus--ai](https://github.com/stancaedy10-glitch/manus--ai) | `★ 202` | `2026-11-18` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
-| [stancaedy10-glitch/ai--manus](https://github.com/stancaedy10-glitch/ai--manus) | `★ 202` | `2026-11-18` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
-| [mohamedhamdytaha/manus--ai](https://github.com/mohamedhamdytaha/manus--ai) | `★ 180` | `2026-11-18` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
-| [mohamedhamdytaha/GitHub-Copilot-app](https://github.com/mohamedhamdytaha/GitHub-Copilot-app) | `★ 62` | `2026-11-18` | Experimental Agent | `Python` | The GitHub Copilot app is an agent-native desktop experience for finding, running, st... |
+| [decocms/studio](https://github.com/decocms/studio) | `★ 418` | `2026-11-19` | Experimental Agent | `TypeScript` | Open-source control plane for your AI agents. Connect tools, hire agents, track every... |
+| [kamesha12/manus--ai](https://github.com/kamesha12/manus--ai) | `★ 179` | `2026-11-19` | Experimental Agent | `Python` | AI Manus is a general-purpose AI Agent system that supports running various tools and... |
+| [glassflow/tares](https://github.com/glassflow/tares) | `★ 48` | `2026-11-19` | Experimental Agent | `Python` | Open-source platform for always-on AI agents: a software factory for Claude Code that... |
+| [probityai/agent-evidence-vectors](https://github.com/probityai/agent-evidence-vectors) | `★ 33` | `2026-11-19` | Experimental Agent | `Python` | Conformance corpora and reference verifiers for AI-agent and supply-chain evidence fo... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -43,8 +43,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-18` | Robotics & Hardware | [NVIDIA RTX Spark Compact Desktops Out Now](src/content/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out.md) | New NVIDIA RTX Spark compact | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now) |
 | `2026-11-18` | AI Research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](src/content/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for.md) | NEBench R | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21682) |
+| `2026-11-18` | AI Research | [Language Models Can Rewrite Their Own Weights](src/content/news/2026-11-19-language-models-can-rewrite-their-own.md) | Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-language-models-can-rewrite-their-own/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21885) |
 | `2026-11-18` | AI Research | [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](src/content/news/2026-11-18-how-much-of-sar-vehicle-recognition.md) | Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be ha... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-how-much-of-sar-vehicle-recognition/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21827) |
 | `2026-11-18` | AI Research | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](src/content/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability.md) | Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other fail... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21799) |
+| `2026-11-18` | AI Research | [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](src/content/news/2026-11-19-auditors-struggle-to-catch-sabotage-in.md) | As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to impr... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-auditors-struggle-to-catch-sabotage-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21832) |
 | `2026-11-17` | Robotics & Hardware | [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](src/content/news/2026-11-17-ian-buck-kicks-off-nvidias-week.md) | NVIDIA | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-17-ian-buck-kicks-off-nvidias-week/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ian-buck-sc26) |
 | `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
 | `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
@@ -375,7 +377,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-18 18:10 UTC` | **Yayımlanan haber:** `327`
+> **Dizin oluşturma:** `2026-11-19 00:28 UTC` | **Yayımlanan haber:** `329`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -387,8 +389,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-18` | Robotics & Hardware | [NVIDIA RTX Spark Compact Desktops Out Now](src/content/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out.md) | New NVIDIA RTX Spark compact | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now) |
 | `2026-11-18` | AI Research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](src/content/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for.md) | NEBench R | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21682) |
+| `2026-11-18` | AI Research | [Language Models Can Rewrite Their Own Weights](src/content/news/2026-11-19-language-models-can-rewrite-their-own.md) | Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-language-models-can-rewrite-their-own/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21885) |
 | `2026-11-18` | AI Research | [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](src/content/news/2026-11-18-how-much-of-sar-vehicle-recognition.md) | Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be ha... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-how-much-of-sar-vehicle-recognition/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21827) |
 | `2026-11-18` | AI Research | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](src/content/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability.md) | Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other fail... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21799) |
+| `2026-11-18` | AI Research | [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](src/content/news/2026-11-19-auditors-struggle-to-catch-sabotage-in.md) | As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to impr... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-auditors-struggle-to-catch-sabotage-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21832) |
 | `2026-11-17` | Robotics & Hardware | [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](src/content/news/2026-11-17-ian-buck-kicks-off-nvidias-week.md) | NVIDIA | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-17-ian-buck-kicks-off-nvidias-week/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ian-buck-sc26) |
 | `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
 | `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |

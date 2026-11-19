@@ -1,42 +1,42 @@
 [
   {
-    "name": "stancaedy10-glitch/manus--ai",
-    "url": "https://github.com/stancaedy10-glitch/manus--ai",
-    "stars": 202,
+    "name": "decocms/studio",
+    "url": "https://github.com/decocms/studio",
+    "stars": 418,
+    "forks": 60,
+    "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
+    "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-19"
+  },
+  {
+    "name": "kamesha12/manus--ai",
+    "url": "https://github.com/kamesha12/manus--ai",
+    "stars": 179,
     "forks": 0,
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-18"
+    "pushed_at": "2026-11-19"
   },
   {
-    "name": "stancaedy10-glitch/ai--manus",
-    "url": "https://github.com/stancaedy10-glitch/ai--manus",
-    "stars": 202,
-    "forks": 0,
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-18"
-  },
-  {
-    "name": "mohamedhamdytaha/manus--ai",
-    "url": "https://github.com/mohamedhamdytaha/manus--ai",
-    "stars": 180,
-    "forks": 0,
-    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-18"
-  },
-  {
-    "name": "mohamedhamdytaha/GitHub-Copilot-app",
-    "url": "https://github.com/mohamedhamdytaha/GitHub-Copilot-app",
-    "stars": 62,
+    "name": "glassflow/tares",
+    "url": "https://github.com/glassflow/tares",
+    "stars": 48,
     "forks": 9,
-    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub re...",
+    "description": "Open-source platform for always-on AI agents: a software factory for Claude Code that takes your projects from tickets to merged pull reques...",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-18"
+    "pushed_at": "2026-11-19"
+  },
+  {
+    "name": "probityai/agent-evidence-vectors",
+    "url": "https://github.com/probityai/agent-evidence-vectors",
+    "stars": 33,
+    "forks": 8,
+    "description": "Conformance corpora and reference verifiers for AI-agent and supply-chain evidence formats",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-19"
   }
 ]
