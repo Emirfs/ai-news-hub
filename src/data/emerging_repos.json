@@ -1,18 +1,8 @@
 [
   {
-    "name": "decocms/studio",
-    "url": "https://github.com/decocms/studio",
-    "stars": 418,
-    "forks": 60,
-    "description": "Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-19"
-  },
-  {
-    "name": "kamesha12/manus--ai",
-    "url": "https://github.com/kamesha12/manus--ai",
-    "stars": 179,
+    "name": "python001-dev/manus--ai",
+    "url": "https://github.com/python001-dev/manus--ai",
+    "stars": 202,
     "forks": 0,
     "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
     "language": "Python",
@@ -20,21 +10,71 @@
     "pushed_at": "2026-11-19"
   },
   {
-    "name": "glassflow/tares",
-    "url": "https://github.com/glassflow/tares",
-    "stars": 48,
-    "forks": 9,
-    "description": "Open-source platform for always-on AI agents: a software factory for Claude Code that takes your projects from tickets to merged pull reques...",
+    "name": "kazim768/manus--ai",
+    "url": "https://github.com/kazim768/manus--ai",
+    "stars": 202,
+    "forks": 0,
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-19"
+  },
+  {
+    "name": "meirz911/ai--manus",
+    "url": "https://github.com/meirz911/ai--manus",
+    "stars": 182,
+    "forks": 0,
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-19"
   },
   {
-    "name": "probityai/agent-evidence-vectors",
-    "url": "https://github.com/probityai/agent-evidence-vectors",
-    "stars": 33,
-    "forks": 8,
-    "description": "Conformance corpora and reference verifiers for AI-agent and supply-chain evidence formats",
+    "name": "meirz911/manus--ai",
+    "url": "https://github.com/meirz911/manus--ai",
+    "stars": 181,
+    "forks": 0,
+    "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-19"
+  },
+  {
+    "name": "Pikselkroken/pixlstash",
+    "url": "https://github.com/Pikselkroken/pixlstash",
+    "stars": 139,
+    "forks": 17,
+    "description": "Desktop image library for photographers and creators. Search by content, face or the text in a picture, get help from local AI models to tag...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-19"
+  },
+  {
+    "name": "arthurpanhku/dvalincode",
+    "url": "https://github.com/arthurpanhku/dvalincode",
+    "stars": 121,
+    "forks": 15,
+    "description": "Independent security verification for code written by humans and AI agents. Scan, repair, then prove it — Dvalin runs your project's own che...",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-19"
+  },
+  {
+    "name": "igrbible/Ruach_Studio",
+    "url": "https://github.com/igrbible/Ruach_Studio",
+    "stars": 97,
+    "forks": 9,
+    "description": "Ruach Studio: The Ultimate YuE2 Studio for local AI music generation. YuE2 Musician, Drama 3 & Higgs v3 Narrator, QWEN Writer, Refiner (30+ ...",
+    "language": "C++",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-19"
+  },
+  {
+    "name": "mohamedhamdytaha/GitHub-Copilot-app",
+    "url": "https://github.com/mohamedhamdytaha/GitHub-Copilot-app",
+    "stars": 62,
+    "forks": 9,
+    "description": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub re...",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-19"
