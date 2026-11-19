@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-19 17:25 UTC` | **Source-linked stories:** `333`
+> **Index generated:** `2026-11-19 23:54 UTC` | **Source-linked stories:** `335`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 307.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 284.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 307.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 284.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.8k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 203.9k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 204.2k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,18 +32,20 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [JiangNanGenius/floe-agent](https://github.com/JiangNanGenius/floe-agent) | `★ 457` | `2026-11-19` | Experimental Agent | `Swift` | Open-source AI Agent for iOS, iPadOS and Android, designed primarily for iPadOS. On-d... |
-| [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | `★ 231` | `2026-11-19` | Indie Tool | `Python` | Python SDK for healthcare AI — typed, validated FHIR tools for agents, real-time EHR ... |
-| [dotnetdreamer/open-screenshot-generator](https://github.com/dotnetdreamer/open-screenshot-generator) | `★ 181` | `2026-11-19` | Experimental Agent | `TypeScript` | Open source Canva, SEO with CLI/GUI, AI Agent, MCP for App Store and Play Store scree... |
-| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 136` | `2026-11-19` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
-| [nicknisi/pi-extensions](https://github.com/nicknisi/pi-extensions) | `★ 54` | `2026-11-19` | Indie Tool | `TypeScript` | Nick Nisi's pi extensions — a pnpm monorepo of independently installable pi packages ... |
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 468` | `2026-11-19` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
+| [kaichen-z/SteerAct](https://github.com/kaichen-z/SteerAct) | `★ 287` | `2026-11-19` | Embodied AI | `Python` | SteerAct: Unlocking Action Models through Few-Shot Temporal Steering |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 202` | `2026-11-19` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [NuGuardAI/nuguard](https://github.com/NuGuardAI/nuguard) | `★ 72` | `2026-11-19` | Indie Tool | `Python` | AI red-teaming tool and LLM security framework to evaluate agentic AI applications. T... |
+| [ServerKarma/ObsidianPrivateAI](https://github.com/ServerKarma/ObsidianPrivateAI) | `★ 62` | `2026-11-19` | Local AI | `TypeScript` | Effortlessly chat with your Obsidian notes using a privacy first LLM. Private by desi... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-19` | AI Research | [WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web](src/content/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and.md) | Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and co... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21978) |
+| `2026-11-19` | AI Research | [SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory](src/content/news/2026-11-19-skillbuffbench-measuring-what-agent-skills-contribute.md) | Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-skillbuffbench-measuring-what-agent-skills-contribute/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.22017) |
 | `2026-11-19` | AI Research | [SLED: Sensor SLicing from Edge to Datacenter](src/content/news/2026-11-19-sled-sensor-slicing-from-edge-to.md) | Sensor Slic | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-sled-sensor-slicing-from-edge-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21937) |
+| `2026-11-19` | AI Research | [KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants](src/content/news/2026-11-19-kv-ltm-persistent-per-session-kv-caches-as.md) | KV-LTM | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-kv-ltm-persistent-per-session-kv-caches-as/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21998) |
 | `2026-11-19` | AI Research | [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](src/content/news/2026-11-19-honest-brokers-in-ai-regulation-how.md) | The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold u... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-honest-brokers-in-ai-regulation-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21948) |
 | `2026-11-19` | AI Research | [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](src/content/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic.md) | AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspec... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21950) |
 | `2026-11-18` | Robotics & Hardware | [NVIDIA RTX Spark Compact Desktops Out Now](src/content/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out.md) | New NVIDIA RTX Spark compact | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now) |
@@ -382,7 +384,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-19 17:25 UTC` | **Yayımlanan haber:** `333`
+> **Dizin oluşturma:** `2026-11-19 23:54 UTC` | **Yayımlanan haber:** `335`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -393,7 +395,9 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-11-19` | AI Research | [WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web](src/content/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and.md) | Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and co... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21978) |
+| `2026-11-19` | AI Research | [SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory](src/content/news/2026-11-19-skillbuffbench-measuring-what-agent-skills-contribute.md) | Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-skillbuffbench-measuring-what-agent-skills-contribute/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.22017) |
 | `2026-11-19` | AI Research | [SLED: Sensor SLicing from Edge to Datacenter](src/content/news/2026-11-19-sled-sensor-slicing-from-edge-to.md) | Sensor Slic | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-sled-sensor-slicing-from-edge-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21937) |
+| `2026-11-19` | AI Research | [KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants](src/content/news/2026-11-19-kv-ltm-persistent-per-session-kv-caches-as.md) | KV-LTM | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-kv-ltm-persistent-per-session-kv-caches-as/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21998) |
 | `2026-11-19` | AI Research | [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](src/content/news/2026-11-19-honest-brokers-in-ai-regulation-how.md) | The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold u... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-honest-brokers-in-ai-regulation-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21948) |
 | `2026-11-19` | AI Research | [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](src/content/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic.md) | AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspec... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21950) |
 | `2026-11-18` | Robotics & Hardware | [NVIDIA RTX Spark Compact Desktops Out Now](src/content/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out.md) | New NVIDIA RTX Spark compact | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now) |
