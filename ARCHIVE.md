@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-19 23:54 UTC` | **Source-linked stories:** `335`
+> **Index generated:** `2026-11-20 07:25 UTC` | **Source-linked stories:** `337`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 307.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 284.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 307.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 284.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 264.8k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 204.2k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.1k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 204.5k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data provide... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 468` | `2026-11-19` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
-| [kaichen-z/SteerAct](https://github.com/kaichen-z/SteerAct) | `★ 287` | `2026-11-19` | Embodied AI | `Python` | SteerAct: Unlocking Action Models through Few-Shot Temporal Steering |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 202` | `2026-11-19` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [NuGuardAI/nuguard](https://github.com/NuGuardAI/nuguard) | `★ 72` | `2026-11-19` | Indie Tool | `Python` | AI red-teaming tool and LLM security framework to evaluate agentic AI applications. T... |
-| [ServerKarma/ObsidianPrivateAI](https://github.com/ServerKarma/ObsidianPrivateAI) | `★ 62` | `2026-11-19` | Local AI | `TypeScript` | Effortlessly chat with your Obsidian notes using a privacy first LLM. Private by desi... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 273` | `2026-11-20` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [alibaba/loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) | `★ 263` | `2026-11-20` | Local AI | `TypeScript` | Local-first telemetry collector for AI coding agents — unified OpenTelemetry events f... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 229` | `2026-11-20` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
+| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 139` | `2026-11-20` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
+| [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) | `★ 117` | `2026-11-20` | Experimental Agent | `TypeScript` | Apple developer knowledge for AI agents via MCP or CLI. Search docs and WWDC transcri... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-20` | AI Research | [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](src/content/news/2026-11-20-where-the-tokens-go-heat-entropy.md) | Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-20-where-the-tokens-go-heat-entropy/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23375) |
+| `2026-11-20` | AI Research | [Human-AI Mutualism Is Unstable under Capability Asymmetry](src/content/news/2026-11-20-human-ai-mutualism-is-unstable-under-capability.md) | One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each ot... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-20-human-ai-mutualism-is-unstable-under-capability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23322) |
 | `2026-11-19` | AI Research | [WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web](src/content/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and.md) | Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and co... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21978) |
 | `2026-11-19` | AI Research | [SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory](src/content/news/2026-11-19-skillbuffbench-measuring-what-agent-skills-contribute.md) | Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-skillbuffbench-measuring-what-agent-skills-contribute/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.22017) |
 | `2026-11-19` | AI Research | [SLED: Sensor SLicing from Edge to Datacenter](src/content/news/2026-11-19-sled-sensor-slicing-from-edge-to.md) | Sensor Slic | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-sled-sensor-slicing-from-edge-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21937) |
@@ -384,7 +386,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-19 23:54 UTC` | **Yayımlanan haber:** `335`
+> **Dizin oluşturma:** `2026-11-20 07:25 UTC` | **Yayımlanan haber:** `337`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -394,6 +396,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-20` | AI Research | [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](src/content/news/2026-11-20-where-the-tokens-go-heat-entropy.md) | Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-20-where-the-tokens-go-heat-entropy/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23375) |
+| `2026-11-20` | AI Research | [Human-AI Mutualism Is Unstable under Capability Asymmetry](src/content/news/2026-11-20-human-ai-mutualism-is-unstable-under-capability.md) | One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each ot... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-20-human-ai-mutualism-is-unstable-under-capability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23322) |
 | `2026-11-19` | AI Research | [WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web](src/content/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and.md) | Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and co... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-webagents-unbundling-agent-creation-hosting-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21978) |
 | `2026-11-19` | AI Research | [SkillBuffBench: Measuring What Agent Skills Contribute across Harnesses, Models, Skill Access Modes and Memory](src/content/news/2026-11-19-skillbuffbench-measuring-what-agent-skills-contribute.md) | Agent Skills, file-based packages of procedural knowledge that a coding agent can discover and load on demand, are ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-skillbuffbench-measuring-what-agent-skills-contribute/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.22017) |
 | `2026-11-19` | AI Research | [SLED: Sensor SLicing from Edge to Datacenter](src/content/news/2026-11-19-sled-sensor-slicing-from-edge-to.md) | Sensor Slic | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-sled-sensor-slicing-from-edge-to/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21937) |
