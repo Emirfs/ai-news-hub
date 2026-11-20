@@ -1,15 +1,5 @@
 [
   {
-    "name": "dondai44423/bladebro",
-    "url": "https://github.com/dondai44423/bladebro",
-    "stars": 360,
-    "forks": 23,
-    "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
-    "language": "Rust",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-20"
-  },
-  {
     "name": "Hebbian-Robotics/hflow",
     "url": "https://github.com/Hebbian-Robotics/hflow",
     "stars": 311,
@@ -40,42 +30,52 @@
     "pushed_at": "2026-11-20"
   },
   {
-    "name": "HilbertraumAI/HilbertRaum",
-    "url": "https://github.com/HilbertraumAI/HilbertRaum",
-    "stars": 150,
-    "forks": 13,
-    "description": "AI, fully local on your computer.",
-    "language": "TypeScript",
+    "name": "thejarasal780-ship-it/ollama-local-ai-offline",
+    "url": "https://github.com/thejarasal780-ship-it/ollama-local-ai-offline",
+    "stars": 158,
+    "forks": 0,
+    "description": "Ollama Local AI Offline: Run Local LLMs Fully Offline on Desktop",
+    "language": "Python",
     "tag": "Local AI",
+    "pushed_at": "2026-11-20"
+  },
+  {
+    "name": "Sagargupta16/awesome-mcp-servers",
+    "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
+    "stars": 144,
+    "forks": 226,
+    "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
+    "language": "Python",
+    "tag": "Indie Tool",
     "pushed_at": "2026-11-20"
   },
   {
     "name": "0xWelt/Awesome-Agent-Ecosystem",
     "url": "https://github.com/0xWelt/Awesome-Agent-Ecosystem",
     "stars": 124,
-    "forks": 151,
+    "forks": 152,
     "description": "A curated list of coding harnesses, vibe-coding communities, named personal agents, and the tools and services agents call.",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-20"
-  },
-  {
-    "name": "WingedGuardian/GENesis-AGI",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI",
-    "stars": 103,
-    "forks": 55,
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
     "language": "Python",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-20"
   },
   {
-    "name": "MikkoParkkola/mcp-gateway",
-    "url": "https://github.com/MikkoParkkola/mcp-gateway",
-    "stars": 91,
-    "forks": 18,
-    "description": "Unlimited MCP servers, tools and APIs. One fixed context cost. Plug every tool you own into Claude, Cursor, Codex or any MCP client: your ag...",
-    "language": "Rust",
+    "name": "AndrewDryga/coop",
+    "url": "https://github.com/AndrewDryga/coop",
+    "stars": 105,
+    "forks": 5,
+    "description": "Leverage full potential of coding agents without the risks. Run them in a sandbox with restricted networking, file access and secrets hidden...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-20"
+  },
+  {
+    "name": "MikkoParkkola/trvl",
+    "url": "https://github.com/MikkoParkkola/trvl",
+    "stars": 95,
+    "forks": 10,
+    "description": "Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, price alerts. No API keys, single Go binary. 1 smart MCP...",
+    "language": "Go",
     "tag": "Indie Tool",
     "pushed_at": "2026-11-20"
   }
