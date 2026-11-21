@@ -1,82 +1,42 @@
 [
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 311,
-    "forks": 173,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-20"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 202,
-    "forks": 23,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-20"
-  },
-  {
-    "name": "chonghanqin/Awesome-Agentic-Robots",
-    "url": "https://github.com/chonghanqin/Awesome-Agentic-Robots",
-    "stars": 195,
-    "forks": 6,
-    "description": "The offcial repo of \"Towards Agentic Robots: Model, Data, Environment, and Harness\"",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-20"
-  },
-  {
-    "name": "thejarasal780-ship-it/ollama-local-ai-offline",
-    "url": "https://github.com/thejarasal780-ship-it/ollama-local-ai-offline",
-    "stars": 158,
-    "forks": 0,
-    "description": "Ollama Local AI Offline: Run Local LLMs Fully Offline on Desktop",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-20"
-  },
-  {
-    "name": "Sagargupta16/awesome-mcp-servers",
-    "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
-    "stars": 144,
-    "forks": 226,
-    "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-20"
-  },
-  {
-    "name": "0xWelt/Awesome-Agent-Ecosystem",
-    "url": "https://github.com/0xWelt/Awesome-Agent-Ecosystem",
-    "stars": 124,
-    "forks": 152,
-    "description": "A curated list of coding harnesses, vibe-coding communities, named personal agents, and the tools and services agents call.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-20"
-  },
-  {
-    "name": "AndrewDryga/coop",
-    "url": "https://github.com/AndrewDryga/coop",
-    "stars": 105,
-    "forks": 5,
-    "description": "Leverage full potential of coding agents without the risks. Run them in a sandbox with restricted networking, file access and secrets hidden...",
-    "language": "Go",
+    "name": "vercel-labs/screen-relay",
+    "url": "https://github.com/vercel-labs/screen-relay",
+    "stars": 300,
+    "forks": 13,
+    "description": "Upto 120 fps, low latency desktop streaming for humans and AI agents",
+    "language": "C++",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-20"
+    "pushed_at": "2026-11-21"
   },
   {
-    "name": "MikkoParkkola/trvl",
-    "url": "https://github.com/MikkoParkkola/trvl",
-    "stars": 95,
-    "forks": 10,
-    "description": "Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, price alerts. No API keys, single Go binary. 1 smart MCP...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-20"
+    "name": "Always-On-Intelligence/awesome-always-on-personal-intelligence",
+    "url": "https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence",
+    "stars": 66,
+    "forks": 2,
+    "description": "Reading list for the survey Always-On Personal Intelligence: papers, benchmarks, and products on always-on personal AI assistants and LLM ag...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-21"
+  },
+  {
+    "name": "suffixing/apkscope",
+    "url": "https://github.com/suffixing/apkscope",
+    "stars": 22,
+    "forks": 4,
+    "description": "Android reverse engineering for humans and AI agents: typed Java in milliseconds, xrefs, API and secret recon, APK diff, re-signing, a nativ...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-21"
+  },
+  {
+    "name": "kody-w/rappterbook",
+    "url": "https://github.com/kody-w/rappterbook",
+    "stars": 18,
+    "forks": 2,
+    "description": "Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-21"
   }
 ]
