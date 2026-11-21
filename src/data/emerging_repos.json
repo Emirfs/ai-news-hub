@@ -1,42 +1,82 @@
 [
   {
-    "name": "vercel-labs/screen-relay",
-    "url": "https://github.com/vercel-labs/screen-relay",
-    "stars": 300,
-    "forks": 13,
-    "description": "Upto 120 fps, low latency desktop streaming for humans and AI agents",
-    "language": "C++",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-21"
-  },
-  {
-    "name": "Always-On-Intelligence/awesome-always-on-personal-intelligence",
-    "url": "https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence",
-    "stars": 66,
-    "forks": 2,
-    "description": "Reading list for the survey Always-On Personal Intelligence: papers, benchmarks, and products on always-on personal AI assistants and LLM ag...",
+    "name": "ZhuLinsen/alphasift",
+    "url": "https://github.com/ZhuLinsen/alphasift",
+    "stars": 500,
+    "forks": 244,
+    "description": "Full-market stock discovery for AI agents: A-shares plus US/HK/JP/KR/TW/IN, auditable YAML strategies, optional LLM ranking, sector-diversif...",
     "language": "Python",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-21"
   },
   {
-    "name": "suffixing/apkscope",
-    "url": "https://github.com/suffixing/apkscope",
-    "stars": 22,
-    "forks": 4,
-    "description": "Android reverse engineering for humans and AI agents: typed Java in milliseconds, xrefs, API and secret recon, APK diff, re-signing, a nativ...",
+    "name": "haoruilee/awesome-agent-native-services",
+    "url": "https://github.com/haoruilee/awesome-agent-native-services",
+    "stars": 474,
+    "forks": 89,
+    "description": "A curated list of agent-native services and infrastructure for AI agents: email, browsers, memory, sandboxes, payments, and MCP tools. Inclu...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-21"
+  },
+  {
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 202,
+    "forks": 23,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-21"
+  },
+  {
+    "name": "laurent512/opencalque",
+    "url": "https://github.com/laurent512/opencalque",
+    "stars": 127,
+    "forks": 15,
+    "description": "Open-source 2D architectural editor with a Figma-like interface, a local CLI, and practical workflows for humans and AI agents.",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-21"
+  },
+  {
+    "name": "mrpulor-gh/nuphus",
+    "url": "https://github.com/mrpulor-gh/nuphus",
+    "stars": 102,
+    "forks": 18,
+    "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
     "language": "Rust",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-21"
   },
   {
-    "name": "kody-w/rappterbook",
-    "url": "https://github.com/kody-w/rappterbook",
-    "stars": 18,
-    "forks": 2,
-    "description": "Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform.",
+    "name": "YanNyeinHtet/EggLab",
+    "url": "https://github.com/YanNyeinHtet/EggLab",
+    "stars": 70,
+    "forks": 5,
+    "description": "Local AI image generation and editing for Windows - a design agent for PhotoCraft powered by Qwen-Image-2.1 (no ComfyUI, no Python, no cloud...",
+    "language": "JavaScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-21"
+  },
+  {
+    "name": "arcasilesgroup/ai-engineering",
+    "url": "https://github.com/arcasilesgroup/ai-engineering",
+    "stars": 65,
+    "forks": 3,
+    "description": "Developer-centered AI engineering: build software with security, quality and governance. One local binary under the agent you already run",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-21"
+  },
+  {
+    "name": "james-joobs/awesome-nvidia-physical-ai",
+    "url": "https://github.com/james-joobs/awesome-nvidia-physical-ai",
+    "stars": 50,
+    "forks": 3,
+    "description": "An independent bilingual guide to NVIDIA Physical AI. Find tools, models, and workflows for robotics, simulation, and autonomous driving.",
     "language": "Python",
-    "tag": "Experimental Agent",
+    "tag": "Embodied AI",
     "pushed_at": "2026-11-21"
   }
 ]
