@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-21 12:44 UTC` | **Source-linked stories:** `345`
+> **Index generated:** `2026-11-21 19:50 UTC` | **Source-linked stories:** `347`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 308.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 284.9k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 205.7k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 308.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 285.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.2k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 206.0k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [ZhuLinsen/alphasift](https://github.com/ZhuLinsen/alphasift) | `★ 500` | `2026-11-21` | Experimental Agent | `Python` | Full-market stock discovery for AI agents: A-shares plus US/HK/JP/KR/TW/IN, auditable... |
-| [haoruilee/awesome-agent-native-services](https://github.com/haoruilee/awesome-agent-native-services) | `★ 474` | `2026-11-21` | Experimental Agent | `Python` | A curated list of agent-native services and infrastructure for AI agents: email, brow... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 202` | `2026-11-21` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [laurent512/opencalque](https://github.com/laurent512/opencalque) | `★ 127` | `2026-11-21` | Local AI | `TypeScript` | Open-source 2D architectural editor with a Figma-like interface, a local CLI, and pra... |
-| [mrpulor-gh/nuphus](https://github.com/mrpulor-gh/nuphus) | `★ 102` | `2026-11-21` | Experimental Agent | `Rust` | Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop exec... |
+| [VinRobotics/vla.cpp](https://github.com/VinRobotics/vla.cpp) | `★ 274` | `2026-11-21` | Embodied AI | `C++` | A unified inference runtime for VLA models. |
+| [daniel3303/Equibles](https://github.com/daniel3303/Equibles) | `★ 247` | `2026-11-21` | Indie Tool | `C#` | Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL ... |
+| [jdilla1277/agentcad](https://github.com/jdilla1277/agentcad) | `★ 220` | `2026-11-21` | Experimental Agent | `Python` | CAD CLI and MCP server for AI agents |
+| [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) | `★ 213` | `2026-11-21` | Experimental Agent | `TypeScript` | Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect... |
+| [jackulau/coding.sh](https://github.com/jackulau/coding.sh) | `★ 149` | `2026-11-21` | Local AI | `TypeScript` | Open-source, local-first observability and evals for AI agents: see what Claude Code,... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -57,8 +57,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-19` | AI Research | [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](src/content/news/2026-11-19-honest-brokers-in-ai-regulation-how.md) | The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold u... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-honest-brokers-in-ai-regulation-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21948) |
 | `2026-11-19` | AI Research | [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](src/content/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic.md) | AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspec... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21950) |
 | `2026-11-18` | LLMs & Foundation Models | [The Silent Consensus](src/content/news/2026-11-21-the-silent-consensus.md) | Dean Ball | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-21-the-silent-consensus/) | [OpenAI News](https://openai.com/index/the-silent-consensus) |
+| `2026-11-18` | AI Research | [Research acceleration: The jagged frontier](src/content/news/2026-11-21-research-acceleration-the-jagged-frontier.md) | OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what th... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-21-research-acceleration-the-jagged-frontier/) | [OpenAI News](https://openai.com/index/research-acceleration-jagged-frontier) |
 | `2026-11-18` | Robotics & Hardware | [NVIDIA RTX Spark Compact Desktops Out Now](src/content/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out.md) | New NVIDIA RTX Spark compact | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now) |
 | `2026-11-18` | AI Research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](src/content/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for.md) | NEBench R | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21682) |
+| `2026-11-18` | LLMs & Foundation Models | [Managing frontier AI risk: From training to deployment](src/content/news/2026-11-21-managing-frontier-ai-risk-from-training.md) | OpenAI explains how it | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-21-managing-frontier-ai-risk-from-training/) | [OpenAI News](https://openai.com/index/managing-frontier-ai-risk) |
 | `2026-11-18` | AI Research | [Language Models Can Rewrite Their Own Weights](src/content/news/2026-11-19-language-models-can-rewrite-their-own.md) | Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-language-models-can-rewrite-their-own/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21885) |
 | `2026-11-18` | LLMs & Foundation Models | [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](src/content/news/2026-11-21-how-sumitomo-lifes-leaders-helped-teams.md) | Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analys... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-21-how-sumitomo-lifes-leaders-helped-teams/) | [OpenAI News](https://openai.com/business/customer-stories/sumitomo-life) |
 | `2026-11-18` | AI Research | [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](src/content/news/2026-11-18-how-much-of-sar-vehicle-recognition.md) | Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be ha... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-how-much-of-sar-vehicle-recognition/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21827) |
@@ -394,7 +396,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-21 12:44 UTC` | **Yayımlanan haber:** `345`
+> **Dizin oluşturma:** `2026-11-21 19:50 UTC` | **Yayımlanan haber:** `347`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -419,8 +421,10 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-19` | AI Research | [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](src/content/news/2026-11-19-honest-brokers-in-ai-regulation-how.md) | The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold u... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-honest-brokers-in-ai-regulation-how/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21948) |
 | `2026-11-19` | AI Research | [DiscoveryAgent: A Framework for Scientist-centric Agentic AI](src/content/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic.md) | AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspec... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-discoveryagent-a-framework-for-scientist-centric-agentic/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21950) |
 | `2026-11-18` | LLMs & Foundation Models | [The Silent Consensus](src/content/news/2026-11-21-the-silent-consensus.md) | Dean Ball | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-21-the-silent-consensus/) | [OpenAI News](https://openai.com/index/the-silent-consensus) |
+| `2026-11-18` | AI Research | [Research acceleration: The jagged frontier](src/content/news/2026-11-21-research-acceleration-the-jagged-frontier.md) | OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what th... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-21-research-acceleration-the-jagged-frontier/) | [OpenAI News](https://openai.com/index/research-acceleration-jagged-frontier) |
 | `2026-11-18` | Robotics & Hardware | [NVIDIA RTX Spark Compact Desktops Out Now](src/content/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out.md) | New NVIDIA RTX Spark compact | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nvidia-rtx-spark-compact-desktops-out/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now) |
 | `2026-11-18` | AI Research | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](src/content/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for.md) | NEBench R | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-nebench-r1-a-reasoning-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21682) |
+| `2026-11-18` | LLMs & Foundation Models | [Managing frontier AI risk: From training to deployment](src/content/news/2026-11-21-managing-frontier-ai-risk-from-training.md) | OpenAI explains how it | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-21-managing-frontier-ai-risk-from-training/) | [OpenAI News](https://openai.com/index/managing-frontier-ai-risk) |
 | `2026-11-18` | AI Research | [Language Models Can Rewrite Their Own Weights](src/content/news/2026-11-19-language-models-can-rewrite-their-own.md) | Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-language-models-can-rewrite-their-own/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21885) |
 | `2026-11-18` | LLMs & Foundation Models | [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](src/content/news/2026-11-21-how-sumitomo-lifes-leaders-helped-teams.md) | Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analys... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-21-how-sumitomo-lifes-leaders-helped-teams/) | [OpenAI News](https://openai.com/business/customer-stories/sumitomo-life) |
 | `2026-11-18` | AI Research | [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](src/content/news/2026-11-18-how-much-of-sar-vehicle-recognition.md) | Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be ha... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-how-much-of-sar-vehicle-recognition/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21827) |
