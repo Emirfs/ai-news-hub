@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-22 15:42 UTC` | **Source-linked stories:** `353`
+> **Index generated:** `2026-11-22 21:19 UTC` | **Source-linked stories:** `355`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 308.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 285.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.3k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 206.7k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 308.9k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 285.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.4k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 206.9k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [holon-run/holon](https://github.com/holon-run/holon) | `★ 199` | `2026-11-22` | Local AI | `Rust` | Open-source, local-first Rust workbench for always-on AI agents — explicit work items... |
-| [Pikselkroken/pixlstash](https://github.com/Pikselkroken/pixlstash) | `★ 149` | `2026-11-22` | Local AI | `Python` | Desktop image library for photographers and creators. Search by content, face or the ... |
-| [zhuyansen/awesome-ai-reverse-engineering](https://github.com/zhuyansen/awesome-ai-reverse-engineering) | `★ 123` | `2026-11-22` | Experimental Agent | `Python` | Open-source AI reverse engineering tools for coding agents: Ghidra MCP, IDA Pro MCP, ... |
-| [gtapps/hermitd](https://github.com/gtapps/hermitd) | `★ 85` | `2026-11-22` | Local AI | `TypeScript` | Think Claude Tag, but local. |
-| [JiRaska/open-bank-oss](https://github.com/JiRaska/open-bank-oss) | `★ 46` | `2026-11-22` | Experimental Agent | `Kotlin` | Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry l... |
+| [HerRei/local-upscale](https://github.com/HerRei/local-upscale) | `★ 195` | `2026-11-22` | Local AI | `Python` | Free, open-source desktop app for offline AI image and video upscaling, denoising and... |
+| [luongnv89/skills](https://github.com/luongnv89/skills) | `★ 150` | `2026-11-22` | Experimental Agent | `Python` | Supercharge your AI agents/bots with reusable skills |
+| [tetsuo-ai/agenc-core](https://github.com/tetsuo-ai/agenc-core) | `★ 143` | `2026-11-22` | Indie Tool | `TypeScript` | Our goal is to multiply model capability per dollar of inference. AgenC is an open so... |
+| [catorendal-a11y/tessera-deck](https://github.com/catorendal-a11y/tessera-deck) | `★ 75` | `2026-11-22` | Experimental Agent | `C` | Tessera: a DIY Stream Deck alternative for 7-inch ESP32-P4 touchscreens. Boards: GUIT... |
+| [hajdu-patrik/clippy](https://github.com/hajdu-patrik/clippy) | `★ 60` | `2026-11-22` | Local AI | `Python` | Local AI clipper: long videos, podcasts and streams in, vertical 9:16 clips with capt... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-22` | AI Research | [Perplexity and Intelligence](src/content/news/2026-11-22-perplexity-and-intelligence.md) | How perplexity measures progress in AI models, and why it could help developers establish a shared approach to eval... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-perplexity-and-intelligence/) | [OpenAI News](https://openai.com/index/perplexity-and-intelligence) |
 | `2026-11-20` | AI Research | [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](src/content/news/2026-11-20-where-the-tokens-go-heat-entropy.md) | Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-20-where-the-tokens-go-heat-entropy/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23375) |
 | `2026-11-20` | AI Research | [RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding](src/content/news/2026-11-20-rfbench-a-simulator-grounded-multimodal-benchmark-for.md) | While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-20-rfbench-a-simulator-grounded-multimodal-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23410) |
 | `2026-11-20` | AI Research | [Human-AI Mutualism Is Unstable under Capability Asymmetry](src/content/news/2026-11-20-human-ai-mutualism-is-unstable-under-capability.md) | One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each ot... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-20-human-ai-mutualism-is-unstable-under-capability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23322) |
@@ -69,6 +70,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-18` | AI Research | [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](src/content/news/2026-11-19-auditors-struggle-to-catch-sabotage-in.md) | As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to impr... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-auditors-struggle-to-catch-sabotage-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21832) |
 | `2026-11-18` | AI Research | [Advancing chip design with OpenAI models](src/content/news/2026-11-22-advancing-chip-design-with-openai-models.md) | OpenAI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-advancing-chip-design-with-openai-models/) | [OpenAI News](https://openai.com/index/advancing-chip-design-with-our-models) |
 | `2026-11-17` | LLMs & Foundation Models | [Strengthening NATO and allied cyber defenses with AI](src/content/news/2026-11-22-strengthening-nato-and-allied-cyber-defenses.md) | How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixe... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-strengthening-nato-and-allied-cyber-defenses/) | [OpenAI News](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) |
+| `2026-11-17` | LLMs & Foundation Models | [Introducing OpenAI for Chile](src/content/news/2026-11-22-introducing-openai-for-chile.md) | OpenAI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-openai-for-chile/) | [OpenAI News](https://openai.com/index/introducing-openai-for-chile) |
 | `2026-11-17` | LLMs & Foundation Models | [Introducing GPT-6.2 Astra and Sol](src/content/news/2026-11-22-introducing-gpt-62-astra-and-sol.md) | Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-gpt-62-astra-and-sol/) | [OpenAI News](https://openai.com/index/introducing-gpt-6-2-astra-sol) |
 | `2026-11-17` | LLMs & Foundation Models | [Introducing ChatGPT for Sales](src/content/news/2026-11-22-introducing-chatgpt-for-sales.md) | Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pit... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-chatgpt-for-sales/) | [OpenAI News](https://openai.com/index/introducing-chatgpt-for-sales) |
 | `2026-11-17` | Robotics & Hardware | [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](src/content/news/2026-11-17-ian-buck-kicks-off-nvidias-week.md) | NVIDIA | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-17-ian-buck-kicks-off-nvidias-week/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ian-buck-sc26) |
@@ -402,7 +404,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-22 15:42 UTC` | **Yayımlanan haber:** `353`
+> **Dizin oluşturma:** `2026-11-22 21:19 UTC` | **Yayımlanan haber:** `355`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -412,6 +414,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-22` | AI Research | [Perplexity and Intelligence](src/content/news/2026-11-22-perplexity-and-intelligence.md) | How perplexity measures progress in AI models, and why it could help developers establish a shared approach to eval... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-perplexity-and-intelligence/) | [OpenAI News](https://openai.com/index/perplexity-and-intelligence) |
 | `2026-11-20` | AI Research | [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](src/content/news/2026-11-20-where-the-tokens-go-heat-entropy.md) | Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-20-where-the-tokens-go-heat-entropy/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23375) |
 | `2026-11-20` | AI Research | [RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding](src/content/news/2026-11-20-rfbench-a-simulator-grounded-multimodal-benchmark-for.md) | While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-20-rfbench-a-simulator-grounded-multimodal-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23410) |
 | `2026-11-20` | AI Research | [Human-AI Mutualism Is Unstable under Capability Asymmetry](src/content/news/2026-11-20-human-ai-mutualism-is-unstable-under-capability.md) | One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each ot... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-20-human-ai-mutualism-is-unstable-under-capability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23322) |
@@ -439,6 +442,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-18` | AI Research | [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](src/content/news/2026-11-19-auditors-struggle-to-catch-sabotage-in.md) | As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to impr... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-auditors-struggle-to-catch-sabotage-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21832) |
 | `2026-11-18` | AI Research | [Advancing chip design with OpenAI models](src/content/news/2026-11-22-advancing-chip-design-with-openai-models.md) | OpenAI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-advancing-chip-design-with-openai-models/) | [OpenAI News](https://openai.com/index/advancing-chip-design-with-our-models) |
 | `2026-11-17` | LLMs & Foundation Models | [Strengthening NATO and allied cyber defenses with AI](src/content/news/2026-11-22-strengthening-nato-and-allied-cyber-defenses.md) | How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixe... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-strengthening-nato-and-allied-cyber-defenses/) | [OpenAI News](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) |
+| `2026-11-17` | LLMs & Foundation Models | [Introducing OpenAI for Chile](src/content/news/2026-11-22-introducing-openai-for-chile.md) | OpenAI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-openai-for-chile/) | [OpenAI News](https://openai.com/index/introducing-openai-for-chile) |
 | `2026-11-17` | LLMs & Foundation Models | [Introducing GPT-6.2 Astra and Sol](src/content/news/2026-11-22-introducing-gpt-62-astra-and-sol.md) | Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-gpt-62-astra-and-sol/) | [OpenAI News](https://openai.com/index/introducing-gpt-6-2-astra-sol) |
 | `2026-11-17` | LLMs & Foundation Models | [Introducing ChatGPT for Sales](src/content/news/2026-11-22-introducing-chatgpt-for-sales.md) | Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pit... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-chatgpt-for-sales/) | [OpenAI News](https://openai.com/index/introducing-chatgpt-for-sales) |
 | `2026-11-17` | Robotics & Hardware | [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](src/content/news/2026-11-17-ian-buck-kicks-off-nvidias-week.md) | NVIDIA | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-17-ian-buck-kicks-off-nvidias-week/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ian-buck-sc26) |
