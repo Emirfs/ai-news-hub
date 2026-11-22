@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-22 00:22 UTC` | **Source-linked stories:** `349`
+> **Index generated:** `2026-11-22 07:30 UTC` | **Source-linked stories:** `351`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 308.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 285.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.2k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 206.2k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 308.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 285.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.3k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 206.4k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Dicklesworthstone/ultimate_bug_scanner](https://github.com/Dicklesworthstone/ultimate_bug_scanner) | `★ 319` | `2026-11-22` | Experimental Agent | `Python` | Static analysis tool that catches 1000+ bug patterns across all popular programming l... |
-| [primaprashant/awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) | `★ 219` | `2026-11-22` | Local AI | `Python` | Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, W... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 311` | `2026-11-22` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [damianvtran/local-operator](https://github.com/damianvtran/local-operator) | `★ 229` | `2026-11-22` | Local AI | `Python` | An open-source AI agent hub for your own machine: build organizations of collaboratin... |
 | [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 201` | `2026-11-22` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [cramt/m365-copilot-proxy](https://github.com/cramt/m365-copilot-proxy) | `★ 185` | `2026-11-22` | Indie Tool | `TypeScript` | OpenAI-compatible proxy for Microsoft 365 Copilot — use the Copilot licence you alrea... |
-| [Vaultite/vaultite](https://github.com/Vaultite/vaultite) | `★ 178` | `2026-11-22` | Local AI | `TypeScript` | Own your memories. A fast and local AI native knowledge base, in plain Markdown files... |
+| [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) | `★ 176` | `2026-11-22` | Experimental Agent | `Python` | Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexSt... |
+| [drawthingsai/local-code-community](https://github.com/drawthingsai/local-code-community) | `★ 171` | `2026-11-22` | Local AI | `C` |  Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSee... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -68,6 +68,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-18` | AI Research | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](src/content/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability.md) | Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other fail... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21799) |
 | `2026-11-18` | AI Research | [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](src/content/news/2026-11-19-auditors-struggle-to-catch-sabotage-in.md) | As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to impr... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-19-auditors-struggle-to-catch-sabotage-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21832) |
 | `2026-11-18` | AI Research | [Advancing chip design with OpenAI models](src/content/news/2026-11-22-advancing-chip-design-with-openai-models.md) | OpenAI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-advancing-chip-design-with-openai-models/) | [OpenAI News](https://openai.com/index/advancing-chip-design-with-our-models) |
+| `2026-11-17` | LLMs & Foundation Models | [Introducing GPT-6.2 Astra and Sol](src/content/news/2026-11-22-introducing-gpt-62-astra-and-sol.md) | Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-gpt-62-astra-and-sol/) | [OpenAI News](https://openai.com/index/introducing-gpt-6-2-astra-sol) |
+| `2026-11-17` | LLMs & Foundation Models | [Introducing ChatGPT for Sales](src/content/news/2026-11-22-introducing-chatgpt-for-sales.md) | Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pit... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-chatgpt-for-sales/) | [OpenAI News](https://openai.com/index/introducing-chatgpt-for-sales) |
 | `2026-11-17` | Robotics & Hardware | [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](src/content/news/2026-11-17-ian-buck-kicks-off-nvidias-week.md) | NVIDIA | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-17-ian-buck-kicks-off-nvidias-week/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ian-buck-sc26) |
 | `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
 | `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
@@ -398,7 +400,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-22 00:22 UTC` | **Yayımlanan haber:** `349`
+> **Dizin oluşturma:** `2026-11-22 07:30 UTC` | **Yayımlanan haber:** `351`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -434,6 +436,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 | `2026-11-18` | AI Research | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](src/content/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability.md) | Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other fail... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-18-chain-of-thought-controllability-can-reduce-chain-of-thought-monitorability/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21799) |
 | `2026-11-18` | AI Research | [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](src/content/news/2026-11-19-auditors-struggle-to-catch-sabotage-in.md) | As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to impr... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-19-auditors-struggle-to-catch-sabotage-in/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.21832) |
 | `2026-11-18` | AI Research | [Advancing chip design with OpenAI models](src/content/news/2026-11-22-advancing-chip-design-with-openai-models.md) | OpenAI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-advancing-chip-design-with-openai-models/) | [OpenAI News](https://openai.com/index/advancing-chip-design-with-our-models) |
+| `2026-11-17` | LLMs & Foundation Models | [Introducing GPT-6.2 Astra and Sol](src/content/news/2026-11-22-introducing-gpt-62-astra-and-sol.md) | Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-gpt-62-astra-and-sol/) | [OpenAI News](https://openai.com/index/introducing-gpt-6-2-astra-sol) |
+| `2026-11-17` | LLMs & Foundation Models | [Introducing ChatGPT for Sales](src/content/news/2026-11-22-introducing-chatgpt-for-sales.md) | Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pit... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-introducing-chatgpt-for-sales/) | [OpenAI News](https://openai.com/index/introducing-chatgpt-for-sales) |
 | `2026-11-17` | Robotics & Hardware | [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](src/content/news/2026-11-17-ian-buck-kicks-off-nvidias-week.md) | NVIDIA | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-17-ian-buck-kicks-off-nvidias-week/) | [NVIDIA AI Blog](https://blogs.nvidia.com/blog/ian-buck-sc26) |
 | `2026-11-16` | AI Research | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](src/content/news/2026-11-16-when-should-llm-agents-forget-memory.md) | LLM memory | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-when-should-llm-agents-forget-memory/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.17338) |
 | `2026-11-16` | AI Research | [Science at the Frontier: How scientists use ChatGPT](src/content/news/2026-11-16-science-at-the-frontier-how-scientists.md) | Explore how more than 1,800 scientists use ChatGPT in research. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-16-science-at-the-frontier-how-scientists/) | [OpenAI News](https://openai.com/index/science-at-the-frontier) |
