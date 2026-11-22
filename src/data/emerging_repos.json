@@ -1,82 +1,82 @@
 [
   {
-    "name": "Hebbian-Robotics/hflow",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "stars": 311,
-    "forks": 172,
-    "description": "SDK for robotics teams to verify the quality of their data used for AI model training.",
+    "name": "holon-run/holon",
+    "url": "https://github.com/holon-run/holon",
+    "stars": 199,
+    "forks": 19,
+    "description": "Open-source, local-first Rust workbench for always-on AI agents — explicit work items, event-driven wait/wake, and reliable follow-through.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "Pikselkroken/pixlstash",
+    "url": "https://github.com/Pikselkroken/pixlstash",
+    "stars": 149,
+    "forks": 17,
+    "description": "Desktop image library for photographers and creators. Search by content, face or the text in a picture, get help from local AI models to tag...",
+    "language": "Python",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "zhuyansen/awesome-ai-reverse-engineering",
+    "url": "https://github.com/zhuyansen/awesome-ai-reverse-engineering",
+    "stars": 123,
+    "forks": 40,
+    "description": "Open-source AI reverse engineering tools for coding agents: Ghidra MCP, IDA Pro MCP, jadx, Frida, skills and REA. 122 repos, each read and s...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "gtapps/hermitd",
+    "url": "https://github.com/gtapps/hermitd",
+    "stars": 85,
+    "forks": 16,
+    "description": "Think Claude Tag, but local.",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "JiRaska/open-bank-oss",
+    "url": "https://github.com/JiRaska/open-bank-oss",
+    "stars": 46,
+    "forks": 14,
+    "description": "Open-source retail banking platform: 70+ Kotlin/Quarkus microservices, double-entry ledger, PSD2, ISO 20022, Temporal workflows, governance-...",
+    "language": "Kotlin",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "msaleme/red-team-blue-team-agent-fabric",
+    "url": "https://github.com/msaleme/red-team-blue-team-agent-fabric",
+    "stars": 34,
+    "forks": 8,
+    "description": "AI agent security harness, adversarial testing: 661 executable tests in the v4.31.1 release, across MCP, A2A, x402/L402, decision governance...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "martian56/rook",
+    "url": "https://github.com/martian56/rook",
+    "stars": 28,
+    "forks": 9,
+    "description": "A terminal coding agent written in Raven, with tools, subagents, skills, MCP, and multiple LLM providers.",
+    "language": "Rust",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "jiangjin1999/awesome-multimodal-agentic-coding",
+    "url": "https://github.com/jiangjin1999/awesome-multimodal-agentic-coding",
+    "stars": 26,
+    "forks": 4,
+    "description": "A curated list of 640+ papers and tools on multimodal coding agents: visual feedback → models as tools → bridging digital and physical world...",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "damianvtran/local-operator",
-    "url": "https://github.com/damianvtran/local-operator",
-    "stars": 229,
-    "forks": 38,
-    "description": "An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 201,
-    "forks": 23,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "ThreatDefence/agentic-attack-detections",
-    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-    "stars": 176,
-    "forks": 41,
-    "description": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. K...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "drawthingsai/local-code-community",
-    "url": "https://github.com/drawthingsai/local-code-community",
-    "stars": 171,
-    "forks": 13,
-    "description": " Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built...",
-    "language": "C",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "azrinaldi/gemini-stealth-bridge",
-    "url": "https://github.com/azrinaldi/gemini-stealth-bridge",
-    "stars": 159,
-    "forks": 23,
-    "description": "OpenAI-compatible proxy for Gemini Web with multi-account pooling, quota failover, tool calling, image/video generation, MCP web search, and...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "Sagargupta16/awesome-mcp-servers",
-    "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
-    "stars": 150,
-    "forks": 233,
-    "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "objectstack-ai/objectstack",
-    "url": "https://github.com/objectstack-ai/objectstack",
-    "stars": 101,
-    "forks": 30,
-    "description": "The ontology is the software. One executable business ontology: AI writes it, the runtime runs it, agents operate it, you own it. Open proto...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
     "pushed_at": "2026-11-22"
   }
 ]
