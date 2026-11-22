@@ -1,82 +1,82 @@
 [
   {
-    "name": "VinRobotics/vla.cpp",
-    "url": "https://github.com/VinRobotics/vla.cpp",
-    "stars": 274,
-    "forks": 55,
-    "description": "A unified inference runtime for VLA models.",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-21"
-  },
-  {
-    "name": "daniel3303/Equibles",
-    "url": "https://github.com/daniel3303/Equibles",
-    "stars": 247,
-    "forks": 33,
-    "description": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trade...",
-    "language": "C#",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-21"
-  },
-  {
-    "name": "jdilla1277/agentcad",
-    "url": "https://github.com/jdilla1277/agentcad",
-    "stars": 220,
-    "forks": 24,
-    "description": "CAD CLI and MCP server for AI agents",
+    "name": "Dicklesworthstone/ultimate_bug_scanner",
+    "url": "https://github.com/Dicklesworthstone/ultimate_bug_scanner",
+    "stars": 319,
+    "forks": 44,
+    "description": "Static analysis tool that catches 1000+ bug patterns across all popular programming languages, with auto-wiring into AI coding agent quality...",
     "language": "Python",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-21"
+    "pushed_at": "2026-11-22"
   },
   {
-    "name": "rajudandigam/agent-inspect",
-    "url": "https://github.com/rajudandigam/agent-inspect",
-    "stars": 213,
-    "forks": 56,
-    "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share s...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-21"
-  },
-  {
-    "name": "jackulau/coding.sh",
-    "url": "https://github.com/jackulau/coding.sh",
-    "stars": 149,
-    "forks": 6,
-    "description": "Open-source, local-first observability and evals for AI agents: see what Claude Code, Codex, Cursor and others did and what it cost.",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-21"
-  },
-  {
-    "name": "flisk-sh/flisk",
-    "url": "https://github.com/flisk-sh/flisk",
-    "stars": 55,
-    "forks": 115,
-    "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain comman...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-21"
-  },
-  {
-    "name": "MAZHARMIK/python-ai-agent-ollama",
-    "url": "https://github.com/MAZHARMIK/python-ai-agent-ollama",
-    "stars": 49,
-    "forks": 6,
-    "description": "A local AI agent built from scratch in Python with Ollama: conversation memory, system prompts, and multi-step tool calling.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-21"
-  },
-  {
-    "name": "estebanstifli/Meet2Notes",
-    "url": "https://github.com/estebanstifli/Meet2Notes",
-    "stars": 45,
-    "forks": 19,
-    "description": "Private, local-first AI meeting assistant for transcription, speaker diarization and meeting notes. Open-source, self-hosted alternative to ...",
+    "name": "primaprashant/awesome-voice-typing",
+    "url": "https://github.com/primaprashant/awesome-voice-typing",
+    "stars": 219,
+    "forks": 44,
+    "description": "Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.",
     "language": "Python",
     "tag": "Local AI",
-    "pushed_at": "2026-11-21"
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 201,
+    "forks": 23,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "cramt/m365-copilot-proxy",
+    "url": "https://github.com/cramt/m365-copilot-proxy",
+    "stars": 185,
+    "forks": 50,
+    "description": "OpenAI-compatible proxy for Microsoft 365 Copilot — use the Copilot licence you already have as a backend for pi, openclaw and other coding ...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "Vaultite/vaultite",
+    "url": "https://github.com/Vaultite/vaultite",
+    "stars": 178,
+    "forks": 22,
+    "description": "Own your memories. A fast and local AI native knowledge base, in plain Markdown files. A free and open source Obsidian/Notion alternative",
+    "language": "TypeScript",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "sheawinkler/ContextLattice",
+    "url": "https://github.com/sheawinkler/ContextLattice",
+    "stars": 155,
+    "forks": 17,
+    "description": "The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and verified learning a...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "Dicklesworthstone/remote_compilation_helper",
+    "url": "https://github.com/Dicklesworthstone/remote_compilation_helper",
+    "stars": 71,
+    "forks": 6,
+    "description": "Intercepts cargo/gcc builds from AI coding agents via hooks and transparently routes them to remote worker machines, returning artifacts as ...",
+    "language": "Rust",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-22"
+  },
+  {
+    "name": "call518/MCP-OpenStack-Ops",
+    "url": "https://github.com/call518/MCP-OpenStack-Ops",
+    "stars": 50,
+    "forks": 22,
+    "description": "100+ OpenStack tools for AI agents via MCP: compute, network, storage, identity, Heat, Octavia load balancing and Gnocchi telemetry. Read-on...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-22"
   }
 ]
