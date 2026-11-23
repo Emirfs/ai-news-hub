@@ -1,82 +1,82 @@
 [
   {
-    "name": "HerRei/local-upscale",
-    "url": "https://github.com/HerRei/local-upscale",
-    "stars": 195,
-    "forks": 14,
-    "description": "Free, open-source desktop app for offline AI image and video upscaling, denoising and restoration. Runs entirely on your machine: macOS (Met...",
-    "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "luongnv89/skills",
-    "url": "https://github.com/luongnv89/skills",
-    "stars": 150,
-    "forks": 21,
-    "description": "Supercharge your AI agents/bots with reusable skills",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "tetsuo-ai/agenc-core",
-    "url": "https://github.com/tetsuo-ai/agenc-core",
-    "stars": 143,
-    "forks": 18,
-    "description": "Our goal is to multiply model capability per dollar of inference. AgenC is an open source framework that improves how any model plans, uses ...",
+    "name": "w01fb0ss/PiBot",
+    "url": "https://github.com/w01fb0ss/PiBot",
+    "stars": 401,
+    "forks": 56,
+    "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS,...",
     "language": "TypeScript",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-23"
+  },
+  {
+    "name": "pdparchitect/noodle",
+    "url": "https://github.com/pdparchitect/noodle",
+    "stars": 310,
+    "forks": 27,
+    "description": "Personal AI agents / grok bot alternative / muse alternative / dots alternative / duet alternative",
+    "language": "Swift",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-23"
+  },
+  {
+    "name": "ypollak2/llm-router",
+    "url": "https://github.com/ypollak2/llm-router",
+    "stars": 130,
+    "forks": 17,
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cut...",
+    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-22"
+    "pushed_at": "2026-11-23"
   },
   {
-    "name": "catorendal-a11y/tessera-deck",
-    "url": "https://github.com/catorendal-a11y/tessera-deck",
-    "stars": 75,
-    "forks": 12,
-    "description": "Tessera: a DIY Stream Deck alternative for 7-inch ESP32-P4 touchscreens. Boards: GUITION JC1060P470C and Elecrow CrowPanel Advance 7.0, plus...",
-    "language": "C",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-22"
+    "name": "preloop/preloop",
+    "url": "https://github.com/preloop/preloop",
+    "stars": 95,
+    "forks": 24,
+    "description": "The open-source AI agent control plane and software factory: govern every tool and model call.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-23"
   },
   {
-    "name": "hajdu-patrik/clippy",
-    "url": "https://github.com/hajdu-patrik/clippy",
-    "stars": 60,
-    "forks": 0,
-    "description": "Local AI clipper: long videos, podcasts and streams in, vertical 9:16 clips with captions out. Chat app + CLI, English.",
+    "name": "bjcoombs/ai-native-toolkit",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit",
+    "stars": 34,
+    "forks": 5,
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats deliberation (/huddle),...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-23"
+  },
+  {
+    "name": "SchBenedikt/face",
+    "url": "https://github.com/SchBenedikt/face",
+    "stars": 29,
+    "forks": 7,
+    "description": "Local face detection + recognition (Pimeyes alternative)",
     "language": "Python",
     "tag": "Local AI",
-    "pushed_at": "2026-11-22"
+    "pushed_at": "2026-11-23"
   },
   {
-    "name": "flisk-sh/flisk",
-    "url": "https://github.com/flisk-sh/flisk",
-    "stars": 55,
-    "forks": 123,
-    "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain comman...",
-    "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-22"
+    "name": "jiangjin1999/awesome-multimodal-agentic-coding",
+    "url": "https://github.com/jiangjin1999/awesome-multimodal-agentic-coding",
+    "stars": 26,
+    "forks": 4,
+    "description": "A curated list of 640+ papers and tools on multimodal coding agents: visual feedback → models as tools → bridging digital and physical world...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-23"
   },
   {
-    "name": "jmrplens/gitlab-mcp-server",
-    "url": "https://github.com/jmrplens/gitlab-mcp-server",
-    "stars": 54,
-    "forks": 10,
-    "description": "Open source GitLab MCP server for AI assistants: 2-tool dynamic find/execute over 850+ GitLab actions (1,000+ Enterprise), stdio/HTTP/OAuth,...",
-    "language": "Go",
+    "name": "rxmna8502/vybe-intelligence-vault",
+    "url": "https://github.com/rxmna8502/vybe-intelligence-vault",
+    "stars": 23,
+    "forks": 2,
+    "description": "An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generation web development.",
+    "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-22"
-  },
-  {
-    "name": "codecast-sh/codecast",
-    "url": "https://github.com/codecast-sh/codecast",
-    "stars": 50,
-    "forks": 8,
-    "description": "Your team and its agents, in one workspace. Chat, calls, tasks, docs, pull requests and decisions, with Claude Code, Codex, Cursor, Gemini, ...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-22"
+    "pushed_at": "2026-11-23"
   }
 ]
