@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-23 10:52 UTC` | **Source-linked stories:** `359`
+> **Index generated:** `2026-11-23 22:42 UTC` | **Source-linked stories:** `361`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 309.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 285.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.5k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 207.4k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 309.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 286.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 207.8k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Belkins/ai-dive-deep](https://github.com/Belkins/ai-dive-deep) | `★ 306` | `2026-11-23` | Experimental Agent | `Astro` | Vlad's Playbook — a 58-chapter operator field manual where every artifact is live, cl... |
-| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 204` | `2026-11-23` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
-| [jackulau/coding.sh](https://github.com/jackulau/coding.sh) | `★ 157` | `2026-11-23` | Local AI | `TypeScript` | Open-source, local-first observability and evals for AI agents: see what Claude Code,... |
-| [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk) | `★ 106` | `2026-11-23` | Indie Tool | `Python` | Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embe... |
-| [agentarea/agentarea](https://github.com/agentarea/agentarea) | `★ 70` | `2026-11-23` | Experimental Agent | `Go` | Cloud-native AI Agents orchestration platform for zero-human organizations |
+| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 471` | `2026-11-23` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
+| [intel/ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) | `★ 189` | `2026-11-23` | Embodied AI | `C++` | This repository provides a set of tools and libraries to integrate Intel® OpenVINO™ T... |
+| [0xWelt/Awesome-Agent-Ecosystem](https://github.com/0xWelt/Awesome-Agent-Ecosystem) | `★ 124` | `2026-11-23` | Indie Tool | `Python` | A curated list of coding harnesses, vibe-coding communities, named personal agents, a... |
+| [better-vault/better-vault](https://github.com/better-vault/better-vault) | `★ 121` | `2026-11-23` | Local AI | `TypeScript` | Open-source NotebookLM alternative. Chat with your sources with citations, and turn t... |
+| [NVIDIA/elements](https://github.com/NVIDIA/elements) | `★ 120` | `2026-11-23` | Experimental Agent | `TypeScript` | The UI SDK and agent-ready developer toolkit for AI factories, robotics, and autonomo... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-23` | LLMs & Foundation Models | [OpenAI and Cisco introduce Shirudo](src/content/news/2026-11-23-openai-and-cisco-introduce-shirudo.md) | OpenAI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-openai-and-cisco-introduce-shirudo/) | [OpenAI News](https://openai.com/index/introducing-shirudo) |
+| `2026-11-23` | LLMs & Foundation Models | [Connected intelligence for in-house legal](src/content/news/2026-11-23-connected-intelligence-for-in-house-legal.md) | Stacey Wang and | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-connected-intelligence-for-in-house-legal/) | [OpenAI News](https://openai.com/business/learn/connected-intelligence-for-in-house-legal) |
 | `2026-11-23` | AI Research | [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](src/content/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge.md) | Synthesizing relational training data such as knowledge graphs with a large language model typically emits structur... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26717) |
 | `2026-11-23` | AI Research | [Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams](src/content/news/2026-11-23-adding-one-more-agent-how-ai.md) | Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts re... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-adding-one-more-agent-how-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26663) |
 | `2026-11-22` | AI Research | [Perplexity and Intelligence](src/content/news/2026-11-22-perplexity-and-intelligence.md) | How perplexity measures progress in AI models, and why it could help developers establish a shared approach to eval... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-perplexity-and-intelligence/) | [OpenAI News](https://openai.com/index/perplexity-and-intelligence) |
@@ -408,7 +410,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-23 10:52 UTC` | **Yayımlanan haber:** `359`
+> **Dizin oluşturma:** `2026-11-23 22:42 UTC` | **Yayımlanan haber:** `361`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -418,6 +420,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-23` | LLMs & Foundation Models | [OpenAI and Cisco introduce Shirudo](src/content/news/2026-11-23-openai-and-cisco-introduce-shirudo.md) | OpenAI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-openai-and-cisco-introduce-shirudo/) | [OpenAI News](https://openai.com/index/introducing-shirudo) |
+| `2026-11-23` | LLMs & Foundation Models | [Connected intelligence for in-house legal](src/content/news/2026-11-23-connected-intelligence-for-in-house-legal.md) | Stacey Wang and | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-connected-intelligence-for-in-house-legal/) | [OpenAI News](https://openai.com/business/learn/connected-intelligence-for-in-house-legal) |
 | `2026-11-23` | AI Research | [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](src/content/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge.md) | Synthesizing relational training data such as knowledge graphs with a large language model typically emits structur... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26717) |
 | `2026-11-23` | AI Research | [Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams](src/content/news/2026-11-23-adding-one-more-agent-how-ai.md) | Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts re... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-adding-one-more-agent-how-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26663) |
 | `2026-11-22` | AI Research | [Perplexity and Intelligence](src/content/news/2026-11-22-perplexity-and-intelligence.md) | How perplexity measures progress in AI models, and why it could help developers establish a shared approach to eval... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-perplexity-and-intelligence/) | [OpenAI News](https://openai.com/index/perplexity-and-intelligence) |
