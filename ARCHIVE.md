@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-23 01:59 UTC` | **Source-linked stories:** `357`
+> **Index generated:** `2026-11-23 10:52 UTC` | **Source-linked stories:** `359`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 309.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 285.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 207.1k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 309.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 285.8k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.5k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 207.4k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | `★ 401` | `2026-11-23` | Experimental Agent | `TypeScript` | Open-source, local-first AI agent team for your desktop: multi-agent group chats, com... |
-| [pdparchitect/noodle](https://github.com/pdparchitect/noodle) | `★ 310` | `2026-11-23` | Experimental Agent | `Swift` | Personal AI agents / grok bot alternative / muse alternative / dots alternative / due... |
-| [ypollak2/llm-router](https://github.com/ypollak2/llm-router) | `★ 130` | `2026-11-23` | Indie Tool | `Python` | Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemi... |
-| [preloop/preloop](https://github.com/preloop/preloop) | `★ 95` | `2026-11-23` | Indie Tool | `Python` | The open-source AI agent control plane and software factory: govern every tool and mo... |
-| [bjcoombs/ai-native-toolkit](https://github.com/bjcoombs/ai-native-toolkit) | `★ 34` | `2026-11-23` | Indie Tool | `Python` | Claude Code plugin & Agent Skills for AI-native development: codebase readiness scori... |
+| [Belkins/ai-dive-deep](https://github.com/Belkins/ai-dive-deep) | `★ 306` | `2026-11-23` | Experimental Agent | `Astro` | Vlad's Playbook — a 58-chapter operator field manual where every artifact is live, cl... |
+| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 204` | `2026-11-23` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
+| [jackulau/coding.sh](https://github.com/jackulau/coding.sh) | `★ 157` | `2026-11-23` | Local AI | `TypeScript` | Open-source, local-first observability and evals for AI agents: see what Claude Code,... |
+| [swarmauri/swarmauri-sdk](https://github.com/swarmauri/swarmauri-sdk) | `★ 106` | `2026-11-23` | Indie Tool | `Python` | Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embe... |
+| [agentarea/agentarea](https://github.com/agentarea/agentarea) | `★ 70` | `2026-11-23` | Experimental Agent | `Go` | Cloud-native AI Agents orchestration platform for zero-human organizations |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-23` | AI Research | [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](src/content/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge.md) | Synthesizing relational training data such as knowledge graphs with a large language model typically emits structur... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26717) |
+| `2026-11-23` | AI Research | [Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams](src/content/news/2026-11-23-adding-one-more-agent-how-ai.md) | Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts re... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-adding-one-more-agent-how-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26663) |
 | `2026-11-22` | AI Research | [Perplexity and Intelligence](src/content/news/2026-11-22-perplexity-and-intelligence.md) | How perplexity measures progress in AI models, and why it could help developers establish a shared approach to eval... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-22-perplexity-and-intelligence/) | [OpenAI News](https://openai.com/index/perplexity-and-intelligence) |
 | `2026-11-20` | AI Research | [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](src/content/news/2026-11-20-where-the-tokens-go-heat-entropy.md) | Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-20-where-the-tokens-go-heat-entropy/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23375) |
 | `2026-11-20` | AI Research | [RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding](src/content/news/2026-11-20-rfbench-a-simulator-grounded-multimodal-benchmark-for.md) | While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-20-rfbench-a-simulator-grounded-multimodal-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23410) |
@@ -406,7 +408,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-23 01:59 UTC` | **Yayımlanan haber:** `357`
+> **Dizin oluşturma:** `2026-11-23 10:52 UTC` | **Yayımlanan haber:** `359`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -416,6 +418,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-23` | AI Research | [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](src/content/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge.md) | Synthesizing relational training data such as knowledge graphs with a large language model typically emits structur... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26717) |
+| `2026-11-23` | AI Research | [Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams](src/content/news/2026-11-23-adding-one-more-agent-how-ai.md) | Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts re... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-adding-one-more-agent-how-ai/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26663) |
 | `2026-11-22` | AI Research | [Perplexity and Intelligence](src/content/news/2026-11-22-perplexity-and-intelligence.md) | How perplexity measures progress in AI models, and why it could help developers establish a shared approach to eval... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-22-perplexity-and-intelligence/) | [OpenAI News](https://openai.com/index/perplexity-and-intelligence) |
 | `2026-11-20` | AI Research | [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](src/content/news/2026-11-20-where-the-tokens-go-heat-entropy.md) | Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-20-where-the-tokens-go-heat-entropy/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23375) |
 | `2026-11-20` | AI Research | [RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding](src/content/news/2026-11-20-rfbench-a-simulator-grounded-multimodal-benchmark-for.md) | While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-20-rfbench-a-simulator-grounded-multimodal-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.23410) |
