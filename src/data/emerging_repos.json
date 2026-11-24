@@ -1,82 +1,82 @@
 [
   {
-    "name": "marcusquinn/aidevops",
-    "url": "https://github.com/marcusquinn/aidevops",
-    "stars": 471,
-    "forks": 81,
-    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
-    "language": "Shell",
+    "name": "mitaku/andon",
+    "url": "https://github.com/mitaku/andon",
+    "stars": 211,
+    "forks": 11,
+    "description": "A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only...",
+    "language": "Go",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-23"
+    "pushed_at": "2026-11-24"
   },
   {
-    "name": "intel/ros2_openvino_toolkit",
-    "url": "https://github.com/intel/ros2_openvino_toolkit",
-    "stars": 189,
-    "forks": 89,
-    "description": "This repository provides a set of tools and libraries to integrate Intel® OpenVINO™ Toolkit with ROS 2 (Robot Operating System), enabling ef...",
-    "language": "C++",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-23"
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 207,
+    "forks": 24,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-24"
   },
   {
-    "name": "0xWelt/Awesome-Agent-Ecosystem",
-    "url": "https://github.com/0xWelt/Awesome-Agent-Ecosystem",
-    "stars": 124,
-    "forks": 155,
-    "description": "A curated list of coding harnesses, vibe-coding communities, named personal agents, and the tools and services agents call.",
+    "name": "Sagargupta16/awesome-mcp-servers",
+    "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
+    "stars": 166,
+    "forks": 247,
+    "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
     "language": "Python",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-23"
+    "pushed_at": "2026-11-24"
   },
   {
-    "name": "better-vault/better-vault",
-    "url": "https://github.com/better-vault/better-vault",
-    "stars": 121,
+    "name": "ldbumble/taskuary",
+    "url": "https://github.com/ldbumble/taskuary",
+    "stars": 152,
+    "forks": 60,
+    "description": "Your AI work partner. Mail, chats and tickets become one list in the right order; your agents do the work, and nothing goes out until you ap...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-24"
+  },
+  {
+    "name": "omaekumiko2-create/OpenKeylet",
+    "url": "https://github.com/omaekumiko2-create/OpenKeylet",
+    "stars": 136,
     "forks": 10,
-    "description": "Open-source NotebookLM alternative. Chat with your sources with citations, and turn them into reports, flashcards, quizzes, mind maps and sl...",
+    "description": "OpenKeylet — Local password and credential manager for AI agents via MCP. Use passwords, API keys, SSH, and TOTP while keeping hidden plaint...",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-24"
+  },
+  {
+    "name": "Mikedev115/Aetox-Harness",
+    "url": "https://github.com/Mikedev115/Aetox-Harness",
+    "stars": 130,
+    "forks": 25,
+    "description": "Aetox harness: a local-first Windows AI environment - model, skills, team and memory as one system. Two doors - an Assistant that adapts to ...",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-24"
+  },
+  {
+    "name": "trafficflowhq/ohmail",
+    "url": "https://github.com/trafficflowhq/ohmail",
+    "stars": 95,
+    "forks": 9,
+    "description": "Consent-first email on your existing IMAP mailboxes. Optional AI assistet screener with local or Cloud models. Full local Clients for MacOS,...",
     "language": "TypeScript",
     "tag": "Local AI",
-    "pushed_at": "2026-11-23"
+    "pushed_at": "2026-11-24"
   },
   {
-    "name": "NVIDIA/elements",
-    "url": "https://github.com/NVIDIA/elements",
-    "stars": 120,
-    "forks": 26,
-    "description": "The UI SDK and agent-ready developer toolkit for AI factories, robotics, and autonomous vehicles.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-23"
-  },
-  {
-    "name": "preloop/preloop",
-    "url": "https://github.com/preloop/preloop",
-    "stars": 96,
-    "forks": 24,
-    "description": "The open-source AI agent control plane and software factory: govern every tool and model call.",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-23"
-  },
-  {
-    "name": "gtanczyk/genaicode",
-    "url": "https://github.com/gtanczyk/genaicode",
-    "stars": 65,
+    "name": "fastagent-sh/fastagent",
+    "url": "https://github.com/fastagent-sh/fastagent",
+    "stars": 67,
     "forks": 3,
-    "description": "Run your coding agents together: Claude Code, Codex, Antigravity and more, on the logins you already have. Desktop app, CLI and TypeScript A...",
+    "description": "The TypeScript runtime for production AI agents: write in Markdown & TypeScript, package as an npm artifact, embed in Node.js, self-host wit...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-23"
-  },
-  {
-    "name": "leggedrobotics/foci",
-    "url": "https://github.com/leggedrobotics/foci",
-    "stars": 56,
-    "forks": 2,
-    "description": "Fast, orientation-aware trajectory planning using a novel Gaussian overlap-based collision formulation, modeling both robot and environment ...",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-23"
+    "pushed_at": "2026-11-24"
   }
 ]

@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-23 22:42 UTC` | **Source-linked stories:** `361`
+> **Index generated:** `2026-11-24 06:28 UTC` | **Source-linked stories:** `362`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 309.5k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 286.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 309.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 286.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.7k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.8k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 207.8k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 228.9k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 208.1k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,17 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 471` | `2026-11-23` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
-| [intel/ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) | `★ 189` | `2026-11-23` | Embodied AI | `C++` | This repository provides a set of tools and libraries to integrate Intel® OpenVINO™ T... |
-| [0xWelt/Awesome-Agent-Ecosystem](https://github.com/0xWelt/Awesome-Agent-Ecosystem) | `★ 124` | `2026-11-23` | Indie Tool | `Python` | A curated list of coding harnesses, vibe-coding communities, named personal agents, a... |
-| [better-vault/better-vault](https://github.com/better-vault/better-vault) | `★ 121` | `2026-11-23` | Local AI | `TypeScript` | Open-source NotebookLM alternative. Chat with your sources with citations, and turn t... |
-| [NVIDIA/elements](https://github.com/NVIDIA/elements) | `★ 120` | `2026-11-23` | Experimental Agent | `TypeScript` | The UI SDK and agent-ready developer toolkit for AI factories, robotics, and autonomo... |
+| [mitaku/andon](https://github.com/mitaku/andon) | `★ 211` | `2026-11-24` | Experimental Agent | `Go` | A one-person software factory: AI coding agents take tasks from a ledger through revi... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 207` | `2026-11-24` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 166` | `2026-11-24` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
+| [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | `★ 152` | `2026-11-24` | Experimental Agent | `Python` | Your AI work partner. Mail, chats and tickets become one list in the right order; you... |
+| [omaekumiko2-create/OpenKeylet](https://github.com/omaekumiko2-create/OpenKeylet) | `★ 136` | `2026-11-24` | Local AI | `Rust` | OpenKeylet — Local password and credential manager for AI agents via MCP. Use passwor... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-23` | LLMs & Foundation Models | [Richpanel helps companies automate 50% of support in 30 days](src/content/news/2026-11-24-richpanel-helps-companies-automate-50-of.md) | Richpanel uses GPT- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-24-richpanel-helps-companies-automate-50-of/) | [OpenAI News](https://openai.com/business/customer-stories/richpanel-ai-customer-support) |
 | `2026-11-23` | LLMs & Foundation Models | [OpenAI and Cisco introduce Shirudo](src/content/news/2026-11-23-openai-and-cisco-introduce-shirudo.md) | OpenAI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-openai-and-cisco-introduce-shirudo/) | [OpenAI News](https://openai.com/index/introducing-shirudo) |
 | `2026-11-23` | LLMs & Foundation Models | [Connected intelligence for in-house legal](src/content/news/2026-11-23-connected-intelligence-for-in-house-legal.md) | Stacey Wang and | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-connected-intelligence-for-in-house-legal/) | [OpenAI News](https://openai.com/business/learn/connected-intelligence-for-in-house-legal) |
 | `2026-11-23` | AI Research | [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](src/content/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge.md) | Synthesizing relational training data such as knowledge graphs with a large language model typically emits structur... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26717) |
@@ -410,7 +411,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-23 22:42 UTC` | **Yayımlanan haber:** `361`
+> **Dizin oluşturma:** `2026-11-24 06:28 UTC` | **Yayımlanan haber:** `362`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -420,6 +421,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-23` | LLMs & Foundation Models | [Richpanel helps companies automate 50% of support in 30 days](src/content/news/2026-11-24-richpanel-helps-companies-automate-50-of.md) | Richpanel uses GPT- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-24-richpanel-helps-companies-automate-50-of/) | [OpenAI News](https://openai.com/business/customer-stories/richpanel-ai-customer-support) |
 | `2026-11-23` | LLMs & Foundation Models | [OpenAI and Cisco introduce Shirudo](src/content/news/2026-11-23-openai-and-cisco-introduce-shirudo.md) | OpenAI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-openai-and-cisco-introduce-shirudo/) | [OpenAI News](https://openai.com/index/introducing-shirudo) |
 | `2026-11-23` | LLMs & Foundation Models | [Connected intelligence for in-house legal](src/content/news/2026-11-23-connected-intelligence-for-in-house-legal.md) | Stacey Wang and | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-connected-intelligence-for-in-house-legal/) | [OpenAI News](https://openai.com/business/learn/connected-intelligence-for-in-house-legal) |
 | `2026-11-23` | AI Research | [Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation](src/content/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge.md) | Synthesizing relational training data such as knowledge graphs with a large language model typically emits structur... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-coherence-by-construction-synthesizing-cti-knowledge/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.26717) |
