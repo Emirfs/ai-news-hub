@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-24 18:22 UTC` | **Source-linked stories:** `362`
+> **Index generated:** `2026-11-25 02:49 UTC` | **Source-linked stories:** `364`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 310.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 286.5k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 310.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 286.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.9k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 208.7k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 209.0k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [arounamounchili/linkforge](https://github.com/arounamounchili/linkforge) | `★ 294` | `2026-11-24` | Embodied AI | `Python` | The LLVM for Robot Descriptions. A programmable IR engine to compose, validate, and c... |
-| [NVIDIA/NeMo-Relay](https://github.com/NVIDIA/NeMo-Relay) | `★ 257` | `2026-11-24` | Indie Tool | `Rust` | Multi-language agent runtime and library for execution scope management, lifecycle ev... |
-| [chonghanqin/Awesome-Agentic-Robots](https://github.com/chonghanqin/Awesome-Agentic-Robots) | `★ 207` | `2026-11-24` | Embodied AI | `Python` | The offcial repo of "Towards Agentic Robots: Model, Data, Environment, and Harness" |
-| [hupao-creator/Chief](https://github.com/hupao-creator/Chief) | `★ 170` | `2026-11-24` | Experimental Agent | `Swift` | Chief: a native workspace for coordinating AI agents |
-| [Eslamasabry/opencode-mobile-next](https://github.com/Eslamasabry/opencode-mobile-next) | `★ 162` | `2026-11-24` | Indie Tool | `Kotlin` | Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and... |
+| [alibaba/loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) | `★ 268` | `2026-11-25` | Local AI | `TypeScript` | Local-first telemetry collector for AI coding agents — unified OpenTelemetry events f... |
+| [Tomotsugu-dev/Hindsight](https://github.com/Tomotsugu-dev/Hindsight) | `★ 255` | `2026-11-25` | Local AI | `Rust` | Local-first desktop activity tracker — see where your hours go, with on-device AI dai... |
+| [amitshekhariitbhu/ai-agents-tutorial](https://github.com/amitshekhariitbhu/ai-agents-tutorial) | `★ 231` | `2026-11-25` | Experimental Agent | `Python` | Learn AI Agents step by step, from scratch - from function calling to agent loops to ... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 209` | `2026-11-25` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 177` | `2026-11-25` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-24` | LLMs & Foundation Models | [GPT-6 models demonstrate intrinsic protein-design capabilities](src/content/news/2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities.md) | GPT-6 models | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) | [OpenAI News](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) |
+| `2026-11-24` | LLMs & Foundation Models | [Clay helps sales teams win with Codex and ChatGPT](src/content/news/2026-11-25-clay-helps-sales-teams-win-with.md) | ChatGPT and | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-25-clay-helps-sales-teams-win-with/) | [OpenAI News](https://openai.com/business/customer-stories/clay-plugins-openai) |
 | `2026-11-23` | LLMs & Foundation Models | [Richpanel helps companies automate 50% of support in 30 days](src/content/news/2026-11-24-richpanel-helps-companies-automate-50-of.md) | Richpanel uses GPT- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-24-richpanel-helps-companies-automate-50-of/) | [OpenAI News](https://openai.com/business/customer-stories/richpanel-ai-customer-support) |
 | `2026-11-23` | LLMs & Foundation Models | [OpenAI and Cisco introduce Shirudo](src/content/news/2026-11-23-openai-and-cisco-introduce-shirudo.md) | OpenAI | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-openai-and-cisco-introduce-shirudo/) | [OpenAI News](https://openai.com/index/introducing-shirudo) |
 | `2026-11-23` | LLMs & Foundation Models | [Connected intelligence for in-house legal](src/content/news/2026-11-23-connected-intelligence-for-in-house-legal.md) | Stacey Wang and | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-23-connected-intelligence-for-in-house-legal/) | [OpenAI News](https://openai.com/business/learn/connected-intelligence-for-in-house-legal) |
@@ -411,7 +413,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-24 18:22 UTC` | **Yayımlanan haber:** `362`
+> **Dizin oluşturma:** `2026-11-25 02:49 UTC` | **Yayımlanan haber:** `364`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -421,6 +423,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-24` | LLMs & Foundation Models | [GPT-6 models demonstrate intrinsic protein-design capabilities](src/content/news/2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities.md) | GPT-6 models | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) | [OpenAI News](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) |
+| `2026-11-24` | LLMs & Foundation Models | [Clay helps sales teams win with Codex and ChatGPT](src/content/news/2026-11-25-clay-helps-sales-teams-win-with.md) | ChatGPT and | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-25-clay-helps-sales-teams-win-with/) | [OpenAI News](https://openai.com/business/customer-stories/clay-plugins-openai) |
 | `2026-11-23` | LLMs & Foundation Models | [Richpanel helps companies automate 50% of support in 30 days](src/content/news/2026-11-24-richpanel-helps-companies-automate-50-of.md) | Richpanel uses GPT- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-24-richpanel-helps-companies-automate-50-of/) | [OpenAI News](https://openai.com/business/customer-stories/richpanel-ai-customer-support) |
 | `2026-11-23` | LLMs & Foundation Models | [OpenAI and Cisco introduce Shirudo](src/content/news/2026-11-23-openai-and-cisco-introduce-shirudo.md) | OpenAI | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-openai-and-cisco-introduce-shirudo/) | [OpenAI News](https://openai.com/index/introducing-shirudo) |
 | `2026-11-23` | LLMs & Foundation Models | [Connected intelligence for in-house legal](src/content/news/2026-11-23-connected-intelligence-for-in-house-legal.md) | Stacey Wang and | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-23-connected-intelligence-for-in-house-legal/) | [OpenAI News](https://openai.com/business/learn/connected-intelligence-for-in-house-legal) |
