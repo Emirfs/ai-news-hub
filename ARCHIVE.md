@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-25 02:49 UTC` | **Source-linked stories:** `364`
+> **Index generated:** `2026-11-25 13:05 UTC` | **Source-linked stories:** `364`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,6 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 310.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 286.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 265.9k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.0k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 209.0k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +27,6 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [alibaba/loongsuite-pilot](https://github.com/alibaba/loongsuite-pilot) | `★ 268` | `2026-11-25` | Local AI | `TypeScript` | Local-first telemetry collector for AI coding agents — unified OpenTelemetry events f... |
-| [Tomotsugu-dev/Hindsight](https://github.com/Tomotsugu-dev/Hindsight) | `★ 255` | `2026-11-25` | Local AI | `Rust` | Local-first desktop activity tracker — see where your hours go, with on-device AI dai... |
-| [amitshekhariitbhu/ai-agents-tutorial](https://github.com/amitshekhariitbhu/ai-agents-tutorial) | `★ 231` | `2026-11-25` | Experimental Agent | `Python` | Learn AI Agents step by step, from scratch - from function calling to agent loops to ... |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 209` | `2026-11-25` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 177` | `2026-11-25` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -413,7 +403,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-25 02:49 UTC` | **Yayımlanan haber:** `364`
+> **Dizin oluşturma:** `2026-11-25 13:05 UTC` | **Yayımlanan haber:** `364`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
