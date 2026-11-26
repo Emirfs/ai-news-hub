@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-26 04:29 UTC` | **Source-linked stories:** `364`
+> **Index generated:** `2026-11-26 14:31 UTC` | **Source-linked stories:** `366`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 310.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 287.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 266.1k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 210.2k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 311.1k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 287.4k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 266.3k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.3k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 210.6k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 209` | `2026-11-26` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
-| [holon-run/holon](https://github.com/holon-run/holon) | `★ 200` | `2026-11-26` | Local AI | `Rust` | Open-source, local-first Rust workbench for always-on AI agents — explicit work items... |
-| [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors) | `★ 178` | `2026-11-26` | Embodied AI | `C++` | Provides numerous sensor models designed to generate realistic data from simulation e... |
-| [0xWelt/Awesome-Agent-Ecosystem](https://github.com/0xWelt/Awesome-Agent-Ecosystem) | `★ 123` | `2026-11-26` | Experimental Agent | `Python` | A curated list of coding harnesses, vibe-coding communities, named personal agents, a... |
-| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 103` | `2026-11-26` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
+| [nexu-io/opengame](https://github.com/nexu-io/opengame) | `★ 364` | `2026-11-26` | Experimental Agent | `TypeScript` | The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to rem... |
+| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 190` | `2026-11-26` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
+| [miskibin/synkopa](https://github.com/miskibin/synkopa) | `★ 168` | `2026-11-26` | Experimental Agent | `Rust` | open-source DAW with an FL Studio workflow. Patterns, Channel Rack, piano roll, vocal... |
+| [Eslamasabry/opencode-mobile-next](https://github.com/Eslamasabry/opencode-mobile-next) | `★ 168` | `2026-11-26` | Indie Tool | `Kotlin` | Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and... |
+| [GAIK-project/gaik-toolkit](https://github.com/GAIK-project/gaik-toolkit) | `★ 111` | `2026-11-26` | Indie Tool | `Python` | Generative AI knowledge management toolkit: strategy, guidance, evaluation and reusab... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-26` | AI Research | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](src/content/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for.md) | Audio-video (AV) deepfakes can fake the face, the voice, or both. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31301) |
+| `2026-11-26` | AI Research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition](src/content/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent.md) | Autonomous agent governance is commonly framed as a problem of enforcing correct execution. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31284) |
 | `2026-11-24` | LLMs & Foundation Models | [GPT-6 models demonstrate intrinsic protein-design capabilities](src/content/news/2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities.md) | GPT-6 models | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) | [OpenAI News](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) |
 | `2026-11-24` | LLMs & Foundation Models | [Clay helps sales teams win with Codex and ChatGPT](src/content/news/2026-11-25-clay-helps-sales-teams-win-with.md) | ChatGPT and | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-25-clay-helps-sales-teams-win-with/) | [OpenAI News](https://openai.com/business/customer-stories/clay-plugins-openai) |
 | `2026-11-23` | LLMs & Foundation Models | [Richpanel helps companies automate 50% of support in 30 days](src/content/news/2026-11-24-richpanel-helps-companies-automate-50-of.md) | Richpanel uses GPT- | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-24-richpanel-helps-companies-automate-50-of/) | [OpenAI News](https://openai.com/business/customer-stories/richpanel-ai-customer-support) |
@@ -413,7 +415,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-26 04:29 UTC` | **Yayımlanan haber:** `364`
+> **Dizin oluşturma:** `2026-11-26 14:31 UTC` | **Yayımlanan haber:** `366`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -423,6 +425,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-26` | AI Research | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](src/content/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for.md) | Audio-video (AV) deepfakes can fake the face, the voice, or both. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31301) |
+| `2026-11-26` | AI Research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition](src/content/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent.md) | Autonomous agent governance is commonly framed as a problem of enforcing correct execution. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31284) |
 | `2026-11-24` | LLMs & Foundation Models | [GPT-6 models demonstrate intrinsic protein-design capabilities](src/content/news/2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities.md) | GPT-6 models | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) | [OpenAI News](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) |
 | `2026-11-24` | LLMs & Foundation Models | [Clay helps sales teams win with Codex and ChatGPT](src/content/news/2026-11-25-clay-helps-sales-teams-win-with.md) | ChatGPT and | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-25-clay-helps-sales-teams-win-with/) | [OpenAI News](https://openai.com/business/customer-stories/clay-plugins-openai) |
 | `2026-11-23` | LLMs & Foundation Models | [Richpanel helps companies automate 50% of support in 30 days](src/content/news/2026-11-24-richpanel-helps-companies-automate-50-of.md) | Richpanel uses GPT- | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-24-richpanel-helps-companies-automate-50-of/) | [OpenAI News](https://openai.com/business/customer-stories/richpanel-ai-customer-support) |
