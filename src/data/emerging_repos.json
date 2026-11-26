@@ -1,82 +1,82 @@
 [
   {
-    "name": "marcusquinn/aidevops",
-    "url": "https://github.com/marcusquinn/aidevops",
-    "stars": 471,
-    "forks": 81,
-    "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Op...",
-    "language": "Shell",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-25"
-  },
-  {
-    "name": "jigjoy-ai/mozaik-network",
-    "url": "https://github.com/jigjoy-ai/mozaik-network",
-    "stars": 205,
-    "forks": 19,
-    "description": "The communication network for AI agents.",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-25"
-  },
-  {
-    "name": "Sagargupta16/awesome-mcp-servers",
-    "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
-    "stars": 184,
-    "forks": 265,
-    "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
-    "language": "Python",
+    "name": "prime-radiant-inc/evener",
+    "url": "https://github.com/prime-radiant-inc/evener",
+    "stars": 209,
+    "forks": 24,
+    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
+    "language": "Go",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-25"
+    "pushed_at": "2026-11-26"
+  },
+  {
+    "name": "holon-run/holon",
+    "url": "https://github.com/holon-run/holon",
+    "stars": 200,
+    "forks": 21,
+    "description": "Open-source, local-first Rust workbench for always-on AI agents — explicit work items, event-driven wait/wake, and reliable follow-through.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-26"
+  },
+  {
+    "name": "gazebosim/gz-sensors",
+    "url": "https://github.com/gazebosim/gz-sensors",
+    "stars": 178,
+    "forks": 113,
+    "description": "Provides numerous sensor models designed to generate realistic data from simulation environments.",
+    "language": "C++",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-26"
   },
   {
     "name": "0xWelt/Awesome-Agent-Ecosystem",
     "url": "https://github.com/0xWelt/Awesome-Agent-Ecosystem",
     "stars": 123,
-    "forks": 160,
+    "forks": 162,
     "description": "A curated list of coding harnesses, vibe-coding communities, named personal agents, and the tools and services agents call.",
     "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-25"
-  },
-  {
-    "name": "ericgandrade/agentic-sdlc",
-    "url": "https://github.com/ericgandrade/agentic-sdlc",
-    "stars": 95,
-    "forks": 16,
-    "description": "The Agentic SDLC Method: AI-native software delivery. Agent-driven, human-governed, evidence-verified. 13 agents, 23 skills, 7 stages, 4 hum...",
-    "language": "JavaScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-25"
-  },
-  {
-    "name": "james-joobs/awesome-nvidia-physical-ai",
-    "url": "https://github.com/james-joobs/awesome-nvidia-physical-ai",
-    "stars": 52,
-    "forks": 3,
-    "description": "An independent bilingual guide to NVIDIA Physical AI. Find tools, models, and workflows for robotics, simulation, and autonomous driving.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-25"
-  },
-  {
-    "name": "w-xb/awesome-agentic-robotics",
-    "url": "https://github.com/w-xb/awesome-agentic-robotics",
-    "stars": 33,
-    "forks": 7,
-    "description": "A curated survey of embodied agents:robotic memory, planning, world models, verification, and failure recovery",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-25"
-  },
-  {
-    "name": "Ultimate-Multisite/superdav-ai-agent",
-    "url": "https://github.com/Ultimate-Multisite/superdav-ai-agent",
-    "stars": 31,
-    "forks": 5,
-    "description": "AI Agent for WordPress — agentic AI loop with tool-calling via the Abilities API",
-    "language": "PHP",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-25"
+    "pushed_at": "2026-11-26"
+  },
+  {
+    "name": "WingedGuardian/GENesis-AGI",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI",
+    "stars": 103,
+    "forks": 57,
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do without being told.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-26"
+  },
+  {
+    "name": "jayleaton/localrouter",
+    "url": "https://github.com/jayleaton/localrouter",
+    "stars": 103,
+    "forks": 8,
+    "description": "Fast & opinionated local AI routing: one MCP server that loads local image and video models on demand on your own GPU box (DGX Spark first)",
+    "language": "Zig",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-26"
+  },
+  {
+    "name": "preloop/preloop",
+    "url": "https://github.com/preloop/preloop",
+    "stars": 97,
+    "forks": 24,
+    "description": "The open-source AI agent control plane and software factory: govern every tool and model call.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-26"
+  },
+  {
+    "name": "langgenius/graphon",
+    "url": "https://github.com/langgenius/graphon",
+    "stars": 90,
+    "forks": 47,
+    "description": "Graphon is a Python graph execution engine for agentic AI workflows.",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-26"
   }
 ]

@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-25 22:36 UTC` | **Source-linked stories:** `364`
+> **Index generated:** `2026-11-26 04:29 UTC` | **Source-linked stories:** `364`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 310.7k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 287.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 310.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 287.2k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 266.1k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.2k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 210.0k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 210.2k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) | `★ 471` | `2026-11-25` | Experimental Agent | `Shell` | Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automati... |
-| [jigjoy-ai/mozaik-network](https://github.com/jigjoy-ai/mozaik-network) | `★ 205` | `2026-11-25` | Experimental Agent | `TypeScript` | The communication network for AI agents. |
-| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 184` | `2026-11-25` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
-| [0xWelt/Awesome-Agent-Ecosystem](https://github.com/0xWelt/Awesome-Agent-Ecosystem) | `★ 123` | `2026-11-25` | Indie Tool | `Python` | A curated list of coding harnesses, vibe-coding communities, named personal agents, a... |
-| [ericgandrade/agentic-sdlc](https://github.com/ericgandrade/agentic-sdlc) | `★ 95` | `2026-11-25` | Indie Tool | `JavaScript` | The Agentic SDLC Method: AI-native software delivery. Agent-driven, human-governed, e... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 209` | `2026-11-26` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [holon-run/holon](https://github.com/holon-run/holon) | `★ 200` | `2026-11-26` | Local AI | `Rust` | Open-source, local-first Rust workbench for always-on AI agents — explicit work items... |
+| [gazebosim/gz-sensors](https://github.com/gazebosim/gz-sensors) | `★ 178` | `2026-11-26` | Embodied AI | `C++` | Provides numerous sensor models designed to generate realistic data from simulation e... |
+| [0xWelt/Awesome-Agent-Ecosystem](https://github.com/0xWelt/Awesome-Agent-Ecosystem) | `★ 123` | `2026-11-26` | Experimental Agent | `Python` | A curated list of coding harnesses, vibe-coding communities, named personal agents, a... |
+| [WingedGuardian/GENesis-AGI](https://github.com/WingedGuardian/GENesis-AGI) | `★ 103` | `2026-11-26` | Indie Tool | `Python` | 'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 6... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -413,7 +413,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-25 22:36 UTC` | **Yayımlanan haber:** `364`
+> **Dizin oluşturma:** `2026-11-26 04:29 UTC` | **Yayımlanan haber:** `364`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
