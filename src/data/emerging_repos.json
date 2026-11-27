@@ -7,76 +7,76 @@
     "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
     "language": "Python",
     "tag": "Embodied AI",
-    "pushed_at": "2026-11-26"
+    "pushed_at": "2026-11-27"
   },
   {
-    "name": "Sagargupta16/awesome-mcp-servers",
-    "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
-    "stars": 195,
-    "forks": 279,
-    "description": "A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources",
-    "language": "Python",
+    "name": "Eslamasabry/opencode-mobile-next",
+    "url": "https://github.com/Eslamasabry/opencode-mobile-next",
+    "stars": 174,
+    "forks": 32,
+    "description": "Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and steer agents on your computer: live sessions, tool app...",
+    "language": "Kotlin",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-26"
+    "pushed_at": "2026-11-27"
   },
   {
-    "name": "Wendystar0628/AI-All-Round-Bench",
-    "url": "https://github.com/Wendystar0628/AI-All-Round-Bench",
-    "stars": 165,
-    "forks": 7,
-    "description": "AI全能测评 | AI All-Round Bench: timed challenge benchmarks for AI coding agents, organized into topics. Live: AI Decathlon — 13 tasks across 10...",
+    "name": "ldbumble/taskuary",
+    "url": "https://github.com/ldbumble/taskuary",
+    "stars": 155,
+    "forks": 60,
+    "description": "Your AI work partner. Mail, chats and tickets become one list in the right order; your agents do the work, and nothing goes out until you ap...",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-27"
+  },
+  {
+    "name": "omnimux-ai/omnimux-client",
+    "url": "https://github.com/omnimux-ai/omnimux-client",
+    "stars": 146,
+    "forks": 3,
+    "description": "Open-source local AI video studio & editor for e-commerce product videos, UGC ads & AI agent workflows (macOS/Windows). 开源本地 AI 电商带货与 UGC 短视...",
     "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-26"
+    "tag": "Local AI",
+    "pushed_at": "2026-11-27"
   },
   {
-    "name": "permitzip/mutinybim",
-    "url": "https://github.com/permitzip/mutinybim",
-    "stars": 129,
-    "forks": 26,
-    "description": "Open-source building model engine. One shared kernel, trade add-ons, and a script-first tool server so people and AI agents can edit the sam...",
-    "language": "TypeScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-26"
-  },
-  {
-    "name": "MikkoParkkola/trvl",
-    "url": "https://github.com/MikkoParkkola/trvl",
-    "stars": 96,
-    "forks": 10,
-    "description": "Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, price alerts. No API keys, single Go binary. 1 smart MCP...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-26"
-  },
-  {
-    "name": "hivecommons/hive",
-    "url": "https://github.com/hivecommons/hive",
-    "stars": 91,
-    "forks": 55,
-    "description": "AI agent orchestration for open and closed source — a fully customizable fleet of AI agents covering every level of project maintenance, fro...",
-    "language": "Go",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-26"
-  },
-  {
-    "name": "jiangjin1999/awesome-multimodal-agentic-coding",
-    "url": "https://github.com/jiangjin1999/awesome-multimodal-agentic-coding",
-    "stars": 65,
-    "forks": 4,
-    "description": "A curated list of 640+ papers and tools on multimodal coding agents: visual feedback → models as tools → bridging digital and physical world...",
+    "name": "lambdasec/frame",
+    "url": "https://github.com/lambdasec/frame",
+    "stars": 132,
+    "forks": 22,
+    "description": "The sound, open SAST for modern apps: code, dependencies, secrets, infrastructure and AI, in one tool",
     "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-26"
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-27"
   },
   {
-    "name": "tensorpass/aiconnect",
-    "url": "https://github.com/tensorpass/aiconnect",
-    "stars": 46,
-    "forks": 0,
-    "description": "AI Connect is the open source SDK of TensorPass for websites. Add an AI chat, a search bar that answers or an AI mode that runs on each visi...",
+    "name": "Bike4Mind/bike4mind",
+    "url": "https://github.com/Bike4Mind/bike4mind",
+    "stars": 97,
+    "forks": 16,
+    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
     "language": "TypeScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-26"
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-27"
+  },
+  {
+    "name": "mxyhi/token_proxy",
+    "url": "https://github.com/mxyhi/token_proxy",
+    "stars": 94,
+    "forks": 20,
+    "description": "Local AI API gateway for OpenAI / Gemini / Anthropic. Runs on your machine, keeps tokens counted (SQLite), offers priority-based load balanc...",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-27"
+  },
+  {
+    "name": "ScriptedAlchemy/tracedecay",
+    "url": "https://github.com/ScriptedAlchemy/tracedecay",
+    "stars": 88,
+    "forks": 7,
+    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "language": "Rust",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-27"
   }
 ]

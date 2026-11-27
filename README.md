@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-26 23:21 UTC` | **Source-linked stories:** `368`
+> **Index generated:** `2026-11-27 05:24 UTC` | **Source-linked stories:** `370`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 311.3k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 287.6k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 311.4k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 287.7k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 266.4k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.4k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 210.9k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.5k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 211.1k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,16 +32,18 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [wadeKeith/Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) | `★ 255` | `2026-11-26` | Embodied AI | `Python` | Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot... |
-| [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | `★ 195` | `2026-11-26` | Indie Tool | `Python` | A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resour... |
-| [Wendystar0628/AI-All-Round-Bench](https://github.com/Wendystar0628/AI-All-Round-Bench) | `★ 165` | `2026-11-26` | Experimental Agent | `JavaScript` | AI全能测评 | AI All-Round Bench: timed challenge benchmarks for AI coding agents, organiz... |
-| [permitzip/mutinybim](https://github.com/permitzip/mutinybim) | `★ 129` | `2026-11-26` | Experimental Agent | `TypeScript` | Open-source building model engine. One shared kernel, trade add-ons, and a script-fir... |
-| [MikkoParkkola/trvl](https://github.com/MikkoParkkola/trvl) | `★ 96` | `2026-11-26` | Indie Tool | `Go` | Travel MCP server + CLI for AI assistants — flights, hotels, trains, cars, ferries, p... |
+| [wadeKeith/Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) | `★ 255` | `2026-11-27` | Embodied AI | `Python` | Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot... |
+| [Eslamasabry/opencode-mobile-next](https://github.com/Eslamasabry/opencode-mobile-next) | `★ 174` | `2026-11-27` | Indie Tool | `Kotlin` | Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and... |
+| [ldbumble/taskuary](https://github.com/ldbumble/taskuary) | `★ 155` | `2026-11-27` | Experimental Agent | `Python` | Your AI work partner. Mail, chats and tickets become one list in the right order; you... |
+| [omnimux-ai/omnimux-client](https://github.com/omnimux-ai/omnimux-client) | `★ 146` | `2026-11-27` | Local AI | `JavaScript` | Open-source local AI video studio & editor for e-commerce product videos, UGC ads & A... |
+| [lambdasec/frame](https://github.com/lambdasec/frame) | `★ 132` | `2026-11-27` | Indie Tool | `Python` | The sound, open SAST for modern apps: code, dependencies, secrets, infrastructure and... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-27` | AI Research | [Context Scaling: A New Frontier of AI Scaling](src/content/news/2026-11-27-context-scaling-a-new-frontier-of.md) | Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-27-context-scaling-a-new-frontier-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33160) |
+| `2026-11-27` | AI Research | [Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection](src/content/news/2026-11-27-constraint-aware-test-time-scoring-for-llm-and.md) | When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-27-constraint-aware-test-time-scoring-for-llm-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33161) |
 | `2026-11-26` | AI Research | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](src/content/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for.md) | Audio-video (AV) deepfakes can fake the face, the voice, or both. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31301) |
 | `2026-11-26` | AI Research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition](src/content/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent.md) | Autonomous agent governance is commonly framed as a problem of enforcing correct execution. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31284) |
 | `2026-11-26` | AI Research | [Conservative Overlap Fuzzy Rough Sets for Incomplete Data](src/content/news/2026-11-26-conservative-overlap-fuzzy-rough-sets-for.md) | Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-cla... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-26-conservative-overlap-fuzzy-rough-sets-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31329) |
@@ -417,7 +419,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-26 23:21 UTC` | **Yayımlanan haber:** `368`
+> **Dizin oluşturma:** `2026-11-27 05:24 UTC` | **Yayımlanan haber:** `370`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -427,6 +429,8 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-27` | AI Research | [Context Scaling: A New Frontier of AI Scaling](src/content/news/2026-11-27-context-scaling-a-new-frontier-of.md) | Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-27-context-scaling-a-new-frontier-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33160) |
+| `2026-11-27` | AI Research | [Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection](src/content/news/2026-11-27-constraint-aware-test-time-scoring-for-llm-and.md) | When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-27-constraint-aware-test-time-scoring-for-llm-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33161) |
 | `2026-11-26` | AI Research | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](src/content/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for.md) | Audio-video (AV) deepfakes can fake the face, the voice, or both. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31301) |
 | `2026-11-26` | AI Research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition](src/content/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent.md) | Autonomous agent governance is commonly framed as a problem of enforcing correct execution. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31284) |
 | `2026-11-26` | AI Research | [Conservative Overlap Fuzzy Rough Sets for Incomplete Data](src/content/news/2026-11-26-conservative-overlap-fuzzy-rough-sets-for.md) | Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-cla... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-26-conservative-overlap-fuzzy-rough-sets-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31329) |
