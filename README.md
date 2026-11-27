@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-27 15:38 UTC` | **Source-linked stories:** `372`
+> **Index generated:** `2026-11-27 23:45 UTC` | **Source-linked stories:** `374`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 311.6k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 311.8k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 288.0k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 266.6k` | Autonomous Agents | `Python` | The agent that grows with you |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 211.4k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 211.7k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,19 +32,21 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [PapilotAI/papilot](https://github.com/PapilotAI/papilot) | `★ 448` | `2026-11-27` | Experimental Agent | `TypeScript` | Next-Generation AI LaTeX Editor: annotate the PDF, review typeset diffs, and live-syn... |
-| [debpalash/Opal](https://github.com/debpalash/Opal) | `★ 182` | `2026-11-27` | Local AI | `Zig` | The Open-source Netflix, Spotify, Crunchyroll, Plex/Jellyfin alternative. Movies, sho... |
-| [jiangjin1999/awesome-multimodal-agentic-coding](https://github.com/jiangjin1999/awesome-multimodal-agentic-coding) | `★ 69` | `2026-11-27` | Embodied AI | `Python` | A curated list of 640+ papers and tools on multimodal coding agents: visual feedback ... |
-| [earthai-tech/pycsamt](https://github.com/earthai-tech/pycsamt) | `★ 47` | `2026-11-27` | Experimental Agent | `Python` | Scientific Python for electromagnetic geophysics |
-| [GuqierMcl/MailX](https://github.com/GuqierMcl/MailX) | `★ 43` | `2026-11-27` | Local AI | `Rust` | The local-first, AI-native email client—lightweight, fast, and built to unite all you... |
+| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 308` | `2026-11-27` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
+| [ANDRETRIPOL/OpenGhost](https://github.com/ANDRETRIPOL/OpenGhost) | `★ 306` | `2026-11-27` | Indie Tool | `JavaScript` | Open desktop AI agent for Windows, macOS and Linux, written from scratch: its own age... |
+| [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) | `★ 211` | `2026-11-27` | Indie Tool | `Go` | A coding agent: give it a prompt and it reads, writes, runs commands, and searches co... |
+| [jessepinkman9900/claude-second-brain](https://github.com/jessepinkman9900/claude-second-brain) | `★ 185` | `2026-11-27` | Experimental Agent | `JavaScript` | Fastest way to scaffold your LLM-powered personal knowledge base: Obsidian, any AI co... |
+| [ThreeMoonsLab/agents-shipgate](https://github.com/ThreeMoonsLab/agents-shipgate) | `★ 87` | `2026-11-27` | Local AI | `Python` | The deterministic merge gate for AI-generated agent capability changes — a local-firs... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
 | Date | Category | Headline (.md Source) | Source excerpt | Live Web View | Original source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-27` | AI Research | [What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning](src/content/news/2026-11-27-what-who-and-when-structured-harm.md) | The growing use of large language models (LLMs) for mental health support raises important safety concerns. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-27-what-who-and-when-structured-harm/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33263) |
 | `2026-11-27` | AI Research | [General-Purpose Decision Models for AI Configuration Tuning](src/content/news/2026-11-27-general-purpose-decision-models-for-ai-configuration.md) | AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-27-general-purpose-decision-models-for-ai-configuration/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33190) |
 | `2026-11-27` | AI Research | [Context Scaling: A New Frontier of AI Scaling](src/content/news/2026-11-27-context-scaling-a-new-frontier-of.md) | Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on ... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-27-context-scaling-a-new-frontier-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33160) |
 | `2026-11-27` | AI Research | [Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection](src/content/news/2026-11-27-constraint-aware-test-time-scoring-for-llm-and.md) | When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confi... | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-27-constraint-aware-test-time-scoring-for-llm-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33161) |
+| `2026-11-27` | AI Research | [Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data](src/content/news/2026-11-27-certify-what-you-plant-shortcut-free-proof.md) | Procedurally generated logic problems | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-27-certify-what-you-plant-shortcut-free-proof/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33303) |
 | `2026-11-27` | AI Research | [AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics](src/content/news/2026-11-27-autoformbench-a-lean-formalization-benchmark-for.md) | AutoformBench | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-27-autoformbench-a-lean-formalization-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33165) |
 | `2026-11-26` | AI Research | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](src/content/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for.md) | Audio-video (AV) deepfakes can fake the face, the voice, or both. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31301) |
 | `2026-11-26` | AI Research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition](src/content/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent.md) | Autonomous agent governance is commonly framed as a problem of enforcing correct execution. | [Read Online](https://emirfs.github.io/ai-news-hub/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31284) |
@@ -421,7 +423,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-27 15:38 UTC` | **Yayımlanan haber:** `372`
+> **Dizin oluşturma:** `2026-11-27 23:45 UTC` | **Yayımlanan haber:** `374`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
@@ -431,9 +433,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Tarih | Kategori | Haber Başlığı (.md Dosyası) | Özet | Canlı Okuma | Orijinal Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-11-27` | AI Research | [What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning](src/content/news/2026-11-27-what-who-and-when-structured-harm.md) | The growing use of large language models (LLMs) for mental health support raises important safety concerns. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-27-what-who-and-when-structured-harm/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33263) |
 | `2026-11-27` | AI Research | [General-Purpose Decision Models for AI Configuration Tuning](src/content/news/2026-11-27-general-purpose-decision-models-for-ai-configuration.md) | AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-27-general-purpose-decision-models-for-ai-configuration/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33190) |
 | `2026-11-27` | AI Research | [Context Scaling: A New Frontier of AI Scaling](src/content/news/2026-11-27-context-scaling-a-new-frontier-of.md) | Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on ... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-27-context-scaling-a-new-frontier-of/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33160) |
 | `2026-11-27` | AI Research | [Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection](src/content/news/2026-11-27-constraint-aware-test-time-scoring-for-llm-and.md) | When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confi... | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-27-constraint-aware-test-time-scoring-for-llm-and/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33161) |
+| `2026-11-27` | AI Research | [Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data](src/content/news/2026-11-27-certify-what-you-plant-shortcut-free-proof.md) | Procedurally generated logic problems | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-27-certify-what-you-plant-shortcut-free-proof/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33303) |
 | `2026-11-27` | AI Research | [AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics](src/content/news/2026-11-27-autoformbench-a-lean-formalization-benchmark-for.md) | AutoformBench | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-27-autoformbench-a-lean-formalization-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.33165) |
 | `2026-11-26` | AI Research | [MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake](src/content/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for.md) | Audio-video (AV) deepfakes can fake the face, the voice, or both. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-26-mozaic-an-audio-video-deepfake-benchmark-for/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31301) |
 | `2026-11-26` | AI Research | [Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition](src/content/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent.md) | Autonomous agent governance is commonly framed as a problem of enforcing correct execution. | [Web'de Oku](https://emirfs.github.io/ai-news-hub/news/2026-11-26-irreducible-governance-structure-for-autonomous-agent/) | [arXiv (cs.AI)](https://arxiv.org/abs/2611.31284) |
