@@ -1,82 +1,82 @@
 [
   {
-    "name": "wadeKeith/Awesome-Embodied-AI",
-    "url": "https://github.com/wadeKeith/Awesome-Embodied-AI",
-    "stars": 255,
-    "forks": 31,
-    "description": "Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.",
-    "language": "Python",
-    "tag": "Embodied AI",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "Eslamasabry/opencode-mobile-next",
-    "url": "https://github.com/Eslamasabry/opencode-mobile-next",
-    "stars": 174,
-    "forks": 32,
-    "description": "Run Claude Code and OpenCode on your Android phone, no computer needed. Or follow and steer agents on your computer: live sessions, tool app...",
-    "language": "Kotlin",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "ldbumble/taskuary",
-    "url": "https://github.com/ldbumble/taskuary",
-    "stars": 155,
-    "forks": 60,
-    "description": "Your AI work partner. Mail, chats and tickets become one list in the right order; your agents do the work, and nothing goes out until you ap...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "omnimux-ai/omnimux-client",
-    "url": "https://github.com/omnimux-ai/omnimux-client",
-    "stars": 146,
-    "forks": 3,
-    "description": "Open-source local AI video studio & editor for e-commerce product videos, UGC ads & AI agent workflows (macOS/Windows). 开源本地 AI 电商带货与 UGC 短视...",
-    "language": "JavaScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "lambdasec/frame",
-    "url": "https://github.com/lambdasec/frame",
-    "stars": 132,
-    "forks": 22,
-    "description": "The sound, open SAST for modern apps: code, dependencies, secrets, infrastructure and AI, in one tool",
-    "language": "Python",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "Bike4Mind/bike4mind",
-    "url": "https://github.com/Bike4Mind/bike4mind",
-    "stars": 97,
-    "forks": 16,
-    "description": "The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama...",
+    "name": "PapilotAI/papilot",
+    "url": "https://github.com/PapilotAI/papilot",
+    "stars": 448,
+    "forks": 27,
+    "description": "Next-Generation AI LaTeX Editor: annotate the PDF, review typeset diffs, and live-sync with Overleaf. Works with Claude Code, Codex, Cursor,...",
     "language": "TypeScript",
     "tag": "Experimental Agent",
     "pushed_at": "2026-11-27"
   },
   {
-    "name": "mxyhi/token_proxy",
-    "url": "https://github.com/mxyhi/token_proxy",
-    "stars": 94,
-    "forks": 20,
-    "description": "Local AI API gateway for OpenAI / Gemini / Anthropic. Runs on your machine, keeps tokens counted (SQLite), offers priority-based load balanc...",
-    "language": "Go",
+    "name": "debpalash/Opal",
+    "url": "https://github.com/debpalash/Opal",
+    "stars": 182,
+    "forks": 26,
+    "description": "The Open-source Netflix, Spotify, Crunchyroll, Plex/Jellyfin alternative. Movies, shows, comics, manga, TV, torrents, streaming, music, podc...",
+    "language": "Zig",
     "tag": "Local AI",
     "pushed_at": "2026-11-27"
   },
   {
-    "name": "ScriptedAlchemy/tracedecay",
-    "url": "https://github.com/ScriptedAlchemy/tracedecay",
-    "stars": 88,
-    "forks": 7,
-    "description": "Local semantic code intelligence, project memory, and workflow context for AI coding agents.",
+    "name": "jiangjin1999/awesome-multimodal-agentic-coding",
+    "url": "https://github.com/jiangjin1999/awesome-multimodal-agentic-coding",
+    "stars": 69,
+    "forks": 4,
+    "description": "A curated list of 640+ papers and tools on multimodal coding agents: visual feedback → models as tools → bridging digital and physical world...",
+    "language": "Python",
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-27"
+  },
+  {
+    "name": "earthai-tech/pycsamt",
+    "url": "https://github.com/earthai-tech/pycsamt",
+    "stars": 47,
+    "forks": 12,
+    "description": "Scientific Python for electromagnetic geophysics",
+    "language": "Python",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-27"
+  },
+  {
+    "name": "GuqierMcl/MailX",
+    "url": "https://github.com/GuqierMcl/MailX",
+    "stars": 43,
+    "forks": 6,
+    "description": "The local-first, AI-native email client—lightweight, fast, and built to unite all your inboxes effortlessly.",
     "language": "Rust",
     "tag": "Local AI",
+    "pushed_at": "2026-11-27"
+  },
+  {
+    "name": "CallSohail/openwebu-work",
+    "url": "https://github.com/CallSohail/openwebu-work",
+    "stars": 37,
+    "forks": 3,
+    "description": "Production-ready Open WebUI extensions, including Tools, Filters, Pipes, Actions, and Events for agent workflows, RAG, learning, automation,...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-27"
+  },
+  {
+    "name": "KrisTHL181/zhihu-toolkit",
+    "url": "https://github.com/KrisTHL181/zhihu-toolkit",
+    "stars": 32,
+    "forks": 2,
+    "description": "Zhihu scraper and Markdown conversion utilities.",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-27"
+  },
+  {
+    "name": "KCNyu/clawock",
+    "url": "https://github.com/KCNyu/clawock",
+    "stars": 26,
+    "forks": 0,
+    "description": "Stock investment and portfolio decision workflows for AI agents: Claude Code, Codex, OpenClaw, DeepSeek Harness (dsh plugin) or your own scr...",
+    "language": "Python",
+    "tag": "Experimental Agent",
     "pushed_at": "2026-11-27"
   }
 ]
