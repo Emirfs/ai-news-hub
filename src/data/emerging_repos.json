@@ -1,82 +1,82 @@
 [
   {
-    "name": "bigfish1913/pi-rust",
-    "url": "https://github.com/bigfish1913/pi-rust",
-    "stars": 308,
-    "forks": 58,
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ...",
+    "name": "skyelan1999/aide",
+    "url": "https://github.com/skyelan1999/aide",
+    "stars": 339,
+    "forks": 3,
+    "description": "Self-hosted AI workspace for developers and engineers. Bring your own models, work with local or SSH projects, and automate coding and proje...",
+    "language": "Go",
+    "tag": "Experimental Agent",
+    "pushed_at": "2026-11-28"
+  },
+  {
+    "name": "andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite",
+    "url": "https://github.com/andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite",
+    "stars": 252,
+    "forks": 16,
+    "description": "Wan 2.1 Video AI Local ComfyUI Installer — Wan 2.1 Video AI Local ComfyUI Portable & Windows Setup",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-28"
+  },
+  {
+    "name": "Tolga6946/devin-ai-local-pro-patcher-installer",
+    "url": "https://github.com/Tolga6946/devin-ai-local-pro-patcher-installer",
+    "stars": 226,
+    "forks": 0,
+    "description": "Devin AI Local — Devin  Local Pro Trial Reset & Machine ID",
+    "language": "Go",
+    "tag": "Local AI",
+    "pushed_at": "2026-11-28"
+  },
+  {
+    "name": "cramt/m365-copilot-proxy",
+    "url": "https://github.com/cramt/m365-copilot-proxy",
+    "stars": 200,
+    "forks": 50,
+    "description": "OpenAI-compatible proxy for Microsoft 365 Copilot — use the Copilot licence you already have as a backend for pi, openclaw and other coding ...",
+    "language": "TypeScript",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-28"
+  },
+  {
+    "name": "tenuo-ai/tenuo",
+    "url": "https://github.com/tenuo-ai/tenuo",
+    "stars": 110,
+    "forks": 29,
+    "description": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegat...",
     "language": "Rust",
     "tag": "Indie Tool",
-    "pushed_at": "2026-11-27"
+    "pushed_at": "2026-11-28"
   },
   {
-    "name": "ANDRETRIPOL/OpenGhost",
-    "url": "https://github.com/ANDRETRIPOL/OpenGhost",
-    "stars": 306,
-    "forks": 23,
-    "description": "Open desktop AI agent for Windows, macOS and Linux, written from scratch: its own agent engine, its own browser tooling and its own drawing ...",
-    "language": "JavaScript",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "prime-radiant-inc/evener",
-    "url": "https://github.com/prime-radiant-inc/evener",
-    "stars": 211,
-    "forks": 25,
-    "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-...",
-    "language": "Go",
-    "tag": "Indie Tool",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "jessepinkman9900/claude-second-brain",
-    "url": "https://github.com/jessepinkman9900/claude-second-brain",
-    "stars": 185,
-    "forks": 27,
-    "description": "Fastest way to scaffold your LLM-powered personal knowledge base: Obsidian, any AI coding agent (Claude Code, Codex, Cursor, …), qmd, and gi...",
-    "language": "JavaScript",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "ThreeMoonsLab/agents-shipgate",
-    "url": "https://github.com/ThreeMoonsLab/agents-shipgate",
-    "stars": 87,
-    "forks": 8,
-    "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, a...",
+    "name": "jiangjin1999/awesome-multimodal-agentic-coding",
+    "url": "https://github.com/jiangjin1999/awesome-multimodal-agentic-coding",
+    "stars": 69,
+    "forks": 4,
+    "description": "A curated list of 640+ papers and tools on multimodal coding agents: visual feedback → models as tools → bridging digital and physical world...",
     "language": "Python",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-27"
+    "tag": "Embodied AI",
+    "pushed_at": "2026-11-28"
   },
   {
-    "name": "andrewngcanton-gif/MCP-SuperAssistant-G",
-    "url": "https://github.com/andrewngcanton-gif/MCP-SuperAssistant-G",
-    "stars": 67,
-    "forks": 3,
-    "description": "Use local MCP tools in Gemini Web & Google AI Studio. Community fork of MCP SuperAssistant with auto-submit fixes, compact prompts, and WebC...",
+    "name": "bjcoombs/ai-native-toolkit",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit",
+    "stars": 36,
+    "forks": 5,
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats deliberation (/huddle),...",
+    "language": "Python",
+    "tag": "Indie Tool",
+    "pushed_at": "2026-11-28"
+  },
+  {
+    "name": "woojubb/robota",
+    "url": "https://github.com/woojubb/robota",
+    "stars": 21,
+    "forks": 2,
+    "description": "TypeScript framework for building AI agents — multi-provider (Anthropic, OpenAI, Google), tool calling, permissions, hooks, streaming, and C...",
     "language": "TypeScript",
-    "tag": "Local AI",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "cofy-x/axern",
-    "url": "https://github.com/cofy-x/axern",
-    "stars": 65,
-    "forks": 8,
-    "description": "Self-hosted execution platform for AI agents, powered by gVisor.",
-    "language": "Go",
     "tag": "Experimental Agent",
-    "pushed_at": "2026-11-27"
-  },
-  {
-    "name": "shrek-abaper/sap-engineering-skill",
-    "url": "https://github.com/shrek-abaper/sap-engineering-skill",
-    "stars": 51,
-    "forks": 19,
-    "description": "Atomic SAP ADT CLI and scenario-driven AI skills for ABAP code and business logic analysis, source read/write, Unit/Dump diagnostics, experi...",
-    "language": "Python",
-    "tag": "Experimental Agent",
-    "pushed_at": "2026-11-27"
+    "pushed_at": "2026-11-28"
   }
 ]
