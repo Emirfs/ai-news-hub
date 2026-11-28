@@ -8,7 +8,7 @@
 
 > **What Neural Pulse Does:** Scheduled automation discovers AI news from official sources and publishes source-attributed excerpts.
 > Publication dates appear on each story. Source availability is not independent fact-checking.
-> **Index generated:** `2026-11-28 05:01 UTC` | **Source-linked stories:** `374`
+> **Index generated:** `2026-11-28 14:17 UTC` | **Source-linked stories:** `374`
 
 **Publication Outlets:**
 - 🌐 [Live Web Publication (White Mode & Dark Mode)](https://emirfs.github.io/ai-news-hub/)
@@ -20,11 +20,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 312.0k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 288.1k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 266.6k` | Autonomous Agents | `Python` | The agent that grows with you |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.6k` | Developer Tools | `TypeScript` | The open source coding agent. |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 211.8k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | `★ 312.2k` | Autonomous Agents | `JavaScript` | The agent harness performance optimization system. Skills, instincts, memory, security, an... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | `★ 288.3k` | Autonomous Agents | `TypeScript` | DeepSeek Harness: Everything is a Plugin. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `★ 266.7k` | Autonomous Agents | `Python` | The agent that grows with you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | `★ 229.7k` | Developer Tools | `TypeScript` | The open source coding agent. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | `★ 212.0k` | Autonomous Agents | `TypeScript` | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data ... |
 
 ### 🚀 Emerging AI & Community Launchpad (<500 Stars)
 
@@ -32,11 +32,11 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 | Repository | Stars | Last Commit | Category | Language | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [skyelan1999/aide](https://github.com/skyelan1999/aide) | `★ 339` | `2026-11-28` | Experimental Agent | `Go` | Self-hosted AI workspace for developers and engineers. Bring your own models, work wi... |
-| [andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite](https://github.com/andrea57211/wan-2-1-video-ai-local-comfyui-i-desktop-suite) | `★ 252` | `2026-11-28` | Local AI | `Go` | Wan 2.1 Video AI Local ComfyUI Installer — Wan 2.1 Video AI Local ComfyUI Portable & ... |
-| [Tolga6946/devin-ai-local-pro-patcher-installer](https://github.com/Tolga6946/devin-ai-local-pro-patcher-installer) | `★ 226` | `2026-11-28` | Local AI | `Go` | Devin AI Local — Devin  Local Pro Trial Reset & Machine ID |
-| [cramt/m365-copilot-proxy](https://github.com/cramt/m365-copilot-proxy) | `★ 200` | `2026-11-28` | Indie Tool | `TypeScript` | OpenAI-compatible proxy for Microsoft 365 Copilot — use the Copilot licence you alrea... |
-| [tenuo-ai/tenuo](https://github.com/tenuo-ai/tenuo) | `★ 110` | `2026-11-28` | Indie Tool | `Rust` | Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and a... |
+| [sol1560/Captae](https://github.com/sol1560/Captae) | `★ 331` | `2026-11-28` | Local AI | `Rust` | Local media downloader and library for macOS, Windows and Linux, with a browser exten... |
+| [Hebbian-Robotics/hflow](https://github.com/Hebbian-Robotics/hflow) | `★ 313` | `2026-11-28` | Embodied AI | `Python` | SDK for robotics teams to verify the quality of their data used for AI model training... |
+| [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | `★ 312` | `2026-11-28` | Indie Tool | `Rust` | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with... |
+| [LofiSu/LofiBot](https://github.com/LofiSu/LofiBot) | `★ 158` | `2026-11-28` | Local AI | `TypeScript` | A local-first TypeScript AI agent that turns messages and scheduled events into tasks... |
+| [RZfive/WorldBase](https://github.com/RZfive/WorldBase) | `★ 143` | `2026-11-28` | Local AI | `Rust` | Local-first AI agent platform: generate, run & manage full web apps from natural lang... |
 
 ### 📰 Source-linked AI stories (direct Markdown)
 
@@ -423,7 +423,7 @@ Curated hourly from GitHub telemetry across agents, foundation models, and devel
 
 > **Ne İşe Yarar:** Neural Pulse resmî kaynaklardan yapay zekâ haberlerini düzenli tarar ve kaynak bağlantısıyla yayımlar.
 > Kaynağa ulaşılması, iddiaların bağımsız doğrulandığı anlamına gelmez.
-> **Dizin oluşturma:** `2026-11-28 05:01 UTC` | **Yayımlanan haber:** `374`
+> **Dizin oluşturma:** `2026-11-28 14:17 UTC` | **Yayımlanan haber:** `374`
 
 **Yayın Kanalları:**
 - 🌐 [Canlı Web Sitesi (Beyaz Mod & Gece Modu)](https://emirfs.github.io/ai-news-hub/)
